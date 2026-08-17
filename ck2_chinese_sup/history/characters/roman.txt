@@ -1,5 +1,5 @@
 70518 = {
-  name = "¬™S‰‰R"  # Marcian
+  name = "¬™>i‰‰R"  # Marcian
   dynasty = 1022190
   martial = 6
   diplomacy = 6
@@ -172,7 +172,7 @@
   }
 }
 70531 = {
-  name = "nfSUÏpN"  # Pulcheria
+  name = "nf>iULNN"  # Pulcheria
   dynasty = 1022191
   female = yes
   martial = 4
@@ -372,7 +372,7 @@
   }
 }
 145235 = {
-  name = "¦uôu‰R"  # Jovian
+  name = "t­t‰R"  # Jovian
   dynasty = 1022194
   religion = "catholic"
   culture = "roman"
@@ -582,7 +582,7 @@
   }
 }
 145249 = {
-  name = "^XË—ÏpZ"  # Severina
+  name = "^XË—LNZ"  # Severina
   dynasty = 1022203
   female = yes
   religion = "hellenic_pagan"
@@ -723,7 +723,7 @@
   }
 }
 145259 = {
-  name = "bSê‰R"  # Gordian
+  name = "b>iê‰R"  # Gordian
   dynasty = 1022211
   religion = "hellenic_pagan"
   culture = "roman"
@@ -736,7 +736,7 @@
   }
 }
 145260 = {
-  name = "bSê‰R"  # Gordian
+  name = "b>iê‰R"  # Gordian
   dynasty = 1022211
   religion = "hellenic_pagan"
   culture = "roman"
@@ -750,7 +750,7 @@
   }
 }
 145261 = {
-  name = "bSê‰RZ"  # Gordiana
+  name = "b>iê‰RZ"  # Gordiana
   dynasty = 1022211
   female = yes
   religion = "hellenic_pagan"
@@ -765,7 +765,7 @@
   }
 }
 145262 = {
-  name = "bSê‰R"  # Gordian
+  name = "b>iê‰R"  # Gordian
   dynasty = 1022211
   religion = "hellenic_pagan"
   culture = "roman"
@@ -780,7 +780,7 @@
   }
 }
 145263 = {
-  name = "ôTSÔkªR¯e"  # Balbinus
+  name = "ôT>iÔkªR¯e"  # Balbinus
   dynasty = 1022212
   religion = "hellenic_pagan"
   culture = "roman"
@@ -871,7 +871,7 @@
   }
 }
 145269 = {
-  name = "^XnfĞc%VÏp¯e"  # Septimius
+  name = "^XnfĞcLVÏp¯e"  # Septimius
   dynasty = 1022218
   religion = "hellenic_pagan"
   culture = "roman"
@@ -939,7 +939,7 @@
   }
 }
 145273 = {
-  name = "iO‚„³uKQ¯e"  # Pertinax
+  name = "iO‚„tKQ¯e"  # Pertinax
   dynasty = 1022220
   religion = "hellenic_pagan"
   culture = "roman"
@@ -954,7 +954,7 @@
   }
 }
 145274 = {
-  name = "¬™SKQ"  # Marcus
+  name = "¬™>iKQ"  # Marcus
   dynasty = 1022221
   religion = "hellenic_pagan"
   culture = "roman"
@@ -1072,7 +1072,7 @@
   }
 }
 145280 = {
-  name = "…mSæt"  # Nerva
+  name = "…m>iæt"  # Nerva
   dynasty = 1022226
   religion = "hellenic_pagan"
   culture = "roman"
@@ -1143,7 +1143,7 @@
   }
 }
 145284 = {
-  name = "ôuyráˆÏp¯e"  # Vitellius
+  name = "­tyráˆÏp¯e"  # Vitellius
   dynasty = 1022228
   religion = "hellenic_pagan"
   culture = "roman"
@@ -1179,7 +1179,7 @@
   }
 }
 145286 = {
-  name = " RSôT"  # Galba
+  name = " R>iôT"  # Galba
   dynasty = 1022230
   religion = "hellenic_pagan"
   culture = "roman"
@@ -1297,7 +1297,7 @@
   }
 }
 7601 = {
-  name = "^Xôuo›"  # Severus
+  name = "^X­to›"  # Severus
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -1308,7 +1308,7 @@
     birth = "170.1.1"
   }
   222.10.14 = {
-    name = "ÏpSôTşŠ"  # Urbanus
+    name = "Ïp>iôTşŠ"  # Urbanus
   }
   230.1.1 = {
     death = "230.1.1"
@@ -1351,7 +1351,7 @@
   }
 }
 7604 = {
-  name = "ôur"  # Victor
+  name = "­tär"  # Victor
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -1362,14 +1362,14 @@
     birth = "140.1.1"
   }
   189.1.1 = {
-    name = "ôur"  # Victor
+    name = "­tär"  # Victor
   }
   199.1.1 = {
     death = "199.1.1"
   }
 }
 7759 = {
-  name = "bSê‰RÏp¯e"  # Gordianus
+  name = "b>iê‰RÏp¯e"  # Gordianus
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -1441,7 +1441,7 @@
   }
 }
 7764 = {
-  name = "bSê‰RÏp¯e"  # Gordanius
+  name = "b>iê‰RÏp¯e"  # Gordanius
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -1453,7 +1453,7 @@
     birth = "500.1.1"
   }
   536.4.22 = {
-    name = "‰SÿReu"  # Silverius
+    name = "‰>iÿReu"  # Silverius
   }
   536.6.8 = {
     death = "536.6.8"
@@ -1471,14 +1471,14 @@
     birth = "450.1.1"
   }
   514.7.19 = {
-    name = "ÚŒÆR¯eT"  # Hormisdas
+    name = "öŒÆR¯eT"  # Hormisdas
   }
   523.8.6 = {
     death = "523.8.6"
   }
 }
 7766 = {
-  name = "yW³uW¯e"  # Fortunatus
+  name = "yWtW¯e"  # Fortunatus
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -1507,7 +1507,7 @@
     birth = "450.1.1"
   }
   496.11.21 = {
-    name = "N³u'YJR"  # Anastasius
+    name = "Nt'YJR"  # Anastasius
   }
   498.11.19 = {
     death = "498.11.19"
@@ -1615,7 +1615,7 @@
     birth = "380.1.1"
   }
   432.4.6 = {
-    name = "‰¯er"  # Sixtus
+    name = "‰¯eär"  # Sixtus
   }
   440.8.18 = {
     death = "440.8.18"
@@ -1706,7 +1706,7 @@
     birth = "330.1.1"
   }
   399.11.26 = {
-    name = "N³u'YJR"  # Anastasius
+    name = "Nt'YJR"  # Anastasius
   }
   401.11.27 = {
     death = "401.11.27"
@@ -1785,7 +1785,7 @@
   }
 }
 7783 = {
-  name = "¬™S7Œ"  # Marcus
+  name = "¬™>i7Œ"  # Marcus
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -1800,7 +1800,7 @@
   }
 }
 7784 = {
-  name = "¬™S7Œ"  # Marcus
+  name = "¬™>i7Œ"  # Marcus
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -1811,14 +1811,14 @@
     birth = "270.1.1"
   }
   314.1.10 = {
-    name = "‰Sôu¯eyr"  # Silvester
+    name = "‰>i­t¯eyr"  # Silvester
   }
   335.12.31 = {
     death = "335.12.31"
   }
 }
 7785 = {
-  name = "¬™S7Œ"  # Marcus
+  name = "¬™>i7Œ"  # Marcus
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -1836,7 +1836,7 @@
   }
 }
 7787 = {
-  name = "¬™S7Œ"  # Marcus
+  name = "¬™>i7Œ"  # Marcus
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -1854,7 +1854,7 @@
   }
 }
 7789 = {
-  name = "¬™S7Œ"  # Marcus
+  name = "¬™>i7Œ"  # Marcus
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -1952,7 +1952,7 @@
     birth = "210.1.1"
   }
   253.6.1 = {
-    name = "ïúW¦u"  # Lucius
+    name = "ïúWt"  # Lucius
   }
   254.3.5 = {
     death = "254.3.5"
@@ -1970,7 +1970,7 @@
     birth = "210.1.1"
   }
   250.1.20 = {
-    name = "ÑySCNeu"  # Cornelius
+    name = "Ñy>iCNeu"  # Cornelius
   }
   253.6.1 = {
     death = "253.6.1"
@@ -2021,7 +2021,7 @@
     birth = "635.1.1"
   }
   683.6.28 = {
-    name = ",gr"  # Benedictus
+    name = ",gär"  # Benedictus
   }
   685.5.8 = {
     death = "685.5.8"
@@ -2057,14 +2057,14 @@
     birth = "577.1.1"
   }
   672.1.27 = {
-    name = "ÄrTr"  # Adeodatus
+    name = "ÄrTär"  # Adeodatus
   }
   676.6.17 = {
     death = "676.6.17"
   }
 }
 7881 = {
-  name = "N³u'YJR"  # Anastasius
+  name = "Nt'YJR"  # Anastasius
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -2075,7 +2075,7 @@
     birth = "577.1.1"
   }
   657.6.1 = {
-    name = "O›·V#"  # Vitalianus
+    name = "O›·V2‡"  # Vitalianus
   }
   672.1.27 = {
     death = "672.1.27"
@@ -2093,7 +2093,7 @@
     birth = "577.1.1"
   }
   653.7.17 = {
-    name = "Pkåe³u"  # Eugenius
+    name = "Pkået"  # Eugenius
   }
   657.6.1 = {
     death = "657.6.1"
@@ -2111,7 +2111,7 @@
     birth = "577.1.1"
   }
   649.5.14 = {
-    name = "jtSšR"  # Martinus
+    name = "jt>išR"  # Martinus
   }
   653.7.17 = {
     death = "653.7.17"
@@ -2136,7 +2136,7 @@
   }
 }
 7886 = {
-  name = "?–ôu?–ªR¯e"  # Avienus
+  name = "?–­t?–ªR¯e"  # Avienus
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -2190,7 +2190,7 @@
   }
 }
 7889 = {
-  name = "ÄrTr"  # Deodatus
+  name = "ÄrTär"  # Deodatus
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -2201,7 +2201,7 @@
     birth = "550.1.1"
   }
   615.5.25 = {
-    name = "ÄrTr"  # Adeodatus
+    name = "ÄrTär"  # Adeodatus
   }
   618.11.8 = {
     death = "618.11.8"
@@ -2244,7 +2244,7 @@
   }
 }
 7893 = {
-  name = "bSê‰RÏp¯e"  # Gordanius
+  name = "b>iê‰RÏp¯e"  # Gordanius
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -2263,7 +2263,7 @@
   }
 }
 7896 = {
-  name = "bSê‰RÏp¯e"  # Gordanius
+  name = "b>iê‰RÏp¯e"  # Gordanius
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -2292,7 +2292,7 @@
     birth = "520.1.1"
   }
   574.7.13 = {
-    name = ",gr"  # Benedictus
+    name = ",gär"  # Benedictus
   }
   579.7.20 = {
     death = "579.7.20"
@@ -2317,7 +2317,7 @@
   }
 }
 7899 = {
-  name = ",gr"  # Benedictus
+  name = ",gär"  # Benedictus
   religion = "catholic"
   culture = "roman"
   trait = "diligent"
@@ -2346,7 +2346,7 @@
     birth = "500.1.1"
   }
   536.6.8 = {
-    name = "ôu	TBT"  # Vigilius
+    name = "­t	TBT"  # Vigilius
   }
   555.6.7 = {
     death = "555.6.7"
@@ -2422,7 +2422,7 @@
   }
 }
 70527 = {
-  name = "ôu	T-†êN"  # Vigilantia
+  name = "­t	T-†êN"  # Vigilantia
   dynasty = 1022186
   female = yes
   martial = 3
@@ -2443,7 +2443,7 @@
   }
 }
 70528 = {
-  name = "ôu	T-†êN"  # Vigilantia
+  name = "­t	T-†êN"  # Vigilantia
   dynasty = 1022186
   female = yes
   martial = 4

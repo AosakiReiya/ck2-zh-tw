@@ -1063,7 +1063,7 @@ narrative_event = {
       }
     }
     new_character = {
-      set_name = "gY	TS"  # Ogier
+      set_name = "gY	T>i"  # Ogier
       set_character_flag = is_ogier
       set_character_flag = hero_knight
       opinion = {
@@ -1864,7 +1864,7 @@ province_event = {
       }
     }
     new_character = {
-      set_name = "ôukgÑ‘·V"  # Widukind
+      set_name = "­tkgÑ‘·V"  # Widukind
       set_character_flag = is_widukind
       set_defacto_liege = THIS
       prestige = 100

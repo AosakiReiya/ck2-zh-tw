@@ -1,5 +1,5 @@
 10030 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 100219
   religion = "catholic"
   culture = "occitan"
@@ -29,7 +29,7 @@
   }
 }
 10033 = {
-  name = "œp4tTê"  # RichËnda
+  name = "LN4tTê"  # RichËnda
   female = yes
   dynasty = 280
   religion = "catholic"
@@ -60,7 +60,7 @@
   }
 }
 10036 = {
-  name = "%Y≤Y-˜ñôÑ≤Y"  # Ida-Raimonda
+  name = "O≤Y-˜ñôÑ≤Y"  # Ida-Raimonda
   female = yes
   dynasty = 100227
   religion = "catholic"
@@ -89,7 +89,7 @@
   }
 }
 10040 = {
-  name = "	TS>Oyr"  # GilbËrt
+  name = "	T>i>Oyr"  # GilbËrt
   dynasty = 22005
   religion = "catholic"
   culture = "occitan"
@@ -106,7 +106,7 @@
   }
 }
 110537 = {
-  name = "œp4tTê"  # RichËnda
+  name = "LN4tTê"  # RichËnda
   female = yes
   dynasty = 727
   martial = 5
@@ -124,8 +124,7 @@
   }
 }
 110539 = {
-  name = "
-Ñ∑V	V∑V"  # Ledgarde
+  name = "˚É∑V	V∑V"  # Ledgarde
   female = yes
   dynasty = 727
   martial = 5
@@ -164,7 +163,7 @@
   }
 }
 110591 = {
-  name = "	Tr}…b"  # Guisla
+  name = "	TÅt…b"  # Guisla
   female = yes
   religion = catholic
   culture = occitan
@@ -176,7 +175,7 @@
   }
 }
 110631 = {
-  name = "%YéÉùå…b"  # IsabËla
+  name = "OéÉùå…b"  # IsabËla
   female = yes
   dynasty = 40021
   martial = 6
@@ -197,7 +196,7 @@
   }
 }
 110634 = {
-  name = "√WSÖhÓh(É"  # Ermessentz
+  name = "√W>iÖhÓh(É"  # Ermessentz
   female = yes
   dynasty = 100213
   religion = "catholic"
@@ -211,7 +210,7 @@
   }
 }
 110641 = {
-  name = "√Wr}yr·QÆYmZ"  # Estefania
+  name = "√WÅtyr·QÆYmZ"  # Estefania
   female = yes
   dynasty = 7052
   religion = "catholic"
@@ -308,7 +307,7 @@
   }
 }
 127005 = {
-  name = "èyKQS∑V"  # Fulcoald
+  name = "èyKQ>i∑V"  # Fulcoald
   dynasty = 727
   religion = "catholic"
   culture = "occitan"
@@ -362,7 +361,7 @@
   }
 }
 127013 = {
-  name = "?ñTê…b%Y≤Y"  # AdalaÔda
+  name = "?ñTê…bO≤Y"  # AdalaÔda
   dynasty = 7052
   female = yes
   religion = "catholic"
@@ -397,7 +396,7 @@
   }
 }
 127015 = {
-  name = "?ñSidÇÑr}"  # Almodis
+  name = "?ñ>iidÇÑÅt"  # Almodis
   dynasty = 727
   female = yes
   religion = "catholic"
@@ -412,7 +411,7 @@
   }
 }
 127020 = {
-  name = "√WSÄï	V≤Y"  # Ermengarda
+  name = "√W>ièå	V≤Y"  # Ermengarda
   dynasty = 9571
   female = yes
   martial = 5
@@ -430,7 +429,7 @@
   }
 }
 127021 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 9571
   martial = 6
   diplomacy = 7
@@ -519,7 +518,7 @@
   }
 }
 127029 = {
-  name = "?ñœpr}"  # AliÁ
+  name = "?ñLNÅt"  # AliÁ
   dynasty = 413
   female = yes
   martial = 7
@@ -538,7 +537,7 @@
   }
 }
 127030 = {
-  name = "çÇÿû·àKQ"  # Aimeric
+  name = "y|ÿû·àKQ"  # Aimeric
   dynasty = 318
   martial = 8
   diplomacy = 6
@@ -560,7 +559,7 @@
   }
 }
 127031 = {
-  name = "?ñ´ÉùåS	V"  # Amauberge
+  name = "?ñ´Éùå>i	V"  # Amauberge
   female = yes
   martial = 4
   diplomacy = 5
@@ -596,7 +595,7 @@
   }
 }
 127033 = {
-  name = "?ñTê…b%Y≤Y"  # AdalaÔda
+  name = "?ñTê…bO≤Y"  # AdalaÔda
   dynasty = 413
   female = yes
   martial = 5
@@ -616,7 +615,7 @@
   }
 }
 127034 = {
-  name = "çÇgQr}"  # AinËs
+  name = "y|gQÅt"  # AinËs
   dynasty = 413
   female = yes
   martial = 6
@@ -655,7 +654,7 @@
   }
 }
 127036 = {
-  name = "çÇgQr}"  # AinËs
+  name = "y|gQÅt"  # AinËs
   dynasty = 413
   female = yes
   martial = 6
@@ -674,7 +673,7 @@
   }
 }
 127037 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   dynasty = 413
   female = yes
   martial = 6
@@ -693,7 +692,7 @@
   }
 }
 127038 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   dynasty = 413
   female = yes
   martial = 6
@@ -712,7 +711,7 @@
   }
 }
 127039 = {
-  name = "sOSõè≤Y"  # Garcenda
+  name = "sO>iõè≤Y"  # Garcenda
   dynasty = 727
   female = yes
   religion = "catholic"
@@ -779,7 +778,7 @@
   }
 }
 127043 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 727
   martial = 5
   diplomacy = 5
@@ -834,7 +833,7 @@
   }
 }
 127046 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 727
   martial = 6
   diplomacy = 5
@@ -852,7 +851,7 @@
   }
 }
 127047 = {
-  name = "	TSwms|Z"  # Guilheumina
+  name = "	T>iwms|Z"  # Guilheumina
   dynasty = 727
   female = yes
   martial = 6
@@ -890,7 +889,7 @@
   }
 }
 144605 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 98
   religion = "catholic"
   culture = "occitan"
@@ -903,7 +902,7 @@
   }
 }
 144611 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   religion = "catholic"
   culture = "occitan"
   1109.1.1 = {
@@ -936,7 +935,7 @@
   }
 }
 205531 = {
-  name = "?ñS>O·àKQ"  # Alberic
+  name = "?ñ>i>O·àKQ"  # Alberic
   dynasty = 727
   religion = "catholic"
   culture = "occitan"
@@ -999,7 +998,7 @@
   }
 }
 205534 = {
-  name = "?ñTê…b%Y≤Y"  # AdalaÔda
+  name = "?ñTê…bO≤Y"  # AdalaÔda
   female = yes
   dynasty = 727
   martial = 7
@@ -1098,7 +1097,7 @@
   }
 }
 205630 = {
-  name = "?ñ¸fÃuØe"  # Amaneus
+  name = "?ñ¸ftØe"  # Amaneus
   dynasty = 331
   martial = 5
   diplomacy = 7
@@ -1120,7 +1119,7 @@
   }
 }
 205631 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 331
   martial = 5
   diplomacy = 7
@@ -1140,7 +1139,7 @@
   }
 }
 205632 = {
-  name = "?ñ¸fÃuØe"  # Amaneus
+  name = "?ñ¸ftØe"  # Amaneus
   dynasty = 331
   martial = 5
   diplomacy = 4
@@ -1293,7 +1292,7 @@
   }
 }
 223671 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 727
   martial = 7
   diplomacy = 5
@@ -1319,7 +1318,7 @@
   }
 }
 223673 = {
-  name = "?ñπeØe-ÂÇS9N"  # AnfÚs-Jordan
+  name = "?ñπeØe-ÂÇ>i9N"  # AnfÚs-Jordan
   dynasty = 727
   martial = 6
   diplomacy = 6
@@ -1407,8 +1406,7 @@
   }
 }
 231 = {
-  name = "KQ
-ÑÄïÉmZ"  # ClemËncia
+  name = "KQ˚ÉèåÉmZ"  # ClemËncia
   female = yes
   dynasty = 413
   martial = 8
@@ -1451,7 +1449,7 @@
   }
 }
 233 = {
-  name = "?ñTê…b%Y≤Y"  # AdalaÔda
+  name = "?ñTê…bO≤Y"  # AdalaÔda
   female = yes
   dynasty = 413
   martial = 7
@@ -1501,7 +1499,7 @@
   }
 }
 235 = {
-  name = "çÇgQr}"  # AinËs
+  name = "y|gQÅt"  # AinËs
   female = yes
   dynasty = 413
   martial = 5
@@ -1565,7 +1563,7 @@
   }
 }
 239 = {
-  name = "çÇgQr}"  # AinËs
+  name = "y|gQÅt"  # AinËs
   female = yes
   dynasty = 413
   martial = 4
@@ -1619,7 +1617,7 @@
   }
 }
 30427 = {
-  name = "%Y©Ö˛ä"  # Isarno
+  name = "O©Ö˛ä"  # Isarno
   dynasty = 7152
   trait = "martial_cleric"
   religion = "catholic"
@@ -1753,7 +1751,7 @@
   }
 }
 335 = {
-  name = "^S∑V†R∑V"  # Hildegarde
+  name = "^>i∑V†R∑V"  # Hildegarde
   female = yes
   dynasty = 727
   martial = 6
@@ -1839,7 +1837,7 @@
   }
 }
 40009 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 100209
   religion = "catholic"
   culture = "occitan"
@@ -1872,7 +1870,7 @@
   }
 }
 40012 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 100209
   religion = "catholic"
   culture = "occitan"
@@ -1887,7 +1885,7 @@
   }
 }
 40016 = {
-  name = "?ñSYtyr-ùåS≥uyr"  # Arnaut-Bernat
+  name = "?ñ>iYtyr-ùå>ityr"  # Arnaut-Bernat
   dynasty = 100209
   religion = "catholic"
   culture = "occitan"
@@ -1900,8 +1898,7 @@
   }
 }
 40017 = {
-  name = "?ñ©Ö
-Ñ∑V"  # Assalide
+  name = "?ñ©Ö˚É∑V"  # Assalide
   female = yes
   dynasty = 5100
   religion = "catholic"
@@ -2046,7 +2043,7 @@
   }
 }
 40235 = {
-  name = "√WSÄï	V≤Y"  # Ermengarda
+  name = "√W>ièå	V≤Y"  # Ermengarda
   female = yes
   dynasty = 727
   religion = "catholic"
@@ -2060,7 +2057,7 @@
   }
 }
 40236 = {
-  name = "ÑSÄïÿö"  # Ermengau
+  name = "ÑSèåÿö"  # Ermengau
   dynasty = 727
   martial = 7
   diplomacy = 7
@@ -2130,7 +2127,7 @@
   }
 }
 40541 = {
-  name = "ùåS≥uyr-çÇGY"  # Bernat-Ezi
+  name = "ùå>ityr-y|GY"  # Bernat-Ezi
   dynasty = 331
   martial = 7
   diplomacy = 5
@@ -2234,7 +2231,7 @@
   }
 }
 406 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 7052
   martial = 6
   diplomacy = 6
@@ -2256,7 +2253,7 @@
   }
 }
 407 = {
-  name = "?ñTê…b%Y≤Y"  # AdalaÔda
+  name = "?ñTê…bO≤Y"  # AdalaÔda
   female = yes
   dynasty = 7052
   martial = 7
@@ -2277,7 +2274,7 @@
   }
 }
 408 = {
-  name = "	T⁄c-ùåSyr-Ü"  # GuilhËm-Bertrand
+  name = "	T⁄c-ùå>iyr-Ü"  # GuilhËm-Bertrand
   dynasty = 7052
   martial = 7
   diplomacy = 6
@@ -2341,7 +2338,7 @@
   }
 }
 40806 = {
-  name = "YSéÉ"  # DolÁa
+  name = "Y>iéÉ"  # DolÁa
   female = yes
   dynasty = 22005
   religion = "catholic"
@@ -2380,7 +2377,7 @@
   }
 }
 409 = {
-  name = "<h”ÑSsO"  # GerbËrga
+  name = "<h”Ñ>isO"  # GerbËrga
   female = yes
   dynasty = 7052
   religion = "catholic"
@@ -2412,7 +2409,7 @@
   }
 }
 420 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 7052
   religion = "catholic"
   culture = "occitan"
@@ -2469,7 +2466,7 @@
   }
 }
 455407 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   female = yes
   dynasty = 100204
   martial = 7
@@ -2508,7 +2505,7 @@
   }
 }
 455630 = {
-  name = "ùåS≥uyr-çÇGY"  # Bernat-Ezi
+  name = "ùå>ityr-y|GY"  # Bernat-Ezi
   dynasty = 100150
   religion = "catholic"
   culture = "occitan"
@@ -2548,7 +2545,7 @@
   }
 }
 455633 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 331
   martial = 4
   diplomacy = 4
@@ -2600,7 +2597,7 @@
   }
 }
 71618 = {
-  name = "˜ñôÑ∑V-?ñSYtyr"  # Raimond-Arnaut
+  name = "˜ñôÑ∑V-?ñ>iYtyr"  # Raimond-Arnaut
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -2634,7 +2631,7 @@
   }
 }
 71620 = {
-  name = "≥uÊtS"  # Navar
+  name = "tÊt>i"  # Navar
   female = yes
   dynasty = 8757
   father = 71619
@@ -2649,7 +2646,7 @@
   }
 }
 71621 = {
-  name = "≥uÊtS"  # Navar
+  name = "tÊt>i"  # Navar
   dynasty = 8757
   female = yes
   religion = "catholic"
@@ -2665,7 +2662,7 @@
   }
 }
 71637 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   dynasty = 8760
   female = yes
   religion = "catholic"
@@ -2697,7 +2694,7 @@
   }
 }
 71647 = {
-  name = "sOSõèTê"  # Garcenda
+  name = "sO>iõèTê"  # Garcenda
   dynasty = 100204
   female = yes
   religion = "catholic"
@@ -2756,7 +2753,7 @@
   }
 }
 71826 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 8793
   martial = 6
   diplomacy = 4
@@ -2786,7 +2783,7 @@
   }
 }
 71837 = {
-  name = "˜ñôÑ-ùåSyr-Ü"  # Raimond-Bertrand
+  name = "˜ñôÑ-ùå>iyr-Ü"  # Raimond-Bertrand
   dynasty = 8797
   martial = 3
   diplomacy = 3
@@ -2813,7 +2810,7 @@
   }
 }
 7623 = {
-  name = "çÇgQr}"  # AinËs
+  name = "y|gQÅt"  # AinËs
   female = yes
   dynasty = 413
   religion = "catholic"
@@ -2848,7 +2845,7 @@
   }
 }
 205662 = {
-  name = "^S¢åÍè"  # Burgondie
+  name = "^>i¢åÍè"  # Burgondie
   female = yes
   dynasty = 327
   religion = "catholic"
@@ -2874,7 +2871,7 @@
   }
 }
 32516 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 5117
   religion = "catholic"
   culture = "occitan"
@@ -2890,7 +2887,7 @@
   }
 }
 32517 = {
-  name = "¨ôlS"  # Matelle
+  name = "¨ôl>i"  # Matelle
   female = yes
   dynasty = 5117
   religion = "catholic"
@@ -2945,7 +2942,7 @@
   }
 }
 32521 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 5117
   religion = "catholic"
   culture = "occitan"
@@ -2971,7 +2968,7 @@
   }
 }
 32523 = {
-  name = "ÙT…bS"  # Barral
+  name = "ÙT…b>i"  # Barral
   dynasty = 5117
   religion = "catholic"
   culture = "occitan"
@@ -2984,7 +2981,7 @@
   }
 }
 32524 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 5117
   religion = "catholic"
   culture = "occitan"
@@ -3023,7 +3020,7 @@
   }
 }
 32527 = {
-  name = "ÙT…bS"  # Barral
+  name = "ÙT…b>i"  # Barral
   dynasty = 5117
   religion = "catholic"
   culture = "occitan"
@@ -3036,7 +3033,7 @@
   }
 }
 32529 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   female = yes
   dynasty = 5117
   religion = "catholic"
@@ -3064,7 +3061,7 @@
   }
 }
 32532 = {
-  name = "?ñœpr}"  # AliÁ
+  name = "?ñLNÅt"  # AliÁ
   female = yes
   dynasty = 5117
   religion = "catholic"
@@ -3175,7 +3172,7 @@
   }
 }
 40202 = {
-  name = "ùåS≥u-?ñqg"  # Bernat-Aton
+  name = "ùå>it-?ñqg"  # Bernat-Aton
   martial = 7
   diplomacy = 7
   intrigue = 4
@@ -3195,7 +3192,7 @@
   }
 }
 40315 = {
-  name = "?ñ^XœpZ"  # Ascelina
+  name = "?ñ^XLNZ"  # Ascelina
   female = yes
   dynasty = 729
   martial = 7
@@ -3272,7 +3269,7 @@
   }
 }
 40076 = {
-  name = "?ñS∑Vùå"  # Aldebert
+  name = "?ñ>i∑Vùå"  # Aldebert
   dynasty = 98
   religion = "catholic"
   culture = "occitan"
@@ -3338,7 +3335,7 @@
   }
 }
 138053 = {
-  name = "?ñS∑Vùå"  # Aldebert
+  name = "?ñ>i∑Vùå"  # Aldebert
   dynasty = 98
   religion = "catholic"
   culture = "occitan"
@@ -3397,7 +3394,7 @@
   }
 }
 205602 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 98
   religion = "catholic"
   culture = "occitan"
@@ -3426,7 +3423,7 @@
   }
 }
 138058 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 98
   religion = "catholic"
   culture = "occitan"
@@ -3452,7 +3449,7 @@
   }
 }
 138060 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 98
   religion = "catholic"
   culture = "occitan"
@@ -3490,7 +3487,7 @@
   }
 }
 455560 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 98
   religion = "catholic"
   culture = "occitan"
@@ -3504,7 +3501,7 @@
   }
 }
 455563 = {
-  name = "Ö	TS-ùåS≥uyr"  # Rogier-Bernat
+  name = "Ö	T>i-ùå>ityr"  # Rogier-Bernat
   dynasty = 98
   religion = "catholic"
   culture = "occitan"
@@ -3518,7 +3515,7 @@
   }
 }
 461722 = {
-  name = "çÇgQr}"  # AinËs
+  name = "y|gQÅt"  # AinËs
   female = yes
   dynasty = 98
   religion = "catholic"
@@ -3550,7 +3547,7 @@
   }
 }
 32268 = {
-  name = "	T[àóg"  # Ghibbelin
+  name = "	TUóg"  # Ghibbelin
   religion = "catholic"
   culture = "occitan"
   trait = "martial_cleric"
@@ -3562,7 +3559,7 @@
   }
 }
 32272 = {
-  name = "jOSBhyr"  # Folquet
+  name = "jO>iBhyr"  # Folquet
   religion = "catholic"
   culture = "occitan"
   trait = "martial_cleric"
@@ -3574,7 +3571,7 @@
   }
 }
 32274 = {
-  name = "kç…bKQS"  # HÈracle
+  name = "kç…bKQ>i"  # HÈracle
   dynasty = 100219
   religion = "catholic"
   culture = "occitan"
@@ -3625,7 +3622,7 @@
   }
 }
 40313 = {
-  name = "ÖyrùåS	V"  # Rotberga
+  name = "Öyrùå>i	V"  # Rotberga
   female = yes
   dynasty = 5001
   religion = "catholic"
@@ -3690,7 +3687,7 @@
   }
 }
 138099 = {
-  name = "çÇÿû·àKQ"  # Aymeric
+  name = "y|ÿû·àKQ"  # Aymeric
   dynasty = 5001
   religion = "catholic"
   culture = "occitan"
@@ -3815,7 +3812,7 @@
   }
 }
 138080 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 13100
   religion = "catholic"
   culture = "occitan"
@@ -3835,7 +3832,7 @@
   }
 }
 40276 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 13100
   martial = 7
   diplomacy = 7
@@ -3916,7 +3913,7 @@
   }
 }
 40284 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 13100
   martial = 7
   diplomacy = 7
@@ -4055,7 +4052,7 @@
   }
 }
 205626 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 13100
   martial = 5
   diplomacy = 5
@@ -4078,7 +4075,7 @@
   }
 }
 138070 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 13100
   religion = "catholic"
   culture = "occitan"
@@ -4094,7 +4091,7 @@
   }
 }
 205621 = {
-  name = "√W∑V¨ôS"  # AdhÈmar
+  name = "√W∑V¨ô>i"  # AdhÈmar
   dynasty = 13100
   martial = 5
   diplomacy = 5
@@ -4143,7 +4140,7 @@
   }
 }
 205623 = {
-  name = "·wùåS	V"  # Humberge
+  name = "·wùå>i	V"  # Humberge
   female = yes
   dynasty = 13100
   martial = 6
@@ -4162,7 +4159,7 @@
   }
 }
 205624 = {
-  name = "jtœpûN"  # Maria
+  name = "jtLNûN"  # Maria
   female = yes
   dynasty = 13100
   martial = 7
@@ -4184,7 +4181,7 @@
   }
 }
 205625 = {
-  name = "çÇ<hÓÑ"  # Aigline
+  name = "y|<hÓÑ"  # Aigline
   female = yes
   dynasty = 13100
   martial = 5
@@ -4221,7 +4218,7 @@
   }
 }
 205622 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 13100
   martial = 5
   diplomacy = 8
@@ -4256,7 +4253,7 @@
   }
 }
 205627 = {
-  name = "√W∑V¨ôS"  # AdhÈmar
+  name = "√W∑V¨ô>i"  # AdhÈmar
   dynasty = 13100
   martial = 5
   diplomacy = 5
@@ -4294,7 +4291,7 @@
   }
 }
 205605 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 13100
   martial = 7
   diplomacy = 6
@@ -4316,7 +4313,7 @@
   }
 }
 205607 = {
-  name = "	TSwms|Z"  # Guilheumina
+  name = "	T>iwms|Z"  # Guilheumina
   female = yes
   dynasty = 13100
   religion = "catholic"
@@ -4332,7 +4329,7 @@
   }
 }
 138071 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 13100
   religion = "catholic"
   culture = "occitan"
@@ -4345,7 +4342,7 @@
   }
 }
 455590 = {
-  name = "jtœpûN"  # Maria
+  name = "jtLNûN"  # Maria
   female = yes
   dynasty = 13100
   religion = "catholic"
@@ -4359,7 +4356,7 @@
   }
 }
 138084 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 13100
   religion = "catholic"
   culture = "occitan"
@@ -4373,7 +4370,7 @@
   }
 }
 138085 = {
-  name = "	TYS"  # Guichard
+  name = "	TY>i"  # Guichard
   dynasty = 13100
   religion = "catholic"
   culture = "occitan"
@@ -4399,7 +4396,7 @@
   }
 }
 138088 = {
-  name = "	TYS"  # Guichard
+  name = "	TY>i"  # Guichard
   dynasty = 13100
   religion = "catholic"
   culture = "occitan"
@@ -4415,7 +4412,7 @@
   }
 }
 138086 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 13100
   religion = "catholic"
   culture = "occitan"
@@ -4428,7 +4425,7 @@
   }
 }
 138089 = {
-  name = "?ñSSZS"  # Archambaut
+  name = "?ñ>iSZS"  # Archambaut
   dynasty = 13100
   religion = "catholic"
   culture = "occitan"
@@ -4441,7 +4438,7 @@
   }
 }
 138090 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 13100
   religion = "catholic"
   culture = "occitan"
@@ -4457,7 +4454,7 @@
   }
 }
 138092 = {
-  name = "jtœpûN"  # Maria
+  name = "jtLNûN"  # Maria
   female = yes
   dynasty = 13100
   religion = "catholic"
@@ -4472,7 +4469,7 @@
   }
 }
 138091 = {
-  name = "	TYS"  # Guichard
+  name = "	TY>i"  # Guichard
   dynasty = 13100
   religion = "catholic"
   culture = "occitan"
@@ -4486,7 +4483,7 @@
   }
 }
 138081 = {
-  name = "	TYS"  # Guichard
+  name = "	TY>i"  # Guichard
   dynasty = 13100
   religion = "catholic"
   culture = "occitan"
@@ -4499,7 +4496,7 @@
   }
 }
 138109 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 5098
   religion = "catholic"
   culture = "occitan"
@@ -4541,7 +4538,7 @@
   }
 }
 40015 = {
-  name = "	Tr}…b"  # Gisla
+  name = "	TÅt…b"  # Gisla
   female = yes
   dynasty = 100209
   religion = "catholic"
@@ -4555,7 +4552,7 @@
   }
 }
 40018 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 100209
   religion = "catholic"
   culture = "occitan"
@@ -4585,7 +4582,7 @@
   }
 }
 205672 = {
-  name = "?ñ§ojt"  # Azelma
+  name = "?ñ≥fjt"  # Azelma
   female = yes
   dynasty = 325
   religion = "catholic"
@@ -4614,7 +4611,7 @@
   }
 }
 205670 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 100209
   religion = "catholic"
   culture = "occitan"
@@ -4643,7 +4640,7 @@
   }
 }
 205674 = {
-  name = "jtœpûN"  # Maria
+  name = "jtLNûN"  # Maria
   female = yes
   dynasty = 100209
   religion = "catholic"
@@ -4657,7 +4654,7 @@
   }
 }
 40901 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 5100
   religion = "catholic"
   culture = "occitan"
@@ -4672,7 +4669,7 @@
   }
 }
 40904 = {
-  name = "?ñTê…b%Y≤Y"  # AdalaÔda
+  name = "?ñTê…bO≤Y"  # AdalaÔda
   female = yes
   dynasty = 5100
   religion = "catholic"
@@ -4714,7 +4711,7 @@
   }
 }
 138117 = {
-  name = "ÙuââR"  # VÈzian
+  name = "≠tââR"  # VÈzian
   dynasty = 5100
   religion = "catholic"
   culture = "occitan"
@@ -4756,7 +4753,7 @@
   }
 }
 138126 = {
-  name = "ÙuââR"  # VÈzian
+  name = "≠tââR"  # VÈzian
   dynasty = 5100
   religion = "catholic"
   culture = "occitan"
@@ -4782,7 +4779,7 @@
   }
 }
 138138 = {
-  name = "?ñSYtyr-gYqg"  # Arnaut-Odon
+  name = "?ñ>iYtyr-gYqg"  # Arnaut-Odon
   dynasty = 5100
   religion = "catholic"
   culture = "occitan"
@@ -4798,7 +4795,7 @@
   }
 }
 138116 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 5100
   religion = "catholic"
   culture = "occitan"
@@ -4812,7 +4809,7 @@
   }
 }
 138118 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 5100
   religion = "catholic"
   culture = "occitan"
@@ -4851,7 +4848,7 @@
   }
 }
 138124 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 5100
   religion = "catholic"
   culture = "occitan"
@@ -4893,7 +4890,7 @@
   }
 }
 138128 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 5100
   religion = "catholic"
   culture = "occitan"
@@ -4949,7 +4946,7 @@
   }
 }
 138135 = {
-  name = "nfS“R"  # Puelle
+  name = "nf>i“R"  # Puelle
   female = yes
   dynasty = 5100
   religion = "catholic"
@@ -4963,7 +4960,7 @@
   }
 }
 455641 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 5100
   religion = "catholic"
   culture = "occitan"
@@ -5024,7 +5021,7 @@
   }
 }
 455644 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 5100
   religion = "catholic"
   culture = "occitan"
@@ -5038,7 +5035,7 @@
   }
 }
 455645 = {
-  name = "jtSTX"  # Marta
+  name = "jt>iTX"  # Marta
   female = yes
   dynasty = 5100
   religion = "catholic"
@@ -5065,7 +5062,7 @@
   }
 }
 138142 = {
-  name = "ùåS≥uyr-gYqg"  # Bernat-Odon
+  name = "ùå>ityr-gYqg"  # Bernat-Odon
   dynasty = 325
   religion = "catholic"
   culture = "occitan"
@@ -5079,7 +5076,7 @@
   }
 }
 138144 = {
-  name = "çÇÿû·àKQ"  # Aymeric
+  name = "y|ÿû·àKQ"  # Aymeric
   dynasty = 325
   religion = "catholic"
   culture = "occitan"
@@ -5105,7 +5102,7 @@
   }
 }
 138148 = {
-  name = "çÇÿû·àKQ"  # Aymeric
+  name = "y|ÿû·àKQ"  # Aymeric
   dynasty = 325
   religion = "catholic"
   culture = "occitan"
@@ -5118,7 +5115,7 @@
   }
 }
 138150 = {
-  name = "√WØeçÅ˛äÙu"  # Astenove
+  name = "√WØeçÅ˛ä≠t"  # Astenove
   dynasty = 325
   religion = "catholic"
   culture = "occitan"
@@ -5131,7 +5128,7 @@
   }
 }
 205570 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 40021
   religion = "catholic"
   culture = "occitan"
@@ -5161,7 +5158,7 @@
   }
 }
 205572 = {
-  name = "Ö	TS ˜ñôÑ∑V"  # Rogier-Raimond
+  name = "Ö	T>i ˜ñôÑ∑V"  # Rogier-Raimond
   dynasty = 40021
   religion = "catholic"
   culture = "occitan"
@@ -5192,7 +5189,7 @@
   }
 }
 205574 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   female = yes
   dynasty = 40021
   religion = "catholic"
@@ -5234,7 +5231,7 @@
   }
 }
 40204 = {
-  name = "˜ñôÑ∑V ùåS≥uyr"  # Raimond-Bernat
+  name = "˜ñôÑ∑V ùå>ityr"  # Raimond-Bernat
   dynasty = 40021
   religion = "catholic"
   culture = "occitan"
@@ -5251,7 +5248,7 @@
   }
 }
 7663 = {
-  name = "ùåS≥u-?ñqg"  # Bernat-Aton
+  name = "ùå>it-?ñqg"  # Bernat-Aton
   dynasty = 40021
   religion = "catholic"
   culture = "occitan"
@@ -5267,7 +5264,7 @@
   }
 }
 205564 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -5284,7 +5281,7 @@
   }
 }
 40180 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -5310,7 +5307,7 @@
   }
 }
 40198 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -5337,7 +5334,7 @@
   }
 }
 40182 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -5351,7 +5348,7 @@
   }
 }
 40184 = {
-  name = "˜ñôÑ∑V Ö	TS"  # Raimond-Rogier
+  name = "˜ñôÑ∑V Ö	T>i"  # Raimond-Rogier
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -5364,7 +5361,7 @@
   }
 }
 1078 = {
-  name = "ùåS≥uyr Ö	TS"  # Bernat-Rogier
+  name = "ùå>ityr Ö	T>i"  # Bernat-Rogier
   dynasty = 684
   martial = 4
   diplomacy = 6
@@ -5383,8 +5380,7 @@
   }
 }
 6641 = {
-  name = "KQ
-ÑÄïÉmZ"  # ClemËncia
+  name = "KQ˚ÉèåÉmZ"  # ClemËncia
   female = yes
   dynasty = 684
   religion = "catholic"
@@ -5398,7 +5394,7 @@
   }
 }
 1079 = {
-  name = "√Wr}yr·QÆYmZ"  # Estefania
+  name = "√WÅtyr·QÆYmZ"  # Estefania
   female = yes
   dynasty = 684
   martial = 6
@@ -5417,7 +5413,7 @@
   }
 }
 138160 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 684
   religion = "catholic"
   culture = "occitan"
@@ -5430,7 +5426,7 @@
   }
 }
 6620 = {
-  name = "iO“R-ùåS≥uyr"  # PËire-Bernat
+  name = "iO“R-ùå>ityr"  # PËire-Bernat
   dynasty = 684
   martial = 4
   diplomacy = 6
@@ -5449,7 +5445,7 @@
   }
 }
 40194 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 684
   religion = "catholic"
   culture = "occitan"
@@ -5468,7 +5464,7 @@
   }
 }
 1077 = {
-  name = "√WSÖhÓh(É"  # Ermessentz
+  name = "√W>iÖhÓh(É"  # Ermessentz
   female = yes
   dynasty = 684
   martial = 7
@@ -5486,7 +5482,7 @@
   }
 }
 40188 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 686
   religion = "catholic"
   culture = "occitan"
@@ -5499,7 +5495,7 @@
   }
 }
 40189 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   female = yes
   dynasty = 686
   religion = "catholic"
@@ -5529,7 +5525,7 @@
   }
 }
 40187 = {
-  name = "√WSÄï	V≤Y"  # Ermengarda
+  name = "√W>ièå	V≤Y"  # Ermengarda
   female = yes
   dynasty = 386
   religion = "catholic"
@@ -5544,7 +5540,7 @@
   }
 }
 205551 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 684
   religion = "catholic"
   culture = "occitan"
@@ -5561,7 +5557,7 @@
   }
 }
 205556 = {
-  name = "^+PÆY^S∑V"  # Brunichilde
+  name = "^+PÆY^>i∑V"  # Brunichilde
   female = yes
   dynasty = 684
   religion = "catholic"
@@ -5575,7 +5571,7 @@
   }
 }
 205557 = {
-  name = "YSéÉ"  # DolÁa
+  name = "Y>iéÉ"  # DolÁa
   female = yes
   dynasty = 684
   religion = "catholic"
@@ -5590,7 +5586,7 @@
   }
 }
 205550 = {
-  name = "Ö	TS ùåS≥uyr"  # Rogier-Bernat
+  name = "Ö	T>i ùå>ityr"  # Rogier-Bernat
   dynasty = 684
   religion = "catholic"
   culture = "occitan"
@@ -5623,7 +5619,7 @@
   }
 }
 205553 = {
-  name = "√Wr}KQ…bôÑ∑V"  # Esclarmonde
+  name = "√WÅtKQ…bôÑ∑V"  # Esclarmonde
   female = yes
   dynasty = 684
   religion = "cathar"
@@ -5639,7 +5635,7 @@
   }
 }
 205554 = {
-  name = "˜ñôÑ∑V Ö	TS"  # Raimond-Rogier
+  name = "˜ñôÑ∑V Ö	T>i"  # Raimond-Rogier
   dynasty = 684
   religion = "catholic"
   culture = "occitan"
@@ -5671,7 +5667,7 @@
   }
 }
 138152 = {
-  name = "Ö	TS ùåS≥uyr"  # Rogier-Bernat
+  name = "Ö	T>i ùå>ityr"  # Rogier-Bernat
   dynasty = 684
   religion = "catholic"
   culture = "occitan"
@@ -5691,7 +5687,7 @@
   }
 }
 138154 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 684
   religion = "catholic"
   culture = "occitan"
@@ -5718,7 +5714,7 @@
   }
 }
 138155 = {
-  name = "√Wr}KQ…bôÑTê"  # Esclarmonda
+  name = "√WÅtKQ…bôÑTê"  # Esclarmonda
   female = yes
   dynasty = 684
   religion = "catholic"
@@ -5732,7 +5728,7 @@
   }
 }
 455542 = {
-  name = "Ö	TS ùåS≥uyr"  # Rogier-Bernat
+  name = "Ö	T>i ùå>ityr"  # Rogier-Bernat
   dynasty = 684
   religion = "catholic"
   culture = "occitan"
@@ -5834,7 +5830,7 @@
   }
 }
 205562 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   female = yes
   dynasty = 13105
   religion = "catholic"
@@ -5849,7 +5845,7 @@
   }
 }
 138164 = {
-  name = "ÓhWS"  # Centolh
+  name = "ÓhW>i"  # Centolh
   dynasty = 337
   religion = "catholic"
   culture = "occitan"
@@ -5875,7 +5871,7 @@
   }
 }
 138168 = {
-  name = "ÓhWS"  # Centolh
+  name = "ÓhW>i"  # Centolh
   dynasty = 337
   religion = "catholic"
   culture = "occitan"
@@ -5901,7 +5897,7 @@
   }
 }
 40000 = {
-  name = "ÓhWS"  # Centolh
+  name = "ÓhW>i"  # Centolh
   dynasty = 337
   religion = "catholic"
   culture = "occitan"
@@ -5935,7 +5931,7 @@
   }
 }
 40003 = {
-  name = "ÓhWS"  # Centolh
+  name = "ÓhW>i"  # Centolh
   dynasty = 337
   religion = "catholic"
   culture = "occitan"
@@ -5990,7 +5986,7 @@
   }
 }
 138174 = {
-  name = "ÓhWS"  # Centolh
+  name = "ÓhW>i"  # Centolh
   dynasty = 337
   religion = "catholic"
   culture = "occitan"
@@ -6003,7 +5999,7 @@
   }
 }
 138176 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 686
   religion = "catholic"
   culture = "occitan"
@@ -6017,7 +6013,7 @@
   }
 }
 138178 = {
-  name = "ÓhWS"  # Centolh
+  name = "ÓhW>i"  # Centolh
   dynasty = 686
   religion = "catholic"
   culture = "occitan"
@@ -6079,7 +6075,7 @@
   }
 }
 205541 = {
-  name = "jtœpûN"  # Maria
+  name = "jtLNûN"  # Maria
   female = yes
   dynasty = 13103
   religion = "catholic"
@@ -6195,7 +6191,7 @@
   }
 }
 138169 = {
-  name = "	TSwms|Z"  # Guilheumina
+  name = "	T>iwms|Z"  # Guilheumina
   female = yes
   dynasty = 336
   religion = "catholic"
@@ -6210,7 +6206,7 @@
   }
 }
 138190 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6223,7 +6219,7 @@
   }
 }
 138191 = {
-  name = "?ñSÓh≤Y"  # Arsenda
+  name = "?ñ>iÓh≤Y"  # Arsenda
   female = yes
   dynasty = 386
   religion = "catholic"
@@ -6237,7 +6233,7 @@
   }
 }
 138192 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6250,7 +6246,7 @@
   }
 }
 138193 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6276,7 +6272,7 @@
   }
 }
 138194 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6289,7 +6285,7 @@
   }
 }
 138196 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6302,7 +6298,7 @@
   }
 }
 138198 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6315,7 +6311,7 @@
   }
 }
 138199 = {
-  name = "ùåS≥uÍè"  # Bernate
+  name = "ùå>itÍè"  # Bernate
   female = yes
   dynasty = 386
   religion = "catholic"
@@ -6329,7 +6325,7 @@
   }
 }
 138200 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6359,7 +6355,7 @@
   }
 }
 205560 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6385,7 +6381,7 @@
   }
 }
 205565 = {
-  name = "èyfW≥u"  # Fortaner
+  name = "èyfWt"  # Fortaner
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6399,7 +6395,7 @@
   }
 }
 205566 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6413,7 +6409,7 @@
   }
 }
 205567 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6427,7 +6423,7 @@
   }
 }
 138202 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6443,7 +6439,7 @@
   }
 }
 138204 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6471,7 +6467,7 @@
   }
 }
 455550 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6510,7 +6506,7 @@
   }
 }
 455553 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -6626,7 +6622,7 @@
   }
 }
 40214 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 280
   religion = "catholic"
   culture = "occitan"
@@ -6670,7 +6666,7 @@
   }
 }
 138220 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 280
   religion = "catholic"
   culture = "occitan"
@@ -6686,7 +6682,7 @@
   }
 }
 138222 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 280
   religion = "catholic"
   culture = "occitan"
@@ -6703,7 +6699,7 @@
   }
 }
 207659 = {
-  name = "√WSÖhÓh(É"  # Ermessentz
+  name = "√W>iÖhÓh(É"  # Ermessentz
   female = yes
   dynasty = 280
   religion = "catholic"
@@ -6718,7 +6714,7 @@
   }
 }
 40216 = {
-  name = "ùåS≥uyr-ùå+P	T"  # Bernat-BerenguiÈ
+  name = "ùå>ityr-ùå+P	T"  # Bernat-BerenguiÈ
   dynasty = 280
   religion = "catholic"
   culture = "occitan"
@@ -6734,7 +6730,7 @@
   }
 }
 40218 = {
-  name = "çÇÿû·àKQ"  # Aimeric
+  name = "y|ÿû·àKQ"  # Aimeric
   dynasty = 280
   religion = "catholic"
   culture = "occitan"
@@ -6748,7 +6744,7 @@
   }
 }
 138224 = {
-  name = "çÇÿû·àKQ"  # Aimeric
+  name = "y|ÿû·àKQ"  # Aimeric
   dynasty = 280
   religion = "catholic"
   culture = "occitan"
@@ -6764,7 +6760,7 @@
   }
 }
 138225 = {
-  name = "√WSÄï	V≤Y"  # Ermengarda
+  name = "√W>ièå	V≤Y"  # Ermengarda
   female = yes
   dynasty = 280
   religion = "catholic"
@@ -6779,7 +6775,7 @@
   }
 }
 207550 = {
-  name = "√WSÖhÓh(É"  # Ermessentz
+  name = "√W>iÖhÓh(É"  # Ermessentz
   female = yes
   dynasty = 280
   religion = "catholic"
@@ -6794,7 +6790,7 @@
   }
 }
 138238 = {
-  name = "ÓhWS"  # Centolh
+  name = "ÓhW>i"  # Centolh
   dynasty = 13105
   religion = "catholic"
   culture = "occitan"
@@ -6811,7 +6807,7 @@
   }
 }
 138239 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   female = yes
   dynasty = 686
   religion = "catholic"
@@ -6841,7 +6837,7 @@
   }
 }
 138242 = {
-  name = "Önf-?ñgQS"  # Lop-Aner
+  name = "Önf-?ñgQ>i"  # Lop-Aner
   dynasty = 13105
   religion = "catholic"
   culture = "occitan"
@@ -6854,7 +6850,7 @@
   }
 }
 138244 = {
-  name = "?ñgQS"  # Aner
+  name = "?ñgQ>i"  # Aner
   dynasty = 13105
   religion = "catholic"
   culture = "occitan"
@@ -6909,7 +6905,7 @@
   }
 }
 72134 = {
-  name = "sOSõè≤Y"  # Garcenda
+  name = "sO>iõè≤Y"  # Garcenda
   female = yes
   religion = "catholic"
   culture = "occitan"
@@ -6948,7 +6944,7 @@
   }
 }
 72137 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   dynasty = 395
   female = yes
   religion = "catholic"
@@ -6976,7 +6972,7 @@
   }
 }
 72308 = {
-  name = "	TSwms|Z"  # Guilheumina
+  name = "	T>iwms|Z"  # Guilheumina
   female = yes
   religion = "catholic"
   culture = "occitan"
@@ -7010,7 +7006,7 @@
   }
 }
 205981 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 395
   martial = 8
   diplomacy = 6
@@ -7034,7 +7030,7 @@
   }
 }
 205982 = {
-  name = "sOSõè≤Y"  # Garcenda
+  name = "sO>iõè≤Y"  # Garcenda
   female = yes
   dynasty = 395
   martial = 8
@@ -7055,7 +7051,7 @@
   }
 }
 205983 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 395
   martial = 8
   diplomacy = 7
@@ -7076,7 +7072,7 @@
   }
 }
 205984 = {
-  name = "?ñœpr}"  # AliÁ
+  name = "?ñLNÅt"  # AliÁ
   female = yes
   dynasty = 395
   martial = 4
@@ -7121,7 +7117,7 @@
   }
 }
 403 = {
-  name = "√Wr}yr·QÆYmZ"  # Estefania
+  name = "√WÅtyr·QÆYmZ"  # Estefania
   female = yes
   dynasty = 13104
   religion = "catholic"
@@ -7134,7 +7130,7 @@
   }
 }
 373 = {
-  name = "?ñTê…b%Y≤Y"  # AdalaÔda
+  name = "?ñTê…bO≤Y"  # AdalaÔda
   female = yes
   dynasty = 723
   religion = "catholic"
@@ -7163,7 +7159,7 @@
   }
 }
 40258 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 100219
   religion = "catholic"
   culture = "occitan"
@@ -7176,7 +7172,7 @@
   }
 }
 138227 = {
-  name = "çÇáS∑V"  # Emilde
+  name = "y|á>i∑V"  # Emilde
   female = yes
   dynasty = 100219
   religion = "catholic"
@@ -7233,7 +7229,7 @@
   }
 }
 138231 = {
-  name = "?ñTê…b%Y≤Y"  # AdalaÔda
+  name = "?ñTê…bO≤Y"  # AdalaÔda
   female = yes
   dynasty = 100219
   religion = "catholic"
@@ -7262,7 +7258,7 @@
   }
 }
 10029 = {
-  name = "?ñœpr}"  # AliÁ
+  name = "?ñLNÅt"  # AliÁ
   female = yes
   dynasty = 100219
   religion = "catholic"
@@ -7345,7 +7341,7 @@
   }
 }
 40255 = {
-  name = "œp4tTê"  # RichËnda
+  name = "LN4tTê"  # RichËnda
   female = yes
   dynasty = 727
   religion = "catholic"
@@ -7359,7 +7355,7 @@
   }
 }
 138248 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 8760
   religion = "catholic"
   culture = "occitan"
@@ -7397,7 +7393,7 @@
   }
 }
 138254 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 8760
   religion = "catholic"
   culture = "occitan"
@@ -7410,7 +7406,7 @@
   }
 }
 138256 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 8760
   religion = "catholic"
   culture = "occitan"
@@ -7423,7 +7419,7 @@
   }
 }
 138258 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 8760
   religion = "catholic"
   culture = "occitan"
@@ -7484,7 +7480,7 @@
   }
 }
 138263 = {
-  name = "√WSÄï	V≤Y"  # Ermengarda
+  name = "√W>ièå	V≤Y"  # Ermengarda
   dynasty = 8760
   female = yes
   religion = "catholic"
@@ -7527,7 +7523,7 @@
   }
 }
 138266 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 8760
   religion = "catholic"
   culture = "occitan"
@@ -7543,7 +7539,7 @@
   }
 }
 138265 = {
-  name = "√WSÖhÓh(É"  # Ermessentz
+  name = "√W>iÖhÓh(É"  # Ermessentz
   dynasty = 8760
   female = yes
   religion = "catholic"
@@ -7570,7 +7566,7 @@
   }
 }
 138267 = {
-  name = "√WSÖhÓh(É"  # Ermessentz
+  name = "√W>iÖhÓh(É"  # Ermessentz
   dynasty = 8760
   female = yes
   religion = "catholic"
@@ -7607,7 +7603,7 @@
   }
 }
 138274 = {
-  name = "ÿö»TSyr"  # Gualhart
+  name = "ÿö»T>iyr"  # Gualhart
   religion = "catholic"
   culture = "occitan"
   1290.1.1 = {
@@ -7640,7 +7636,7 @@
   }
 }
 138271 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   religion = "catholic"
   culture = "occitan"
   1190.1.1 = {
@@ -7729,7 +7725,7 @@
   }
 }
 138284 = {
-  name = "˜ñôÑ∑V Ö	TS"  # Raimond-Rogier
+  name = "˜ñôÑ∑V Ö	T>i"  # Raimond-Rogier
   dynasty = 386
   religion = "catholic"
   culture = "occitan"
@@ -7743,7 +7739,7 @@
   }
 }
 138283 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 100220
   religion = "catholic"
   culture = "occitan"
@@ -7846,7 +7842,7 @@
   }
 }
 138295 = {
-  name = "	TSwms|Z"  # Guilheumina
+  name = "	T>iwms|Z"  # Guilheumina
   dynasty = 100220
   female = yes
   religion = "catholic"
@@ -7873,7 +7869,7 @@
   }
 }
 138297 = {
-  name = "	TSwms|Z"  # Guilheumina
+  name = "	T>iwms|Z"  # Guilheumina
   dynasty = 100220
   female = yes
   religion = "catholic"
@@ -7903,7 +7899,7 @@
   }
 }
 138291 = {
-  name = "?ñTê…b%Y≤Y"  # AdalaÔda
+  name = "?ñTê…bO≤Y"  # AdalaÔda
   dynasty = 100220
   female = yes
   religion = "catholic"
@@ -7934,7 +7930,7 @@
   }
 }
 205582 = {
-  name = "jtœpûN"  # Maria
+  name = "jtLNûN"  # Maria
   female = yes
   dynasty = 100220
   religion = "catholic"
@@ -7949,7 +7945,7 @@
   }
 }
 138293 = {
-  name = "çÇgQr}"  # AinËs
+  name = "y|gQÅt"  # AinËs
   dynasty = 100220
   female = yes
   religion = "catholic"
@@ -8026,7 +8022,7 @@
   }
 }
 138303 = {
-  name = "çÇgQr}"  # AinËs
+  name = "y|gQÅt"  # AinËs
   female = yes
   dynasty = 733
   religion = "catholic"
@@ -8100,7 +8096,7 @@
   }
 }
 138311 = {
-  name = "?ñS	V6wyr"  # Algayette
+  name = "?ñ>i	V6wyr"  # Algayette
   female = yes
   dynasty = 91
   religion = "catholic"
@@ -8141,7 +8137,7 @@
   }
 }
 138314 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   religion = "catholic"
   culture = "occitan"
   1010.1.1 = {
@@ -8163,7 +8159,7 @@
   }
 }
 138316 = {
-  name = "U≥uyr"  # Donat
+  name = "Utyr"  # Donat
   religion = "catholic"
   culture = "occitan"
   1030.1.1 = {
@@ -8185,8 +8181,7 @@
   }
 }
 138319 = {
-  name = "%Y©Ö
-Ñ∑V"  # Isarad
+  name = "O©Ö˚É∑V"  # Isarad
   religion = "catholic"
   culture = "occitan"
   1060.1.1 = {
@@ -8197,7 +8192,7 @@
   }
 }
 138320 = {
-  name = "ÿöØeùåSyr"  # Gausbert
+  name = "ÿöØeùå>iyr"  # Gausbert
   religion = "catholic"
   culture = "occitan"
   1060.1.1 = {
@@ -8208,7 +8203,7 @@
   }
 }
 138321 = {
-  name = "?ñS∑Vùå"  # Aldebert
+  name = "?ñ>i∑Vùå"  # Aldebert
   religion = "catholic"
   culture = "occitan"
   1080.1.1 = {
@@ -8219,7 +8214,7 @@
   }
 }
 138322 = {
-  name = "˜ñôÑ∑V ùåS≥uyr"  # Raimond-Bernat
+  name = "˜ñôÑ∑V ùå>ityr"  # Raimond-Bernat
   religion = "catholic"
   culture = "occitan"
   1100.1.1 = {
@@ -8230,7 +8225,7 @@
   }
 }
 138325 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   religion = "catholic"
   culture = "occitan"
   1150.1.1 = {
@@ -8241,7 +8236,7 @@
   }
 }
 138326 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 13117
   religion = "catholic"
   culture = "occitan"
@@ -8254,7 +8249,7 @@
   }
 }
 138327 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   religion = "catholic"
   culture = "occitan"
   1180.1.1 = {
@@ -8276,7 +8271,7 @@
   }
 }
 138329 = {
-  name = "ﬁRS+Y"  # Raolf
+  name = "ﬁR>i+Y"  # Raolf
   religion = "catholic"
   culture = "occitan"
   1190.1.1 = {
@@ -8312,7 +8307,7 @@
   }
 }
 138332 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   religion = "catholic"
   culture = "occitan"
   1200.1.1 = {
@@ -8346,7 +8341,7 @@
   }
 }
 138337 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 8797
   religion = "catholic"
   culture = "occitan"
@@ -8370,7 +8365,7 @@
   }
 }
 138339 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 8797
   religion = "catholic"
   culture = "occitan"
@@ -8383,7 +8378,7 @@
   }
 }
 138342 = {
-  name = "ùåSﬁRyr †RâûN"  # Berraut-Garcia
+  name = "ùå>iﬁRyr †RâûN"  # Berraut-Garcia
   dynasty = 8797
   religion = "catholic"
   culture = "occitan"
@@ -8396,7 +8391,7 @@
   }
 }
 138343 = {
-  name = "?ñSYtyr-†RâûN"  # Arnaut-Garcia
+  name = "?ñ>iYtyr-†RâûN"  # Arnaut-Garcia
   dynasty = 8797
   religion = "catholic"
   culture = "occitan"
@@ -8408,7 +8403,7 @@
   }
 }
 138364 = {
-  name = "?ñgQS"  # Aner
+  name = "?ñgQ>i"  # Aner
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -8421,7 +8416,7 @@
   }
 }
 138344 = {
-  name = "?ñSYtyr-Önf"  # Arnaut-Lop
+  name = "?ñ>iYtyr-Önf"  # Arnaut-Lop
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -8451,7 +8446,7 @@
   }
 }
 138346 = {
-  name = "?ñSYtyr-Önf"  # Arnaut-Lop
+  name = "?ñ>iYtyr-Önf"  # Arnaut-Lop
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -8466,7 +8461,7 @@
   }
 }
 138348 = {
-  name = "˜ñôÑ∑V-?ñSYtyr"  # Raimond-Arnaut
+  name = "˜ñôÑ∑V-?ñ>iYtyr"  # Raimond-Arnaut
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -8479,7 +8474,7 @@
   }
 }
 138350 = {
-  name = "≥uÊtS"  # Navar
+  name = "tÊt>i"  # Navar
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -8493,7 +8488,7 @@
   }
 }
 138352 = {
-  name = "†RâûN-?ñSYtyr"  # Garcia-Arnaut
+  name = "†RâûN-?ñ>iYtyr"  # Garcia-Arnaut
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -8506,7 +8501,7 @@
   }
 }
 138360 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -8519,7 +8514,7 @@
   }
 }
 138362 = {
-  name = "Têyr-?ñSYtyr"  # Dat-Arnaut
+  name = "Têyr-?ñ>iYtyr"  # Dat-Arnaut
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -8532,7 +8527,7 @@
   }
 }
 138354 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -8545,7 +8540,7 @@
   }
 }
 138356 = {
-  name = "iO“R-?ñSYtyr"  # PËire-Arnaut
+  name = "iO“R-?ñ>iYtyr"  # PËire-Arnaut
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -8572,7 +8567,7 @@
   }
 }
 138358 = {
-  name = "iO“R-?ñSYtyr"  # PËire-Arnaut
+  name = "iO“R-?ñ>iYtyr"  # PËire-Arnaut
   dynasty = 8757
   religion = "catholic"
   culture = "occitan"
@@ -8611,8 +8606,7 @@
   }
 }
 138371 = {
-  name = "
-ÑgY∑V†R∑V"  # Leodegard
+  name = "˚ÉgY∑V†R∑V"  # Leodegard
   religion = "catholic"
   culture = "occitan"
   1068.1.1 = {
@@ -8681,7 +8675,7 @@
   }
 }
 138367 = {
-  name = "<SuﬁRØe"  # Nicholaus
+  name = "<SÃtﬁRØe"  # Nicholaus
   religion = "catholic"
   culture = "occitan"
   1150.1.1 = {
@@ -8714,7 +8708,7 @@
   }
 }
 138370 = {
-  name = "ùåSôÑ∑V"  # Bermond
+  name = "ùå>iôÑ∑V"  # Bermond
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8727,7 +8721,7 @@
   }
 }
 138372 = {
-  name = "iO“R-ùåSôÑ∑V"  # PËire-Bermond
+  name = "iO“R-ùå>iôÑ∑V"  # PËire-Bermond
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8757,7 +8751,7 @@
   }
 }
 138374 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8771,7 +8765,7 @@
   }
 }
 138376 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8789,7 +8783,7 @@
   }
 }
 138378 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8802,7 +8796,7 @@
   }
 }
 138380 = {
-  name = "iO“R-ùåSôÑ∑V"  # PËire-Bermond
+  name = "iO“R-ùå>iôÑ∑V"  # PËire-Bermond
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8816,7 +8810,7 @@
   }
 }
 138382 = {
-  name = "Ö	TS ùåSôÑ∑V"  # Rogier-Bermond
+  name = "Ö	T>i ùå>iôÑ∑V"  # Rogier-Bermond
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8829,7 +8823,7 @@
   }
 }
 138384 = {
-  name = "ùåSôÑ∑V"  # Bermond
+  name = "ùå>iôÑ∑V"  # Bermond
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8842,7 +8836,7 @@
   }
 }
 138386 = {
-  name = "ùåSôÑ∑V"  # Bermond
+  name = "ùå>iôÑ∑V"  # Bermond
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8855,7 +8849,7 @@
   }
 }
 138388 = {
-  name = "çÇ¨ô"  # Aymar
+  name = "y|¨ô"  # Aymar
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8868,7 +8862,7 @@
   }
 }
 138390 = {
-  name = "ùåSôÑ∑V"  # Bermond
+  name = "ùå>iôÑ∑V"  # Bermond
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8884,7 +8878,7 @@
   }
 }
 138392 = {
-  name = "çÇ¨ô"  # Aymar
+  name = "y|¨ô"  # Aymar
   religion = "catholic"
   culture = "occitan"
   dynasty = 5103
@@ -8898,7 +8892,7 @@
   }
 }
 455455 = {
-  name = "çÇ¨ô"  # Aymar
+  name = "y|¨ô"  # Aymar
   dynasty = 233
   religion = "catholic"
   culture = "occitan"
@@ -8943,7 +8937,7 @@
   }
 }
 138393 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 5027
   religion = "catholic"
   culture = "occitan"
@@ -8979,7 +8973,7 @@
   }
 }
 138396 = {
-  name = "?ñS∑Vùå"  # Aldebert
+  name = "?ñ>i∑Vùå"  # Aldebert
   religion = "catholic"
   culture = "occitan"
   1250.1.1 = {
@@ -8990,7 +8984,7 @@
   }
 }
 321 = {
-  name = "?ñSidÇÑr}"  # Almodis
+  name = "?ñ>iidÇÑÅt"  # Almodis
   female = yes
   dynasty = 100219
   religion = "catholic"
@@ -9004,7 +8998,7 @@
   }
 }
 72431 = {
-  name = "?ñTê…b%Y≤Y"  # AdalaÔda
+  name = "?ñTê…bO≤Y"  # AdalaÔda
   female = yes
   religion = "catholic"
   culture = "occitan"
@@ -9033,7 +9027,7 @@
   }
 }
 72433 = {
-  name = "√WSÄï	V≤Y"  # Ermengarda
+  name = "√W>ièå	V≤Y"  # Ermengarda
   dynasty = 776
   female = yes
   religion = "catholic"
@@ -9063,7 +9057,7 @@
   }
 }
 72435 = {
-  name = "?ñœpr}"  # AliÁ
+  name = "?ñLNÅt"  # AliÁ
   dynasty = 776
   female = yes
   religion = "catholic"
@@ -9106,7 +9100,7 @@
   }
 }
 72438 = {
-  name = "çÇÿû·àKQ"  # Aimeric
+  name = "y|ÿû·àKQ"  # Aimeric
   dynasty = 776
   religion = "catholic"
   culture = "occitan"
@@ -9132,7 +9126,7 @@
   }
 }
 72440 = {
-  name = "çÇÿû·àKQ"  # Aimeric
+  name = "y|ÿû·àKQ"  # Aimeric
   dynasty = 776
   religion = "catholic"
   culture = "occitan"
@@ -9184,7 +9178,7 @@
   }
 }
 72443 = {
-  name = "sOSõè≤Y"  # Garcenda
+  name = "sO>iõè≤Y"  # Garcenda
   dynasty = 776
   female = yes
   religion = "catholic"
@@ -9291,7 +9285,7 @@
   }
 }
 72455 = {
-  name = "sOSõè≤Y"  # Garcenda
+  name = "sO>iõè≤Y"  # Garcenda
   dynasty = 776
   female = yes
   religion = "catholic"
@@ -9395,7 +9389,7 @@
   }
 }
 72465 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 12146
   religion = "catholic"
   culture = "occitan"
@@ -9410,7 +9404,7 @@
   }
 }
 72466 = {
-  name = "jtœpûN"  # Maria
+  name = "jtLNûN"  # Maria
   female = yes
   religion = "catholic"
   culture = "occitan"
@@ -9449,7 +9443,7 @@
   }
 }
 207542 = {
-  name = "çÇÿû·àKQ"  # Aimeric
+  name = "y|ÿû·àKQ"  # Aimeric
   dynasty = 776
   martial = 8
   diplomacy = 7
@@ -9482,7 +9476,7 @@
   }
 }
 455620 = {
-  name = "çÇÿû·àKQ"  # Aimeric
+  name = "y|ÿû·àKQ"  # Aimeric
   dynasty = 776
   martial = 7
   diplomacy = 6
@@ -9501,7 +9495,7 @@
   }
 }
 455621 = {
-  name = "çÇÿû·àKQ"  # Aimeric
+  name = "y|ÿû·àKQ"  # Aimeric
   dynasty = 776
   martial = 4
   diplomacy = 7
@@ -9549,7 +9543,7 @@
   }
 }
 138402 = {
-  name = "?ñS∑Vùå"  # Aldebert
+  name = "?ñ>i∑Vùå"  # Aldebert
   religion = "catholic"
   culture = "occitan"
   1299.1.1 = {
@@ -9640,7 +9634,7 @@
   }
 }
 127007 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 727
   martial = 8
   diplomacy = 6
@@ -9866,7 +9860,7 @@
   }
 }
 40263 = {
-  name = "sOSõè≤Y"  # Garcenda
+  name = "sO>iõè≤Y"  # Garcenda
   female = yes
   dynasty = 727
   martial = 5
@@ -9918,7 +9912,7 @@
   }
 }
 32801 = {
-  name = "çÇgQr}"  # AinËs
+  name = "y|gQÅt"  # AinËs
   female = yes
   dynasty = 727
   religion = "catholic"
@@ -9933,7 +9927,7 @@
   }
 }
 285 = {
-  name = "‘k?ñyrœpØe"  # Beatrice
+  name = "‘k?ñyrLNØe"  # Beatrice
   female = yes
   religion = "catholic"
   culture = "occitan"
@@ -9945,7 +9939,7 @@
   }
 }
 205682 = {
-  name = "?ñœpr}"  # AliÁ
+  name = "?ñLNÅt"  # AliÁ
   female = yes
   dynasty = 5092
   religion = "catholic"
@@ -9958,7 +9952,7 @@
   }
 }
 40120 = {
-  name = "?ñSíÇ"  # Armand
+  name = "?ñ>iíÇ"  # Armand
   dynasty = 733
   religion = "catholic"
   culture = "occitan"
@@ -10009,7 +10003,7 @@
   }
 }
 40136 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 13113
   religion = "catholic"
   culture = "occitan"
@@ -10066,7 +10060,7 @@
   }
 }
 91149 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 736
   religion = "catholic"
   culture = "occitan"
@@ -10122,7 +10116,7 @@
   }
 }
 205692 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   female = yes
   dynasty = 736
   religion = "catholic"
@@ -10150,7 +10144,7 @@
   }
 }
 138430 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 733
   religion = "catholic"
   culture = "occitan"
@@ -10179,7 +10173,7 @@
   }
 }
 40129 = {
-  name = "√WSÄï	V≤Y"  # Ermengarda
+  name = "√W>ièå	V≤Y"  # Ermengarda
   female = yes
   dynasty = 733
   religion = "catholic"
@@ -10226,7 +10220,7 @@
   }
 }
 206035 = {
-  name = "jtœpûN"  # Maria
+  name = "jtLNûN"  # Maria
   female = yes
   dynasty = 733
   religion = "catholic"
@@ -10283,7 +10277,7 @@
   }
 }
 206036 = {
-  name = "‰S%Y"  # Gui
+  name = "‰SO"  # Gui
   dynasty = 733
   religion = "catholic"
   culture = "occitan"
@@ -10373,7 +10367,7 @@
   }
 }
 32756 = {
-  name = "jtÇÑSTê"  # Matilda
+  name = "jtÇÑ>iTê"  # Matilda
   female = yes
   dynasty = 733
   religion = "catholic"
@@ -10600,7 +10594,7 @@
   }
 }
 213112 = {
-  name = "jtÇÑSTê"  # Matilda
+  name = "jtÇÑ>iTê"  # Matilda
   female = yes
   dynasty = 232
   religion = "catholic"
@@ -10650,7 +10644,7 @@
   }
 }
 212800 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   female = yes
   dynasty = 232
   religion = "catholic"
@@ -10680,7 +10674,7 @@
   }
 }
 138405 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   female = yes
   dynasty = 232
   religion = "catholic"
@@ -10773,7 +10767,7 @@
   }
 }
 206015 = {
-  name = "	T°\"  # Guigone
+  name = "	T∞S"  # Guigone
   female = yes
   dynasty = 232
   religion = "catholic"
@@ -10880,7 +10874,7 @@
   }
 }
 138412 = {
-  name = "?ñS>Oyr"  # Albert
+  name = "?ñ>i>Oyr"  # Albert
   dynasty = 57
   religion = "catholic"
   culture = "occitan"
@@ -10893,7 +10887,7 @@
   }
 }
 138408 = {
-  name = "?ñS>Oyr"  # Albert
+  name = "?ñ>i>Oyr"  # Albert
   dynasty = 57
   religion = "catholic"
   culture = "occitan"
@@ -10932,7 +10926,7 @@
   }
 }
 138406 = {
-  name = "?ñS>Oyr"  # Albert
+  name = "?ñ>i>Oyr"  # Albert
   dynasty = 57
   religion = "catholic"
   culture = "occitan"
@@ -10979,7 +10973,7 @@
   }
 }
 7496 = {
-  name = "?ñœpr}"  # AliÁ
+  name = "?ñLNÅt"  # AliÁ
   female = yes
   dynasty = 57
   religion = "catholic"
@@ -11024,7 +11018,7 @@
   }
 }
 462700 = {
-  name = "aSyrœpZ"  # Caterina
+  name = "aSyrLNZ"  # Caterina
   female = yes
   dynasty = 57
   religion = "catholic"
@@ -11082,7 +11076,7 @@
   }
 }
 138404 = {
-  name = "ùå…bS∑V"  # BÈrard
+  name = "ùå…b>i∑V"  # BÈrard
   dynasty = 8797
   religion = "catholic"
   culture = "occitan"
@@ -11139,7 +11133,7 @@
   }
 }
 138425 = {
-  name = "ﬁRS+Y"  # Raolf
+  name = "ﬁR>i+Y"  # Raolf
   religion = "catholic"
   culture = "occitan"
   dynasty = 5007
@@ -11151,7 +11145,7 @@
   }
 }
 138437 = {
-  name = "çÇÿû·àKQ"  # Aimeric
+  name = "y|ÿû·àKQ"  # Aimeric
   religion = "catholic"
   culture = "occitan"
   1190.1.1 = {
@@ -11162,7 +11156,7 @@
   }
 }
 138438 = {
-  name = "ÀÑ%Y"  # Gui
+  name = "ÀÑO"  # Gui
   religion = "catholic"
   culture = "occitan"
   1200.1.1 = {
@@ -11215,7 +11209,7 @@
   }
 }
 10037 = {
-  name = "%Y≤Y"  # Ida
+  name = "O≤Y"  # Ida
   female = yes
   dynasty = 100227
   religion = "catholic"
@@ -11230,7 +11224,7 @@
   }
 }
 20290 = {
-  name = "?ñSä∑V"  # Artau
+  name = "?ñ>iä∑V"  # Artau
   dynasty = 100227
   religion = "catholic"
   culture = "occitan"
@@ -11363,7 +11357,7 @@
   }
 }
 237 = {
-  name = "?ñ<hÆYr}"  # Agnes
+  name = "?ñ<hÆYÅt"  # Agnes
   female = yes
   dynasty = 413
   martial = 7
@@ -11384,7 +11378,7 @@
   }
 }
 93806 = {
-  name = "ùåS¢å"  # Bergon
+  name = "ùå>i¢å"  # Bergon
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11410,7 +11404,7 @@
   }
 }
 93808 = {
-  name = "ùåS¢å"  # Bergon
+  name = "ùå>i¢å"  # Bergon
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11462,7 +11456,7 @@
   }
 }
 93812 = {
-  name = ">O≥u∑V"  # Bernard
+  name = ">Ot∑V"  # Bernard
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11514,7 +11508,7 @@
   }
 }
 93816 = {
-  name = "?ñSYtyr-	T⁄c"  # Arnaut-GuilhËm
+  name = "?ñ>iYtyr-	T⁄c"  # Arnaut-GuilhËm
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11527,7 +11521,7 @@
   }
 }
 93817 = {
-  name = "?ñSYtyr-	T⁄c"  # Arnaut-GuilhËm
+  name = "?ñ>iYtyr-	T⁄c"  # Arnaut-GuilhËm
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11540,7 +11534,7 @@
   }
 }
 93818 = {
-  name = "gY	TS"  # Auger
+  name = "gY	T>i"  # Auger
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11553,7 +11547,7 @@
   }
 }
 93819 = {
-  name = ">O≥u∑V"  # Bernard
+  name = ">Ot∑V"  # Bernard
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11566,7 +11560,7 @@
   }
 }
 93820 = {
-  name = "?ñSYtyr-	T⁄c"  # Arnaut-GuilhËm
+  name = "?ñ>iYtyr-	T⁄c"  # Arnaut-GuilhËm
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11579,7 +11573,7 @@
   }
 }
 93821 = {
-  name = "gY	TS"  # Auger
+  name = "gY	T>i"  # Auger
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11605,7 +11599,7 @@
   }
 }
 93823 = {
-  name = "?ñSYtyr-	T⁄c"  # Arnaut-GuilhËm
+  name = "?ñ>iYtyr-	T⁄c"  # Arnaut-GuilhËm
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11618,7 +11612,7 @@
   }
 }
 93824 = {
-  name = "^+P≥uyr"  # Brunat
+  name = "^+Ptyr"  # Brunat
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11631,7 +11625,7 @@
   }
 }
 93825 = {
-  name = "?ñSYtyr-˜ñôÑ∑V"  # Arnaut-Raimond
+  name = "?ñ>iYtyr-˜ñôÑ∑V"  # Arnaut-Raimond
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11644,7 +11638,7 @@
   }
 }
 93826 = {
-  name = "?ñSYtyr-˜ñôÑ∑V"  # Arnaut-Raimond
+  name = "?ñ>iYtyr-˜ñôÑ∑V"  # Arnaut-Raimond
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11657,7 +11651,7 @@
   }
 }
 93827 = {
-  name = "?ñSYtyr-	T⁄c"  # Arnaut-GuilhËm
+  name = "?ñ>iYtyr-	T⁄c"  # Arnaut-GuilhËm
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11670,7 +11664,7 @@
   }
 }
 93828 = {
-  name = ">O≥u∑V"  # Bernard
+  name = ">Ot∑V"  # Bernard
   dynasty = 5003
   religion = "catholic"
   culture = "occitan"
@@ -11683,7 +11677,7 @@
   }
 }
 168092 = {
-  name = "âR	TS>Oä"  # Angilbotto
+  name = "âR	T>i>Oä"  # Angilbotto
   dynasty = 57
   religion = "catholic"
   culture = "occitan"
@@ -11752,7 +11746,7 @@
   }
 }
 168097 = {
-  name = "?ñS∑V>Oyr"  # Eldebert
+  name = "?ñ>i∑V>Oyr"  # Eldebert
   dynasty = 57
   religion = "catholic"
   culture = "occitan"
@@ -11805,7 +11799,7 @@
   }
 }
 168101 = {
-  name = "?ñSä∑V"  # Artaud
+  name = "?ñ>iä∑V"  # Artaud
   dynasty = 57
   religion = "catholic"
   culture = "occitan"
@@ -11844,7 +11838,7 @@
   }
 }
 168131 = {
-  name = "√WÄï≤è"  # …menon
+  name = "√Wèå≤è"  # …menon
   dynasty = 100217
   religion = "catholic"
   culture = "occitan"
@@ -11863,7 +11857,7 @@
   }
 }
 168133 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 100217
   religion = "catholic"
   culture = "occitan"
@@ -11877,7 +11871,7 @@
   }
 }
 168134 = {
-  name = "√W∑V¨ôS"  # AdhÈmar
+  name = "√W∑V¨ô>i"  # AdhÈmar
   dynasty = 100217
   religion = "catholic"
   culture = "occitan"
@@ -11905,7 +11899,7 @@
   }
 }
 168136 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 100217
   religion = "catholic"
   culture = "occitan"
@@ -11921,7 +11915,7 @@
   }
 }
 168137 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 100217
   religion = "catholic"
   culture = "occitan"
@@ -11935,7 +11929,7 @@
   }
 }
 168138 = {
-  name = "√WÄï≤è"  # …menon
+  name = "√Wèå≤è"  # …menon
   dynasty = 100217
   religion = "catholic"
   culture = "occitan"
@@ -11987,7 +11981,7 @@
   }
 }
 168148 = {
-  name = "ùåS˛ä‡V"  # Bernoin
+  name = "ùå>i˛ä‡V"  # Bernoin
   religion = "catholic"
   culture = "occitan"
   trait = "martial_cleric"
@@ -11999,7 +11993,7 @@
   }
 }
 168149 = {
-  name = "ùåSyr-Ü"  # Berteland
+  name = "ùå>iyr-Ü"  # Berteland
   dynasty = 9572
   religion = "catholic"
   culture = "occitan"
@@ -12011,7 +12005,7 @@
   }
 }
 168150 = {
-  name = "ùåS≥uyr"  # Bernat
+  name = "ùå>ityr"  # Bernat
   dynasty = 9572
   religion = "catholic"
   culture = "occitan"
@@ -12024,7 +12018,7 @@
   }
 }
 168151 = {
-  name = "ÙuÙui`"  # Vivien
+  name = "≠t≠ti`"  # Vivien
   dynasty = 9572
   religion = "catholic"
   culture = "occitan"
@@ -12062,7 +12056,7 @@
   }
 }
 168240 = {
-  name = "?ñSä∑V"  # Artau
+  name = "?ñ>iä∑V"  # Artau
   dynasty = 100227
   religion = "catholic"
   culture = "occitan"
@@ -12088,7 +12082,7 @@
   }
 }
 168242 = {
-  name = "?ñSä∑V"  # Artau
+  name = "?ñ>iä∑V"  # Artau
   dynasty = 100227
   religion = "catholic"
   culture = "occitan"
@@ -12101,7 +12095,7 @@
   }
 }
 168243 = {
-  name = "?ñSä∑V"  # Artau
+  name = "?ñ>iä∑V"  # Artau
   dynasty = 100227
   religion = "catholic"
   culture = "occitan"
@@ -12129,7 +12123,7 @@
   }
 }
 200110 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 386
   father = 205564
   mother = 205555
@@ -12146,7 +12140,7 @@
   }
 }
 200111 = {
-  name = "Ö	TS"  # Rogier
+  name = "Ö	T>i"  # Rogier
   dynasty = 386
   father = 200110
   mother = 72083
@@ -12192,7 +12186,7 @@
   }
 }
 200114 = {
-  name = "?ñSYtyr"  # Arnaut
+  name = "?ñ>iYtyr"  # Arnaut
   dynasty = 386
   father = 200111
   mother = 200112
@@ -12269,7 +12263,7 @@
   }
 }
 200124 = {
-  name = "ùå?ñyrœp(É"  # Beatritz
+  name = "ùå?ñyrLN(É"  # Beatritz
   female = yes
   dynasty = 386
   father = 200114
@@ -12284,7 +12278,7 @@
   }
 }
 200125 = {
-  name = "ùå…bS∑V-	T⁄c"  # BÈrard-GuilhËm
+  name = "ùå…b>i∑V-	T⁄c"  # BÈrard-GuilhËm
   dynasty = 100220
   father = 205580
   trait = bastard
@@ -12301,7 +12295,7 @@
   }
 }
 200137 = {
-  name = "√WSÄï	V≤Y"  # Ermengarda
+  name = "√W>ièå	V≤Y"  # Ermengarda
   female = yes
   dynasty = 40021
   father = 7663
@@ -12371,7 +12365,7 @@
   }
 }
 190480 = {
-  name = "·w˛äS∑V"  # Hunoald
+  name = "·w˛ä>i∑V"  # Hunoald
   dynasty = 1044111
   religion = "catholic"
   culture = "occitan"
@@ -12410,7 +12404,7 @@
   }
 }
 190481 = {
-  name = "Oõ’lS"  # Waifar
+  name = "Oõ’l>i"  # Waifar
   dynasty = 1044111
   religion = "catholic"
   culture = "occitan"
@@ -12487,7 +12481,7 @@
   }
 }
 190485 = {
-  name = "?ñTêS·àKQ"  # Adalric
+  name = "?ñTê>i·àKQ"  # Adalric
   dynasty = 1044111
   religion = "catholic"
   culture = "occitan"
@@ -12552,7 +12546,7 @@
   }
 }
 190490 = {
-  name = "Y≥uyr Ávnf"  # Donat Loup
+  name = "Ytyr Ávnf"  # Donat Loup
   dynasty = 1044111
   religion = "catholic"
   culture = "occitan"
@@ -12673,7 +12667,7 @@
   }
 }
 190499 = {
-  name = "™u'S∆Y"  # Guillaume
+  name = "t/O∆Y"  # Guillaume
   dynasty = 1044112
   religion = "catholic"
   culture = "occitan"
@@ -12685,7 +12679,7 @@
   }
 }
 190500 = {
-  name = "ùåSyr-Ü"  # Bertrand
+  name = "ùå>iyr-Ü"  # Bertrand
   dynasty = 1044112
   religion = "catholic"
   culture = "occitan"
@@ -12698,7 +12692,7 @@
   }
 }
 190501 = {
-  name = "™u'S∆Y"  # Guillaume
+  name = "t/O∆Y"  # Guillaume
   dynasty = 1044112
   religion = "catholic"
   culture = "occitan"
@@ -12736,7 +12730,7 @@
   }
 }
 190504 = {
-  name = "œpS<hóg"  # Wulgrin
+  name = "œp>i<hóg"  # Wulgrin
   dynasty = 541
   religion = "catholic"
   culture = "occitan"
@@ -12748,7 +12742,7 @@
   }
 }
 190505 = {
-  name = "œpS<hóg"  # Wulgrin
+  name = "œp>i<hóg"  # Wulgrin
   dynasty = 541
   religion = "catholic"
   culture = "occitan"
@@ -12812,7 +12806,7 @@
   }
 }
 190510 = {
-  name = "çÇ,g"  # Abbon
+  name = "y|,g"  # Abbon
   dynasty = 1044115
   religion = "catholic"
   culture = "occitan"
@@ -12824,7 +12818,7 @@
   }
 }
 260600 = {
-  name = "·àYS"  # Richard
+  name = "·àY>i"  # Richard
   religion = catholic
   culture = occitan
   888.1.1 = {
@@ -12835,7 +12829,7 @@
   }
 }
 260601 = {
-  name = "?ñØe≥uS"  # Aznar
+  name = "?ñØet>i"  # Aznar
   dynasty = 1062257
   religion = catholic
   culture = occitan
@@ -12847,7 +12841,7 @@
   }
 }
 400 = {
-  name = "ÖyrZSS"  # Rotbold
+  name = "ÖyrZS>i"  # Rotbold
   dynasty = 7052
   martial = 5
   diplomacy = 5
@@ -12910,7 +12904,7 @@
   }
 }
 167000 = {
-  name = "mlS"  # Lothaire
+  name = "ml>i"  # Lothaire
   dynasty = 7052
   religion = "catholic"
   culture = "occitan"
@@ -12927,7 +12921,7 @@
   }
 }
 7928 = {
-  name = "?ñSTê"  # Alda
+  name = "?ñ>iTê"  # Alda
   female = yes
   dynasty = 7052
   martial = 6
@@ -12950,7 +12944,7 @@
   }
 }
 190533 = {
-  name = ",Ñ∑VS´ÉTê"  # Wandelmoda
+  name = ",Ñ∑V>i´ÉTê"  # Wandelmoda
   female = yes
   religion = "catholic"
   culture = "occitan"
@@ -12976,7 +12970,7 @@
   }
 }
 190545 = {
-  name = "yrTêS"  # Tedald
+  name = "yrTê>i"  # Tedald
   dynasty = 796
   religion = "catholic"
   culture = "occitan"
@@ -13020,7 +13014,7 @@
   }
 }
 190548 = {
-  name = "·à^S∑V"  # Richilde
+  name = "·à^>i∑V"  # Richilde
   female = yes
   dynasty = 7052
   religion = "catholic"

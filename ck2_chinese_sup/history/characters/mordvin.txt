@@ -11,7 +11,7 @@
   }
 }
 6850 = {
-  name = "?–Sƒl"  # Arvo
+  name = "?–>iƒl"  # Arvo
   dynasty = 1053014
   religion = finnish_pagan
   culture = mordvin
@@ -61,7 +61,7 @@
   }
 }
 6854 = {
-  name = "Ë—SaS"  # Velmayka
+  name = "Ë—>iaS"  # Velmayka
   dynasty = 1053013
   religion = finnish_pagan
   culture = mordvin
@@ -73,7 +73,7 @@
   }
 }
 20628 = {
-  name = "ÔkžNS"  # Biyar
+  name = "ÔkžN>i"  # Biyar
   dynasty = 1053000
   martial = 4
   diplomacy = 5
@@ -94,7 +94,7 @@
   }
 }
 20629 = {
-  name = "W"o"  # Tuhan
+  name = "W1f"  # Tuhan
   dynasty = 1053001
   martial = 7
   diplomacy = 7
@@ -185,7 +185,7 @@
   }
 }
 143146 = {
-  name = "ntSaS"  # Syrka
+  name = "nt>iaS"  # Syrka
   dynasty = 1053000
   religion = "finnish_pagan"
   culture = mordvin
@@ -211,7 +211,7 @@
   }
 }
 159709 = {
-  name = "nfS	T…m^2ƒ"  # Purginepaz
+  name = "nf>i	T…m^2ƒ"  # Purginepaz
   religion = "finnish_pagan"
   culture = mordvin
   dynasty = 1029105
@@ -295,7 +295,7 @@
   }
 }
 228071 = {
-  name = "%YÈTÉb"  # Ihala
+  name = "OÈTÉb"  # Ihala
   dynasty = 1053006
   martial = 4
   diplomacy = 6
@@ -312,7 +312,7 @@
   }
 }
 160114 = {
-  name = "‚·VS-©……hGY"  # Shudyr-Samych
+  name = "‚·V>i-©……hGY"  # Shudyr-Samych
   religion = "finnish_pagan"
   culture = mordvin
   dynasty = 1029108
@@ -325,7 +325,7 @@
   }
 }
 160115 = {
-  name = "?–ßo#"  # Azyren
+  name = "?–ßo2‡"  # Azyren
   religion = "finnish_pagan"
   culture = mordvin
   dynasty = 1029108
@@ -351,7 +351,7 @@
   }
 }
 160117 = {
-  name = "†Syr"  # Surt
+  name = "†>iyr"  # Surt
   religion = "finnish_pagan"
   culture = mordvin
   dynasty = 1029108
@@ -403,7 +403,7 @@
   }
 }
 160128 = {
-  name = "ætSüf^2ƒ"  # Varmanpaz
+  name = "æt>iüf^2ƒ"  # Varmanpaz
   religion = "finnish_pagan"
   culture = mordvin
   dynasty = 1029105
@@ -416,7 +416,7 @@
   }
 }
 160120 = {
-  name = "¬™¯eŠS^2ƒ"  # Mastorpaz
+  name = "¬™¯eŠ>i^2ƒ"  # Mastorpaz
   religion = "finnish_pagan"
   culture = mordvin
   dynasty = 1029105
@@ -455,7 +455,7 @@
   }
 }
 160126 = {
-  name = "³uSaS"  # Nalka
+  name = "t>iaS"  # Nalka
   religion = "finnish_pagan"
   culture = mordvin
   dynasty = 1029104
@@ -506,7 +506,7 @@
   }
 }
 194150 = {
-  name = "†Syr"  # Surt
+  name = "†>iyr"  # Surt
   dynasty = 1029107
   religion = finnish_pagan
   culture = mordvin
@@ -518,7 +518,7 @@
   }
 }
 194151 = {
-  name = "aSST2ƒ"  # Kardaz
+  name = "aS>iT2ƒ"  # Kardaz
   dynasty = 1029107
   religion = finnish_pagan
   culture = mordvin
@@ -556,7 +556,7 @@
   }
 }
 194154 = {
-  name = "‚„KQ™l%YaS"  # Tikshayka
+  name = "‚„KQ™lOaS"  # Tikshayka
   dynasty = 1029105
   religion = finnish_pagan
   culture = mordvin
@@ -569,7 +569,7 @@
   }
 }
 194155 = {
-  name = "aSST2ƒ"  # Kardaz
+  name = "aS>iT2ƒ"  # Kardaz
   dynasty = 1045025
   religion = finnish_pagan
   culture = mordvin
@@ -593,7 +593,7 @@
   }
 }
 194160 = {
-  name = "®v+Y¡c%Y"  # Pivtsay
+  name = "®v+Y¡cO"  # Pivtsay
   dynasty = 1029104
   religion = finnish_pagan
   culture = mordvin
@@ -644,7 +644,7 @@
   }
 }
 194164 = {
-  name = "?–ßo#"  # Azyren
+  name = "?–ßo2‡"  # Azyren
   dynasty = 1045026
   religion = finnish_pagan
   culture = mordvin
@@ -657,7 +657,7 @@
   }
 }
 194166 = {
-  name = "·VS¢Œ"  # Dergun
+  name = "·V>i¢Œ"  # Dergun
   dynasty = 1045027
   religion = finnish_pagan
   culture = mordvin
@@ -683,7 +683,7 @@
   }
 }
 256103 = {
-  name = "·VS¢Œ"  # Dergun
+  name = "·V>i¢Œ"  # Dergun
   dynasty = 1061058
   religion = finnish_pagan
   culture = mordvin
@@ -695,7 +695,7 @@
   }
 }
 256104 = {
-  name = "yrS¤o"  # Tylze
+  name = "yr>i³f"  # Tylze
   dynasty = 1061058
   father = 256103
   religion = finnish_pagan
@@ -747,7 +747,7 @@
   }
 }
 256126 = {
-  name = "Ñy‚S"  # Koshel
+  name = "Ñy‚>i"  # Koshel
   dynasty = 1029104
   father = 256129
   religion = orthodox
@@ -773,7 +773,7 @@
   }
 }
 256128 = {
-  name = "3usO%Y"  # Shindyay
+  name = "3usOO"  # Shindyay
   dynasty = 1029104
   father = 256130
   religion = orthodox
@@ -837,7 +837,7 @@
   }
 }
 260742 = {
-  name = "ôuáˆžN¯e"  # Viryas
+  name = "­táˆžN¯e"  # Viryas
   dynasty = 1062363
   religion = finnish_pagan
   culture = mordvin
@@ -885,7 +885,7 @@
   }
 }
 260772 = {
-  name = "ôuSnl"  # Virdyan
+  name = "­t>inl"  # Virdyan
   dynasty = 1062383
   religion = finnish_pagan
   culture = mordvin

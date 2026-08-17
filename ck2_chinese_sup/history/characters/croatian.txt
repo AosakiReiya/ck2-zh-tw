@@ -1,5 +1,5 @@
 20381 = {
-  name = "iOTXS"  # Petar
+  name = "iOTX>i"  # Petar
   dynasty = 101874
   martial = 6
   diplomacy = 5
@@ -55,7 +55,7 @@
   }
 }
 8600 = {
-  name = "yrÆvs|S"  # Trpimir
+  name = "yrÆvs|>i"  # Trpimir
   dynasty = 512
   martial = 5
   diplomacy = 6
@@ -93,7 +93,7 @@
   }
 }
 8602 = {
-  name = "iOTXS"  # Petar
+  name = "iOTX>i"  # Petar
   dynasty = 512
   martial = 7
   diplomacy = 6
@@ -112,7 +112,7 @@
   }
 }
 8603 = {
-  name = "ôÑJüs|S"  # Muncimir
+  name = "ôÑJüs|>i"  # Muncimir
   dynasty = 512
   martial = 6
   diplomacy = 6
@@ -151,7 +151,7 @@
   }
 }
 8605 = {
-  name = "yrÆvs|S"  # Trpimir
+  name = "yrÆvs|>i"  # Trpimir
   dynasty = 512
   martial = 7
   diplomacy = 6
@@ -170,7 +170,7 @@
   }
 }
 8606 = {
-  name = "KQ˜ñ^s|S"  # Kresimir
+  name = "KQ˜ñ^s|>i"  # Kresimir
   dynasty = 512
   martial = 5
   diplomacy = 5
@@ -227,7 +227,7 @@
   }
 }
 8612 = {
-  name = "ØewcXo ∑VSÂeØe…b+Y"  # Stjepan Drzislav
+  name = "ØewcXo ∑V>iÂeØe…b+Y"  # Stjepan Drzislav
   dynasty = 512
   martial = 5
   diplomacy = 8
@@ -265,7 +265,7 @@
   }
 }
 8616 = {
-  name = "KQ˜ñ^s|S"  # Kresimir
+  name = "KQ˜ñ^s|>i"  # Kresimir
   dynasty = 512
   martial = 5
   diplomacy = 8
@@ -284,7 +284,7 @@
   }
 }
 8618 = {
-  name = "b%YØe…b+Y"  # Gojslav
+  name = "bOØe…b+Y"  # Gojslav
   dynasty = 512
   martial = 5
   diplomacy = 5
@@ -327,7 +327,7 @@
   }
 }
 8622 = {
-  name = "KQ˜ñ^s|S"  # Kresimir
+  name = "KQ˜ñ^s|>i"  # Kresimir
   dynasty = 512
   martial = 8
   diplomacy = 6
@@ -374,7 +374,7 @@
   }
 }
 8624 = {
-  name = "ÂgØeÇÑs|S"  # Castimir
+  name = "ÂgØeÇÑs|>i"  # Castimir
   dynasty = 512
   martial = 4
   diplomacy = 7
@@ -419,7 +419,7 @@
   }
 }
 8628 = {
-  name = "2ÉÉl<Ss|S"  # Zvonimir
+  name = "2ÉÉl<Ss|>i"  # Zvonimir
   dynasty = 512
   martial = 4
   diplomacy = 8
@@ -443,7 +443,7 @@
     add_spouse = 475
   }
   1075.1.1 = {
-    name = "∑Vs|TXS-2ÉÉl<Ss|S"  # Dmitar-Zvonimir
+    name = "∑Vs|TX>i-2ÉÉl<Ss|>i"  # Dmitar-Zvonimir
   }
   1089.4.20 = {
     death = "1089.4.20"
@@ -468,7 +468,7 @@
   }
 }
 8634 = {
-  name = "KQ˜ñ^s|S"  # Kresimir
+  name = "KQ˜ñ^s|>i"  # Kresimir
   dynasty = 512
   martial = 6
   diplomacy = 5
@@ -490,8 +490,7 @@
   }
 }
 8635 = {
-  name = "6w
-ÑZ"  # Jelena
+  name = "6w˚ÉZ"  # Jelena
   female = yes
   martial = 4
   diplomacy = 9
@@ -510,7 +509,7 @@
   }
 }
 8636 = {
-  name = "yrÆvs|S"  # Trpimir
+  name = "yrÆvs|>i"  # Trpimir
   dynasty = 512
   martial = 5
   diplomacy = 6
@@ -530,7 +529,7 @@
   }
 }
 8638 = {
-  name = "FzÇÑs|S"  # Mutimir
+  name = "FzÇÑs|>i"  # Mutimir
   dynasty = 512
   martial = 7
   diplomacy = 8
@@ -633,7 +632,7 @@
   }
 }
 32595 = {
-  name = "<h‰SS"  # Grgur
+  name = "<h‰S>i"  # Grgur
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -646,7 +645,7 @@
   }
 }
 32596 = {
-  name = "fk%Y=k"  # Vuicin
+  name = "fkOLb"  # Vuicin
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -659,7 +658,7 @@
   }
 }
 32597 = {
-  name = "nf·à‘k≥u"  # Pribina
+  name = "nf·à‘kt"  # Pribina
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -672,7 +671,7 @@
   }
 }
 32598 = {
-  name = "¨ôS—y"  # Marko
+  name = "¨ô>i—y"  # Marko
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -737,7 +736,7 @@
   }
 }
 32603 = {
-  name = "3S…b%Y"  # Juraj
+  name = "3S…bO"  # Juraj
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -750,7 +749,7 @@
   }
 }
 32604 = {
-  name = "<h‰SS"  # Grgur
+  name = "<h‰S>i"  # Grgur
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -776,7 +775,7 @@
   }
 }
 32606 = {
-  name = "fkGY≥u"  # Vucina
+  name = "fkGYt"  # Vucina
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -802,7 +801,7 @@
   }
 }
 32608 = {
-  name = "¨ôS—y"  # Marko
+  name = "¨ô>i—y"  # Marko
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -867,7 +866,7 @@
   }
 }
 32613 = {
-  name = "%Y)RûN"  # Illija
+  name = "O)RûN"  # Illija
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -893,7 +892,7 @@
   }
 }
 32615 = {
-  name = "s|»T%Ym"  # Mihajlo
+  name = "s|»TOm"  # Mihajlo
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -919,7 +918,7 @@
   }
 }
 32617 = {
-  name = "<h‰SS"  # Grgur
+  name = "<h‰S>i"  # Grgur
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -932,7 +931,7 @@
   }
 }
 32618 = {
-  name = "3S…b%Y"  # Juraj
+  name = "3S…bO"  # Juraj
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -972,7 +971,7 @@
   }
 }
 32622 = {
-  name = "%Y,Ñ"  # Ivan
+  name = "O,Ñ"  # Ivan
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -985,7 +984,7 @@
   }
 }
 32623 = {
-  name = "9N<SS"  # Daniel
+  name = "9N<S>i"  # Daniel
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -1024,7 +1023,7 @@
   }
 }
 32626 = {
-  name = "¨ôS—y"  # Marko
+  name = "¨ô>i—y"  # Marko
   dynasty = 18005
   religion = "catholic"
   culture = "croatian"
@@ -1095,7 +1094,7 @@
   }
 }
 32631 = {
-  name = "Ùu∑V"  # Vid
+  name = "≠t∑V"  # Vid
   dynasty = 19024
   religion = "catholic"
   culture = "croatian"
@@ -1121,7 +1120,7 @@
   }
 }
 32633 = {
-  name = "Ùu∑V"  # Vid
+  name = "≠t∑V"  # Vid
   dynasty = 19024
   religion = "catholic"
   culture = "croatian"
@@ -1160,7 +1159,7 @@
   }
 }
 32636 = {
-  name = "kg%Y¨ô"  # Dujma
+  name = "kgO¨ô"  # Dujma
   dynasty = 19024
   religion = "catholic"
   culture = "croatian"
@@ -1193,7 +1192,7 @@
   }
 }
 220002 = {
-  name = "<h‰SS"  # Grgur
+  name = "<h‰S>i"  # Grgur
   dynasty = 18005
   martial = 7
   diplomacy = 6
@@ -1236,7 +1235,7 @@
   }
 }
 470002 = {
-  name = "3S…b%Y"  # Juraj
+  name = "3S…bO"  # Juraj
   dynasty = 18005
   martial = 8
   diplomacy = 8
@@ -1299,7 +1298,7 @@
   }
 }
 470007 = {
-  name = "%Y,Ñ"  # Ivan
+  name = "O,Ñ"  # Ivan
   dynasty = 100461
   martial = 6
   diplomacy = 8
@@ -1320,7 +1319,7 @@
   }
 }
 470008 = {
-  name = "ZSÂeTêS"  # Bozidar
+  name = "ZSÂeTê>i"  # Bozidar
   dynasty = 18005
   martial = 5
   diplomacy = 6
@@ -1363,8 +1362,7 @@
   }
 }
 470010 = {
-  name = "6w
-ÑZ"  # Jelena
+  name = "6w˚ÉZ"  # Jelena
   female = yes
   dynasty = 18005
   martial = 5
@@ -1385,7 +1383,7 @@
   }
 }
 470011 = {
-  name = "3S…b%Y"  # Juraj
+  name = "3S…bO"  # Juraj
   dynasty = 18005
   martial = 4
   diplomacy = 6
@@ -1443,7 +1441,7 @@
   }
 }
 470022 = {
-  name = "%YœpéÉùåTX"  # Elizabeta
+  name = "OLNéÉùåTX"  # Elizabeta
   female = yes
   dynasty = 18005
   martial = 5
@@ -1464,7 +1462,7 @@
   }
 }
 219990 = {
-  name = "kg%Y¨ô"  # Dujma
+  name = "kgO¨ô"  # Dujma
   dynasty = 19024
   martial = 7
   diplomacy = 5
@@ -1481,7 +1479,7 @@
   }
 }
 219991 = {
-  name = "ÙTäS"  # Bartol
+  name = "ÙTä>i"  # Bartol
   dynasty = 19024
   martial = 2
   diplomacy = 5
@@ -1499,7 +1497,7 @@
   }
 }
 219992 = {
-  name = "Ùu∑V"  # Vid
+  name = "≠t∑V"  # Vid
   dynasty = 19024
   martial = 6
   diplomacy = 7
@@ -1534,7 +1532,7 @@
   }
 }
 470021 = {
-  name = "kg%Y¨ô"  # Dujma
+  name = "kgO¨ô"  # Dujma
   dynasty = 19024
   martial = 4
   diplomacy = 6
@@ -1557,7 +1555,7 @@
   }
 }
 470023 = {
-  name = "%YœpéÉùåTX"  # Elizabeta
+  name = "OLNéÉùåTX"  # Elizabeta
   female = yes
   dynasty = 19024
   martial = 5
@@ -1579,7 +1577,7 @@
   }
 }
 470024 = {
-  name = "ÙTäS"  # Bartol
+  name = "ÙTä>i"  # Bartol
   dynasty = 19024
   martial = 4
   diplomacy = 6
@@ -1611,7 +1609,7 @@
   }
 }
 93540 = {
-  name = "^XS	T6w"  # Sergije
+  name = "^X>i	T6w"  # Sergije
   dynasty = 100464
   religion = "catholic"
   culture = "croatian"
@@ -1754,7 +1752,7 @@
   }
 }
 93553 = {
-  name = "ÖhS´^·à6w"  # Merkurije
+  name = "Öh>i´^·à6w"  # Merkurije
   dynasty = 100464
   religion = "catholic"
   culture = "croatian"
@@ -1805,7 +1803,7 @@
   }
 }
 93557 = {
-  name = "iOTXS"  # Petar
+  name = "iOTX>i"  # Petar
   dynasty = 7376
   religion = "catholic"
   culture = "croatian"
@@ -1818,7 +1816,7 @@
   }
 }
 93558 = {
-  name = "∑VÉl<Ss|S"  # Dvonimir
+  name = "∑VÉl<Ss|>i"  # Dvonimir
   dynasty = 7376
   religion = "catholic"
   culture = "croatian"
@@ -1831,7 +1829,7 @@
   }
 }
 93559 = {
-  name = "iOTXS"  # Petar
+  name = "iOTX>i"  # Petar
   dynasty = 7376
   religion = "catholic"
   culture = "croatian"
@@ -1867,7 +1865,7 @@
   }
 }
 74045 = {
-  name = "bØeäs|S"  # Gostomil
+  name = "bØeäs|>i"  # Gostomil
   dynasty = 12284
   religion = "slavic_pagan"
   culture = "croatian"
@@ -1883,7 +1881,7 @@
   }
 }
 74046 = {
-  name = "Ûgäs|ØeS"  # Ljutomisl
+  name = "Ûgäs|Øe>i"  # Ljutomisl
   dynasty = 12284
   religion = "slavic_pagan"
   culture = "croatian"
@@ -1899,7 +1897,7 @@
   }
 }
 167855 = {
-  name = "Y¨ôb%Y"  # Domagoj
+  name = "Y¨ôbO"  # Domagoj
   dynasty = 100462
   religion = "catholic"
   culture = "croatian"
@@ -1912,7 +1910,7 @@
   }
 }
 167856 = {
-  name = "%Y)R—y"  # Iljko
+  name = "O)R—y"  # Iljko
   dynasty = 100462
   religion = "catholic"
   culture = "croatian"
@@ -1925,7 +1923,7 @@
   }
 }
 167857 = {
-  name = "^…b<Ss|S"  # Branimir
+  name = "^…b<Ss|>i"  # Branimir
   dynasty = 100462
   religion = "catholic"
   culture = "croatian"
@@ -1950,7 +1948,7 @@
   }
 }
 168293 = {
-  name = "â)Rs|S"  # Silimir
+  name = "â)Rs|>i"  # Silimir
   dynasty = 9586
   religion = "slavic_pagan"
   culture = "croatian"
@@ -1966,7 +1964,7 @@
   }
 }
 168294 = {
-  name = "Él%Y˛äs|S"  # Vojnomir
+  name = "ÉlO˛äs|>i"  # Vojnomir
   dynasty = 9586
   religion = "slavic_pagan"
   culture = "croatian"
@@ -1982,7 +1980,7 @@
   }
 }
 168295 = {
-  name = "Ûg„NÙuyr"  # Ljudevit
+  name = "Ûg„N≠tyr"  # Ljudevit
   dynasty = 9586
   religion = "catholic"
   culture = "croatian"
@@ -2008,7 +2006,7 @@
   }
 }
 168297 = {
-  name = "Ùu^X∑V…b<h"  # Visedrag
+  name = "≠t^X∑V…b<h"  # Visedrag
   dynasty = 9586
   religion = "catholic"
   culture = "croatian"
@@ -2021,7 +2019,7 @@
   }
 }
 168298 = {
-  name = "…bÇÑs|S"  # Ratimir
+  name = "…bÇÑs|>i"  # Ratimir
   dynasty = 9586
   religion = "catholic"
   culture = "croatian"
@@ -2143,7 +2141,7 @@
   }
 }
 146002 = {
-  name = "KQm<Ss|S"  # Klonimir
+  name = "KQm<Ss|>i"  # Klonimir
   dynasty = 512
   religion = "slavic_pagan"
   culture = "croatian"
@@ -2159,7 +2157,7 @@
   }
 }
 146003 = {
-  name = "ZSS≥u"  # Borna
+  name = "ZS>it"  # Borna
   dynasty = 512
   religion = "slavic_pagan"
   culture = "croatian"
@@ -2175,7 +2173,7 @@
   }
 }
 146004 = {
-  name = "ÙuÇØe…b+Y"  # Viseslav
+  name = "≠tÇØe…b+Y"  # Viseslav
   dynasty = 512
   religion = "slavic_pagan"
   culture = "croatian"
@@ -2191,7 +2189,7 @@
   }
 }
 146005 = {
-  name = "^Íès|S"  # Budimir
+  name = "^Íès|>i"  # Budimir
   dynasty = 512
   religion = "slavic_pagan"
   culture = "croatian"
@@ -2203,7 +2201,7 @@
   }
 }
 146006 = {
-  name = "Y‘ks|S"  # Dobimir
+  name = "Y‘ks|>i"  # Dobimir
   dynasty = 100462
   religion = "catholic"
   culture = "croatian"
@@ -2216,7 +2214,7 @@
   }
 }
 146007 = {
-  name = "KQ˜ñÆvs|S"  # Krepimir
+  name = "KQ˜ñÆvs|>i"  # Krepimir
   dynasty = 100462
   religion = "catholic"
   culture = "croatian"
@@ -2244,7 +2242,7 @@
   }
 }
 146179 = {
-  name = "ÙuÇÑs|S"  # Vitimir
+  name = "≠tÇÑs|>i"  # Vitimir
   dynasty = 12284
   religion = "slavic_pagan"
   culture = "croatian"
@@ -2257,7 +2255,7 @@
   }
 }
 146180 = {
-  name = "∑VSÂeØe…b+Y"  # Drzislav
+  name = "∑V>iÂeØe…b+Y"  # Drzislav
   dynasty = 12284
   religion = "slavic_pagan"
   culture = "croatian"
@@ -2296,7 +2294,7 @@
   }
 }
 146183 = {
-  name = "∑V…bbs|S"  # Dragomir
+  name = "∑V…bbs|>i"  # Dragomir
   dynasty = 12284
   religion = "slavic_pagan"
   culture = "croatian"
@@ -2309,7 +2307,7 @@
   }
 }
 146184 = {
-  name = "yr+YSYØe…b+Y"  # Tvrdoslav
+  name = "yr+Y>iYØe…b+Y"  # Tvrdoslav
   dynasty = 12284
   religion = "slavic_pagan"
   culture = "croatian"
@@ -2321,7 +2319,7 @@
   }
 }
 146009 = {
-  name = "iOTXS"  # Petar
+  name = "iOTX>i"  # Petar
   dynasty = 9560
   religion = "slavic_pagan"
   culture = "croatian"
@@ -2384,7 +2382,7 @@
   }
 }
 260061 = {
-  name = "ûNSV"  # Adam
+  name = "ûNvl"  # Adam
   dynasty = 1062029
   religion = "slavic_pagan"
   culture = "croatian"
@@ -2408,7 +2406,7 @@
   }
 }
 260643 = {
-  name = "ûNSV"  # Adam
+  name = "ûNvl"  # Adam
   dynasty = 1062283
   religion = catholic
   culture = croatian
@@ -2420,7 +2418,7 @@
   }
 }
 260644 = {
-  name = "∑V…bbs|S"  # Dragomir
+  name = "∑V…bbs|>i"  # Dragomir
   dynasty = 1062284
   religion = catholic
   culture = croatian
@@ -2432,7 +2430,7 @@
   }
 }
 262800 = {
-  name = "iOTXS"  # Petar
+  name = "iOTX>i"  # Petar
   dynasty = 512
   religion = catholic
   culture = croatian

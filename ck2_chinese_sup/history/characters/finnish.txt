@@ -13,7 +13,7 @@
   }
 }
 144634 = {
-  name = "gY%Yæt"  # Oiva
+  name = "gYOæt"  # Oiva
   dynasty = 100388
   religion = "finnish_pagan"
   culture = finnish
@@ -29,8 +29,7 @@
   }
 }
 28004 = {
-  name = "aS
-„ôu"  # Kalevi
+  name = "aSûƒ­t"  # Kalevi
   dynasty = 100388
   religion = "finnish_pagan"
   culture = finnish
@@ -56,7 +55,7 @@
   }
 }
 170112 = {
-  name = "%YÈTÉb"  # Ihala
+  name = "OÈTÉb"  # Ihala
   dynasty = 100388
   religion = "finnish_pagan"
   culture = finnish
@@ -82,7 +81,7 @@
   }
 }
 170114 = {
-  name = "Ë—%YgQ"  # Väinö
+  name = "Ë—OgQ"  # Väinö
   dynasty = 100388
   religion = "finnish_pagan"
   culture = finnish
@@ -134,7 +133,7 @@
   }
 }
 144635 = {
-  name = "ƒl%YŠ"  # Voitto
+  name = "ƒlOŠ"  # Voitto
   dynasty = 100382
   religion = "finnish_pagan"
   culture = "finnish"
@@ -173,7 +172,7 @@
   }
 }
 144641 = {
-  name = "%YÈTÉb"  # Ihala
+  name = "OÈTÉb"  # Ihala
   dynasty = 100384
   religion = "finnish_pagan"
   culture = "finnish"
@@ -212,7 +211,7 @@
   }
 }
 20612 = {
-  name = "©…TXÅ–SaS"  # Satajalka
+  name = "©…TXÅ–>iaS"  # Satajalka
   dynasty = 100382
   religion = "finnish_pagan"
   culture = "finnish"
@@ -250,7 +249,7 @@
   }
 }
 228004 = {
-  name = "‚«ƒ"  # Aimo
+  name = "y|«ƒ"  # Aimo
   dynasty = 100388
   martial = 4
   diplomacy = 6
@@ -317,7 +316,7 @@
   }
 }
 228010 = {
-  name = "ƒl%YŠ"  # Voitto
+  name = "ƒlOŠ"  # Voitto
   dynasty = 100389
   martial = 8
   diplomacy = 4
@@ -334,7 +333,7 @@
   }
 }
 228011 = {
-  name = "%YÈTÉb"  # Ihala
+  name = "OÈTÉb"  # Ihala
   dynasty = 100384
   martial = 4
   diplomacy = 6
@@ -427,7 +426,7 @@
   }
 }
 28010 = {
-  name = "ƒl%YŠ"  # Voitto
+  name = "ƒlOŠ"  # Voitto
   dynasty = 100389
   martial = 8
   diplomacy = 4
@@ -470,7 +469,7 @@
   }
 }
 159715 = {
-  name = "aSSáw"  # Karhu
+  name = "aS>iáw"  # Karhu
   religion = "finnish_pagan"
   culture = finnish
   dynasty = 1029144
@@ -484,7 +483,7 @@
   }
 }
 428070 = {
-  name = "gY%Yæt"  # Oiva
+  name = "gYOæt"  # Oiva
   dynasty = 100579
   martial = 7
   diplomacy = 7
@@ -715,7 +714,7 @@
   }
 }
 170131 = {
-  name = "%YÈTÉb"  # Ihala
+  name = "OÈTÉb"  # Ihala
   dynasty = 100384
   religion = "finnish_pagan"
   culture = "finnish"
@@ -767,7 +766,7 @@
   }
 }
 170135 = {
-  name = "%YÈTÉb"  # Ihala
+  name = "OÈTÉb"  # Ihala
   dynasty = 100384
   religion = "finnish_pagan"
   culture = "finnish"
@@ -780,7 +779,7 @@
   }
 }
 170136 = {
-  name = "ƒl%YŠ"  # Voitto
+  name = "ƒlOŠ"  # Voitto
   dynasty = 100382
   religion = "finnish_pagan"
   culture = "finnish"
@@ -793,7 +792,7 @@
   }
 }
 170137 = {
-  name = "©…TXÅ–SaS"  # Satajalka
+  name = "©…TXÅ–>iaS"  # Satajalka
   dynasty = 100382
   religion = "finnish_pagan"
   culture = "finnish"
@@ -819,7 +818,7 @@
   }
 }
 170139 = {
-  name = "ƒl%YŠ"  # Voitto
+  name = "ƒlOŠ"  # Voitto
   dynasty = 100382
   religion = "finnish_pagan"
   culture = "finnish"
@@ -845,8 +844,7 @@
   }
 }
 20618 = {
-  name = "aS
-„æt"  # Kaleva
+  name = "aSûƒæt"  # Kaleva
   dynasty = 100386
   religion = "finnish_pagan"
   culture = "lappish"
@@ -872,7 +870,7 @@
   }
 }
 143127 = {
-  name = "3SSæt"  # Jurva
+  name = "3S>iæt"  # Jurva
   dynasty = 100386
   religion = "finnish_pagan"
   culture = "finnish"
@@ -882,15 +880,14 @@
   }
   1158.1.1 = {
     culture = "lappish"
-    name = "Œv%Yôu"  # Baeivi
+    name = "ŒvO­t"  # Baeivi
   }
   1187.1.1 = {
     death = "1187.1.1"
   }
 }
 228001 = {
-  name = "aS
-„æt"  # Kaleva
+  name = "aSûƒæt"  # Kaleva
   dynasty = 100386
   religion = "finnish_pagan"
   culture = "finnish"
@@ -900,15 +897,14 @@
   }
   1158.1.1 = {
     culture = "lappish"
-    name = "ªR¦uÉb"  # Njuolla
+    name = "ªRtÉb"  # Njuolla
   }
   1230.1.1 = {
     death = "1230.1.1"
   }
 }
 170141 = {
-  name = "aS
-„æt"  # Kaleva
+  name = "aSûƒæt"  # Kaleva
   dynasty = 100386
   religion = "finnish_pagan"
   culture = "finnish"
@@ -921,7 +917,7 @@
   }
 }
 170142 = {
-  name = "3SSæt"  # Jurva
+  name = "3S>iæt"  # Jurva
   dynasty = 100386
   religion = "finnish_pagan"
   culture = "finnish"
@@ -947,8 +943,7 @@
   }
 }
 170144 = {
-  name = "aS
-„æt"  # Kaleva
+  name = "aSûƒæt"  # Kaleva
   dynasty = 100386
   religion = "finnish_pagan"
   culture = "finnish"
@@ -961,7 +956,7 @@
   }
 }
 170145 = {
-  name = "3SSæt"  # Jurva
+  name = "3S>iæt"  # Jurva
   dynasty = 100386
   religion = "finnish_pagan"
   culture = "finnish"
@@ -987,7 +982,7 @@
   }
 }
 160132 = {
-  name = "iO%Yôu„S"  # Päiviö
+  name = "iOO­t„S"  # Päiviö
   religion = "finnish_pagan"
   culture = finnish
   dynasty = 1029144
@@ -1013,7 +1008,7 @@
   }
 }
 160130 = {
-  name = "Š%Yƒl"  # Toivo
+  name = "ŠOƒl"  # Toivo
   religion = "finnish_pagan"
   culture = finnish
   dynasty = 1029144
@@ -1026,7 +1021,7 @@
   }
 }
 170306 = {
-  name = "%YÈTÉb"  # Ihala
+  name = "OÈTÉb"  # Ihala
   dynasty = 100384
   religion = "finnish_pagan"
   culture = "finnish"
@@ -1038,7 +1033,7 @@
   }
 }
 170307 = {
-  name = "ðlS—"  # Terho
+  name = "ðl>i—"  # Terho
   dynasty = 100384
   religion = "finnish_pagan"
   culture = "finnish"
@@ -1064,7 +1059,7 @@
   }
 }
 170309 = {
-  name = "iO%Yôu„S"  # Päiviö
+  name = "iOO­t„S"  # Päiviö
   dynasty = 100382
   religion = "finnish_pagan"
   culture = "finnish"
@@ -1089,7 +1084,7 @@
   }
 }
 170311 = {
-  name = "©…TXÅ–SaS"  # Satajalka
+  name = "©…TXÅ–>iaS"  # Satajalka
   dynasty = 100382
   religion = "finnish_pagan"
   culture = "finnish"
@@ -1102,7 +1097,7 @@
   }
 }
 170312 = {
-  name = "iO%Yôu„S"  # Päiviö
+  name = "iOO­t„S"  # Päiviö
   dynasty = 100382
   religion = "finnish_pagan"
   culture = "finnish"
@@ -1255,8 +1250,7 @@
   }
 }
 170324 = {
-  name = "
-„…h‚„"  # Lemetti
+  name = "ûƒ…h‚„"  # Lemetti
   dynasty = 100388
   religion = "finnish_pagan"
   culture = "finnish"
@@ -1268,7 +1262,7 @@
   }
 }
 170325 = {
-  name = "%YÈTÉb"  # Ihala
+  name = "OÈTÉb"  # Ihala
   dynasty = 100388
   religion = "finnish_pagan"
   culture = "finnish"
@@ -1281,7 +1275,7 @@
   }
 }
 170326 = {
-  name = "Ë—%YgQ"  # Väinö
+  name = "Ë—OgQ"  # Väinö
   dynasty = 100388
   religion = "finnish_pagan"
   culture = "finnish"
@@ -1294,8 +1288,7 @@
   }
 }
 170327 = {
-  name = "
-„…h‚„"  # Lemetti
+  name = "ûƒ…h‚„"  # Lemetti
   dynasty = 100388
   religion = "finnish_pagan"
   culture = "finnish"
@@ -1333,8 +1326,7 @@
   }
 }
 170330 = {
-  name = "aS
-„æt"  # Kaleva
+  name = "aSûƒæt"  # Kaleva
   dynasty = 100386
   religion = "finnish_pagan"
   culture = "finnish"
@@ -1373,7 +1365,7 @@
   }
 }
 194125 = {
-  name = "gY%Yæt"  # Oiva
+  name = "gYOæt"  # Oiva
   dynasty = 1029144
   religion = finnish_pagan
   culture = finnish
@@ -1411,7 +1403,7 @@
   }
 }
 194128 = {
-  name = "‚«ƒ"  # Aimo
+  name = "y|«ƒ"  # Aimo
   dynasty = 1029143
   religion = finnish_pagan
   culture = finnish
@@ -1449,7 +1441,7 @@
   }
 }
 256023 = {
-  name = "iO%Yôu„S"  # Päiviö
+  name = "iOO­t„S"  # Päiviö
   dynasty = 1061004
   religion = finnish_pagan
   culture = finnish
@@ -1461,7 +1453,7 @@
   }
 }
 256024 = {
-  name = "ƒl%YŠ"  # Voitto
+  name = "ƒlOŠ"  # Voitto
   dynasty = 1061005
   religion = finnish_pagan
   culture = finnish
@@ -1473,7 +1465,7 @@
   }
 }
 256025 = {
-  name = "¬™SÑy"  # Marko
+  name = "¬™>iÑy"  # Marko
   dynasty = 1061006
   religion = finnish_pagan
   culture = finnish

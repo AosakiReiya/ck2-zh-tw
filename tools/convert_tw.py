@@ -36,11 +36,75 @@ OPENCC = OpenCC("s2twp")
 
 ESCAPES = (0x10, 0x11, 0x12, 0x13)
 
+# 52漢化 escape SHIFT 編碼:顯示字元碼 = payload + 偏移
+# 0x10 原碼;0x11 = +0x0F;0x12 = +0x900;0x13 = +0x8F1(=0x900-0x0F)
+PREF_SHIFT = {0x10: 0, 0x11: 0x0F, 0x12: 0x900, 0x13: 0x8F1}
+
+# payload 位元組若等於這些值,會破壞 localisation 檔解析(CK2 載入 csv 的
+# 行/欄語法)。集合 = 52漢化原廠簡體 csv 中「從未在 escape payload 用過」的值
+# (0x0A/0x22/0x3B/0x5B/0x5D/0x20 等語法敏感字,原廠一律避開 → 我們也避開)
+DANGER_BYTES = {0x00, 0x0A, 0x0D, 0x20, 0x22, 0x23, 0x24, 0x3A, 0x3B, 0x3D,
+                0x40, 0x5B, 0x5C, 0x5D, 0x5F, 0x7B, 0x7D, 0x7E, 0x80, 0xA3,
+                0xA4, 0xA7, 0xBD}
+
+
+def escape_cp(prefix: int, payload: int) -> int:
+    return payload + PREF_SHIFT.get(prefix, 0)
+
+
+# 行級致命:這些位元組會切行/截斷,任何形式都必須避開(優先於避諱)
+CRITICAL_BYTES = {0x00, 0x0A, 0x0D}
+
+
+def encode_cp(prefix: int, cp: int):
+    """把字元碼 cp 以某 prefix 編碼,回傳 (prefix, lo, hi)。
+
+    形式選擇:
+    1. 沿原 prefix,payload 兩字節都不在 DANGER_BYTES → 用
+    2. 否則依 (0x13, 0x12, 0x11, 0x10) 找「lo 不在 CRITICAL」的形式
+       (0x13 低字節偏移 0x0F、0x12 高字節 -9、0x11 低字節 +0x0F 輪流避)
+    3. 全部失敗 → 0x10 原碼(僅剩避諱級風險,不切行)
+    """
+    def make(p, c):
+        raw = c - PREF_SHIFT.get(p, 0)
+        return p, raw & 0xFF, (raw >> 8) & 0xFF
+
+    def full_safe(p, c):
+        if c < PREF_SHIFT.get(p, 0):
+            return None
+        _, lo, hi = make(p, c)
+        if lo in DANGER_BYTES or hi in DANGER_BYTES:
+            return None
+        return p, lo, hi
+
+    def critical_safe(p, c):
+        if c < PREF_SHIFT.get(p, 0):
+            return None
+        _, lo, hi = make(p, c)
+        if lo in CRITICAL_BYTES:
+            return None
+        return p, lo, hi
+
+    r = full_safe(prefix, cp)
+    if r:
+        return r
+    for alt in (0x13, 0x12, 0x11, 0x10):
+        r = full_safe(alt, cp)
+        if r:
+            return r
+    for alt in (0x13, 0x12, 0x11, 0x10):
+        r = critical_safe(alt, cp)
+        if r:
+            return r
+    return make(0x10, cp)  # 只剩避諱級風險
+
 
 # ---------- 解碼 / 編碼 ----------
 
 def _is_cjk_escape(cp: int) -> bool:
-    return 0x4E00 <= cp <= 0x9FFF or 0x3400 <= cp <= 0x4DBF or 0x3040 <= cp <= 0x30FF
+    """escape 有效範圍:CJK 統一表意 + 擴展 A + 假名 + CJK 標點/符號(0x2000-0x36FF,含「…」0x2026)"""
+    return (0x4E00 <= cp <= 0x9FFF or 0x3400 <= cp <= 0x4DBF or 0x3040 <= cp <= 0x30FF
+            or 0x2000 <= cp <= 0x36FF or 0xFE30 <= cp <= 0xFFEF)
 
 
 def decode_escape(b: bytes):
@@ -71,7 +135,7 @@ def decode_escape(b: bytes):
 
     while i < n:
         if b[i] in ESCAPES and i + 2 < n:
-            cp = b[i + 1] | (b[i + 2] << 8)
+            cp = escape_cp(b[i], b[i + 1] | (b[i + 2] << 8))
             if _is_cjk_escape(cp):
                 flush()
                 out.append(chr(cp))
@@ -90,9 +154,10 @@ def encode_escape(s: str, prefixes: dict, raw_latin: set = None) -> bytes:
     out = bytearray()
     for i, ch in enumerate(s):
         if i in prefixes:
-            out.append(prefixes[i])
-            out.append(ord(ch) & 0xFF)
-            out.append((ord(ch) >> 8) & 0xFF)
+            p, lo, hi = encode_cp(prefixes[i], ord(ch))
+            out.append(p)
+            out.append(lo)
+            out.append(hi)
         elif i in raw_latin:
             out.append(ord(ch) & 0xFF)
         else:
@@ -288,12 +353,14 @@ def convert_bytes_inplace(data: bytes) -> bytes:
         n = len(data)
         while i < n:
             if data[i] in ESCAPES and i + 2 < n:
-                cp = data[i + 1] | (data[i + 2] << 8)
+                pc = data[i]
+                cp = escape_cp(pc, data[i + 1] | (data[i + 2] << 8))
                 if _is_cjk_escape(cp):
                     ncp = conv_cp(cp)
-                    out.append(data[i])
-                    out.append(ncp & 0xFF)
-                    out.append((ncp >> 8) & 0xFF)
+                    p, lo, hi = encode_cp(pc, ncp)
+                    out.append(p)
+                    out.append(lo)
+                    out.append(hi)
                     i += 3
                     continue
             out.append(data[i])

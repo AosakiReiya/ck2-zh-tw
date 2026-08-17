@@ -46,7 +46,7 @@
   }
 }
 20637 = {
-  name = "%Y^"  # Ipa
+  name = "O^"  # Ipa
   dynasty = 100514
   martial = 5
   diplomacy = 4
@@ -64,7 +64,7 @@
   }
 }
 20640 = {
-  name = "ôTSb"  # Balgor
+  name = "ôT>ib"  # Balgor
   dynasty = 100541
   martial = 4
   diplomacy = 4
@@ -101,7 +101,7 @@
   }
 }
 20642 = {
-  name = "«^S"  # Küre
+  name = "«^>i"  # Küre
   dynasty = 100543
   martial = 7
   diplomacy = 7
@@ -118,7 +118,7 @@
   }
 }
 475420 = {
-  name = "Ê•S9N"  # Kortan
+  name = "Ê•>i9N"  # Kortan
   dynasty = 100542
   martial = 7
   diplomacy = 8
@@ -175,7 +175,7 @@
   }
 }
 34808 = {
-  name = "ôTŠS"  # Bator
+  name = "ôTŠ>i"  # Bator
   dynasty = 1051136
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -200,7 +200,7 @@
   }
 }
 34810 = {
-  name = "Ê•S9N"  # Kortan
+  name = "Ê•>i9N"  # Kortan
   dynasty = 1051136
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -257,7 +257,7 @@
   }
 }
 34815 = {
-  name = "%YSãN%Y"  # Ildey
+  name = "O>iãNO"  # Ildey
   religion = "tengri_pagan"
   culture = "pecheneg"
   1095.1.1 = {
@@ -290,7 +290,7 @@
   }
 }
 34818 = {
-  name = "yrŒS"  # Teber
+  name = "yrŒ>i"  # Teber
   religion = "tengri_pagan"
   culture = "pecheneg"
   1095.1.1 = {
@@ -328,7 +328,7 @@
   }
 }
 180174 = {
-  name = "1tS"  # Sol
+  name = "1t>i"  # Sol
   dynasty = 1042052
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -422,7 +422,7 @@
   }
 }
 180175 = {
-  name = "Ê•SÇRğl"  # Kourkoutai
+  name = "Ê•>iÇRğl"  # Kourkoutai
   dynasty = 1042052
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -453,7 +453,7 @@
   }
 }
 180177 = {
-  name = "Ê•S9N"  # Kortan
+  name = "Ê•>i9N"  # Kortan
   dynasty = 1042052
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -470,8 +470,7 @@
   }
 }
 180178 = {
-  name = "^Xôu
-„"  # Sevilay
+  name = "^X­tûƒ"  # Sevilay
   female = yes
   dynasty = 1042052
   religion = "tengri_pagan"
@@ -502,7 +501,7 @@
   }
 }
 180228 = {
-  name = "Ñy<SS"  # Konel
+  name = "Ñy<S>i"  # Konel
   dynasty = 1042054
   religion = "manichean"
   culture = "pecheneg"
@@ -624,8 +623,7 @@
   }
 }
 180235 = {
-  name = "„S2ƒ
-„ÆY"  # Özlem
+  name = "„S2ƒûƒÆY"  # Özlem
   female = yes
   dynasty = 1042051
   religion = "tengri_pagan"
@@ -701,7 +699,7 @@
   }
 }
 180240 = {
-  name = "‚(R¯e"  # Ipaos
+  name = "y|(R¯e"  # Ipaos
   dynasty = 1042055
   religion = "manichean"
   culture = "pecheneg"
@@ -813,7 +811,7 @@
   }
 }
 180248 = {
-  name = "%YSê2ƒ"  # Yildiz
+  name = "O>iê2ƒ"  # Yildiz
   female = yes
   dynasty = 1042042
   religion = "tengri_pagan"
@@ -952,7 +950,7 @@
   }
 }
 188812 = {
-  name = "yrs|S"  # Temir
+  name = "yrs|>i"  # Temir
   dynasty = 1042054
   religion = "manichean"
   culture = "pecheneg"
@@ -967,7 +965,7 @@
   }
 }
 188813 = {
-  name = "‚N¼–"  # Ayasun
+  name = "y|N¼–"  # Ayasun
   female = yes
   dynasty = 1042052
   religion = "tengri_pagan"
@@ -993,7 +991,7 @@
   }
 }
 188815 = {
-  name = "ÏpYRŒKQ"  # Usunbike
+  name = "ÏpkRŒKQ"  # Usunbike
   female = yes
   dynasty = 1042052
   religion = "manichean"
@@ -1020,7 +1018,7 @@
   }
 }
 188818 = {
-  name = "l<háˆ"  # Celgil
+  name = "j<háˆ"  # Celgil
   dynasty = 1042051
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1099,7 +1097,7 @@
   }
 }
 256056 = {
-  name = "ÑyS«^fW"  # Korkutan
+  name = "Ñy>i«^fW"  # Korkutan
   dynasty = 1061036
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1135,8 +1133,7 @@
   }
 }
 258086 = {
-  name = "Ôk
-„S"  # Bülär
+  name = "Ôkûƒ>i"  # Bülär
   dynasty = 1100008
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1160,8 +1157,7 @@
   }
 }
 258088 = {
-  name = "ÃW
-„"  # Äyle
+  name = "ÃWûƒ"  # Äyle
   dynasty = 1100010
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1209,7 +1205,7 @@
   }
 }
 260696 = {
-  name = "%Y^ÄO¯e"  # Ipaos
+  name = "O^ÄO¯e"  # Ipaos
   dynasty = 1062322
   religion = tengri_pagan
   culture = pecheneg

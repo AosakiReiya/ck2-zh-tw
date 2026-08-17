@@ -1,5 +1,5 @@
 122502 = {
-  name = "?ñ≥uØeTXÉmZ"  # Anastasia
+  name = "?ñtØeTXÉmZ"  # Anastasia
   female = yes
   religion = "orthodox"
   culture = "alan"
@@ -11,7 +11,7 @@
   }
 }
 20662 = {
-  name = "kgS‰S“R"  # Durgulel
+  name = "kg>i‰S“R"  # Durgulel
   dynasty = 100603
   martial = 7
   diplomacy = 4
@@ -32,7 +32,7 @@
   }
 }
 20664 = {
-  name = "^S‰S"  # Bu¸rgur
+  name = "^>i‰S"  # Bu¸rgur
   dynasty = 100602
   martial = 6
   diplomacy = 4
@@ -68,7 +68,7 @@
   }
 }
 20666 = {
-  name = "TêÙuyr"  # Davit
+  name = "Tê≠tyr"  # Davit
   dynasty = 100606
   martial = 4
   diplomacy = 5
@@ -116,7 +116,7 @@
   }
 }
 222671 = {
-  name = "jtœpûN"  # Maria
+  name = "jtLNûN"  # Maria
   female = yes
   religion = "orthodox"
   culture = "alan"
@@ -147,7 +147,7 @@
   }
 }
 228063 = {
-  name = "œpWS´^"  # Uturku
+  name = "œpW>i´^"  # Uturku
   dynasty = 100604
   martial = 8
   diplomacy = 4
@@ -165,7 +165,7 @@
   }
 }
 228064 = {
-  name = "^S‰S"  # Gorgun
+  name = "^>i‰S"  # Gorgun
   dynasty = 100605
   martial = 6
   diplomacy = 6
@@ -197,7 +197,7 @@
   }
 }
 228065 = {
-  name = "%YTXS"  # Iltar
+  name = "OTX>i"  # Iltar
   dynasty = 100606
   martial = 4
   diplomacy = 8
@@ -233,7 +233,7 @@
   }
 }
 41592 = {
-  name = "˜ñØemVÍèûNS"  # Respendial
+  name = "˜ñØemVÍèûN>i"  # Respendial
   dynasty = 100603
   martial = 7
   diplomacy = 4
@@ -250,7 +250,7 @@
   }
 }
 41593 = {
-  name = "%Y3tZ"  # Irina
+  name = "O3tZ"  # Irina
   female = yes
   dynasty = 100603
   martial = 7
@@ -386,7 +386,7 @@
   }
 }
 9956 = {
-  name = "?ñSTê"  # Alda
+  name = "?ñ>iTê"  # Alda
   female = yes
   dynasty = 100603
   martial = 8
@@ -472,7 +472,7 @@
   }
 }
 93039 = {
-  name = "aSÙu–cûN"  # Kavtia
+  name = "aS≠t–cûN"  # Kavtia
   dynasty = 100606
   religion = "orthodox"
   culture = "alan"
@@ -549,7 +549,7 @@
   }
 }
 93045 = {
-  name = "?ñ<h©ÖSfW"  # Aghsartan
+  name = "?ñ<h©Ö>ifW"  # Aghsartan
   dynasty = 100604
   religion = "orthodox"
   culture = "alan"
@@ -562,7 +562,7 @@
   }
 }
 93046 = {
-  name = "	TS¢å"  # Girgon
+  name = "	T>i¢å"  # Girgon
   dynasty = 100604
   religion = "orthodox"
   culture = "alan"
@@ -588,7 +588,7 @@
   }
 }
 194416 = {
-  name = "%YTX2É"  # Itaz
+  name = "OTX2É"  # Itaz
   dynasty = 100606
   religion = "sunni"
   culture = "alan"
@@ -615,7 +615,7 @@
   }
 }
 93048 = {
-  name = "TêÙuyr"  # Davit
+  name = "Tê≠tyr"  # Davit
   dynasty = 100606
   religion = "orthodox"
   culture = "alan"
@@ -646,7 +646,7 @@
     birth = "1160.1.1"
   }
   1189.1.1 = {
-    name = "TêÙuyr"  # Davit
+    name = "Tê≠tyr"  # Davit
     add_spouse = 466517
   }
   1207.1.1 = {
@@ -674,7 +674,7 @@
   }
 }
 9959 = {
-  name = "TêÙuyr"  # Davit
+  name = "Tê≠tyr"  # Davit
   dynasty = 507
   martial = 7
   diplomacy = 5
@@ -715,7 +715,7 @@
   }
 }
 9958 = {
-  name = "%Y˜ñÆY"  # Irene
+  name = "O˜ñÆY"  # Irene
   female = yes
   dynasty = 507
   martial = 4
@@ -754,7 +754,7 @@
   }
 }
 74027 = {
-  name = "´^ÙTS"  # Kubal
+  name = "´^ÙT>i"  # Kubal
   dynasty = 12271
   culture = "alan"
   religion = "tengri_pagan"
@@ -779,8 +779,7 @@
   }
 }
 183223 = {
-  name = "
-Ñ,Ñ"  # Levan
+  name = "˚É,Ñ"  # Levan
   dynasty = 1029056
   father = 163118
   religion = "orthodox"
@@ -829,7 +828,7 @@
   }
 }
 183226 = {
-  name = "√WSùå<h"  # ∆lbeg
+  name = "√W>iùå<h"  # ∆lbeg
   dynasty = 1029058
   religion = "orthodox"
   culture = "alan"
@@ -842,7 +841,7 @@
   }
 }
 183227 = {
-  name = "»TØeaSS"  # Hasqar
+  name = "»TØeaS>i"  # Hasqar
   dynasty = 1029058
   father = 183226
   religion = "orthodox"
@@ -855,7 +854,7 @@
   }
 }
 183228 = {
-  name = "çÇØeyr"  # Istor
+  name = "y|Øeyr"  # Istor
   dynasty = 1029058
   father = 183226
   religion = "orthodox"
@@ -871,7 +870,7 @@
   }
 }
 183229 = {
-  name = "œg^X£ï"  # Balsag
+  name = "œg^X≤å"  # Balsag
   dynasty = 1029058
   father = 183227
   religion = "orthodox"
@@ -995,7 +994,7 @@
   }
 }
 183237 = {
-  name = "ÙuY—yûN"  # Vedokha
+  name = "≠tY—yûN"  # Vedokha
   female = yes
   dynasty = 1029057
   father = 183231
@@ -1026,7 +1025,7 @@
   }
 }
 183239 = {
-  name = "çÇ`^"  # Aspar
+  name = "y|`^"  # Aspar
   dynasty = 1029070
   father = 183238
   religion = "orthodox"
@@ -1108,7 +1107,7 @@
   }
 }
 183247 = {
-  name = "NbœpS"  # Zaur
+  name = "Nbœp>i"  # Zaur
   dynasty = 1029060
   father = 183245
   religion = "orthodox"
@@ -1121,8 +1120,7 @@
   }
 }
 183248 = {
-  name = "KQ
-Ñ—y©Öl"  # Chelakhsartag
+  name = "KQ˚É—y©Öl"  # Chelakhsartag
   dynasty = 1029060
   father = 183245
   religion = "tengri_pagan"
@@ -1162,7 +1160,7 @@
   }
 }
 146206 = {
-  name = "ÙTS©Ö"  # Balsag
+  name = "ÙT>i©Ö"  # Balsag
   dynasty = 1022383
   culture = "alan"
   religion = "tengri_pagan"
@@ -1214,7 +1212,7 @@
   }
 }
 146210 = {
-  name = "wS"  # Kaur
+  name = "w>i"  # Kaur
   dynasty = 1022384
   culture = "alan"
   religion = "tengri_pagan"
@@ -1226,7 +1224,7 @@
   }
 }
 146211 = {
-  name = "´^S"  # Kul
+  name = "´^>i"  # Kul
   dynasty = 1022384
   culture = "alan"
   religion = "tengri_pagan"
@@ -1239,7 +1237,7 @@
   }
 }
 146212 = {
-  name = ""o´^â"  # Khankhusy
+  name = "1f´^â"  # Khankhusy
   dynasty = 1022385
   culture = "alan"
   religion = "tengri_pagan"
@@ -1264,7 +1262,7 @@
   }
 }
 248080 = {
-  name = "ÕuS"  # Zaur
+  name = "9t>i"  # Zaur
   dynasty = 0
   religion = "orthodox"
   culture = "alan"
@@ -1283,7 +1281,7 @@
   }
 }
 248081 = {
-  name = "Õui`"  # Suarn
+  name = "9ti`"  # Suarn
   dynasty = 0
   religion = "orthodox"
   culture = "alan"
@@ -1302,7 +1300,7 @@
   }
 }
 258082 = {
-  name = "^STXØe"  # Burtas
+  name = "^>iTXØe"  # Burtas
   dynasty = 1100004
   religion = "manichean"
   culture = "alan"
@@ -1341,7 +1339,7 @@
   }
 }
 260698 = {
-  name = "ÙTâS"  # Basil
+  name = "ÙTâ>i"  # Basil
   dynasty = 1062324
   religion = manichean
   culture = alan
@@ -1353,7 +1351,7 @@
   }
 }
 260992 = {
-  name = "ùåS"  # Ber
+  name = "ùå>i"  # Ber
   dynasty = 1029056
   religion = orthodox
   culture = alan
@@ -1366,7 +1364,7 @@
   }
 }
 260993 = {
-  name = "ÙTâS"  # Basil
+  name = "ÙTâ>i"  # Basil
   dynasty = 1029056
   religion = orthodox
   culture = alan

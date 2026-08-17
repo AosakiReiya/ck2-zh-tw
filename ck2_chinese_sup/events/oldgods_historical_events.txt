@@ -173,7 +173,7 @@ character_event = {
       owner = {
         create_character = {
           random_traits = no
-          name = "^³uŠKQ"  # Palnatoke
+          name = "^tŠKQ"  # Palnatoke
           religion = norse_pagan
           culture = norse
           dynasty = none
@@ -304,7 +304,7 @@ province_event = {
       holder = FROMFROM
     }
     b_kolbatz = {
-      set_name = "¦uÆY¯e!X"  # Jomsborg
+      set_name = "tÆY¯e!X"  # Jomsborg
     }
     hidden_tooltip = {
       owner = {
@@ -384,7 +384,7 @@ character_event = {
       owner = {
         create_character = {
           random_traits = no
-          name = "^³uŠKQ"  # Palnatoke
+          name = "^tŠKQ"  # Palnatoke
           religion = norse_pagan
           culture = norse
           dynasty = none
@@ -518,7 +518,7 @@ province_event = {
       holder = FROMFROM
     }
     b_zussow = {
-      set_name = "¦uÆY¯e!X"  # Jomsborg
+      set_name = "tÆY¯e!X"  # Jomsborg
     }
     hidden_tooltip = {
       FROMFROM = {
@@ -598,7 +598,7 @@ character_event = {
       owner = {
         create_character = {
           random_traits = no
-          name = "^³uŠKQ"  # Palnatoke
+          name = "^tŠKQ"  # Palnatoke
           religion = norse_pagan
           culture = norse
           dynasty = none
@@ -729,7 +729,7 @@ province_event = {
       holder = FROMFROM
     }
     b_putbus = {
-      set_name = "¦uÆY¯e!X"  # Jomsborg
+      set_name = "tÆY¯e!X"  # Jomsborg
     }
     hidden_tooltip = {
       FROMFROM = {
@@ -809,7 +809,7 @@ character_event = {
       owner = {
         create_character = {
           random_traits = no
-          name = "^³uŠKQ"  # Palnatoke
+          name = "^tŠKQ"  # Palnatoke
           religion = norse_pagan
           culture = norse
           dynasty = none
@@ -940,7 +940,7 @@ province_event = {
       holder = FROMFROM
     }
     b_tribsees = {
-      set_name = "¦uÆY¯e!X"  # Jomsborg
+      set_name = "tÆY¯e!X"  # Jomsborg
     }
     hidden_tooltip = {
       FROMFROM = {

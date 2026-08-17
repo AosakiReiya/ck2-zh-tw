@@ -45,7 +45,7 @@
   }
 }
 106012 = {
-  name = "»ŒSWSY"  # Fernando
+  name = "»Œ>iWSY"  # Fernando
   dynasty = 442
   martial = 7
   diplomacy = 8
@@ -94,7 +94,7 @@
   }
 }
 106014 = {
-  name = "ÃWS…h›²Y"  # Ermesinda
+  name = "ÃW>i…h›²Y"  # Ermesinda
   female = yes
   dynasty = 442
   martial = 7
@@ -117,7 +117,7 @@
   }
 }
 106015 = {
-  name = "¬™¦uS"  # Maior
+  name = "¬™t>i"  # Maior
   female = yes
   dynasty = 442
   martial = 6
@@ -276,7 +276,7 @@
   }
 }
 106023 = {
-  name = "€•‰mZ"  # Mentzia
+  name = "Œ‰mZ"  # Mentzia
   female = yes
   dynasty = 442
   martial = 4
@@ -589,7 +589,7 @@
   }
 }
 206512 = {
-  name = "jt	VÏpTX"  # Margarita
+  name = "jt	VLNTX"  # Margarita
   female = yes
   dynasty = 277
   martial = 6
@@ -651,7 +651,7 @@
   }
 }
 457610 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   female = yes
   dynasty = 778
   father = 457611
@@ -727,7 +727,7 @@
   }
 }
 70069 = {
-  name = "?–Sæt"  # Alvar
+  name = "?–>iæt"  # Alvar
   dynasty = 8613
   martial = 6
   diplomacy = 5
@@ -795,7 +795,7 @@
   }
 }
 70072 = {
-  name = "gYSY<SgY"  # Ordoño
+  name = "gY>iY<SgY"  # Ordoño
   dynasty = 8613
   martial = 6
   diplomacy = 7
@@ -838,7 +838,7 @@
   }
 }
 70074 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   female = yes
   dynasty = 8614
   martial = 4
@@ -1079,7 +1079,7 @@
   }
 }
 70130 = {
-  name = "?–¯e³uS"  # Aznar
+  name = "?–¯et>i"  # Aznar
   dynasty = 8615
   martial = 6
   diplomacy = 5
@@ -1336,7 +1336,7 @@
   }
 }
 70226 = {
-  name = "€•‰mZ"  # Mentzia
+  name = "Œ‰mZ"  # Mentzia
   female = yes
   dynasty = 778
   martial = 4
@@ -1555,7 +1555,7 @@
   }
 }
 70296 = {
-  name = "?–¯e³uS"  # Aznar
+  name = "?–¯et>i"  # Aznar
   dynasty = 8617
   martial = 5
   diplomacy = 4
@@ -1715,7 +1715,7 @@
   }
 }
 71344 = {
-  name = "?–Sæt"  # Alvar
+  name = "?–>iæt"  # Alvar
   dynasty = 8613
   religion = "catholic"
   culture = "basque"
@@ -1743,7 +1743,7 @@
   }
 }
 71346 = {
-  name = "?–SqgßR"  # Aldontza
+  name = "?–>iqgßR"  # Aldontza
   dynasty = 8613
   female = yes
   religion = "catholic"
@@ -1803,7 +1803,7 @@
   }
 }
 71350 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   dynasty = 8613
   female = yes
   religion = "catholic"
@@ -1917,7 +1917,7 @@
   }
 }
 71491 = {
-  name = "%YÏpŽƒŒv"  # Elisabet
+  name = "OLNŽƒŒv"  # Elisabet
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -1932,7 +1932,7 @@
   }
 }
 71506 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   dynasty = 778
   female = yes
   father = 72027
@@ -1961,7 +1961,7 @@
   }
 }
 71508 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -2005,7 +2005,7 @@
   }
 }
 71534 = {
-  name = "ÃWSÔkÉb"  # Elbira
+  name = "ÃW>iÔkÉb"  # Elbira
   dynasty = 277
   female = yes
   religion = "catholic"
@@ -2212,7 +2212,7 @@
   }
 }
 71573 = {
-  name = "?–Sæt"  # Alvar
+  name = "?–>iæt"  # Alvar
   dynasty = 7001
   religion = "catholic"
   culture = "basque"
@@ -2244,8 +2244,7 @@
   }
 }
 71575 = {
-  name = "%Y
-„Nb"  # Eliza
+  name = "OûƒNb"  # Eliza
   female = yes
   dynasty = 7001
   father = 71573
@@ -2286,7 +2285,7 @@
   }
 }
 71722 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   female = yes
   dynasty = 12111
   father = 71976
@@ -2330,7 +2329,7 @@
   }
 }
 71922 = {
-  name = "ŒÉbr}Ðc"  # Belaskita
+  name = "ŒÉbtÐc"  # Belaskita
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -2357,7 +2356,7 @@
   }
 }
 71924 = {
-  name = "¢ŒNbS"  # Gontzal
+  name = "¢ŒNb>i"  # Gontzal
   dynasty = 8613
   religion = "catholic"
   culture = "basque"
@@ -2370,8 +2369,7 @@
   }
 }
 71925 = {
-  name = "yraS
-„"  # Tekla
+  name = "yraSûƒ"  # Tekla
   dynasty = 8613
   female = yes
   religion = "catholic"
@@ -2443,7 +2441,7 @@
   }
 }
 71930 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   dynasty = 12113
   female = yes
   religion = "catholic"
@@ -2629,7 +2627,7 @@
   }
 }
 71954 = {
-  name = "?–SqgßR"  # Aldontza
+  name = "?–>iqgßR"  # Aldontza
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -2644,7 +2642,7 @@
   }
 }
 71955 = {
-  name = "ÃWSÔkÉb"  # Elbira
+  name = "ÃW>iÔkÉb"  # Elbira
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -2689,7 +2687,7 @@
   }
 }
 71958 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -2800,7 +2798,7 @@
   }
 }
 71965 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -2815,7 +2813,7 @@
   }
 }
 71966 = {
-  name = "€•‰mZ"  # Mentzia
+  name = "Œ‰mZ"  # Mentzia
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -2845,7 +2843,7 @@
   }
 }
 71968 = {
-  name = "?–SqgßR"  # Aldontza
+  name = "?–>iqgßR"  # Aldontza
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -2892,7 +2890,7 @@
   }
 }
 71971 = {
-  name = "?–Sæt"  # Alvar
+  name = "?–>iæt"  # Alvar
   dynasty = 778
   religion = "catholic"
   culture = "basque"
@@ -2906,7 +2904,7 @@
   }
 }
 71972 = {
-  name = "€•‰mZ"  # Mentzia
+  name = "Œ‰mZ"  # Mentzia
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -2921,7 +2919,7 @@
   }
 }
 71973 = {
-  name = "Œ+P RÏpmZ"  # Berengaria
+  name = "Œ+P RLNmZ"  # Berengaria
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -3001,7 +2999,7 @@
   }
 }
 71979 = {
-  name = "?–Sæt"  # Alvar
+  name = "?–>iæt"  # Alvar
   dynasty = 12111
   father = 71976
   mother = 142326
@@ -3018,7 +3016,7 @@
   }
 }
 71981 = {
-  name = "‚gQr}"  # Aines
+  name = "y|gQt"  # Aines
   dynasty = 12111
   female = yes
   religion = "catholic"
@@ -3064,7 +3062,7 @@
   }
 }
 71985 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   dynasty = 12111
   female = yes
   religion = "catholic"
@@ -3079,7 +3077,7 @@
   }
 }
 71986 = {
-  name = "?–Sæt"  # Alvar
+  name = "?–>iæt"  # Alvar
   dynasty = 12111
   religion = "catholic"
   culture = "basque"
@@ -3147,7 +3145,7 @@
   }
 }
 71991 = {
-  name = "ÃWSÔkÉb"  # Elbira
+  name = "ÃW>iÔkÉb"  # Elbira
   dynasty = 12111
   female = yes
   religion = "catholic"
@@ -3179,7 +3177,7 @@
   }
 }
 71993 = {
-  name = "‚kgSr}mZ"  # Endulcia
+  name = "y|kg>itmZ"  # Endulcia
   female = yes
   religion = "catholic"
   culture = "basque"
@@ -3267,7 +3265,7 @@
   }
 }
 72000 = {
-  name = "‚s|Ïp"  # Emili
+  name = "y|s|LN"  # Emili
   dynasty = 101909
   female = yes
   religion = "catholic"
@@ -3282,7 +3280,7 @@
   }
 }
 72001 = {
-  name = "‚gQr}"  # Aines
+  name = "y|gQt"  # Aines
   dynasty = 101909
   female = yes
   religion = "catholic"
@@ -3297,7 +3295,7 @@
   }
 }
 72002 = {
-  name = "‚s|Ïp"  # Emili
+  name = "y|s|LN"  # Emili
   female = yes
   religion = "catholic"
   culture = "basque"
@@ -3325,7 +3323,7 @@
   }
 }
 72004 = {
-  name = "‚gQr}"  # Aines
+  name = "y|gQt"  # Aines
   dynasty = 101909
   female = yes
   religion = "catholic"
@@ -3403,7 +3401,7 @@
   }
 }
 72010 = {
-  name = "¬™¦uS"  # Maior
+  name = "¬™t>i"  # Maior
   female = yes
   religion = "catholic"
   culture = "basque"
@@ -3432,7 +3430,7 @@
   }
 }
 72012 = {
-  name = "Œ+P RÏpmZ"  # Berengaria
+  name = "Œ+P RLNmZ"  # Berengaria
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -3491,7 +3489,7 @@
   }
 }
 72017 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -3506,7 +3504,7 @@
   }
 }
 72018 = {
-  name = "Œ+P RÏpmZ"  # Berengaria
+  name = "Œ+P RLNmZ"  # Berengaria
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -3536,7 +3534,7 @@
   }
 }
 72020 = {
-  name = "»ŒSWSY"  # Fernando
+  name = "»Œ>iWSY"  # Fernando
   dynasty = 778
   religion = "catholic"
   culture = "basque"
@@ -3582,7 +3580,7 @@
   }
 }
 72023 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   female = yes
   dynasty = 778
   religion = "catholic"
@@ -3754,7 +3752,7 @@
   }
 }
 72034 = {
-  name = "»ŒSWSY"  # Fernando
+  name = "»Œ>iWSY"  # Fernando
   dynasty = 778
   religion = "catholic"
   culture = "basque"
@@ -3813,7 +3811,7 @@
   }
 }
 72038 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   dynasty = 778
   female = yes
   religion = "catholic"
@@ -3845,8 +3843,7 @@
   }
 }
 72040 = {
-  name = "%Y
-„Nb"  # Eliza
+  name = "OûƒNb"  # Eliza
   female = yes
   religion = "catholic"
   culture = "basque"
@@ -3901,7 +3898,7 @@
   }
 }
 72044 = {
-  name = "»ŒSWSY"  # Fernando
+  name = "»Œ>iWSY"  # Fernando
   dynasty = 7001
   religion = "catholic"
   culture = "basque"
@@ -4099,7 +4096,7 @@
   }
 }
 207610 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   female = yes
   martial = 5
   diplomacy = 7
@@ -4131,7 +4128,7 @@
   }
 }
 207563 = {
-  name = "€•‰mZ"  # Mentzia
+  name = "Œ‰mZ"  # Mentzia
   female = yes
   dynasty = 778
   martial = 6
@@ -4199,7 +4196,7 @@
   }
 }
 72650 = {
-  name = "»ŒSWSY"  # Fernando
+  name = "»Œ>iWSY"  # Fernando
   dynasty = 8614
   religion = "catholic"
   culture = "basque"
@@ -4241,8 +4238,7 @@
   }
 }
 72653 = {
-  name = "‰R„v
-„Y"  # Andregoto
+  name = "‰R„vûƒY"  # Andregoto
   dynasty = 8614
   female = yes
   religion = "catholic"
@@ -4335,8 +4331,7 @@
   }
 }
 71333 = {
-  name = "iO
-„gY"  # Pelaio
+  name = "iOûƒgY"  # Pelaio
   dynasty = 8741
   father = 200095
   religion = catholic
@@ -4352,7 +4347,7 @@
   }
 }
 71334 = {
-  name = "™‚m®YS·V"  # Fronilde
+  name = "™‚m®Y>i·V"  # Fronilde
   dynasty = 8741
   female = yes
   religion = "catholic"
@@ -4430,7 +4425,7 @@
   }
 }
 206501 = {
-  name = "Œ+P RÏpmZ"  # Berengaria
+  name = "Œ+P RLNmZ"  # Berengaria
   female = yes
   dynasty = 277
   martial = 7
@@ -4471,7 +4466,7 @@
   }
 }
 206504 = {
-  name = "»ŒSWSY"  # Fernando
+  name = "»Œ>iWSY"  # Fernando
   dynasty = 277
   martial = 6
   diplomacy = 4
@@ -4513,7 +4508,7 @@
   }
 }
 42023 = {
-  name = "¢ŒNbS"  # Gontzal
+  name = "¢ŒNb>i"  # Gontzal
   dynasty = 442
   martial = 4
   diplomacy = 6
@@ -4645,7 +4640,7 @@
   }
 }
 73780 = {
-  name = "?–¯e³uS"  # Aznar
+  name = "?–¯et>i"  # Aznar
   dynasty = 8617
   religion = "catholic"
   culture = "basque"
@@ -4687,7 +4682,7 @@
   }
 }
 73783 = {
-  name = "gYÏpmZ"  # Oria
+  name = "gYLNmZ"  # Oria
   female = yes
   religion = "catholic"
   culture = "basque"
@@ -4774,8 +4769,7 @@
   }
 }
 70275 = {
-  name = "‰R„v
-„Y"  # Andregoto
+  name = "‰R„vûƒY"  # Andregoto
   female = yes
   dynasty = 788
   father = 70274
@@ -4789,7 +4783,7 @@
   }
 }
 70276 = {
-  name = "?–¯e³uS"  # Aznar
+  name = "?–¯et>i"  # Aznar
   dynasty = 788
   martial = 4
   diplomacy = 4
@@ -4832,7 +4826,7 @@
   }
 }
 70300 = {
-  name = "?–¯e³uS"  # Aznar
+  name = "?–¯et>i"  # Aznar
   dynasty = 788
   martial = 5
   diplomacy = 6
@@ -4943,8 +4937,7 @@
   }
 }
 40011 = {
-  name = "Š²Y-?–T
-„¯e"  # Toda-Adalais
+  name = "Š²Y-?–Tûƒ¯e"  # Toda-Adalais
   female = yes
   dynasty = 388
   religion = "catholic"
@@ -4986,7 +4979,7 @@
   }
 }
 127017 = {
-  name = "^Ïp¯eaS"  # Briska
+  name = "^LN¯eaS"  # Briska
   dynasty = 388
   female = yes
   martial = 7
@@ -5043,8 +5036,7 @@
   }
 }
 127053 = {
-  name = "?–T
-„¯e"  # Adalais
+  name = "?–Tûƒ¯e"  # Adalais
   dynasty = 388
   female = yes
   religion = "catholic"
@@ -5058,7 +5050,7 @@
   }
 }
 127054 = {
-  name = "‚2—‰žN"  # Alausia
+  name = "y|2—‰žN"  # Alausia
   dynasty = 388
   female = yes
   religion = "catholic"
@@ -5098,7 +5090,7 @@
   }
 }
 138188 = {
-  name = "?–¯e³uS"  # Aznar
+  name = "?–¯et>i"  # Aznar
   dynasty = 386
   religion = "catholic"
   culture = "basque"
@@ -5212,7 +5204,7 @@
   }
 }
 168108 = {
-  name = "Y³uŠ"  # Donato
+  name = "YtŠ"  # Donato
   dynasty = 388
   religion = "catholic"
   culture = "basque"
@@ -5343,7 +5335,7 @@
   }
 }
 168119 = {
-  name = "?–¯e³uS"  # Aznar
+  name = "?–¯et>i"  # Aznar
   dynasty = 386
   religion = "catholic"
   culture = "basque"
@@ -5408,7 +5400,7 @@
   }
 }
 168124 = {
-  name = "Y³uŠ"  # Donato
+  name = "YtŠ"  # Donato
   dynasty = 388
   religion = "catholic"
   culture = "basque"
@@ -5480,7 +5472,7 @@
   }
 }
 71543 = {
-  name = "»ŒSWSY"  # Fernando
+  name = "»Œ>iWSY"  # Fernando
   dynasty = 442
   religion = "catholic"
   culture = "basque"
@@ -5639,7 +5631,7 @@
   }
 }
 73817 = {
-  name = "FzTXáˆ[ˆ"  # Motarrif
+  name = "FzTXáˆU"  # Motarrif
   dynasty = 12293
   father = 73813
   mother = 73814
@@ -5653,7 +5645,7 @@
   }
 }
 73818 = {
-  name = "%Y¯ejt Q"  # Ismail
+  name = "O¯ejtH"  # Ismail
   dynasty = 12293
   father = 73812
   mother = 73776
@@ -5683,7 +5675,7 @@
   }
 }
 73821 = {
-  name = "FzTXáˆ[ˆ"  # Motarrif
+  name = "FzTXáˆU"  # Motarrif
   dynasty = 12293
   father = 73818
   religion = sunni
@@ -5723,7 +5715,7 @@
   }
 }
 73824 = {
-  name = "FzTXáˆ[ˆ"  # Motarrif
+  name = "FzTXáˆU"  # Motarrif
   dynasty = 12293
   father = 73812
   mother = 73776
@@ -5806,7 +5798,7 @@
   }
 }
 73830 = {
-  name = "%Y¯ejt Q"  # Ismail
+  name = "O¯ejtH"  # Ismail
   dynasty = 12293
   father = 73829
   religion = sunni
@@ -5902,7 +5894,7 @@
   }
 }
 71947 = {
-  name = "?–€•b"  # Armengol
+  name = "?–Œb"  # Armengol
   dynasty = 778
   father = 207561
   mother = 210575
@@ -6010,7 +6002,7 @@
   }
 }
 70271 = {
-  name = ">O³uyr"  # Bernart
+  name = ">Otyr"  # Bernart
   dynasty = 10024
   father = 70272
   religion = catholic
@@ -6038,7 +6030,7 @@
   }
 }
 71580 = {
-  name = "Œ?–yrÏp(ƒ"  # Beatritz
+  name = "Œ?–yrLN(ƒ"  # Beatritz
   female = yes
   religion = catholic
   culture = basque
@@ -6050,7 +6042,7 @@
   }
 }
 71938 = {
-  name = "€•‰mZ"  # Mentzia
+  name = "Œ‰mZ"  # Mentzia
   female = yes
   religion = catholic
   culture = basque
@@ -6074,7 +6066,7 @@
   }
 }
 73896 = {
-  name = "ŒSFzY"  # Bermudo
+  name = "Œ>iFzY"  # Bermudo
   dynasty = 8779
   father = 200163
   religion = catholic
@@ -6139,7 +6131,7 @@
   }
 }
 200028 = {
-  name = "FzTXáˆ[ˆ"  # Motarrif
+  name = "FzTXáˆU"  # Motarrif
   dynasty = 12293
   father = 73815
   religion = sunni
@@ -6193,7 +6185,7 @@
   }
 }
 200090 = {
-  name = "?–Sæt"  # Alvar
+  name = "?–>iæt"  # Alvar
   dynasty = 8741
   father = 200092
   religion = catholic
@@ -6219,7 +6211,7 @@
   }
 }
 200092 = {
-  name = "kÉb…hS"  # Herramel
+  name = "kÉb…h>i"  # Herramel
   dynasty = 8741
   father = 200093
   mother = 107681
@@ -6233,7 +6225,7 @@
   }
 }
 200093 = {
-  name = "?–Sæt"  # Alvar
+  name = "?–>iæt"  # Alvar
   dynasty = 8741
   father = 200094
   religion = catholic
@@ -6249,7 +6241,7 @@
   }
 }
 200094 = {
-  name = "kÉb…hS"  # Herramel
+  name = "kÉb…h>i"  # Herramel
   dynasty = 8741
   religion = catholic
   culture = basque
@@ -6261,7 +6253,7 @@
   }
 }
 200095 = {
-  name = "kÉb…hS"  # Herramel
+  name = "kÉb…h>i"  # Herramel
   dynasty = 8741
   father = 200091
   religion = catholic
@@ -6375,7 +6367,7 @@
   }
 }
 200165 = {
-  name = "¬™¦uS"  # Maior
+  name = "¬™t>i"  # Maior
   female = yes
   religion = catholic
   culture = basque
@@ -6387,7 +6379,7 @@
   }
 }
 200166 = {
-  name = "?–¯e³uS"  # Aznar
+  name = "?–¯et>i"  # Aznar
   dynasty = 8779
   father = 200168
   religion = catholic
@@ -6426,7 +6418,7 @@
   }
 }
 200169 = {
-  name = "?–¯e³uS"  # Aznar
+  name = "?–¯et>i"  # Aznar
   dynasty = 8779
   father = 73896
   religion = catholic
@@ -6626,7 +6618,7 @@
   }
 }
 200183 = {
-  name = "€•‰mZ"  # Mentzia
+  name = "Œ‰mZ"  # Mentzia
   female = yes
   religion = catholic
   culture = basque
@@ -6764,7 +6756,7 @@
   }
 }
 200195 = {
-  name = "FzTXáˆ[ˆ"  # Motarrif
+  name = "FzTXáˆU"  # Motarrif
   dynasty = 12293
   father = 73808
   religion = sunni
@@ -6834,7 +6826,7 @@
   }
 }
 200203 = {
-  name = "åg^S"  # Zahir
+  name = "åg^>i"  # Zahir
   dynasty = 12293
   father = 73809
   mother = 200202
@@ -6848,7 +6840,7 @@
   }
 }
 200205 = {
-  name = "FzTXáˆ[ˆ"  # Motarrif
+  name = "FzTXáˆU"  # Motarrif
   dynasty = 12293
   father = 73810
   mother = 200204

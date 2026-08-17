@@ -17,8 +17,8 @@ christian = {
   male_names = {
     "‰R—V‹w"  # Andrew
     "‰Rqg<SªR¯e"  # Antoninus
-    "ôTSYyƒ"  # Bartolomeus
-    ",gr"  # Benedict
+    "ôT>iYyƒ"  # Bartolomeus
+    ",gär"  # Benedict
     "KQáˆ¯e‚„‰R"  # Christian
     "úWS—"  # Christopher
     "<h‹wnR"  # Clement
@@ -28,65 +28,64 @@ christian = {
     "PkTGY"  # Eustace
     "¬U»l"  # George
     "M˜beu"  # Gregory
-    ""o¯e"  # Hans
+    "1f¯e"  # Hans
     "O’d<h"  # Isaac
     "å‚Nle"  # Joakim
     "Å–T>O"  # Jacob
     "å‚g"  # John
-    "å‚SSV"  # Jordan
+    "å‚>ivl"  # Jordan
     "å‚nt"  # Joseph
     "w^iPO"  # Laurence
     "¬™<hªR¯e"  # Magnus
-    "¬™S7Œ"  # Marcus
-    "jtSšR"  # Martin
+    "¬™>i7Œ"  # Marcus
+    "jt>išR"  # Martin
     "jtÇz"  # Matthew
-    "%VM˜S"  # Michael
+    "LVM˜>i"  # Michael
     "<STw"  # Nicholas
     "ôTyr)R5r"  # Patrick
     "İOy"  # Paul
     ">OYy"  # Peter
     "et>O"  # Philip
-    "©…SætY"  # Salvador
-    "’dUaS"  # Samuel
+    "©…>iætY"  # Salvador
+    "’dUa>i"  # Samuel
     "ÌeôTëXfW"  # Sebastian
     "‰ÿn"  # Simon
     "¯e·Vg"  # Stephen
     "YØ"  # Thomas
     "NôTÎ"  # Abraham
     "NwkqS'Y"  # Alexander
-    "T<SS"  # Daniel
+    "T<S>i"  # Daniel
     "6w2z"  # Jesus
-    "¦u>O"  # Job
+    "t>O"  # Job
     "å‚†„S"  # Joshua
     "‰ï¯e"  # Cyrus
     "ï R"  # Luke
     "S R)RN"  # Zachariah
   }
   female_names = {
-    "N³u"  # Anna
+    "Nt"  # Anna
     "¶xãh"  # Beatrice
     ",g<SêKQTX"  # Benedicta
     "|VßoT"  # Brigid
-    " R'Y‹w³u"  # Catherine
+    " R'Y‹wt"  # Catherine
     "GRßo)RN"  # Cecilia
     "úW¯ešR"  # Christina
-    "KQ
-„€•‚„mZ"  # Clementia
+    "KQûƒŒ‚„mZ"  # Clementia
     "TëXfW¯e"  # Constance
     "Y?†‰"  # Dorothy
-    "%YÏpƒŒv"  # Elisabeth
-    "å‚ğ³u"  # Joan
+    "OLNƒŒv"  # Elisabeth
+    "å‚ğt"  # Joan
     "ËSV·V"  # Judith
-    "Q)RN³u"  # Juliana
-    "k)R³u"  # Helen
-    "jtT‹w³u"  # Magdalena
+    "Q)RNt"  # Juliana
+    "k)Rt"  # Helen
+    "jtT‹wt"  # Magdalena
     "jt R)R'Y"  # Margaret
-    "jtÏpN"  # Maria
+    "jtLNN"  # Maria
     "jt3t"  # Marine
     "^yr‰ƒY"  # Patricia
     "òƒ‰ƒ^"  # Philippa
-    "ÉbÓu"  # Rachel
-    "’d²"  # Sarah
+    "ÉbPt"  # Rachel
+    "’dh"  # Sarah
     "1tòƒN"  # Sophia
     "¯e‚„¬‚®YÅ–"  # Stephania
   }
@@ -715,61 +714,61 @@ muslim = {
   }
   male_names = {
     "?–ôT¯e"  # Abbas
-    "?–[ˆkgÒR"  # Abdul
-    "?–[ˆkgÉb"  # Abdullah
+    "?–UkgÒR"  # Abdul
+    "?–UkgÉb"  # Abdullah
     "?–^ÈTQh"  # Abolhassan
-    "?–^-ŒKQS"  # Abu-Bakr
-    "‚ÈT·V"  # Ahmad
+    "?–^-ŒKQ>i"  # Abu-Bakr
+    "y|ÈT·V"  # Ahmad
     "?–KQôT"  # Akbar
-    "‰RÉbNS"  # Allahyar
+    "‰RÉbN>i"  # Allahyar
     "?–áˆ"  # Ali
-    "?–áˆ-Õl%Y"  # Ali-Fay
+    "?–áˆ-ÕlO"  # Ali-Fay
     "?–áˆ-ïS†–"  # Ali-Kolon
     "?–áˆ-Nb)RÒR"  # Ali-Zalil
     "ÈTQh"  # Hasan
-    "¯OlàV"  # Hossein
-    "¯OlàV"  # Hussayn
-    "%Y¯ejt Q"  # Ismail
+    "¯OjàV"  # Hossein
+    "¯OjàV"  # Hussayn
+    "O¯ejtH"  # Ismail
     "¬™ÈTƒ·V"  # Mahmud
     "FzUØ·V"  # Mohammed
-    "Fz?–S"  # Muammar
+    "Fz?–>i"  # Muammar
     "FzUØ·V"  # Muhammad
   }
   female_names = {
-    "‚ƒ"  # Ayesha
-    "?–^ÉbS"  # Abrar
+    "y|ƒ"  # Ayesha
+    "?–^Éb>i"  # Abrar
     "?–e»Œ"  # Afifah
-    "?–³uôumZ"  # Anabia
+    "?–t­tmZ"  # Anabia
     "^	TÉb"  # Hijrah
     "2k·V"  # Hind
-    "wmÏpÆY"  # Hareem
-    "%YKQÉb"  # Iqra
+    "wmLNÆY"  # Hareem
+    "OKQÉb"  # Iqra
     "áwê"  # Judi
-    "aSÏpT"  # Karida
-    "k‚„ŠV"  # Khadijah
-    "ÈTÏp²Y"  # Khalidah
+    "aSLNT"  # Karida
+    "k‚„ÈV"  # Khadijah
+    "ÈTLN²Y"  # Khalidah
     "kÏpÉb"  # Khawlah
     "üfêÈT"  # Madeeha
-    "jtÏpNÆY"  # Maryam
-    "jtÏpN"  # Mariyah
+    "jtLNNÆY"  # Maryam
+    "jtLNN"  # Mariyah
     "…h™„Z"  # Maymunah
-    "jtÏpNÆY"  # Mariam
+    "jtLNNÆY"  # Mariam
     "s|Z"  # Mina
     "ªRætÉb"  # Nuwwarrah
-    "*tr}¬™ÈT"  # Qismah
+    "*tt¬™ÈT"  # Qismah
     "2—aSON"  # Ruqayyah
     "©…ôT"  # Saba
     "ƒÕl?–"  # Safaa
     "1tòƒÅ–"  # Safiyyah
-    "©…Sjt"  # Salma
+    "©…>ijt"  # Salma
     "ƒÉbNb·V"  # Shahrazad
     "-^3t"  # Sirin
     "©…s|^mZ"  # Sumaiyah
     "ntË—ôT"  # Thuwaibah
-    "ÏpjtS"  # Umamah
-    "Nb%Y³u^"  # Zainab
+    "Ïpjt>i"  # Umamah
+    "NbOt^"  # Zainab
     "VyÜb²Y"  # Zubaidah
-    "Nb%Y³u^"  # Zainab
+    "NbOt^"  # Zainab
   }
   sunni = {
     graphical_culture = muslimgfx
@@ -1126,61 +1125,61 @@ pagan_group = {
   }
   male_names = {
     "?–²·V"  # Anund
-    "?–¯eÔk¦ui`"  # Asbjörn
+    "?–¯eÔkti`"  # Asbjörn
     "?–¯eÉbKQ"  # Aslak
     "gY˜"  # Audun
     "ôT6w"  # Bagge
-    "ôTS·V"  # Balder
+    "ôT>i·V"  # Balder
     "^Éb<h"  # Brage
-    "ÃW	TS"  # Egil
+    "ÃW	T>i"  # Egil
     "ÃW™„·V"  # Emund
     "V÷–"  # Frej
     "<hªR^"  # Gnupa
-    "bSÆY"  # Gorm
+    "b>iÆY"  # Gorm
     "äS·V™„·V"  # Gudmund
     "äS·V…·V"  # Gudröd
     "ÈT·VKQªRyr"  # Hardeknud
-    "kS<h"  # Helge
+    "k>i<h"  # Helge
     "gY·V"  # Odd
-    "gYSÆY"  # Orm
-    "gYætS"  # Orvar
-    "gYTXS"  # Ottar
-    "áˆ«^S+Y"  # Rikulfr
+    "gY>iÆY"  # Orm
+    "gYæt>i"  # Orvar
+    "gYTX>i"  # Ottar
+    "áˆ«^>i+Y"  # Rikulfr
     "YuáˆKQ"  # Rurik
-    "‰<hÔk¦ui`"  # Sigbjörn
-    "¯e‚„SÔk¦ui`"  # Styrbjörn
-    "¯eTXaSS·V"  # Starkad
-    "¯e‚„aSS"  # Styrkar
+    "‰<hÔkti`"  # Sigbjörn
+    "¯e‚„>iÔkti`"  # Styrbjörn
+    "¯eTXaS>i·V"  # Starkad
+    "¯e‚„aS>i"  # Styrkar
     "©…™„·V"  # Sämund
-    "1tSôu"  # Sölve
-    "1tKQôuS"  # Sörkver
+    "1t>i­t"  # Sölve
+    "1tKQ­t>i"  # Sörkver
     "Šm+Y"  # Thorolf
     "Ğc3S·V™„·V"  # Tjudmund
     "ŠKQ"  # Toke
-    "Š)RS"  # Tolir
-    "ŠSÔk¦ui`"  # Torbjörn
-    "ŠS^-†·V"  # Torbrand
-    "ŠS¬‚"  # Torfinn
-    "ŠSË„S"  # Torgeir
+    "Š)R>i"  # Tolir
+    "Š>iÔkti`"  # Torbjörn
+    "Š>i^-†·V"  # Torbrand
+    "Š>i¬‚"  # Torfinn
+    "Š>iË„>i"  # Torgeir
     "Š¯eyr"  # Toste
     "3XKQ"  # Tyke
   }
   female_names = {
-    "?–r}ŞR<h"  # Aslaug
-    "ZSyr^S·V"  # Bothild
-    "Ôk¦u<h"  # Björg
+    "?–tŞR<h"  # Aslaug
+    "ZSyr^>i·V"  # Bothild
+    "Ôkt<h"  # Björg
     "™‚…Å–"  # Freja
     "<h‰ƒjt"  # Grima
     "ES©…"  # Gytha
     "KQÉbaS"  # Kráka
-    "jtSÆY™‚Ïp·V"  # Malmfrid
+    "jt>iÆY™‚LN·V"  # Malmfrid
     "ŠÉb"  # Thora
-    "ŠSêr}"  # Thordis
+    "Š>iêt"  # Thordis
     "‚„Èƒ"  # Thyra
     "g™‚áˆ·V"  # Ragnfrid
-    "g^S·V"  # Ragnhild
-    "¯e,„^S·V"  # Svanhild
-    "ÏpS™‚^S·V"  # Ulvhilde
+    "g^>i·V"  # Ragnhild
+    "¯e,„^>i·V"  # Svanhild
+    "Ïp>i™‚^>i·V"  # Ulvhilde
   }
   pagan = {
     graphical_culture = pagangfx
@@ -2274,9 +2273,9 @@ zoroastrian_group = {
     muslim_interface
   }
   male_names = {
-    "—S¬™2ƒ·V"  # Hormazd
-    "¬™ßoNS"  # Maziar
-    "™lnfS"  # Shapur
+    "—>i¬™2ƒ·V"  # Hormazd
+    "¬™ßoN>i"  # Maziar
+    "™lnf>i"  # Shapur
     ",„T·V"  # Vandad
     "ct…N¯e·V"  # Zartosht
   }
@@ -2482,8 +2481,7 @@ jewish_group = {
     jews_interface
   }
   male_names = {
-    "Œ
-„yr"  # Belet
+    "Œûƒyr"  # Belet
     "åN¯eÉb"  # Ezra
     "ÈTªRaS"  # Hanukkah
     "^‰¶R"  # Hezekiah
@@ -2491,40 +2489,40 @@ jewish_group = {
     ")R*g"  # Levi
     "jtÿb‰"  # Manasseh
     "<S¯e"  # Nisi
-    "‰ì}"  # Simeon
+    "‰ût"  # Simeon
     "N+Yê"  # Yavdi
     "‰^+P"  # Zebulun
   }
   female_names = {
     "ÃWT"  # Adah
     "?–êZ"  # Adinah
-    "?–Syr"  # Alte
+    "?–>iyr"  # Alte
     "?–ntZyr"  # Asnat
     "ôT‚„mZ"  # Batya
-    "ÔkSÈT"  # Bilha
-    "æ³u"  # Chana
+    "Ôk>iÈT"  # Bilha
+    "æt"  # Chana
     "YZ"  # Chava
     "·VƒlÉb"  # Devorah
-    "ÃWr}yr"  # Esther
+    "ÃWtyr"  # Esther
     "	T^X"  # Gisse
     "ÈTT©…"  # Hadassah
     ")RN"  # Leah
     "jtÉb"  # Machla
-    "s|ÏpmZÆY"  # Miriam
+    "s|LNmZÆY"  # Miriam
     "nfæt"  # Puah
     "iO<SZ"  # Peninah
-    "Éb\‹S"  # Rachel
-    "ÏpôuaS"  # Rivkah
-    "2—r}"  # Ruth
+    "Éb1Œ>i"  # Rachel
+    "LN­taS"  # Rivkah
+    "2—t"  # Ruth
     "ƒÉb"  # Sarah
     "ÖNjt"  # Tamar
     "—V’d"  # Tirtzah
     "‰aWÉb"  # Tzipporah
-    "JŸôuN"  # Tziviah
-    "6wS"  # Yael
+    "JŸ­tN"  # Tziviah
+    "6w>i"  # Yael
     "6wáwêyr"  # Yehudit
     "åN¯eaS"  # Yiska
-    "¦uúW%R"  # Yocheved
+    "túW%R"  # Yocheved
     "3SZ"  # Yonah
   }
   jewish = {

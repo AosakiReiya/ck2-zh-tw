@@ -1,48 +1,41 @@
 ### ParaTranz ###
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-b_sanvicente;2Wôuîhyr;;;;;;;;;;;;x
+b_sanvicente;2W­tîhyr;;;;;;;;;;;;x
 WOE;²`ÀTÿ;;;;;;;;;;;;x
-UNIT_MORALE_EFFECT;ÍŠ–ïSrs—V$PERC$ëX#l0\n;;;;;;;;;;;;x
+UNIT_MORALE_EFFECT;ÍŠ–ïSrs—V$PERC$ëX2c0\n;;;;;;;;;;;;x
 UNIT_REINFORCE_EFFECT;cîc„vèŠ–ÜˆáT$PERC$0\n;;;;;;;;;;;;x
-UNIT_INVERTREINFORCE_EFFECT;ßu%^ÍŠ–„v$PERC$«ˆOgŠk0\n;;;;;;;;;;;;x
-TRIGGER_LEADER;˜üRw;;;;;;;;;;;;x
+UNIT_INVERTREINFORCE_EFFECT;qt%^ÍŠ–„v$PERC$«ˆOgŠk0\n;;;;;;;;;;;;x
+TRIGGER_LEADER;˜Sw;;;;;;;;;;;;x
 opinion_father_child;6rª‰;;;;;;;;;;;;x
-opinion_mother_of_child;b„viRnR;;;;;;;;;;;;x
-COUNCIL;gQ£•;;;;;;;;;;;;x
-BM_CHARLEMAGNE_ERA;-NNªuéeg;;;;;;;;;;;;x
-BM_CHARLEMAGNE_ERA_INFO;-NNªuéegËY¼e”NNªu‰…¬™„vÀkÅn0NBfgéeg4O¨–Owåe3wüfŒT¯eÉb+YlÏeèŠPk2m„vw™V0›NlÏeáˆSìb(WWSPkšRES„våTyrºNŒT+PôT,rºN0(WØšçvšRES„vÕl-†KQºN0!nwmTO˜qgR[˜„v©…KQîhºN0‚dkTBfÿqg…¬™×S0RåTyrºN‚?–ætSºN„vZÁwÿÈS‚äSw„vâl¯eueºNæ‚0b0%Y¯e-†Ye„vTw“‹?–Éb>OºNkjƒc-Nqg‚S^—0Vg'YÏ‘„vW0W0w(Wqg¹e„vpS¦^ÿxeP'Y‹sg©†NòfsYÎW„v>eM‘
-k®UV†NÀoÈp„vöz-rÿvQ-NSìbkQNªu+gTw„v…¼nO–…ØbO–0w(WIƒŸSNÿïS©…ºN-T2—-˜Ò‰ÿ(W¯e*X„v³uôuNÿN¡w*eÕRNLu„v›RÏ‘„*gbŸq&&;;;;;;;;;;;;x
-BM_THE_OLD_GODS_ERA;ôu¬NBfãN;;;;;;;;;;;;x
-BM_THE_OLD_GODS_ERA_INFO;lNNªu-NI„ÿN³†OêSƒX0«ˆ1zkOôu¬NºN„v cIYwŒT’Qª–w(WPk2mHrWNYuN†NqgïSèxÅn„vÕuá0ÖNP(WÄO…¯e0qgR[˜³›Sú^ËzW¶RÿÒqOg6d c„v³á`ÊSÑwmŒT0W-Nwm0ågtüf„vŒ_ºN0 Rm—g‹sg„vßu»lwP(WÕl-†‰0·Va×VŒTa'Y)Rßu»lOwIV'Y„vW¦^ÿ‚dkTBfÿ(WO¥I„‹sgßu»lNÿFz¯e—g„váOğNñmñm0WNb9h(W‰ísYr„vW0WN0ÜbTO­^„v‡v^(WÈTáˆ|v‚İO R)RNºN„vÙ–Í‘ÓX›RNXˆROw0³Ä–„v'YIƒŸS‰èÿ¬™NbSºN©†N-rIYUSôT!–Æv0WwÄ„âR…V|v0%Y¯e-†Ye(W©…ÕlS‹sgIrTJN„vßu»lNÅ/OM†Nâl¯eÿ&N8oòn2pS¦^³l7Œ0QVqgÿpS¦^Ye„v¿w˜b…·âl…Ğc6Š…‹sg(Wqg·eôd/V0;;;;;;;;;;;;x
-BM_FATE_OF_ENGLAND_ERA;-NNªuÛvg;;;;;;;;;;;;x
-BM_FATE_OF_ENGLAND_ERA_INFO;ASNªu+góASNNªuRÿFz¯e—gNLuÏuwkOwèT'YŠ‹ÕR^XSñg0LOr‚<SIrz¥S‹sg¶c6ROwâl¯e0ÜbTO­^^WÍN6qXˆROwWWÿFOïSåN˜™e0Rôfß|Õ|„vÅ`Álck(W0R†O0-NPkŒT‰Pk«ˆÕl-†‰ŒTIVÛv„v^y2W…¬™^WObÜtRÿ‚dkTBfÿúWcwYeøŠ‹sckOwKbTR)Tâ–gw[†ÑV„v‰ísYrFz¯e—g|vw2Je0¯e*X„v³uôuNÅ0WˆvO†NúWcwYeÿw(WÄO…¯eŒTqgR[˜šRES„vşŠ¯eºNnN8o‚SV0WESlTS06qwÿ(WşŠüf•^ŒT‰‰áˆ„vôu¬NºNŒ_ÔˆÍN(W–n™POw°e„vVgÿ,rN!kASWRÍ`VnNsSS0R†O&&;;;;;;;;;;;;x
+opinion_mother_of_child;b„viRPR;;;;;;;;;;;;x
+COUNCIL;gQ²Œ;;;;;;;;;;;;x
+BM_CHARLEMAGNE_ERA;-NNtéeg;;;;;;;;;;;;x
+BM_CHARLEMAGNE_ERA_INFO;-NNtéegËY¼e”NNt‰…¬™„vÀkÅn0NBfgéeg4O¨–Owåe3wüfŒT¯eÉb+YlÏeèŠPk2m„vw™V0›NlÏeáˆSìb(WWSPkšRES„våTyrºNŒT+PôT,rºN0(WØšçvšRES„vÕl-†KQºN0!nwmTO˜NRj„v©…KQîhºN0‚dkTBfÿqg…¬™×S0RåTyrºN‚?–æt>iºN„vZxÿÈS‚äSw„vâl¯eueºNæ‚0b0O¯e-†Ye„vTw“‹?–Éb>OºNkjƒc-Nqg‚S^—0µVg'YÏ‘„vW0W0w(Wqg¹e„vpS¦^ÿxeP'Y‹sgIN†NòfsYÎW„v>eM‘bUSšŒ†NÀoÈp„vöz-rÿvQ-NSìbkQNt+gTw„v…¼nO–…ØbO–0w(WIƒŸSNÿïS©…ºN„T2—-˜Ò‰ÿ(W¯e*X„vt­tNÿN¡w*eÕRNLu„v›RÏ‘„*gbŸq&&;;;;;;;;;;;;x
+BM_THE_OLD_GODS_ERA;­t¬NBfãN;;;;;;;;;;;;x
+BM_THE_OLD_GODS_ERA_INFO;lNNt-NI„ÿN³†OêSƒX0«ˆ1zkO­t¬NºN„v cIYwŒT’Qª–w(WPk2mHrWNYuN†NNïSèxÅn„vÕuá0ÖNP(WÄO…¯e0NRj³öSú^ËzW¶RÿÒqOg6d c„v³á`ÊSÑwmŒT0W-Nwm0ågtüf„v›VºN0 Rm—g‹sg„vqt»lwP(WÕl-†‰0·Va×VŒTa'Y)Rqt»lOwFV'Y„vW¦^ÿ‚dkTBfÿ(W8O¥I„‹sgqt»lNÿFz¯e—g„váOğNñmñm0WNb9h(W‰ísYr„vW0WN0ÜbTO­^„v‡v^(WÈTáˆ|v‚İO R)RNºN„vÙ–Í‘ÓX›RNXˆROw0³Ä–„v'YIƒŸS‰èÿ¬™Nb>iºNIN†N-rIYU>iôT!–Æv0WwÄ„âR…V|v0O¯e-†Ye(W©…Õl>i‹sgIrTJN„vqt»lNÅ/OM†Nâl¯eÿ&N8oòn2pS¦^³l7Œ0QVqgÿpS¦^Ye„v¿w˜b…·âl…Ğc6Š…‹sg(WN·eôdDV0;;;;;;;;;;;;x
+BM_FATE_OF_ENGLAND_ERA;-NNtÛvg;;;;;;;;;;;;x
+BM_FATE_OF_ENGLAND_ERA_INFO;ASNt+góASNNtRÿFz¯e—gNLu“twkOwèT'YŠ‹ÕR^X>iñg0LOr‚<SIrz¥S‹sg¶c6ROwâl¯e0ÜbTO­^^WÍN6qXˆROwWWÿFOïSåN˜™e0Rôfß|Õ|„vÅ`Álck(W0R†O0-NPkŒT‰Pk«ˆÕl-†‰ŒTFVÛv„v^y2W…¬™^WObÜtRÿ‚dkTBfÿúWcwYeøŠ‹sckOwKbTR)Tâ–gwL†1V„v‰ísYrFz¯e—g|vw2Je0¯e*X„vt­tNÅ0WˆvO†NúWcwYeÿw(WÄO…¯eŒTNRjšRES„vşŠ¯eºNnN8o‚vl0WESlTS06qwÿ(WşŠüf•^ŒT‰‰áˆ„v­t¬NºN›VÔˆÍN(W–n™POw°e„vµVgÿ,rN!kASWRÍ`µVnNsSS0R†O&&;;;;;;;;;;;;x
 BM_THE_MONGOLS_ERA;™„äSBfãN;;;;;;;;;;;;x
-BM_THE_MONGOLS_ERA_INFO;SVPk2m2eQAS	NNªuÿTëXfWN!XòT«ˆz¥SºNJRÑVÿÈSÏuwk†N,rÛV!kASWRÍ„vOˆmÿÜbTO­^òTo˜IV)VKN+g0z¥SºNÍN6qßu»lOw-NqgŒTâl¯eÿw(WpS¦^ÿ¨–Ow
-‚‹sg„vpˆL„ÿ1ŠY°e„v‹sWTw&NÀoÈp0W-rIY
-k›R0şŠüfVg©ñ‚<h-†ŒTÕl-†‰6^†O†N°e„v?e»l‚‹sŞR]ˆzÿ‰ísYr„vúWcwYeW¶Rçuíubw•ÿ¯e*X„v³uôuNŠV•^RdV†NŸSËY—RYeÿ-N.YÆ–
-kqg·e RIV0(WÄO…¯eÿ~^P'YlQW(WqgŠ„vİO RSºN‚«^üfºN„vZÁwN-r
-kIY)R0(W·Va×VŒTa'Y)Rÿ^y2W…¬™^WÍN6qizå‚ğlqS0FO(WNRKNYÿN¡w°e„v›RÏ‘(Wqg¹eck–n™PŠvIWSV™„äSºNVr¬™Úc­—2eQqgPkŒTâl¯eÿÖNPS[˜†‰tePPkN'Yx–‰è„v›RÏ‘s^aˆ&&;;;;;;;;;;;;x
-BM_100_YEARS_WAR_ERA;-NNªuZfg;;;;;;;;;;;;x
-BM_100_YEARS_WAR_ERA_INFO;-NNªuZfg„vPk2mT~^vt^MRøvÔk'YqgøvT0‰ísYr1uúWcwYeøŠ‹sWObßu»lÿFz¯e—gÅPıw(WgWSïz„vNSGrW0WN Œ…–˜—b0^y2W…¬™^WÍN6q¶c6ROw-NPkÿFO't0‘OwNPIV'Y„vSYr)Rÿ‚dkTBfÿ_şŠüfVgw1SòTËWNy9h„vñ‚Õl‹sg·u-rS6^†Oôf ROˆeŒTàfåecEN„v0b-r0Ñ‘3^WlWŒT%YRQWlWßu»lOw'YIƒŸSŒTâl¯eÿO—V_pS¦^0R-NPk„vOb	gßu»lwıqg—VqgÍ‘–‰™„äSºN0W<ho›KQ‹sg(WpS¦^Ád	gã^³ˆ„v˜Wÿ‚dkTBfS^—GR«ˆ>wY?–Éb>O‹sgObRrR0z¥SºNùR-Nqg„vJNüR<ONNbk¼e™„äSºN„veQµOÿFO(W‰R³uŠ)RNÿNPëSgY¯eüf„v‹sgMb[RVËY-T2—-˜Ò‰&&;;;;;;;;;;;;x
+BM_THE_MONGOLS_ERA_INFO;vlPk2m2eQAS	NNtÿTëXfWN!XòT«ˆz¥SºNJR1VÿÈS“twk†N,rÛV!kASWRÍ„vOˆmÿÜbTO­^òT>fFV)VKN+g0z¥SºNÍN6qqt»lOw-NqgŒTâl¯eÿw(WpS¦^ÿ¨–Owy‹sg„vpˆL„ÿ1ŠY°e„v‹sWTw&NÀoÈp0W-rIYb›R0şŠüfµVgINñ‚<h-†ŒTÕl-†‰6^†O†N°e„v?e»l‚‹s³Rlzÿ‰ísYr„vúWcwYeW¶R|uŒubw•ÿ¯e*X„vt­tNÈV•^Rdµh†NŸSËY—RYeÿ-N.YÆ–bN·e RFV0(WÄO…¯eÿUP'YlQW(WqgŠ„vİO R>iºN‚«^üfºN„vZxN-rbIY)R0(W·Va×VŒTa'Y)Rÿ^y2W…¬™^WÍN6qizå‚ğlqS0FO(WNRKNYÿN¡w°e„v›RÏ‘(Wqg¹eck–n™PŠvIWvl™„äSºNVr¬™Úc­—2eQqgPkŒTâl¯eÿÖNPSj†‰tePPkN'Yx–‰è„v›RÏ‘s^aˆ&&;;;;;;;;;;;;x
+BM_100_YEARS_WAR_ERA;-NNtZfg;;;;;;;;;;;;x
+BM_100_YEARS_WAR_ERA_INFO;-NNtZfg„vPk2mTUvt^MRøvÔk'YNøvT0‰ísYr1uúWcwYeøŠ‹sWObqt»lÿFz¯e—gÅPıw(WgWSïz„vNSGrW0WN Œ…–D˜—b0^y2W…¬™^WÍN6q¶c6ROw-NPkÿFOÊt0‘OwNPFV'Y„vSYr)Rÿ‚dkTBfÿ­VşŠüfµVgw1SòTËWNy9h„vñ‚Õl‹sgt-rS6^†Oôf ROˆeŒTàfåecEN„v0b-r0Ñ‘3^WlWŒTORQWlWqt»lOw'YIƒŸSŒTâl¯eÿO—V­VpS¦^0R-NPk„vOb	gqt»lwıN—VNÍ‘–‰™„äSºN0W<ho›KQ‹sg(WpS¦^Ád	gã^³ˆ„v˜Wÿ‚dkTBfS^—GR«ˆ>wY?–Éb>O‹sgObRrR0z¥SºNS-Nqg„vJNS<ONNbk¼e™„äSºN„veQµOÿFO(W‰RtŠ)RNÿNPëSgY¯eüf„v‹sgMbjIšŒËY„T2—-˜Ò‰&&;;;;;;;;;;;;x
 ze_administration_laws_0;Sú^Lˆ?eÔš6R;;;;;;;;;;;;x
 ze_administration_laws_0_option;Sú^;;;;;;;;;;;;x
-ze_administration_laws_0_desc;Sú^>ygo˜N.zJN‰1uSú^˜JNËib„vIr¶u>ygÿvQ-N„vÏkNPbáTıôv¥cùRN¶u˜JNHeàV&Nôv¥ccîcOwN¶u˜JN0o˜-NNªuBfggnfM„v>ygbVKaÿ(W.z>ygbVKa-Nÿ˜JN„vßu»lˆV'Yz¦^No˜ú^Ëz(W>wYIV'YSãùR[Player.GetHerHis]àV ŠKNN0;;;;;;;;;;;;x
+ze_administration_laws_0_desc;Sú^>yg>fN.zJN‰1uSú^˜JNËib„vIr)t>ygÿvQ-N„vÏkNPbáTıôv¥cSN)t˜JNHeàV&Nôv¥ccîcOwN)t˜JN0>f-NNtBfggnfM„v>ygbVKaÿ(W.z>ygbVKa-Nÿ˜JN„vqt»lˆV'Yz¦^N>fú^Ëz(W>wYFV'YSãS[Player.GetHerHis]àV ŠKNN0;;;;;;;;;;;;x
 ze_administration_laws_2;^WLˆ?eÔš6R;;;;;;;;;;;;x
 ze_administration_laws_2_option;^W;;;;;;;;;;;;x
-ze_administration_laws_2_desc;.z?e»lÔš6RŠ|<O¼e…¬™^WBfg„vÔš6Rÿ1uqgTIr¶u„v˜RTÔšû|åN‡v^„vT©ùRW¶Råe8^‹Nir2LˆU†tÿ.zÔš6RNJRÑV0W¹eSã„v
-k›R†OO—V?e
-kizúV0;;;;;;;;;;;;x
-SUPPLY_LIMIT_TOOLTIP;ÜˆÙuNP–ÿ$VALUE|Y$;;;;;;;;;;;;x
+ze_administration_laws_2_desc;.z?e»lÔš6RŠ|<O¼e…¬™^WBfg„vÔš6Rÿ1uNTIr)t„v˜RTÔšû|åN‡v^„vT©SW¶Råe8^‹Nir2LˆU†tÿ.zÔš6RNJR1V0W¹eSã„vb›R†OO—V?ebizúV0;;;;;;;;;;;;x
+SUPPLY_LIMIT_TOOLTIP;ÜˆftNP–ÿ$VALUE|Y$;;;;;;;;;;;;x
 MAKE_GREY;$TEXT|g$;;;;;;;;;;;;x
 Zeus;¡VMRgp‹;;;;;;;;;;;;x
-EVTOPTC_SOA_4032;‚[FromFrom.GetObjectPronoun]2Lˆ^yfR¯ÖŠ;;;;;;;;;;;;x
-EVTDESC_WOL_55_FF_MARRIED;1S(W~^)YMRb‚Y8^0WkoO†Nw†ObŠb [FromFrom.GetTitledName]ŒTb„v[GetFromRelation][From.GetFirstName]“bPşsLˆÿŒ†6qÖNP&N’l	gèla0RbÿFObO6qa0R^—8^—Zšÿ[Root.Religion.GetRandomGodName](WNÿ[FromFrom.GetSubjectPronounCap]ïSo˜NMOòTZZ„v[FromFrom.GetManWoman]JUÿ;;;;;;;;;;;;x
-maintaining_mercenary_band_2;ôucñP­PuQ'YŠ–;;;;;;;;;;;;x
-maintaining_mercenary_band_3;ôucñP­PuQ'YŠ–;;;;;;;;;;;;x
-maintaining_mercenary_band_4;ôucñP­PuQ'YŠ–;;;;;;;;;;;;x
-maintaining_mercenary_band_5;ôucñP­PuQ'YŠ–;;;;;;;;;;;;x
-maintaining_mercenary_band_6;ôucñP­PuQ'YŠ–;;;;;;;;;;;;x
-maintaining_mercenary_band_7;ôucñP­PuQ'YŠ–;;;;;;;;;;;;x
+EVTOPTC_SOA_4032;‚[FromFrom.GetObjectPronoun]2Lˆ^yxR¯ÖŠ;;;;;;;;;;;;x
+EVTDESC_WOL_55_FF_MARRIED;1S(WU)YMRb‚Y8^0WkoO†Nw†ObŠb [FromFrom.GetTitledName]ŒTb„v[GetFromRelation][From.GetFirstName]“bPşsLˆÿŒ†6qÖNP&N’l	gèla0RbÿFObO6qa0R^—8^—Zšÿ[Root.Religion.GetRandomGodName](WNÿ[FromFrom.GetSubjectPronounCap]ïS>fNMOòTZZ„v[FromFrom.GetManWoman]JUÿ;;;;;;;;;;;;x
+maintaining_mercenary_band_2;­tcñP­PuQ'YŠ–;;;;;;;;;;;;x
+maintaining_mercenary_band_3;­tcñP­PuQ'YŠ–;;;;;;;;;;;;x
+maintaining_mercenary_band_4;­tcñP­PuQ'YŠ–;;;;;;;;;;;;x
+maintaining_mercenary_band_5;­tcñP­PuQ'YŠ–;;;;;;;;;;;;x
+maintaining_mercenary_band_6;­tcñP­PuQ'YŠ–;;;;;;;;;;;;x
+maintaining_mercenary_band_7;­tcñP­PuQ'YŠ–;;;;;;;;;;;;x
 desc_maintaining_mercenary_band_2;JX˜0W(u¼eÜˆEQ­PuQW2;;;;;;;;;;;;x
 desc_maintaining_mercenary_band_3;JX˜0W(u¼eÜˆEQ­PuQW3;;;;;;;;;;;;x
 desc_maintaining_mercenary_band_4;JX˜0W(u¼eÜˆEQ­PuQW4;;;;;;;;;;;;x

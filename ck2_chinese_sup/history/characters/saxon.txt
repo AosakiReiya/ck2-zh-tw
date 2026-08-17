@@ -103,7 +103,7 @@
   }
 }
 105 = {
-  name = "?ñS+Y	TôÇ"  # ∆lfgifu
+  name = "?ñ>i+Y	TôÇ"  # ∆lfgifu
   female = yes
   dynasty = 100052
   martial = 8
@@ -123,7 +123,7 @@
   }
 }
 106 = {
-  name = "√W^XS˜ñ∑V"  # ∆thelrÊd
+  name = "√W^X>i˜ñ∑V"  # ∆thelrÊd
   dynasty = 100072
   martial = 7
   diplomacy = 8
@@ -150,7 +150,7 @@
   }
 }
 107 = {
-  name = "aS∑VESr}"  # Ealdgyth
+  name = "a>i∑VESÅt"  # Ealdgyth
   female = yes
   martial = 5
   diplomacy = 6
@@ -273,7 +273,7 @@
   }
 }
 113 = {
-  name = "jt<hœpyr"  # Margaret
+  name = "jt<hLNyr"  # Margaret
   female = yes
   dynasty = 100072
   martial = 4
@@ -431,7 +431,7 @@
   }
 }
 121 = {
-  name = "%YÍèr}"  # Edith
+  name = "OÍèÅt"  # Edith
   female = yes
   dynasty = 756
   martial = 4
@@ -533,7 +533,7 @@
   }
 }
 123 = {
-  name = "√WS∑V	Tr}"  # ∆ldgyth
+  name = "√W>i∑V	TÅt"  # ∆ldgyth
   female = yes
   dynasty = 560
   martial = 4
@@ -615,7 +615,7 @@
   }
 }
 126 = {
-  name = "ÒQÇÑS"  # Ketil
+  name = "ÒQÇÑ>i"  # Ketil
   dynasty = 756
   martial = 6
   diplomacy = 6
@@ -678,7 +678,7 @@
   }
 }
 129 = {
-  name = "¢å^S∑V"  # Gunhild
+  name = "¢å^>i∑V"  # Gunhild
   female = yes
   dynasty = 756
   martial = 6
@@ -717,7 +717,7 @@
   }
 }
 131 = {
-  name = "√WS∑V	Tr}"  # ∆ldgyth
+  name = "√W>i∑V	TÅt"  # ∆ldgyth
   female = yes
   dynasty = 363
   martial = 4
@@ -736,7 +736,7 @@
   }
 }
 132 = {
-  name = "	TSØe"  # Gyrth
+  name = "	T>iØe"  # Gyrth
   dynasty = 756
   martial = 9
   diplomacy = 6
@@ -761,7 +761,7 @@
   }
 }
 135 = {
-  name = "√WS∑V	Tr}"  # ∆ldgyth
+  name = "√W>i∑V	TÅt"  # ∆ldgyth
   female = yes
   dynasty = 753
   martial = 7
@@ -780,7 +780,7 @@
   }
 }
 186 = {
-  name = "ÊtS^XgY+Y"  # Waltheof
+  name = "Êt>i^XgY+Y"  # Waltheof
   dynasty = 744
   martial = 5
   diplomacy = 6
@@ -822,7 +822,7 @@
   }
 }
 189 = {
-  name = "aS∑VESr}"  # Ealdgyth
+  name = "a>i∑VESÅt"  # Ealdgyth
   female = yes
   dynasty = 744
   martial = 6
@@ -903,7 +903,7 @@
   }
 }
 193 = {
-  name = "√WSôÇçÖ∑V"  # ∆lflÊd
+  name = "√W>iôÇçÖ∑V"  # ∆lflÊd
   female = yes
   dynasty = 744
   martial = 6
@@ -943,7 +943,7 @@
   }
 }
 198 = {
-  name = "ÊtS^XgY+Y"  # Waltheof
+  name = "Êt>i^XgY+Y"  # Waltheof
   dynasty = 745
   martial = 4
   diplomacy = 7
@@ -1035,7 +1035,7 @@
   }
 }
 41003 = {
-  name = "œpS+Y"  # Ulf
+  name = "œp>i+Y"  # Ulf
   dynasty = 756
   martial = 4
   diplomacy = 5
@@ -1058,7 +1058,7 @@
   }
 }
 511 = {
-  name = "√WS	TZ"  # Elgiva
+  name = "√W>i	TZ"  # Elgiva
   female = yes
   dynasty = 100072
   martial = 3
@@ -1183,7 +1183,7 @@
   }
 }
 5660 = {
-  name = "´ÉaSS"  # Morcar
+  name = "´ÉaS>i"  # Morcar
   dynasty = 560
   martial = 8
   diplomacy = 8
@@ -1220,8 +1220,7 @@
   }
 }
 6891 = {
-  name = "^S<hV
-Ñ∑V"  # BurgflÊd
+  name = "^>i<hV˚É∑V"  # BurgflÊd
   female = yes
   religion = "catholic"
   culture = saxon
@@ -1233,7 +1232,7 @@
   }
 }
 7387 = {
-  name = "wmKQr}–cSTê"  # Hextilda
+  name = "wmKQÅt–c>iTê"  # Hextilda
   female = yes
   dynasty = 745
   religion = "catholic"
@@ -1265,7 +1264,7 @@
   }
 }
 7627 = {
-  name = "?ñSV˜ñ∑V"  # Alfred
+  name = "?ñ>iV˜ñ∑V"  # Alfred
   dynasty = 100072
   martial = 8
   diplomacy = 9
@@ -1293,7 +1292,7 @@
   }
 }
 7629 = {
-  name = "√WSôÇr}âÉr}"  # Elfthryth
+  name = "√W>iôÇÅtâÉÅt"  # Elfthryth
   female = yes
   dynasty = 100072
   martial = 3
@@ -1347,7 +1346,7 @@
   }
 }
 82040 = {
-  name = "OS+YØefW"  # Wulfstan
+  name = "8O>i+YØefW"  # Wulfstan
   martial = 4
   diplomacy = 9
   intrigue = 7
@@ -1398,7 +1397,7 @@
   }
 }
 85013 = {
-  name = "OS+Y˛äØe"  # Wulfnoth
+  name = "8O>i+Y˛äØe"  # Wulfnoth
   dynasty = 756
   martial = 6
   diplomacy = 6
@@ -1461,7 +1460,7 @@
   }
 }
 90029 = {
-  name = "%YÍèr}"  # Edith
+  name = "OÍèÅt"  # Edith
   female = yes
   martial = 6
   diplomacy = 5
@@ -1496,7 +1495,7 @@
   }
 }
 33350 = {
-  name = "√W^XSØeU"  # ∆thelstan
+  name = "√W^X>iØeU"  # ∆thelstan
   dna = dwuqrcylhrw
   prp = amq00b00000000000000000000000000000000
   disallow_random_traits = yes
@@ -1578,7 +1577,7 @@
   }
 }
 33355 = {
-  name = "√W^XSÉl+Y"  # ∆thelwulf
+  name = "√W^X>iÉl+Y"  # ∆thelwulf
   dynasty = 100072
   religion = "catholic"
   culture = "saxon"
@@ -1594,7 +1593,7 @@
   }
 }
 33356 = {
-  name = "√W^XSÙT∑V"  # ∆thelbald
+  name = "√W^X>iÙT∑V"  # ∆thelbald
   dynasty = 100072
   religion = "catholic"
   culture = "saxon"
@@ -1608,7 +1607,7 @@
   }
 }
 33357 = {
-  name = "%Yyr>Oyr"  # ∆thelbert
+  name = "Oyr>Oyr"  # ∆thelbert
   dynasty = 100072
   religion = "catholic"
   culture = "saxon"
@@ -1622,7 +1621,7 @@
   }
 }
 33358 = {
-  name = "√W^XS˜ñ∑V"  # ∆thelred
+  name = "√W^X>i˜ñ∑V"  # ∆thelred
   dynasty = 100072
   religion = "catholic"
   culture = "saxon"
@@ -1648,7 +1647,7 @@
   }
 }
 151014 = {
-  name = "?ñ˛äS∑V"  # Arnold
+  name = "?ñ˛ä>i∑V"  # Arnold
   religion = "catholic"
   culture = "saxon"
   trait = "trusting"
@@ -1691,7 +1690,7 @@
   }
 }
 161260 = {
-  name = "√WS+Y,Ñ"  # ∆lfwine
+  name = "√W>i+Y,Ñ"  # ∆lfwine
   dynasty = 490
   religion = "catholic"
   culture = "saxon"
@@ -1713,7 +1712,7 @@
   }
 }
 161261 = {
-  name = "?ñS+Y	TôÇ"  # ∆lfgifu
+  name = "?ñ>i+Y	TôÇ"  # ∆lfgifu
   female = yes
   dynasty = 100072
   religion = "catholic"
@@ -1755,7 +1754,7 @@
   }
 }
 161264 = {
-  name = "?ñS+Y	TôÇ"  # ∆lfgifu
+  name = "?ñ>i+Y	TôÇ"  # ∆lfgifu
   female = yes
   dynasty = 744
   religion = "catholic"
@@ -1812,7 +1811,7 @@
   }
 }
 161268 = {
-  name = "»TSäv"  # Halden
+  name = "»T>iäv"  # Halden
   dynasty = 744
   religion = "catholic"
   culture = "saxon"
@@ -1825,7 +1824,7 @@
   }
 }
 161269 = {
-  name = "√WS∑V	Tr}"  # ∆ldgyth
+  name = "√W>i∑V	TÅt"  # ∆ldgyth
   female = yes
   dynasty = 744
   religion = "catholic"
@@ -1868,7 +1867,7 @@
   }
 }
 161272 = {
-  name = "´ÉaSS"  # Morcar
+  name = "´ÉaS>i"  # Morcar
   dynasty = 562
   religion = "catholic"
   culture = "saxon"
@@ -1910,7 +1909,7 @@
   }
 }
 161275 = {
-  name = "√WntS·àKQ"  # ∆thelric
+  name = "√Wnt>i·àKQ"  # ∆thelric
   dynasty = 20022
   religion = "catholic"
   culture = "saxon"
@@ -1938,7 +1937,7 @@
   }
 }
 161277 = {
-  name = "a?ñ∑VESr}"  # Eadgyth
+  name = "a?ñ∑VESÅt"  # Eadgyth
   female = yes
   dynasty = 100072
   religion = "catholic"
@@ -1953,7 +1952,7 @@
   }
 }
 161278 = {
-  name = "?ñSV·àKQ"  # ∆lfric
+  name = "?ñ>iV·àKQ"  # ∆lfric
   dynasty = 20022
   religion = "catholic"
   culture = "saxon"
@@ -1978,7 +1977,7 @@
   }
 }
 161280 = {
-  name = "√WS	TôÇ"  # ∆lgifu
+  name = "√W>i	TôÇ"  # ∆lgifu
   female = yes
   religion = "catholic"
   culture = "saxon"
@@ -2040,7 +2039,7 @@
   }
 }
 167003 = {
-  name = "?ñS+Y†R"  # ∆lfgar
+  name = "?ñ>i+Y†R"  # ∆lfgar
   dynasty = 756
   religion = "catholic"
   culture = "saxon"
@@ -2059,7 +2058,7 @@
   }
 }
 167004 = {
-  name = "?ñS+Y	TôÇ"  # ∆lfgifu
+  name = "?ñ>i+Y	TôÇ"  # ∆lfgifu
   female = yes
   dynasty = 756
   religion = "catholic"
@@ -2093,7 +2092,7 @@
   }
 }
 163102 = {
-  name = "^S<h˜ñ∑V"  # Burghred
+  name = "^>i<h˜ñ∑V"  # Burghred
   dynasty = 813
   religion = "catholic"
   culture = "saxon"
@@ -2141,8 +2140,7 @@
   }
 }
 6861 = {
-  name = "^
-Ñ≈ñ"  # BlÊja
+  name = "^˚É≈ñ"  # BlÊja
   female = yes
   dynasty = 814
   religion = "catholic"
@@ -2157,7 +2155,7 @@
   }
 }
 6875 = {
-  name = "?ñS+Y†R"  # ∆lfgar
+  name = "?ñ>i+Y†R"  # ∆lfgar
   dynasty = 814
   religion = "catholic"
   culture = saxon
@@ -2174,7 +2172,7 @@
   }
 }
 163120 = {
-  name = "√WSY+Y"  # Eardulf
+  name = "√W>iY+Y"  # Eardulf
   religion = "catholic"
   culture = "saxon"
   learning = 5
@@ -2198,7 +2196,7 @@
   }
 }
 163122 = {
-  name = "?ñS+YÉl∑V"  # ∆lfwald
+  name = "?ñ>i+YÉl∑V"  # ∆lfwald
   religion = "catholic"
   culture = "saxon"
   833.1.1 = {
@@ -2220,7 +2218,7 @@
   }
 }
 159465 = {
-  name = "?ñSV˜ñ∑V"  # ∆lfrÊd
+  name = "?ñ>iV˜ñ∑V"  # ∆lfrÊd
   religion = "catholic"
   culture = "saxon"
   dynasty = 100031
@@ -2259,7 +2257,7 @@
   }
 }
 168594 = {
-  name = "√W∑Vr}Ùur}"  # ∆thelswith
+  name = "√W∑VÅt≠tÅt"  # ∆thelswith
   female = yes
   dynasty = 100072
   religion = "catholic"
@@ -2286,7 +2284,7 @@
   }
 }
 180667 = {
-  name = "ùåSyrÉl∑V"  # Berhtwald
+  name = "ùå>iyrÉl∑V"  # Berhtwald
   religion = "catholic"
   culture = "saxon"
   add_trait = "mastermind_theologian"
@@ -2370,7 +2368,7 @@
   }
 }
 180674 = {
-  name = "OS+Y˜ñ∑V"  # Wulfred
+  name = "8O>i+Y˜ñ∑V"  # Wulfred
   religion = "catholic"
   culture = "saxon"
   add_trait = "mastermind_theologian"
@@ -2430,7 +2428,7 @@
   }
 }
 180679 = {
-  name = "OS+Ywm∆Y"  # Wulfhelm
+  name = "8O>i+Ywm∆Y"  # Wulfhelm
   religion = "catholic"
   culture = "saxon"
   add_trait = "mastermind_theologian"
@@ -2442,7 +2440,7 @@
   }
 }
 180681 = {
-  name = "√WS+Yâ<h"  # ∆lfsige
+  name = "√W>i+Yâ<h"  # ∆lfsige
   religion = "catholic"
   culture = "saxon"
   add_trait = "mastermind_theologian"
@@ -2454,7 +2452,7 @@
   }
 }
 180682 = {
-  name = "‹bSyrwm∆Y"  # Byrhthelm
+  name = "‹b>iyrwm∆Y"  # Byrhthelm
   religion = "catholic"
   culture = "saxon"
   add_trait = "mastermind_theologian"
@@ -2502,7 +2500,7 @@
   }
 }
 180686 = {
-  name = "?ñSV·àKQ"  # ∆lfric
+  name = "?ñ>iV·àKQ"  # ∆lfric
   religion = "catholic"
   culture = "saxon"
   add_trait = "mastermind_theologian"
@@ -2538,7 +2536,7 @@
   }
 }
 168608 = {
-  name = "çÇ§o˛äØe"  # Aethelnoth
+  name = "y|≥f˛äØe"  # Aethelnoth
   religion = "catholic"
   culture = "saxon"
   add_trait = "mastermind_theologian"
@@ -2562,7 +2560,7 @@
   }
 }
 205025 = {
-  name = "Zyr	TSØe"  # Wihtgils
+  name = "Zyr	T>iØe"  # Wihtgils
   dynasty = 1047001
   religion = "norse_pagan"
   culture = "saxon"
@@ -2600,7 +2598,7 @@
   }
 }
 205028 = {
-  name = "gYSØeKQ"  # Oisc
+  name = "gY>iØeKQ"  # Oisc
   dynasty = 1047001
   religion = "norse_pagan"
   culture = "saxon"
@@ -2626,7 +2624,7 @@
   }
 }
 205030 = {
-  name = "çÇgYÄï·àKQ"  # Eormenric
+  name = "y|gYèå·àKQ"  # Eormenric
   dynasty = 1047001
   religion = "norse_pagan"
   culture = "saxon"
@@ -2639,7 +2637,7 @@
   }
 }
 205031 = {
-  name = "√W^XS>Oyr"  # ∆thelberht
+  name = "√W^X>i>Oyr"  # ∆thelberht
   dynasty = 1047001
   religion = "norse_pagan"
   culture = "saxon"
@@ -2671,7 +2669,7 @@
   }
 }
 205033 = {
-  name = "√W^XSÊtS∑V"  # ∆thelwald
+  name = "√W^X>iÊt>i∑V"  # ∆thelwald
   dynasty = 1047001
   religion = "catholic"
   culture = "saxon"
@@ -2701,7 +2699,7 @@
   }
 }
 205035 = {
-  name = "çÇgYÄï˜ñ∑V"  # Eormenred
+  name = "y|gYèå˜ñ∑V"  # Eormenred
   dynasty = 1047001
   religion = "catholic"
   culture = "saxon"
@@ -2714,7 +2712,7 @@
   }
 }
 205036 = {
-  name = "çÇgYÓh>Oyr"  # Eorcenberht
+  name = "y|gYÓh>Oyr"  # Eorcenberht
   dynasty = 1047001
   religion = "catholic"
   culture = "saxon"
@@ -2727,7 +2725,7 @@
   }
 }
 205037 = {
-  name = "√W^XS>Oyr"  # ∆thelberht
+  name = "√W^X>i>Oyr"  # ∆thelberht
   dynasty = 1047001
   religion = "catholic"
   culture = "saxon"
@@ -2740,7 +2738,7 @@
   }
 }
 205038 = {
-  name = "√W^XS˜ñ∑V"  # ∆thelred
+  name = "√W^X>i˜ñ∑V"  # ∆thelred
   dynasty = 1047001
   religion = "catholic"
   culture = "saxon"
@@ -2818,7 +2816,7 @@
   }
 }
 205044 = {
-  name = "√W^XS>Oyr"  # ∆thelberht
+  name = "√W^X>i>Oyr"  # ∆thelberht
   dynasty = 1047001
   religion = "catholic"
   culture = "saxon"
@@ -2844,7 +2842,7 @@
   }
 }
 205046 = {
-  name = "?ñSV·àKQ"  # ∆lfric
+  name = "?ñ>iV·àKQ"  # ∆lfric
   dynasty = 1047001
   religion = "catholic"
   culture = "saxon"
@@ -2870,7 +2868,7 @@
   }
 }
 205048 = {
-  name = "√WûN∑VùåSkçyr"  # Eadberht
+  name = "√WûN∑Vùå>ikçyr"  # Eadberht
   dynasty = 1047001
   religion = "catholic"
   culture = "saxon"
@@ -2960,7 +2958,7 @@
   }
 }
 205004 = {
-  name = "çÇgYÉl∑V"  # Eorpwald
+  name = "y|gYÉl∑V"  # Eorpwald
   dynasty = 1047000
   religion = "norse_pagan"
   culture = "saxon"
@@ -3013,7 +3011,7 @@
   }
 }
 205008 = {
-  name = "√W∑V^S"  # ∆thelhere
+  name = "√W∑V^>i"  # ∆thelhere
   dynasty = 1047000
   religion = "catholic"
   culture = "saxon"
@@ -3026,7 +3024,7 @@
   }
 }
 205009 = {
-  name = "√WyrSÉl∑V"  # ∆thelwold
+  name = "√Wyr>iÉl∑V"  # ∆thelwold
   dynasty = 1047000
   religion = "catholic"
   culture = "saxon"
@@ -3039,7 +3037,7 @@
   }
 }
 205010 = {
-  name = "√WntS·àKQ"  # ∆thelric
+  name = "√Wnt>i·àKQ"  # ∆thelric
   dynasty = 1047000
   religion = "norse_pagan"
   culture = "saxon"
@@ -3078,7 +3076,7 @@
   }
 }
 205013 = {
-  name = "∂xf≥u"  # Beonna
+  name = "∂xft"  # Beonna
   dynasty = 1047000
   religion = "catholic"
   culture = "saxon"
@@ -3091,7 +3089,7 @@
   }
 }
 205014 = {
-  name = "√W^XS>Oyr"  # ∆thelberht
+  name = "√W^X>i>Oyr"  # ∆thelberht
   dynasty = 1047000
   religion = "catholic"
   culture = "saxon"
@@ -3104,7 +3102,7 @@
   }
 }
 205015 = {
-  name = "√W^XS˜ñ∑V"  # ∆thelred
+  name = "√W^X>i˜ñ∑V"  # ∆thelred
   dynasty = 1047000
   religion = "catholic"
   culture = "saxon"
@@ -3117,7 +3115,7 @@
   }
 }
 205016 = {
-  name = "√W^XS>Oyr"  # ∆thelberht
+  name = "√W^X>i>Oyr"  # ∆thelberht
   dynasty = 1047000
   religion = "catholic"
   culture = "saxon"
@@ -3130,7 +3128,7 @@
   }
 }
 205017 = {
-  name = "√WntS·àKQ"  # ∆thelric
+  name = "√Wnt>i·àKQ"  # ∆thelric
   dynasty = 1047000
   religion = "catholic"
   culture = "saxon"
@@ -3156,7 +3154,7 @@
   }
 }
 205019 = {
-  name = "√W^XS˜ñ∑V"  # ∆thelred
+  name = "√W^X>i˜ñ∑V"  # ∆thelred
   dynasty = 1047000
   religion = "catholic"
   culture = "saxon"
@@ -3169,7 +3167,7 @@
   }
 }
 205020 = {
-  name = "√W^XSØeU"  # ∆thelstan
+  name = "√W^X>iØeU"  # ∆thelstan
   dynasty = 626
   religion = "catholic"
   culture = "saxon"
@@ -3182,7 +3180,7 @@
   }
 }
 205021 = {
-  name = "√W∑VZS∑V"  # ∆thelweard
+  name = "√W∑VZ>i∑V"  # ∆thelweard
   dynasty = 626
   religion = "catholic"
   culture = "saxon"
@@ -3208,7 +3206,7 @@
   }
 }
 205023 = {
-  name = "gYØeÊtS∑V"  # Oswald
+  name = "gYØeÊt>i∑V"  # Oswald
   dynasty = 626
   religion = "catholic"
   culture = "saxon"
@@ -3221,7 +3219,7 @@
   }
 }
 205024 = {
-  name = "√W^XS˜ñ∑V"  # ∆thelred
+  name = "√W^X>i˜ñ∑V"  # ∆thelred
   dynasty = 626
   religion = "catholic"
   culture = "saxon"
@@ -3234,7 +3232,7 @@
   }
 }
 205051 = {
-  name = "çÇgYid"  # Eomer
+  name = "y|gYid"  # Eomer
   religion = "norse_pagan"
   culture = "saxon"
   455.1.1 = {
@@ -3245,7 +3243,7 @@
   }
 }
 205052 = {
-  name = "çÇntS"  # Icel
+  name = "y|nt>i"  # Icel
   dynasty = 1047002
   religion = "norse_pagan"
   culture = "saxon"
@@ -3324,7 +3322,7 @@
   }
 }
 205058 = {
-  name = "çÇgYÊt"  # Eowa
+  name = "y|gYÊt"  # Eowa
   dynasty = 1047002
   religion = "norse_pagan"
   culture = "saxon"
@@ -3367,7 +3365,7 @@
   }
 }
 205061 = {
-  name = "fk+Y^S"  # Wulfhere
+  name = "fk+Y^>i"  # Wulfhere
   dynasty = 1047002
   religion = "norse_pagan"
   culture = "saxon"
@@ -3383,7 +3381,7 @@
   }
 }
 205062 = {
-  name = "√W^XS˜ñ∑V"  # ∆thelred
+  name = "√W^X>i˜ñ∑V"  # ∆thelred
   dynasty = 1047002
   religion = "norse_pagan"
   culture = "saxon"
@@ -3438,7 +3436,7 @@
   }
 }
 205066 = {
-  name = "?ñSÙugY"  # Alweo
+  name = "?ñ>i≠tgY"  # Alweo
   dynasty = 1047002
   religion = "catholic"
   culture = "saxon"
@@ -3451,7 +3449,7 @@
   }
 }
 205067 = {
-  name = "√WntSÙT∑V"  # ∆thelbald
+  name = "√Wnt>iÙT∑V"  # ∆thelbald
   dynasty = 1047002
   religion = "catholic"
   culture = "saxon"
@@ -3490,7 +3488,7 @@
   }
 }
 205070 = {
-  name = "çÇi`fk+Y"  # Eanwulf
+  name = "y|i`fk+Y"  # Eanwulf
   dynasty = 1047002
   religion = "catholic"
   culture = "saxon"
@@ -3548,7 +3546,7 @@
   }
 }
 205074 = {
-  name = "^<Sr}âÉr}"  # Cynethryth
+  name = "^<SÅtâÉÅt"  # Cynethryth
   dynasty = 1047003
   female = yes
   religion = "catholic"
@@ -3580,8 +3578,7 @@
   }
 }
 205076 = {
-  name = "çÇSôÇ
-Ñ∑V"  # ∆lfflÊd
+  name = "y|>iôÇ˚É∑V"  # ∆lfflÊd
   female = yes
   dynasty = 1047002
   religion = "catholic"
@@ -3611,7 +3608,7 @@
   }
 }
 205078 = {
-  name = "√Wntr}Ùur}"  # ∆thelswith
+  name = "√WntÅt≠tÅt"  # ∆thelswith
   female = yes
   dynasty = 1047002
   religion = "catholic"
@@ -3626,8 +3623,7 @@
   }
 }
 205079 = {
-  name = "Z<h
-Ñ+Y"  # Wiglaf
+  name = "Z<h˚É+Y"  # Wiglaf
   dynasty = 1047004
   religion = "catholic"
   culture = "saxon"
@@ -3679,8 +3675,7 @@
   }
 }
 205084 = {
-  name = "Z<h
-Ñ+Y"  # Wiglaf
+  name = "Z<h˚É+Y"  # Wiglaf
   dynasty = 1047004
   religion = "catholic"
   culture = "saxon"
@@ -3745,7 +3740,7 @@
   }
 }
 205088 = {
-  name = "√W^XS˜ñ∑V"  # ∆thelred
+  name = "√W^X>i˜ñ∑V"  # ∆thelred
   dynasty = 1047004
   religion = "catholic"
   culture = "saxon"
@@ -3800,7 +3795,7 @@
   }
 }
 205091 = {
-  name = "‘kgYÙu∑V"  # Beorhtweald
+  name = "‘kgY≠t∑V"  # Beorhtweald
   dynasty = 1047005
   religion = "catholic"
   culture = "saxon"
@@ -3852,7 +3847,7 @@
   }
 }
 205095 = {
-  name = "ùågYSkçyr+Y·àØe"  # Beorhtfrith
+  name = "ùågY>ikçyr+Y·àØe"  # Beorhtfrith
   dynasty = 1047005
   religion = "catholic"
   culture = "saxon"
@@ -4021,7 +4016,7 @@
   }
 }
 205108 = {
-  name = "—ySfk+Y"  # Coelwulf
+  name = "—y>ifk+Y"  # Coelwulf
   dynasty = 1047003
   religion = "catholic"
   culture = "saxon"
@@ -4100,7 +4095,7 @@
   }
 }
 205141 = {
-  name = "äVSÍèKQ"  # Cerdic
+  name = "»V>iÍèKQ"  # Cerdic
   dynasty = 1047006
   religion = "norse_pagan"
   culture = "saxon"
@@ -4178,7 +4173,7 @@
   }
 }
 205147 = {
-  name = "â<S	TSØe"  # Cynegils
+  name = "â<S	T>iØe"  # Cynegils
   dynasty = 1047006
   religion = "catholic"
   culture = "saxon"
@@ -4243,7 +4238,7 @@
   }
 }
 205152 = {
-  name = "´^yr	TSØe"  # Cuthgils
+  name = "´^yr	T>iØe"  # Cuthgils
   dynasty = 1047006
   religion = "catholic"
   culture = "saxon"
@@ -4347,7 +4342,7 @@
   }
 }
 205160 = {
-  name = "FzS"  # Mul
+  name = "Fz>i"  # Mul
   dynasty = 1047006
   religion = "norse_pagan"
   culture = "saxon"
@@ -4399,7 +4394,7 @@
   }
 }
 205164 = {
-  name = "%Y<S"  # Ine
+  name = "O<S"  # Ine
   dynasty = 1047006
   religion = "catholic"
   culture = "saxon"
@@ -4412,7 +4407,7 @@
   }
 }
 205165 = {
-  name = "ÒÇ	TS∑V"  # Ingild
+  name = "ÒÇ	T>i∑V"  # Ingild
   dynasty = 1047006
   religion = "catholic"
   culture = "saxon"
@@ -4464,7 +4459,7 @@
   }
 }
 205169 = {
-  name = "lçÃufk+Y"  # Cynewulf
+  name = "jçtfk+Y"  # Cynewulf
   dynasty = 1047006
   religion = "norse_pagan"
   culture = "saxon"
@@ -4607,7 +4602,7 @@
   }
 }
 205180 = {
-  name = "lçÃufk+Y"  # Cynewulf
+  name = "jçtfk+Y"  # Cynewulf
   dynasty = 1047006
   religion = "catholic"
   culture = "saxon"
@@ -4646,7 +4641,7 @@
   }
 }
 205183 = {
-  name = "√W^XS˜ñ∑V"  # ∆thelred
+  name = "√W^X>i˜ñ∑V"  # ∆thelred
   dynasty = 1047006
   religion = "catholic"
   culture = "saxon"
@@ -4698,7 +4693,7 @@
   }
 }
 205187 = {
-  name = "çÇgY^"  # Eoppa
+  name = "y|gY^"  # Eoppa
   dynasty = 1047006
   religion = "catholic"
   culture = "saxon"
@@ -4725,7 +4720,7 @@
   }
 }
 205189 = {
-  name = "%YSôÑ∑V"  # Ealhmund
+  name = "O>iôÑ∑V"  # Ealhmund
   dynasty = 1047006
   religion = "catholic"
   culture = "saxon"
@@ -4766,7 +4761,7 @@
   }
 }
 205113 = {
-  name = "gYØe^S"  # Oshere
+  name = "gYØe^>i"  # Oshere
   dynasty = 1047011
   religion = "catholic"
   culture = "saxon"
@@ -4780,7 +4775,7 @@
   }
 }
 205114 = {
-  name = "çÇi`^S"  # Eanhere
+  name = "y|i`^>i"  # Eanhere
   dynasty = 1047011
   religion = "catholic"
   culture = "saxon"
@@ -4794,7 +4789,7 @@
   }
 }
 205115 = {
-  name = "çÇi`V·àØe"  # Eanfrith
+  name = "y|i`V·àØe"  # Eanfrith
   dynasty = 1047011
   religion = "catholic"
   culture = "saxon"
@@ -4835,7 +4830,7 @@
   }
 }
 205118 = {
-  name = "gYØe^S"  # Oshere
+  name = "gYØe^>i"  # Oshere
   dynasty = 1047011
   religion = "catholic"
   culture = "saxon"
@@ -4848,7 +4843,7 @@
   }
 }
 205119 = {
-  name = "gYØeÊtS∑V"  # Oswald
+  name = "gYØeÊt>i∑V"  # Oswald
   dynasty = 1047011
   religion = "catholic"
   culture = "saxon"
@@ -4875,7 +4870,7 @@
   }
 }
 205121 = {
-  name = "√WntZS∑V"  # ∆thelweard
+  name = "√WntZ>i∑V"  # ∆thelweard
   dynasty = 1047011
   religion = "catholic"
   culture = "saxon"
@@ -4889,7 +4884,7 @@
   }
 }
 205122 = {
-  name = "√WntS·àKQ"  # ∆thelric
+  name = "√Wnt>i·àKQ"  # ∆thelric
   dynasty = 1047011
   religion = "catholic"
   culture = "saxon"
@@ -4917,7 +4912,7 @@
   }
 }
 205124 = {
-  name = "ÒÇ	TS∑V"  # Ingeld
+  name = "ÒÇ	T>i∑V"  # Ingeld
   dynasty = 1047011
   religion = "catholic"
   culture = "saxon"
@@ -4945,7 +4940,7 @@
   }
 }
 205126 = {
-  name = "√WntS·àKQ"  # ∆thelric
+  name = "√Wnt>i·àKQ"  # ∆thelric
   dynasty = 1047011
   religion = "catholic"
   culture = "saxon"
@@ -4958,7 +4953,7 @@
   }
 }
 205127 = {
-  name = "çÇi`>Oyr"  # Eanberht
+  name = "y|i`>Oyr"  # Eanberht
   dynasty = 1047011
   religion = "catholic"
   culture = "saxon"
@@ -5014,7 +5009,7 @@
   }
 }
 205131 = {
-  name = "-^i`yr·àr}"  # Cynetryth
+  name = "-^i`yr·àÅt"  # Cynetryth
   female = yes
   dynasty = 1047003
   religion = "catholic"
@@ -5028,7 +5023,7 @@
   }
 }
 205132 = {
-  name = "OS+Yyr·àr}"  # Wulfthryth
+  name = "8O>i+Yyr·àÅt"  # Wulfthryth
   female = yes
   dynasty = 1047003
   religion = "catholic"
@@ -5042,7 +5037,7 @@
   }
 }
 205133 = {
-  name = "^Xr}âÉr}"  # SÊthryth
+  name = "^XÅtâÉÅt"  # SÊthryth
   female = yes
   dynasty = 1047003
   religion = "catholic"
@@ -5084,7 +5079,7 @@
   }
 }
 205136 = {
-  name = "HSgQ^Skç"  # Cyneburh
+  name = "HSgQ^>ikç"  # Cyneburh
   female = yes
   dynasty = 1047003
   religion = "catholic"
@@ -5098,7 +5093,7 @@
   }
 }
 205139 = {
-  name = "gYØeÊtS∑V"  # Oswald
+  name = "gYØeÊt>i∑V"  # Oswald
   dynasty = 1047011
   religion = "catholic"
   culture = "saxon"
@@ -5135,8 +5130,7 @@
   }
 }
 194096 = {
-  name = "Øe
-ÑTê"  # Sledda
+  name = "Øe˚ÉTê"  # Sledda
   dynasty = 1047012
   religion = "norse_pagan"
   culture = "saxon"
@@ -5215,7 +5209,7 @@
   }
 }
 194102 = {
-  name = "ØeÙuØe—ûS∆Y"  # Swithhelm
+  name = "Øe≠tØe—û>i∆Y"  # Swithhelm
   dynasty = 1047012
   religion = "catholic"
   culture = "saxon"
@@ -5228,7 +5222,7 @@
   }
 }
 194103 = {
-  name = "â<h^S"  # Sighere
+  name = "â<h^>i"  # Sighere
   dynasty = 1047012
   religion = "norse_pagan"
   culture = "saxon"
@@ -5319,7 +5313,7 @@
   }
 }
 205262 = {
-  name = "^XS˜ñ∑V"  # SÊlred
+  name = "^X>i˜ñ∑V"  # SÊlred
   dynasty = 1047012
   religion = "catholic"
   culture = "saxon"
@@ -5332,7 +5326,7 @@
   }
 }
 205263 = {
-  name = "ØeÙuØe˜ñ∑V"  # Swithred
+  name = "Øe≠tØe˜ñ∑V"  # Swithred
   dynasty = 1047012
   religion = "catholic"
   culture = "saxon"
@@ -5345,7 +5339,7 @@
   }
 }
 205264 = {
-  name = "^XS˜ñ∑V"  # SÊlred
+  name = "^X>i˜ñ∑V"  # SÊlred
   dynasty = 1047012
   religion = "catholic"
   culture = "saxon"
@@ -5410,7 +5404,7 @@
   }
 }
 205194 = {
-  name = "√WSV·àKQ"  # ∆lfric
+  name = "√W>iV·àKQ"  # ∆lfric
   dynasty = 1047009
   religion = "norse_pagan"
   culture = "saxon"
@@ -5449,7 +5443,7 @@
   }
 }
 205197 = {
-  name = "√WntS·àKQ"  # ∆thelric
+  name = "√Wnt>i·àKQ"  # ∆thelric
   dynasty = 1047009
   religion = "norse_pagan"
   culture = "saxon"
@@ -5478,7 +5472,7 @@
   }
 }
 205199 = {
-  name = "ÒÇ<hÙu"  # Ingvi
+  name = "ÒÇ<h≠t"  # Ingvi
   dynasty = 1047008
   religion = "norse_pagan"
   culture = "saxon"
@@ -5503,7 +5497,7 @@
   }
 }
 205201 = {
-  name = "çÇPk^"  # Eoppa
+  name = "y|Pk^"  # Eoppa
   dynasty = 1047008
   religion = "norse_pagan"
   culture = "saxon"
@@ -5516,7 +5510,7 @@
   }
 }
 205202 = {
-  name = "%Y≤Y"  # Ida
+  name = "O≤Y"  # Ida
   dynasty = 1047008
   religion = "norse_pagan"
   culture = "saxon"
@@ -5555,7 +5549,7 @@
   }
 }
 205205 = {
-  name = "√WntS·àKQ"  # ∆thelric
+  name = "√Wnt>i·àKQ"  # ∆thelric
   dynasty = 1047008
   religion = "norse_pagan"
   culture = "saxon"
@@ -5607,7 +5601,7 @@
   }
 }
 205209 = {
-  name = "√W^XSèy·àØe"  # ∆thelfrith
+  name = "√W^X>ièy·àØe"  # ∆thelfrith
   dynasty = 1047010
   religion = "norse_pagan"
   culture = "saxon"
@@ -5640,7 +5634,7 @@
   }
 }
 205211 = {
-  name = "çÇi`V·àØe"  # Eanfrith
+  name = "y|i`V·àØe"  # Eanfrith
   dynasty = 1047010
   religion = "catholic"
   culture = "saxon"
@@ -5657,7 +5651,7 @@
   }
 }
 205212 = {
-  name = "gYØeÊtS∑V"  # Oswald
+  name = "gYØeÊt>i∑V"  # Oswald
   dynasty = 1047010
   religion = "catholic"
   culture = "saxon"
@@ -5691,8 +5685,7 @@
   }
 }
 205214 = {
-  name = "çÇi`V
-Ñ∑V"  # EanflÊd
+  name = "y|i`V˚É∑V"  # EanflÊd
   female = yes
   dynasty = 1047009
   religion = "catholic"
@@ -5723,7 +5716,7 @@
   }
 }
 205216 = {
-  name = "?ñS4b∆Y"  # Aldhelm
+  name = "?ñ>i4b∆Y"  # Aldhelm
   dynasty = 1047008
   religion = "norse_pagan"
   culture = "saxon"
@@ -5866,7 +5859,7 @@
   }
 }
 205227 = {
-  name = "gYr}	TôÇ"  # Osgifu
+  name = "gYÅt	TôÇ"  # Osgifu
   female = yes
   dynasty = 1047021
   religion = "catholic"
@@ -5883,7 +5876,7 @@
   }
 }
 194104 = {
-  name = "√WS+YÉl∑V"  # ∆lfwald
+  name = "√W>i+YÉl∑V"  # ∆lfwald
   dynasty = 1047021
   religion = "catholic"
   culture = "saxon"
@@ -5909,7 +5902,7 @@
   }
 }
 205229 = {
-  name = "√WS+Y"  # ∆lf
+  name = "√W>i+Y"  # ∆lf
   dynasty = 1047021
   religion = "catholic"
   culture = "saxon"
@@ -5922,7 +5915,7 @@
   }
 }
 205230 = {
-  name = "√WS+Yáe"  # ∆lfwine
+  name = "√W>i+Yáe"  # ∆lfwine
   dynasty = 1047021
   religion = "catholic"
   culture = "saxon"
@@ -5961,8 +5954,7 @@
   }
 }
 205233 = {
-  name = "^
-ÑKQ¸f"  # BlÊcman
+  name = "^˚ÉKQ¸f"  # BlÊcman
   dynasty = 1047023
   religion = "norse_pagan"
   culture = "saxon"
@@ -6001,7 +5993,7 @@
   }
 }
 205236 = {
-  name = "çÇi`,Ñ"  # Eanwine
+  name = "y|i`,Ñ"  # Eanwine
   dynasty = 1047023
   religion = "catholic"
   culture = "saxon"
@@ -6014,7 +6006,7 @@
   }
 }
 205237 = {
-  name = "√WS˜ñ∑V"  # Ealhred
+  name = "√W>i˜ñ∑V"  # Ealhred
   dynasty = 1047023
   religion = "catholic"
   culture = "saxon"
@@ -6044,7 +6036,7 @@
   }
 }
 205239 = {
-  name = "√WSôÑ∑V"  # Ealhmund
+  name = "√W>iôÑ∑V"  # Ealhmund
   dynasty = 1047023
   religion = "catholic"
   culture = "saxon"
@@ -6070,7 +6062,7 @@
   }
 }
 205241 = {
-  name = "çÇi`,Ñ"  # Eanwine
+  name = "y|i`,Ñ"  # Eanwine
   dynasty = 1047022
   religion = "catholic"
   culture = "saxon"
@@ -6083,7 +6075,7 @@
   }
 }
 205242 = {
-  name = "idS"  # Moll
+  name = "id>i"  # Moll
   dynasty = 1047022
   religion = "catholic"
   culture = "saxon"
@@ -6096,7 +6088,7 @@
   }
 }
 205243 = {
-  name = "√W^XSÊtS∑V"  # ∆thelwald
+  name = "√W^X>iÊt>i∑V"  # ∆thelwald
   dynasty = 1047022
   religion = "catholic"
   culture = "saxon"
@@ -6109,7 +6101,7 @@
   }
 }
 205244 = {
-  name = "√W^XS˜ñ∑V"  # ∆thelred
+  name = "√W^X>i˜ñ∑V"  # ∆thelred
   dynasty = 1047022
   religion = "catholic"
   culture = "saxon"
@@ -6148,7 +6140,7 @@
   }
 }
 205247 = {
-  name = "çÇi`˜ñ∑V"  # Eanred
+  name = "y|i`˜ñ∑V"  # Eanred
   dynasty = 1047022
   religion = "catholic"
   culture = "saxon"
@@ -6174,7 +6166,7 @@
   }
 }
 205249 = {
-  name = "çÇi`,Ñ"  # Eanwine
+  name = "y|i`,Ñ"  # Eanwine
   dynasty = 1047022
   religion = "catholic"
   culture = "saxon"
@@ -6187,7 +6179,7 @@
   }
 }
 205250 = {
-  name = "gYØeÊtS∑V"  # Oswald
+  name = "gYØeÊt>i∑V"  # Oswald
   dynasty = 1047022
   religion = "catholic"
   culture = "saxon"
@@ -6252,7 +6244,7 @@
   }
 }
 205255 = {
-  name = "√W^XS˜ñ∑V"  # ∆thelred
+  name = "√W^X>i˜ñ∑V"  # ∆thelred
   dynasty = 1047022
   religion = "catholic"
   culture = "saxon"
@@ -6289,7 +6281,7 @@
   }
 }
 214037 = {
-  name = "?ñS∑V+Y·àØe"  # Aldfrith
+  name = "?ñ>i∑V+Y·àØe"  # Aldfrith
   dynasty = 214019
   religion = "catholic"
   culture = "saxon"
@@ -6302,7 +6294,7 @@
   }
 }
 214038 = {
-  name = "%YTX"  # Eatta
+  name = "OTX"  # Eatta
   dynasty = 214019
   religion = "catholic"
   culture = "saxon"
@@ -6315,7 +6307,7 @@
   }
 }
 214039 = {
-  name = "çÇi`V·àØe"  # Eanfrith
+  name = "y|i`V·àØe"  # Eanfrith
   dynasty = 214019
   religion = "catholic"
   culture = "saxon"
@@ -6441,7 +6433,7 @@
   }
 }
 188915 = {
-  name = "√WntS>Oyr"  # ∆thelbert
+  name = "√Wnt>i>Oyr"  # ∆thelbert
   religion = "catholic"
   culture = "saxon"
   learning = 12
@@ -6455,7 +6447,7 @@
   }
 }
 188916 = {
-  name = "fk+Y^S"  # Wulfhere
+  name = "fk+Y^>i"  # Wulfhere
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6482,7 +6474,7 @@
   }
 }
 188918 = {
-  name = "?ñSf"  # Alcuin
+  name = "?ñ>if"  # Alcuin
   religion = "catholic"
   culture = "saxon"
   learning = 13
@@ -6500,7 +6492,7 @@
   }
 }
 188919 = {
-  name = "—ûkçÊtSyr"  # Herewald
+  name = "—ûkçÊt>iyr"  # Herewald
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6536,7 +6528,7 @@
   }
 }
 214045 = {
-  name = "lçÃufk+Y"  # Cynewulf
+  name = "jçtfk+Y"  # Cynewulf
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6548,7 +6540,7 @@
   }
 }
 214046 = {
-  name = "gYØeÊtS∑V"  # Oswald
+  name = "gYØeÊt>i∑V"  # Oswald
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6560,7 +6552,7 @@
   }
 }
 214047 = {
-  name = "√WntS·àKQ"  # ∆thelric
+  name = "√Wnt>i·àKQ"  # ∆thelric
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6608,7 +6600,7 @@
   }
 }
 252053 = {
-  name = "ZSV·à∑V"  # Wilfrid
+  name = "Z>iV·à∑V"  # Wilfrid
   religion = "catholic"
   culture = "saxon"
   trait = "chaste"
@@ -6678,7 +6670,7 @@
   }
 }
 252058 = {
-  name = "√WyrSÉl∑V"  # ∆thelwold
+  name = "√Wyr>iÉl∑V"  # ∆thelwold
   religion = "catholic"
   culture = "saxon"
   trait = "chaste"
@@ -6692,7 +6684,7 @@
   }
 }
 252059 = {
-  name = "^<hÙTS∑V"  # Higbald
+  name = "^<hÙT>i∑V"  # Higbald
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6752,7 +6744,7 @@
   }
 }
 252064 = {
-  name = "´^^XûNS∑V"  # Cutheard
+  name = "´^^XûN>i∑V"  # Cutheard
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6764,7 +6756,7 @@
   }
 }
 252065 = {
-  name = "ÇÑS˜ñ∑V"  # Tilred
+  name = "ÇÑ>i˜ñ∑V"  # Tilred
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6800,7 +6792,7 @@
   }
 }
 252068 = {
-  name = "^XKQØe—ûS∆Y"  # Sexhelm
+  name = "^XKQØe—û>i∆Y"  # Sexhelm
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6812,7 +6804,7 @@
   }
 }
 252069 = {
-  name = "?ñS∑V˜ñ∑V"  # Aldred
+  name = "?ñ>i∑V˜ñ∑V"  # Aldred
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6824,7 +6816,7 @@
   }
 }
 252070 = {
-  name = "√WS+Yâ6w"  # ∆lfsige
+  name = "√W>i+Yâ6w"  # ∆lfsige
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6836,7 +6828,7 @@
   }
 }
 252071 = {
-  name = "?ñS∑V*m"  # Aldhun
+  name = "?ñ>i∑V*m"  # Aldhun
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6872,7 +6864,7 @@
   }
 }
 252074 = {
-  name = "√W^XS·àKQ"  # ∆thelric
+  name = "√W^X>i·àKQ"  # ∆thelric
   religion = "catholic"
   culture = "saxon"
   learning = 8
@@ -6897,7 +6889,7 @@
   }
 }
 252169 = {
-  name = "ZS%YSØe"  # Wilgils
+  name = "Z>iO>iØe"  # Wilgils
   dynasty = 1047009
   religion = "norse_pagan"
   culture = "saxon"
@@ -6910,8 +6902,7 @@
   }
 }
 252170 = {
-  name = "ÀóØel’l
-ÑûN"  # Westerfalea
+  name = "ÀóØel’l˚ÉûN"  # Westerfalea
   dynasty = 1047009
   religion = "norse_pagan"
   culture = "saxon"
@@ -6924,7 +6915,7 @@
   }
 }
 252171 = {
-  name = "^XÖhS"  # Soemel
+  name = "^XÖh>i"  # Soemel
   dynasty = 1047009
   religion = "norse_pagan"
   culture = "saxon"
@@ -6937,7 +6928,7 @@
   }
 }
 252172 = {
-  name = "^XO6wS"  # Saefugel
+  name = "^X8O6w>i"  # Saefugel
   dynasty = 1047009
   religion = "norse_pagan"
   culture = "saxon"
@@ -6950,7 +6941,7 @@
   }
 }
 252173 = {
-  name = "^XÙTS∑V"  # Saebald
+  name = "^XÙT>i∑V"  # Saebald
   dynasty = 1047009
   religion = "norse_pagan"
   culture = "saxon"
@@ -6962,7 +6953,7 @@
   }
 }
 252174 = {
-  name = "√W^XSÊtS∑V"  # Rthelwald
+  name = "√W^X>iÊt>i∑V"  # Rthelwald
   dynasty = 1047010
   religion = "catholic"
   culture = "saxon"
@@ -6975,7 +6966,7 @@
   }
 }
 252175 = {
-  name = "?ñSkç+Y·àØe"  # Alhfrith
+  name = "?ñ>ikç+Y·àØe"  # Alhfrith
   dynasty = 1047010
   religion = "catholic"
   culture = "saxon"
@@ -6992,8 +6983,7 @@
   }
 }
 252176 = {
-  name = "?ñSkç+Y
-Ñ∑V"  # Alhflaed
+  name = "?ñ>ikç+Y˚É∑V"  # Alhflaed
   female = yes
   dynasty = 1047010
   religion = "catholic"
@@ -7008,7 +6998,7 @@
   }
 }
 252177 = {
-  name = "HSgQ^Skç"  # Cyneburh
+  name = "HSgQ^>ikç"  # Cyneburh
   female = yes
   dynasty = 1047002
   religion = "norse_pagan"
@@ -7042,7 +7032,7 @@
   }
 }
 252179 = {
-  name = "çÇ<hV·àØe"  # Ecgfrith
+  name = "y|<hV·àØe"  # Ecgfrith
   dynasty = 1047010
   religion = "catholic"
   culture = "saxon"
@@ -7059,7 +7049,7 @@
   }
 }
 252180 = {
-  name = "√W^XS∑VœpTê"  # ∆thelthryth
+  name = "√W^X>i∑VLNTê"  # ∆thelthryth
   female = yes
   dynasty = 1047000
   religion = "catholic"
@@ -7073,7 +7063,7 @@
   }
 }
 252181 = {
-  name = "√WS+YÙugQ"  # ∆lfwine
+  name = "√W>i+Y≠tgQ"  # ∆lfwine
   dynasty = 1047010
   religion = "catholic"
   culture = "saxon"
@@ -7087,7 +7077,7 @@
   }
 }
 252182 = {
-  name = "?ñS∑V+Y·àØe"  # Aldfrith
+  name = "?ñ>i∑V+Y·àØe"  # Aldfrith
   dynasty = 1047010
   religion = "catholic"
   culture = "saxon"
@@ -7103,7 +7093,7 @@
   }
 }
 252183 = {
-  name = "´^r}^Skç"  # Cuthburh
+  name = "´^Åt^>ikç"  # Cuthburh
   female = yes
   dynasty = 1047006
   religion = "catholic"
@@ -7177,7 +7167,7 @@
   }
 }
 252188 = {
-  name = "√WS+YÊtS∑V"  # ∆lfwald
+  name = "√W>i+YÊt>i∑V"  # ∆lfwald
   dynasty = 1047010
   religion = "catholic"
   culture = "saxon"
@@ -7190,7 +7180,7 @@
   }
 }
 252189 = {
-  name = "˜ñ∑VOS+Y"  # Raedwulf
+  name = "˜ñ∑V8O>i+Y"  # Raedwulf
   dynasty = 1047010
   religion = "catholic"
   culture = "saxon"
@@ -7203,8 +7193,7 @@
   }
 }
 252190 = {
-  name = "√W
-Ñ©Ö"  # Elesa
+  name = "√W˚É©Ö"  # Elesa
   dynasty = 1047006
   religion = "norse_pagan"
   culture = "saxon"
@@ -7230,7 +7219,7 @@
   }
 }
 252192 = {
-  name = "6wZSS+Y"  # Gebolf
+  name = "6wZS>i+Y"  # Gebolf
   dynasty = 105926
   religion = "norse_pagan"
   culture = "saxon"
@@ -7245,7 +7234,7 @@
   }
 }
 252193 = {
-  name = "Ùukçyr†RS"  # Wihtgar
+  name = "≠tkçyr†R>i"  # Wihtgar
   dynasty = 105926
   religion = "norse_pagan"
   culture = "saxon"
@@ -7273,7 +7262,7 @@
   }
 }
 252195 = {
-  name = "ØeÙuØe—ûS∆Y"  # Swithhelm
+  name = "Øe≠tØe—û>i∆Y"  # Swithhelm
   dynasty = 105926
   religion = "norse_pagan"
   culture = "saxon"
@@ -7299,7 +7288,7 @@
   }
 }
 252197 = {
-  name = "OS+Y"  # Wulf
+  name = "8O>i+Y"  # Wulf
   dynasty = 105926
   religion = "norse_pagan"
   culture = "saxon"
@@ -7312,7 +7301,7 @@
   }
 }
 252198 = {
-  name = "—û˜ñ†RS"  # Heregar
+  name = "—û˜ñ†R>i"  # Heregar
   dynasty = 105926
   religion = "norse_pagan"
   culture = "saxon"
@@ -7325,7 +7314,7 @@
   }
 }
 252199 = {
-  name = "√WûN∑VùåSkçyr"  # Eadberht
+  name = "√WûN∑Vùå>ikçyr"  # Eadberht
   dynasty = 105926
   religion = "norse_pagan"
   culture = "saxon"
@@ -7338,7 +7327,7 @@
   }
 }
 252200 = {
-  name = "gYÜS+Y"  # Osulf
+  name = "gYÜ>i+Y"  # Osulf
   dynasty = 105926
   religion = "norse_pagan"
   culture = "saxon"
@@ -7351,7 +7340,7 @@
   }
 }
 252201 = {
-  name = "?ñSÊtS∑V"  # Arwald
+  name = "?ñ>iÊt>i∑V"  # Arwald
   dynasty = 105926
   religion = "norse_pagan"
   culture = "saxon"
@@ -7364,7 +7353,7 @@
   }
 }
 252202 = {
-  name = "gYØeÊtS∑V"  # Oswald
+  name = "gYØeÊt>i∑V"  # Oswald
   dynasty = 105926
   religion = "norse_pagan"
   culture = "saxon"
@@ -7396,7 +7385,7 @@
   }
 }
 252204 = {
-  name = "?ñSÙugQ"  # Arwine
+  name = "?ñ>i≠tgQ"  # Arwine
   dynasty = 105926
   religion = "norse_pagan"
   culture = "saxon"
@@ -7412,7 +7401,7 @@
   }
 }
 252205 = {
-  name = "Ùukç^X˜ñ"  # Wihthere
+  name = "≠tkç^X˜ñ"  # Wihthere
   dynasty = 105926
   religion = "catholic"
   culture = "saxon"
@@ -7425,7 +7414,7 @@
   }
 }
 252206 = {
-  name = "√W^XSÊtS∑V"  # ∆thelwald
+  name = "√W^X>iÊt>i∑V"  # ∆thelwald
   dynasty = 105926
   religion = "catholic"
   culture = "saxon"
@@ -7438,7 +7427,7 @@
   }
 }
 252207 = {
-  name = "?ñSOS+Y"  # Arwulf
+  name = "?ñ>i8O>i+Y"  # Arwulf
   dynasty = 105926
   religion = "catholic"
   culture = "saxon"
@@ -7451,7 +7440,7 @@
   }
 }
 252208 = {
-  name = "Ùukçyr†RS"  # Wihtgar
+  name = "≠tkçyr†R>i"  # Wihtgar
   dynasty = 105926
   religion = "catholic"
   culture = "saxon"
@@ -7477,7 +7466,7 @@
   }
 }
 252210 = {
-  name = "gYr}^Skç"  # Osburh
+  name = "gYÅt^>ikç"  # Osburh
   female = yes
   dynasty = 105926
   religion = "catholic"
@@ -7491,7 +7480,7 @@
   }
 }
 252211 = {
-  name = "√W^XSØeU"  # ∆thelstan
+  name = "√W^X>iØeU"  # ∆thelstan
   dynasty = 100072
   religion = "catholic"
   culture = "saxon"
@@ -7505,7 +7494,7 @@
   }
 }
 252250 = {
-  name = "ùågYSi`—ûØe"  # Beornheth
+  name = "ùågY>ii`—ûØe"  # Beornheth
   dynasty = 105931
   religion = "catholic"
   culture = "saxon"
@@ -7517,7 +7506,7 @@
   }
 }
 252251 = {
-  name = "ùågYSkçyr˜ñ∑V"  # Beorhtred
+  name = "ùågY>ikçyr˜ñ∑V"  # Beorhtred
   dynasty = 105931
   religion = "catholic"
   culture = "saxon"
@@ -7530,7 +7519,7 @@
   }
 }
 252252 = {
-  name = "ùågYSkçyr+Y·àØe"  # Beorhtfrith
+  name = "ùågY>ikçyr+Y·àØe"  # Beorhtfrith
   dynasty = 105931
   religion = "catholic"
   culture = "saxon"
@@ -7543,7 +7532,7 @@
   }
 }
 252377 = {
-  name = "√W^XS+YçÖ∑V"  # ∆thelflaed
+  name = "√W^X>i+YçÖ∑V"  # ∆thelflaed
   female = yes
   dynasty = 100072
   martial = 5
@@ -7562,7 +7551,7 @@
   }
 }
 252378 = {
-  name = "√W^XS%Y+Y"  # ∆thelgifu
+  name = "√W^X>iO+Y"  # ∆thelgifu
   female = yes
   dynasty = 100072
   religion = "catholic"
@@ -7577,7 +7566,7 @@
   }
 }
 252379 = {
-  name = "√W^XSÀóûNS∑V"  # ∆thelweard
+  name = "√W^X>iÀóûN>i∑V"  # ∆thelweard
   dynasty = 100072
   religion = "catholic"
   culture = "saxon"
@@ -7591,7 +7580,7 @@
   }
 }
 252380 = {
-  name = "√WS+Y´n"  # ∆lfwynn
+  name = "√W>i+Y´n"  # ∆lfwynn
   dynasty = 1047004
   female = yes
   religion = "catholic"
@@ -7621,7 +7610,7 @@
   }
 }
 260525 = {
-  name = "ùågYSkçyr˛äØe"  # Beorhtnoth
+  name = "ùågY>ikçyr˛äØe"  # Beorhtnoth
   dynasty = 1062209
   religion = catholic
   culture = saxon
@@ -7633,7 +7622,7 @@
   }
 }
 260526 = {
-  name = "√W^XSèy·àØe"  # ∆thelfrith
+  name = "√W^X>ièy·àØe"  # ∆thelfrith
   dynasty = 1062210
   religion = catholic
   culture = saxon
@@ -7645,7 +7634,7 @@
   }
 }
 260527 = {
-  name = "√W^XSØefW"  # ∆thelstan
+  name = "√W^X>iØefW"  # ∆thelstan
   dynasty = 1062210
   religion = catholic
   culture = saxon
@@ -7659,7 +7648,7 @@
   }
 }
 260528 = {
-  name = "√WSVØefW"  # ∆lfstan
+  name = "√W>iVØefW"  # ∆lfstan
   dynasty = 1062210
   religion = catholic
   culture = saxon
@@ -7673,7 +7662,7 @@
   }
 }
 260529 = {
-  name = "√W^XS	Tr}"  # ∆thelgyth
+  name = "√W^X>i	TÅt"  # ∆thelgyth
   female = yes
   dynasty = 100072
   religion = catholic
@@ -7688,7 +7677,7 @@
   }
 }
 260530 = {
-  name = "√W^XSÊtS∑V"  # ∆thelwald
+  name = "√W^X>iÊt>i∑V"  # ∆thelwald
   dynasty = 1062210
   religion = catholic
   culture = saxon
@@ -7744,7 +7733,7 @@
   }
 }
 260536 = {
-  name = "?ñSnfÓOØe"  # Alpsius
+  name = "?ñ>infÓOØe"  # Alpsius
   dynasty = 1062215
   religion = catholic
   culture = saxon
@@ -7768,7 +7757,7 @@
   }
 }
 260538 = {
-  name = "√WSV·àKQ"  # ∆lfric
+  name = "√W>iV·àKQ"  # ∆lfric
   dynasty = 1062217
   religion = catholic
   culture = saxon
@@ -7780,7 +7769,7 @@
   }
 }
 260539 = {
-  name = "gYÜèyS+Y"  # Oswfulf
+  name = "gYÜèy>i+Y"  # Oswfulf
   dynasty = 744
   religion = catholic
   culture = saxon
@@ -7792,7 +7781,7 @@
   }
 }
 260540 = {
-  name = "ÙTS^X˜ñ"  # Balthere
+  name = "ÙT>i^X˜ñ"  # Balthere
   dynasty = 1062219
   religion = catholic
   culture = saxon
@@ -7816,8 +7805,7 @@
   }
 }
 260542 = {
-  name = "
-Ñ‡VóS∑V"  # Reinhold
+  name = "˚É‡Vó>i∑V"  # Reinhold
   dynasty = 1062221
   religion = catholic
   culture = saxon
@@ -7829,7 +7817,7 @@
   }
 }
 261390 = {
-  name = "√W∑V^S∑V"  # Eadhild
+  name = "√W∑V^>i∑V"  # Eadhild
   female = yes
   dynasty = 100072
   religion = catholic

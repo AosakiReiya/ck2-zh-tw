@@ -1,6 +1,6 @@
 217729 = {
   dynasty = 1051153
-  name = "æR·à="  # Helibo
+  name = "æR·àLv"  # Helibo
   religion = taoist
   culture = jurchen
   1039.1.1 = {
@@ -68,7 +68,7 @@
 }
 217733 = {
   dynasty = 1051153
-  name = "Ûuúg"  # Shengguo
+  name = "iuúg"  # Shengguo
   religion = taoist
   culture = jurchen
   father = 217730
@@ -113,7 +113,7 @@
 }
 215597 = {
   dynasty = 1051153
-  name = "óR'S"  # Zongyao
+  name = "óR/O"  # Zongyao
   religion = taoist
   culture = jurchen
   father = 217730
@@ -187,7 +187,7 @@
     birth = yes
   }
   1208.12.29 = {
-    name = "Õu"  # Shao
+    name = "9t"  # Shao
   }
   1213.9.11 = {
     death = {
@@ -205,7 +205,7 @@
     birth = yes
   }
   1213.9.22 = {
-    name = "¡RóR"  # Xuanzong
+    name = "≤RóR"  # Xuanzong
   }
   1224.1.14 = {
     death = {
@@ -215,7 +215,7 @@
 }
 217739 = {
   dynasty = 1051153
-  name = "ÅR2uê"  # Ningjiasu
+  name = "ÁR2uê"  # Ningjiasu
   religion = taoist
   culture = jurchen
   father = 217738

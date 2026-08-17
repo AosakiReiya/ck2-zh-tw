@@ -24,7 +24,7 @@
   }
 }
 217220 = {
-  name = "¦N³uÒRd"  # Inalchi
+  name = "¦NtÒRd"  # Inalchi
   dynasty = 1051120
   religion = tengri_pagan
   culture = mongol
@@ -51,7 +51,7 @@
   }
 }
 217222 = {
-  name = "fLR¡eWÒR"  # Shiraghul
+  name = "fLR¡eıVÒR"  # Shiraghul
   dynasty = 1051120
   religion = tengri_pagan
   culture = mongol
@@ -64,7 +64,7 @@
   }
 }
 217248 = {
-  name = "1ŠYR"  # Husun
+  name = "1ŠkR"  # Husun
   dynasty = 1051120
   religion = tengri_pagan
   culture = mongol
@@ -130,7 +130,7 @@
   }
 }
 217288 = {
-  name = "?–Wú"  # Akhutai
+  name = "?–ıVú"  # Akhutai
   dynasty = 1051120
   religion = tengri_pagan
   culture = mongol
@@ -169,7 +169,7 @@
   }
 }
 194424 = {
-  name = "+W`"  # Doquz
+  name = "+ıV`"  # Doquz
   female = yes
   dynasty = 1051120
   religion = tengri_pagan
@@ -1026,7 +1026,7 @@
   }
 }
 125511 = {
-  name = "¿yLRqg±‚"  # Tulabuga
+  name = "¿yLRN±‚"  # Tulabuga
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -1125,7 +1125,7 @@
   }
 }
 125518 = {
-  name = "²wm"  # Nogai
+  name = "1’wm"  # Nogai
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -1256,8 +1256,7 @@
   }
 }
 125524 = {
-  name = "T
-"  # Ghazan
+  name = "T„"  # Ghazan
   dynasty = 11100
   diplomacy = 8
   intrigue = 8
@@ -1278,8 +1277,7 @@
   }
   1295.6.16 = {
     religion = "sunni"
-    name = "¬™T ‹ T
-"  # Mahmud Ghazan
+    name = "¬™T‚ T„"  # Mahmud Ghazan
     add_trait = "sympathy_christendom"
   }
   1304.5.11 = {
@@ -1310,7 +1308,7 @@
   }
 }
 125526 = {
-  name = "?–áˆ qgåT"  # Ariq Böke
+  name = "?–áˆ NåT"  # Ariq Böke
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -1334,7 +1332,7 @@
   }
 }
 125527 = {
-  name = "³u0‘"  # Narin
+  name = "t0‘"  # Narin
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -1416,7 +1414,7 @@
   }
 }
 125533 = {
-  name = "1uÒR Wıo›"  # Yul Qutlugh
+  name = "1uÒR ıVıo›"  # Yul Qutlugh
   dynasty = 11100
   religion = "shiite"
   culture = "mongol"
@@ -1457,7 +1455,7 @@
   }
 }
 477515 = {
-  name = "ŒR¤oú"  # Oljat
+  name = "ŒR³fú"  # Oljat
   female = yes
   dynasty = 11100
   religion = "nestorian"
@@ -1548,7 +1546,7 @@
   }
 }
 478004 = {
-  name = "¬™T ‹"  # Mahmud
+  name = "¬™T‚"  # Mahmud
   dynasty = 101912
   martial = 4
   diplomacy = 5
@@ -1567,7 +1565,7 @@
   }
 }
 478005 = {
-  name = "VÆR ÈTce"  # Amir Hasan
+  name = "plÆR ÈTce"  # Amir Hasan
   dynasty = 101912
   martial = 6
   diplomacy = 5
@@ -1585,7 +1583,7 @@
   }
 }
 478006 = {
-  name = "qglàV"  # Abu Sa'id
+  name = "NjàV"  # Abu Sa'id
   dynasty = 11100
   religion = "shiite"
   culture = "mongol"
@@ -1657,7 +1655,7 @@
   }
 }
 478009 = {
-  name = "[ˆo›U"  # Bulughan
+  name = "Uo›U"  # Bulughan
   female = yes
   dynasty = 1051138
   religion = "tengri_pagan"
@@ -1993,7 +1991,7 @@
   }
 }
 478013 = {
-  name = "»W"  # Mas'ud
+  name = "»ıV"  # Mas'ud
   dynasty = 101913
   martial = 4
   diplomacy = 5
@@ -2052,7 +2050,7 @@
   }
 }
 478016 = {
-  name = "?–qg ¦N™lKQ"  # Abu Ishaq
+  name = "?–N ¦N™lKQ"  # Abu Ishaq
   dynasty = 101913
   martial = 2
   diplomacy = 7
@@ -2442,7 +2440,7 @@
   }
 }
 34830 = {
-  name = "qgáˆ"  # Buri
+  name = "Náˆ"  # Buri
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -2458,7 +2456,7 @@
   }
 }
 34831 = {
-  name = "ÈTLR-WúQ"  # Qara-Quchuq
+  name = "ÈTLR-ıVúQ"  # Qara-Quchuq
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -2485,7 +2483,7 @@
   }
 }
 34836 = {
-  name = "?–Wú"  # Akhutai
+  name = "?–ıVú"  # Akhutai
   religion = "tengri_pagan"
   culture = "mongol"
   1240.1.1 = {
@@ -2546,7 +2544,7 @@
   }
 }
 34843 = {
-  name = "³uYr?–"  # Nayaga
+  name = "tYr?–"  # Nayaga
   religion = "tengri_pagan"
   culture = "mongol"
   1280.1.1 = {
@@ -2574,7 +2572,7 @@
   }
 }
 34850 = {
-  name = "qgú"  # Subutai
+  name = "Nú"  # Subutai
   dynasty = 7315
   religion = "tengri_pagan"
   culture = "mongol"
@@ -2683,7 +2681,7 @@
   }
 }
 34860 = {
-  name = "qgáˆ"  # Buri
+  name = "Náˆ"  # Buri
   religion = "tengri_pagan"
   culture = "mongol"
   1250.1.1 = {
@@ -2694,7 +2692,7 @@
   }
 }
 34861 = {
-  name = "Wı"  # Khudu
+  name = "ıVı"  # Khudu
   religion = "tengri_pagan"
   culture = "mongol"
   1270.1.1 = {
@@ -2719,7 +2717,7 @@
   }
 }
 34866 = {
-  name = "³u0‘"  # Narin
+  name = "t0‘"  # Narin
   religion = "tengri_pagan"
   culture = "mongol"
   1220.1.1 = {
@@ -2777,7 +2775,7 @@
   }
 }
 34886 = {
-  name = "qgwKQ"  # Bujeg
+  name = "NwKQ"  # Bujeg
   religion = "tengri_pagan"
   culture = "mongol"
   1250.1.1 = {
@@ -2788,7 +2786,7 @@
   }
 }
 34887 = {
-  name = "qgäS%Šú"  # Buguntei
+  name = "NäS%Šú"  # Buguntei
   religion = "tengri_pagan"
   culture = "mongol"
   1270.1.1 = {
@@ -2935,7 +2933,7 @@
   }
 }
 34903 = {
-  name = "Üb³uÒR"  # Banai
+  name = "ÜbtÒR"  # Banai
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3001,7 +2999,7 @@
   }
 }
 34908 = {
-  name = "qgW"  # Bughu
+  name = "NıV"  # Bughu
   religion = "tengri_pagan"
   culture = "mongol"
   1280.1.1 = {
@@ -3097,7 +3095,7 @@
   }
 }
 34915 = {
-  name = "’dfqg±‚"  # Sasibuqa
+  name = "’dfN±‚"  # Sasibuqa
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3168,7 +3166,7 @@
   }
 }
 34920 = {
-  name = "Wáˆ"  # Kuli
+  name = "ıVáˆ"  # Kuli
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3194,7 +3192,7 @@
   }
 }
 34922 = {
-  name = "äS[ˆo›KQ"  # Koblek
+  name = "äSUo›KQ"  # Koblek
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3210,7 +3208,7 @@
   }
 }
 34923 = {
-  name = "+ÁRÒRd"  # Torolchi
+  name = "+²RÒRd"  # Torolchi
   religion = "tengri_pagan"
   culture = "mongol"
   1200.1.1 = {
@@ -3232,7 +3230,7 @@
   }
 }
 34925 = {
-  name = "qgwKQ"  # Bujeg
+  name = "NwKQ"  # Bujeg
   religion = "tengri_pagan"
   culture = "mongol"
   1260.1.1 = {
@@ -3320,7 +3318,7 @@
   }
 }
 34933 = {
-  name = "?–¤o"  # Ajai
+  name = "?–³f"  # Ajai
   religion = "tengri_pagan"
   culture = "mongol"
   1280.1.1 = {
@@ -3428,7 +3426,7 @@
   }
 }
 34961 = {
-  name = "1ŠYR"  # Husun
+  name = "1ŠkR"  # Husun
   religion = "tengri_pagan"
   culture = "mongol"
   1270.1.1 = {
@@ -3598,7 +3596,7 @@
   }
 }
 93059 = {
-  name = "qg±‚"  # Buqa
+  name = "N±‚"  # Buqa
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3707,7 +3705,7 @@
   }
 }
 93069 = {
-  name = "nNYR+?–"  # Yesüntoa
+  name = "nNkR+?–"  # Yesüntoa
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3735,7 +3733,7 @@
   }
 }
 93072 = {
-  name = "BwäS>O"  # Negübei
+  name = "vwäS>O"  # Negübei
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3748,7 +3746,7 @@
   }
 }
 93073 = {
-  name = "qgáˆ"  # Büri
+  name = "Náˆ"  # Büri
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3764,7 +3762,7 @@
   }
 }
 93074 = {
-  name = "qg±‚ ^(gRQ"  # Buqa Temur
+  name = "N±‚ ^(gRQ"  # Buqa Temur
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3777,7 +3775,7 @@
   }
 }
 93075 = {
-  name = "rÇT"  # Du'a
+  name = "ärÇT"  # Du'a
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3790,7 +3788,7 @@
   }
 }
 93076 = {
-  name = "ÌRÍ•"  # Könchek
+  name = "ûRÍ•"  # Könchek
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3829,7 +3827,7 @@
   }
 }
 93080 = {
-  name = "nNHQ qg±‚"  # Esen Buqa
+  name = "nNHQ N±‚"  # Esen Buqa
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3855,7 +3853,7 @@
   }
 }
 93085 = {
-  name = "M˜qgX"  # Ebugen
+  name = "M˜NX"  # Ebugen
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -3902,7 +3900,7 @@
   }
 }
 194430 = {
-  name = "qgW"  # Bughu
+  name = "NıV"  # Bughu
   dynasty = 1045099
   religion = "tengri_pagan"
   culture = "mongol"
@@ -4003,7 +4001,7 @@
   }
 }
 194438 = {
-  name = "+W`"  # Doquz
+  name = "+ıV`"  # Doquz
   dynasty = 1045105
   female = yes
   religion = "tengri_pagan"
@@ -4017,7 +4015,7 @@
   }
 }
 93100 = {
-  name = "²wm"  # Nogai
+  name = "1’wm"  # Nogai
   religion = "tengri_pagan"
   culture = "mongol"
   1200.1.1 = {
@@ -4088,7 +4086,7 @@
   }
 }
 93104 = {
-  name = "²wm"  # Nogai
+  name = "1’wm"  # Nogai
   religion = "tengri_pagan"
   culture = "mongol"
   1240.1.1 = {
@@ -4144,7 +4142,7 @@
   }
 }
 93307 = {
-  name = "W› äSRy^"  # Husein Gurkan
+  name = "ıV› äSRy^"  # Husein Gurkan
   dynasty = 101914
   religion = "shiite"
   culture = "mongol"
@@ -4214,7 +4212,7 @@
   }
 }
 93462 = {
-  name = ">`„vqg±‚"  # Kitbuqa
+  name = ">`„vN±‚"  # Kitbuqa
   dynasty = 7371
   religion = "nestorian"
   culture = "mongol"
@@ -4344,7 +4342,7 @@
   }
 }
 172006 = {
-  name = "+RåT²"  # Töregene
+  name = "+RåT1’"  # Töregene
   dynasty = 1041001
   religion = "nestorian"
   culture = "mongol"
@@ -4506,7 +4504,7 @@
   }
 }
 217226 = {
-  name = "ôTRQWw"  # Barghujin
+  name = "ôTRQıVw"  # Barghujin
   dynasty = 101938
   religion = tengri_pagan
   culture = mongol
@@ -4579,7 +4577,7 @@
   }
 }
 217266 = {
-  name = "WÅVÈp"  # Kublai
+  name = "ıVÅVÈp"  # Kublai
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -4683,7 +4681,7 @@
   }
 }
 217269 = {
-  name = "5”Fz3w ŒR¤or"  # Temür Öljeytü
+  name = "5”Fz3w ŒR³fär"  # Temür Öljeytü
   dynasty = 11100
   religion = "buddhist"
   culture = "mongol"
@@ -4768,7 +4766,7 @@
     add_spouse = 217273
   }
   1305.1.1 = {
-    name = "nfO˜r"  # Buyantu
+    name = "nfO˜är"  # Buyantu
   }
   1320.3.1 = {
     death = {
@@ -4777,7 +4775,7 @@
   }
 }
 217273 = {
-  name = "?–³u1Y1Yáˆ"  # Radnashiri
+  name = "?–t1Y1Yáˆ"  # Radnashiri
   female = yes
   dynasty = 1051125
   religion = "buddhist"
@@ -4875,7 +4873,7 @@
   }
 }
 217279 = {
-  name = "nNYR 5”(gRQ"  # Yesün Temür
+  name = "nNkR 5”(gRQ"  # Yesün Temür
   dynasty = 11100
   religion = "buddhist"
   culture = "mongol"
@@ -4920,7 +4918,7 @@
   }
 }
 217281 = {
-  name = "-gYrr"  # Jayaatu
+  name = "-gYrär"  # Jayaatu
   dynasty = 11100
   religion = "buddhist"
   culture = "mongol"
@@ -4943,7 +4941,7 @@
   }
 }
 217282 = {
-  name = "Wır"  # Khutughtu
+  name = "ıVıär"  # Khutughtu
   dynasty = 11100
   religion = "buddhist"
   culture = "mongol"
@@ -4992,7 +4990,7 @@
   }
 }
 217284 = {
-  name = "¥Yıa ¼ŒfwS"  # Toghon Temür
+  name = "¥Yıa ¼Œfw>i"  # Toghon Temür
   dynasty = 11100
   religion = "buddhist"
   culture = "mongol"
@@ -5058,7 +5056,7 @@
   }
 }
 217215 = {
-  name = "úqg±‚"  # Taibuqa
+  name = "úN±‚"  # Taibuqa
   dynasty = 1041001
   religion = nestorian
   culture = mongol
@@ -5085,7 +5083,7 @@
   }
 }
 217217 = {
-  name = "fLR¡eWÒR"  # Shiraghul
+  name = "fLR¡eıVÒR"  # Shiraghul
   dynasty = 1041001
   religion = nestorian
   culture = mongol
@@ -5194,7 +5192,7 @@
   }
 }
 217264 = {
-  name = "¡e…³uRQú"  # Oronartai
+  name = "¡e…tRQú"  # Oronartai
   dynasty = 1041001
   religion = nestorian
   culture = mongol
@@ -5235,7 +5233,7 @@
   }
 }
 217307 = {
-  name = "1ŠYR"  # Husun
+  name = "1ŠkR"  # Husun
   dynasty = 1051138
   religion = tengri_pagan
   culture = mongol
@@ -5247,7 +5245,7 @@
   }
 }
 217308 = {
-  name = "qgRQU"  # Burkhan
+  name = "NRQU"  # Burkhan
   dynasty = 1051138
   religion = tengri_pagan
   culture = mongol
@@ -5273,7 +5271,7 @@
   }
 }
 217309 = {
-  name = "²«ƒ–O"  # Nomolun
+  name = "1’«ƒ–O"  # Nomolun
   dynasty = 1051138
   religion = tengri_pagan
   culture = mongol
@@ -5287,7 +5285,7 @@
   }
 }
 217341 = {
-  name = "²«ƒ–O"  # Nomolun
+  name = "1’«ƒ–O"  # Nomolun
   dynasty = 101934
   religion = tengri_pagan
   culture = mongol
@@ -5328,7 +5326,7 @@
   }
 }
 217344 = {
-  name = "TXRQWú"  # Targhutai
+  name = "TXRQıVú"  # Targhutai
   dynasty = 101934
   religion = tengri_pagan
   culture = mongol
@@ -5354,7 +5352,7 @@
   }
 }
 217346 = {
-  name = "TXRQWú"  # Targhutai
+  name = "TXRQıVú"  # Targhutai
   dynasty = 101929
   religion = tengri_pagan
   culture = mongol
@@ -5469,7 +5467,7 @@
   }
 }
 217353 = {
-  name = "+W`"  # Doquz
+  name = "+ıV`"  # Doquz
   religion = tengri_pagan
   culture = mongol
   female = yes
@@ -5495,7 +5493,7 @@
   }
 }
 217355 = {
-  name = "qgo›U"  # Bulughan
+  name = "No›U"  # Bulughan
   dynasty = 101930
   religion = tengri_pagan
   culture = mongol
@@ -5522,7 +5520,7 @@
   }
 }
 217357 = {
-  name = "WOQRQã"  # Khugurchin
+  name = "ıVOQRQã"  # Khugurchin
   dynasty = 101930
   religion = tengri_pagan
   culture = mongol
@@ -5537,7 +5535,7 @@
   }
 }
 217358 = {
-  name = "qgú"  # Subetei
+  name = "Nú"  # Subetei
   dynasty = 101930
   religion = tengri_pagan
   culture = mongol
@@ -5602,7 +5600,7 @@
   }
 }
 217363 = {
-  name = "WOQRQã"  # Khugurchin
+  name = "ıVOQRQã"  # Khugurchin
   female = yes
   religion = tengri_pagan
   culture = mongol
@@ -5680,7 +5678,7 @@
   }
 }
 166799 = {
-  name = "OcdW *YnR"  # Negun Taiji
+  name = "OcdW *YPR"  # Negun Taiji
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -5706,7 +5704,7 @@
   }
 }
 166801 = {
-  name = "TqgÒR"  # Khabul
+  name = "TNÒR"  # Khabul
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -5732,7 +5730,7 @@
   }
 }
 166803 = {
-  name = "W¿yÑ¿y ™„äSRQ"  # Hutugtu Monhor
+  name = "ıV¿yÑ¿y ™„äSRQ"  # Hutugtu Monhor
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -5745,7 +5743,7 @@
   }
 }
 166804 = {
-  name = "WWLR"  # Hotula
+  name = "ıVWLR"  # Hotula
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -5758,7 +5756,7 @@
   }
 }
 166805 = {
-  name = "WÌ•"  # Hulan
+  name = "ıVÌ•"  # Hulan
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -5862,7 +5860,7 @@
   }
 }
 166813 = {
-  name = "ßRLRiR ˜W"  # Chirhya Lynhua
+  name = "ßRLRiR ˜ıV"  # Chirhya Lynhua
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -5983,7 +5981,7 @@
   }
 }
 166822 = {
-  name = "-gRQdOQÕ` ?–SVU"  # Jarchuud Adankhan
+  name = "-gRQdOQÕ` ?–vlU"  # Jarchuud Adankhan
   female = yes
   dynasty = 7315
   religion = "tengri_pagan"
@@ -6041,7 +6039,7 @@
   }
 }
 166826 = {
-  name = "qgT¿y ’dÒRêS"  # Bukhatu Salji
+  name = "NT¿y ’dÒRêS"  # Bukhatu Salji
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -6055,7 +6053,7 @@
   }
 }
 166827 = {
-  name = "qgW TTr	T"  # Bukha Khatagi
+  name = "NıV TTr	T"  # Bukha Khatagi
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -6083,7 +6081,7 @@
   }
 }
 166829 = {
-  name = "qgäS%Šú"  # Begünütei
+  name = "NäS%Šú"  # Begünütei
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -6193,7 +6191,7 @@
   }
 }
 166836 = {
-  name = "ôTRQWw AŒ?–"  # Bargujin Gua
+  name = "ôTRQıVw AŒ?–"  # Bargujin Gua
   female = yes
   dynasty = 1040068
   religion = "tengri_pagan"
@@ -6208,7 +6206,7 @@
   }
 }
 166837 = {
-  name = "ôTRQWú şrRQy^"  # Bargudai Mergen
+  name = "ôTRQıVú şrRQy^"  # Bargudai Mergen
   dynasty = 1040068
   religion = "tengri_pagan"
   culture = "mongol"
@@ -6289,7 +6287,7 @@
   }
 }
 166843 = {
-  name = "nNñR `Ofe"  # Yehe Nidün
+  name = "nN¢R `Ofe"  # Yehe Nidün
   dynasty = 1040071
   religion = "tengri_pagan"
   culture = "mongol"
@@ -6481,7 +6479,7 @@
   }
 }
 166857 = {
-  name = "jR…WÒR"  # Boroghul
+  name = "jR…ıVÒR"  # Boroghul
   religion = "tengri_pagan"
   culture = "mongol"
   add_trait = "strong"
@@ -6570,7 +6568,7 @@
   }
 }
 166863 = {
-  name = "Tr¦NRQ OQYR"  # Dair Usun
+  name = "Tr¦NRQ OQkR"  # Dair Usun
   dynasty = 1040072
   religion = "tengri_pagan"
   culture = "mongol"
@@ -6582,7 +6580,7 @@
   }
 }
 166864 = {
-  name = "W-†"  # Khulan
+  name = "ıV-†"  # Khulan
   female = yes
   dynasty = 1040072
   religion = "tengri_pagan"
@@ -6637,7 +6635,7 @@
   }
 }
 166868 = {
-  name = "-gáˆqg±‚"  # Jalibukha
+  name = "-gáˆN±‚"  # Jalibukha
   dynasty = 1040073
   religion = "tengri_pagan"
   culture = "mongol"
@@ -6678,7 +6676,7 @@
   }
 }
 166871 = {
-  name = "ïƒlr"  # Khochen
+  name = "ïƒr"  # Khochen
   female = yes
   dynasty = 11100
   religion = "tengri_pagan"
@@ -6823,7 +6821,7 @@
   }
 }
 166881 = {
-  name = "ñRR"  # Kheree
+  name = "¢RR"  # Kheree
   dynasty = 1041002
   religion = "tengri_pagan"
   culture = "mongol"
@@ -6858,7 +6856,7 @@
   }
 }
 166883 = {
-  name = "<h#ÒR"  # Gerel
+  name = "<h2‡ÒR"  # Gerel
   dynasty = 1041002
   religion = "nestorian"
   culture = "mongol"
@@ -6884,7 +6882,7 @@
   }
 }
 166885 = {
-  name = "AŒRQd qg¦No›Ñ"  # Korchi Buiruk
+  name = "AŒRQd N¦No›Ñ"  # Korchi Buiruk
   dynasty = 1041001
   religion = "nestorian"
   culture = "mongol"
@@ -6896,7 +6894,7 @@
   }
 }
 166886 = {
-  name = "+ÁRwm÷1Y"  # Toreqaimish
+  name = "+²Rwm÷1Y"  # Toreqaimish
   female = yes
   dynasty = 1041001
   religion = "nestorian"
@@ -6923,7 +6921,7 @@
   }
 }
 166888 = {
-  name = "WRQ-gáw` ogy"  # Kurchakus Buyruk
+  name = "ıVRQ-gáw` ogy"  # Kurchakus Buyruk
   dynasty = 1041002
   religion = "nestorian"
   culture = "mongol"
@@ -6984,7 +6982,7 @@
   }
 }
 166891 = {
-  name = "™LR ¬™W`"  # Yula Mangus
+  name = "™LR ¬™ıV`"  # Yula Mangus
   dynasty = 1041002
   religion = "nestorian"
   culture = "mongol"
@@ -7012,7 +7010,7 @@
   }
 }
 166893 = {
-  name = "qg±‚ ^(gRQ"  # Bukha Temür
+  name = "N±‚ ^(gRQ"  # Bukha Temür
   dynasty = 1041002
   religion = "nestorian"
   culture = "mongol"
@@ -7026,7 +7024,7 @@
   }
 }
 166894 = {
-  name = "-gT beqg"  # Jakha Khambu
+  name = "-gT beN"  # Jakha Khambu
   dynasty = 1041002
   religion = "nestorian"
   culture = "mongol"
@@ -7073,7 +7071,7 @@
   }
 }
 188991 = {
-  name = "%RRQåTŠVRQ"  # Berkhechir
+  name = "%RRQåTÈVRQ"  # Berkhechir
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7161,7 +7159,7 @@
   }
 }
 188997 = {
-  name = "¬™T ‹"  # Muhammed
+  name = "¬™T‚"  # Muhammed
   female = yes
   dynasty = 11100
   religion = "tengri_pagan"
@@ -7274,7 +7272,7 @@
   }
 }
 166900 = {
-  name = "WıT"  # Qutuqi
+  name = "ıVıT"  # Qutuqi
   dynasty = 1040075
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7332,7 +7330,7 @@
   }
 }
 166904 = {
-  name = "OQo›WCN"  # Orghana
+  name = "OQo›ıVCN"  # Orghana
   female = yes
   dynasty = 1040075
   religion = "tengri_pagan"
@@ -7349,7 +7347,7 @@
   }
 }
 166905 = {
-  name = "nNñR dRı"  # Yehe Chiledu
+  name = "nN¢R dRı"  # Yehe Chiledu
   dynasty = 1051139
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7391,7 +7389,7 @@
   }
 }
 166907 = {
-  name = "Wı"  # Qudu
+  name = "ıVı"  # Qudu
   dynasty = 1051139
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7438,7 +7436,7 @@
   }
 }
 166910 = {
-  name = "1YÈp€•"  # Shiremun
+  name = "1YÈpŒ"  # Shiremun
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7451,7 +7449,7 @@
   }
 }
 166911 = {
-  name = "WßR"  # Khoja
+  name = "ıVßR"  # Khoja
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7465,7 +7463,7 @@
   }
 }
 166912 = {
-  name = "fW"  # Naqu
+  name = "fıV"  # Naqu
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7548,7 +7546,7 @@
   }
 }
 166917 = {
-  name = "?–¤o"  # Ajai
+  name = "?–³f"  # Ajai
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7577,7 +7575,7 @@
   }
 }
 166919 = {
-  name = "Tr1Y;ˆßR"  # Danishmendji
+  name = "Tr1YJßR"  # Danishmendji
   dynasty = 11100
   religion = "sunni"
   culture = "mongol"
@@ -7603,7 +7601,7 @@
   }
 }
 166921 = {
-  name = ".gáˆñR"  # Jurikha
+  name = ".gáˆ¢R"  # Jurikha
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7617,7 +7615,7 @@
   }
 }
 166922 = {
-  name = "Wywı"  # Qutughtu
+  name = "ıVywı"  # Qutughtu
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7631,7 +7629,7 @@
   }
 }
 166923 = {
-  name = "Ôbğu"  # Bujek
+  name = "ÔbÌt"  # Bujek
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7659,7 +7657,7 @@
   }
 }
 166925 = {
-  name = "SåTı"  # Satukhtai
+  name = "rbåTı"  # Satukhtai
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7735,7 +7733,7 @@
   }
 }
 166930 = {
-  name = "W¿ypp"  # Qutuqui
+  name = "ıV¿ypp"  # Qutuqui
   female = yes
   dynasty = 1040076
   religion = "tengri_pagan"
@@ -7874,7 +7872,7 @@
   }
 }
 166940 = {
-  name = "+W`"  # Doquz
+  name = "+ıV`"  # Doquz
   female = yes
   dynasty = 1041002
   religion = "nestorian"
@@ -7954,7 +7952,7 @@
   }
 }
 166949 = {
-  name = "Wıo›"  # Qutlugh
+  name = "ıVıo›"  # Qutlugh
   female = yes
   dynasty = 1040078
   religion = "tengri_pagan"
@@ -7992,7 +7990,7 @@
   }
 }
 166953 = {
-  name = "êSqgy^"  # Jibügan
+  name = "êSNy^"  # Jibügan
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8088,7 +8086,7 @@
   }
 }
 166960 = {
-  name = "²(gU"  # Nomukhan
+  name = "1’(gU"  # Nomukhan
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8102,7 +8100,7 @@
   }
 }
 166961 = {
-  name = "WåTd"  # Khungjil
+  name = "ıVåTd"  # Khungjil
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8175,7 +8173,7 @@
   }
 }
 166966 = {
-  name = "Wıo› %R	T"  # Khutugh Beki
+  name = "ıVıo› %R	T"  # Khutugh Beki
   female = yes
   dynasty = 11100
   religion = "buddhist"
@@ -8191,7 +8189,7 @@
   }
 }
 166967 = {
-  name = "³us–YRÙNåz"  # Agsaldai
+  name = "ts–kRÙNåz"  # Agsaldai
   dynasty = 1051124
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8204,7 +8202,7 @@
   }
 }
 188999 = {
-  name = "îv#"  # Molon
+  name = "îv2‡"  # Molon
   dynasty = 1051124
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8231,7 +8229,7 @@
   }
 }
 166969 = {
-  name = "W-† ^(gRQ"  # Khulan Temür
+  name = "ıV-† ^(gRQ"  # Khulan Temür
   dynasty = 11100
   religion = "buddhist"
   culture = "mongol"
@@ -8272,7 +8270,7 @@
   }
 }
 166972 = {
-  name = "[ˆo›U"  # Bulugan
+  name = "Uo›U"  # Bulugan
   female = yes
   dynasty = 1051138
   religion = "buddhist"
@@ -8285,7 +8283,7 @@
   }
 }
 166973 = {
-  name = "·VÿR"  # Teshou
+  name = "·VıO"  # Teshou
   dynasty = 11100
   religion = "buddhist"
   culture = "mongol"
@@ -8325,7 +8323,7 @@
   }
 }
 166976 = {
-  name = "øRTX¦a"  # Botapsillin
+  name = "öRTXæRa"  # Botapsillin
   female = yes
   dynasty = 11100
   religion = "buddhist"
@@ -8340,7 +8338,7 @@
   }
 }
 166977 = {
-  name = "	c$e qg±‚"  # Altan Bukha
+  name = "	ce N±‚"  # Altan Bukha
   dynasty = 11100
   religion = "sunni"
   culture = "mongol"
@@ -8379,7 +8377,7 @@
   }
 }
 166980 = {
-  name = "[ˆLR"  # Bolad
+  name = "ULR"  # Bolad
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8392,7 +8390,7 @@
   }
 }
 166981 = {
-  name = "kQqgU"  # Babukhan
+  name = "kQNU"  # Babukhan
   female = yes
   dynasty = 1051125
   religion = "buddhist"
@@ -8405,7 +8403,7 @@
   }
 }
 166982 = {
-  name = "[ˆTr1Yáˆ"  # Budashiri
+  name = "UTr1Yáˆ"  # Budashiri
   female = yes
   dynasty = 1051125
   religion = "buddhist"
@@ -8432,7 +8430,7 @@
   }
 }
 166984 = {
-  name = "kQqg™l"  # Babusha
+  name = "kQN™l"  # Babusha
   female = yes
   dynasty = 1041001
   religion = "nestorian"
@@ -8445,7 +8443,7 @@
   }
 }
 166985 = {
-  name = "?–LRÒV³uTrLR"  # Aratnadara
+  name = "?–LRÒVtTrLR"  # Aratnadara
   dynasty = 11100
   religion = "buddhist"
   culture = "mongol"
@@ -8459,7 +8457,7 @@
   }
 }
 188994 = {
-  name = "øRTX1Yáˆ"  # Budashiri
+  name = "öRTX1Yáˆ"  # Budashiri
   female = yes
   dynasty = 11100
   religion = "buddhist"
@@ -8508,7 +8506,7 @@
 }
 244011 = {
   dynasty = 1051138
-  name = "³uW"  # Nakhu
+  name = "tıV"  # Nakhu
   religion = tengri_pagan
   culture = mongol
   1254.1.1 = {
@@ -8616,7 +8614,7 @@
   }
 }
 93068 = {
-  name = "?–o›W"  # Alghu
+  name = "?–o›ıV"  # Alghu
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8650,7 +8648,7 @@
   }
 }
 93078 = {
-  name = "TXáˆW"  # Taliqu
+  name = "TXáˆıV"  # Taliqu
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8693,8 +8691,7 @@
   }
 }
 93084 = {
-  name = "qg
-"  # Buzan
+  name = "N„"  # Buzan
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8743,7 +8740,7 @@
   }
 }
 242111 = {
-  name = "nNYR ^(gRQ"  # Yesun Temur
+  name = "nNkR ^(gRQ"  # Yesun Temur
   dynasty = 11100
   religion = "tengri_pagan"
   secret_religion = "nestorian"
@@ -8901,7 +8898,7 @@
   }
 }
 248181 = {
-  name = "¦NÒR„v`-²O˜"  # Ildiz-Noyon
+  name = "¦NÒR„v`-1’O˜"  # Ildiz-Noyon
   dynasty = 1059026
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8915,7 +8912,7 @@
   }
 }
 248182 = {
-  name = "?–¤o"  # Ajai
+  name = "?–³f"  # Ajai
   dynasty = 1059026
   religion = "tengri_pagan"
   culture = "mongol"
@@ -9032,7 +9029,7 @@
   }
 }
 248190 = {
-  name = "gESS"  # Songul
+  name = "gES>i"  # Songul
   female = yes
   dynasty = 1059026
   religion = "sunni"
@@ -9046,7 +9043,7 @@
   }
 }
 248191 = {
-  name = "Wıo› kpw"  # Qutlugh Khwaja
+  name = "ıVıo› kpw"  # Qutlugh Khwaja
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -9096,7 +9093,7 @@
   }
 }
 248194 = {
-  name = "’dáˆ ²O˜"  # Sali Noyan
+  name = "’dáˆ 1’O˜"  # Sali Noyan
   dynasty = 1059028
   religion = "tengri_pagan"
   culture = "mongol"
@@ -9113,7 +9110,7 @@
   }
 }
 248195 = {
-  name = "OQLRı ²O˜"  # Uladu Noyan
+  name = "OQLRı 1’O˜"  # Uladu Noyan
   dynasty = 1059028
   religion = "tengri_pagan"
   culture = "mongol"
@@ -9128,7 +9125,7 @@
   }
 }
 248196 = {
-  name = "%RKQ¿yÕ` ²O˜"  # Baktut Noyan
+  name = "%RKQ¿yÕ` 1’O˜"  # Baktut Noyan
   dynasty = 1059028
   religion = "tengri_pagan"
   culture = "mongol"
@@ -9143,7 +9140,7 @@
   }
 }
 248197 = {
-  name = "T-gU ²O˜"  # Qazaghan Noyan
+  name = "T-gU 1’O˜"  # Qazaghan Noyan
   dynasty = 1059028
   religion = "sunni"
   culture = "mongol"
@@ -9163,7 +9160,7 @@
   }
 }
 248198 = {
-  name = "—fıLR ²O˜"  # Abdullah Noyan
+  name = "—fıLR 1’O˜"  # Abdullah Noyan
   dynasty = 1059028
   religion = "sunni"
   culture = "mongol"
@@ -9324,7 +9321,7 @@
   }
 }
 248213 = {
-  name = "²wm"  # Nogai
+  name = "1’wm"  # Nogai
   dynasty = 1059029
   religion = "tengri_pagan"
   culture = "mongol"
@@ -9360,7 +9357,7 @@
   }
 }
 248215 = {
-  name = "nNñR"  # Yeke
+  name = "nN¢R"  # Yeke
   dynasty = 1059029
   religion = "tengri_pagan"
   culture = "mongol"
@@ -9418,7 +9415,7 @@
   }
 }
 248229 = {
-  name = "nNñR"  # Yeke
+  name = "nN¢R"  # Yeke
   dynasty = 1059032
   religion = tengri_pagan
   culture = mongol
@@ -9446,7 +9443,7 @@
   }
 }
 248231 = {
-  name = "³uYr?–"  # Nayaga
+  name = "tYr?–"  # Nayaga
   dynasty = 1059030
   religion = tengri_pagan
   culture = mongol
@@ -9556,7 +9553,7 @@
   }
 }
 217306 = {
-  name = "W¿y+P"  # Khutulun
+  name = "ıV¿y+P"  # Khutulun
   dynasty = 11100
   religion = tengri_pagan
   culture = mongol
@@ -9583,7 +9580,7 @@
   }
 }
 248240 = {
-  name = "ğuRQ¬™>n"  # Jurmagun
+  name = "ÌtRQ¬™>n"  # Jurmagun
   dynasty = 1059034
   religion = tengri_pagan
   culture = mongol
@@ -9604,7 +9601,7 @@
   }
 }
 248241 = {
-  name = "1YÈp€•"  # Siremun
+  name = "1YÈpŒ"  # Siremun
   dynasty = 1059034
   religion = tengri_pagan
   culture = mongol
@@ -9617,7 +9614,7 @@
   }
 }
 258099 = {
-  name = "qgäS%Šú"  # Bugunutei
+  name = "NäS%Šú"  # Bugunutei
   dynasty = 1100021
   religion = "tengri_pagan"
   culture = "mongol"
@@ -9653,7 +9650,7 @@
   }
 }
 258111 = {
-  name = "qg±‚"  # Bukha
+  name = "N±‚"  # Bukha
   dynasty = 1100033
   religion = "tengri_pagan"
   culture = "mongol"
@@ -9701,7 +9698,7 @@
   }
 }
 261082 = {
-  name = "qg	Tyk"  # Bugidai
+  name = "N	Tyk"  # Bugidai
   dynasty = 1062520
   religion = tengri_pagan
   culture = mongol

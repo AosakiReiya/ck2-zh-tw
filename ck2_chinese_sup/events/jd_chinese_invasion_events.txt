@@ -3662,7 +3662,7 @@ character_event = {
                 }
               }
             }
-            set_name = ""og"  # Han Empire
+            set_name = "1fg"  # Han Empire
             set_title_flag = china_name_Han
           }
           1 = {
@@ -3706,7 +3706,7 @@ character_event = {
                 }
               }
             }
-            set_name = "Ãèg"  # Liao Empire
+            set_name = "Aág"  # Liao Empire
             set_title_flag = china_name_Liao
           }
           1 = {
@@ -4039,7 +4039,7 @@ character_event = {
             }
           }
         }
-        set_name = "=kóR"  # Qinzong
+        set_name = "LbóR"  # Qinzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Qinzong
         }
@@ -4081,7 +4081,7 @@ character_event = {
             }
           }
         }
-        set_name = "ÅRóR"  # Ningzong
+        set_name = "ÁRóR"  # Ningzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Ningzong
         }
@@ -4137,7 +4137,7 @@ character_event = {
             }
           }
         }
-        set_name = "¡RóR"  # Xuanzong
+        set_name = "≤RóR"  # Xuanzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Xuanzong
         }
@@ -4151,7 +4151,7 @@ character_event = {
             }
           }
         }
-        set_name = "ÉwóR"  # Suzong
+        set_name = "ÖwóR"  # Suzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Suzong
         }
@@ -4683,7 +4683,7 @@ character_event = {
             }
           }
         }
-        set_name = "ÕuóR"  # Shaozong
+        set_name = "9tóR"  # Shaozong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Shaozong
         }
@@ -4749,7 +4749,7 @@ character_event = {
             set_name = "hT"  # Zhou
           }
           china_name_Han = {
-            set_name = ""o"  # Han
+            set_name = "1f"  # Han
           }
           china_name_Qin = {
             set_name = "Êy"  # Qin
@@ -4761,7 +4761,7 @@ character_event = {
             set_name = "ôç"  # Zhao
           }
           china_name_Liao = {
-            set_name = "Ãè"  # Liao
+            set_name = "Aá"  # Liao
           }
           china_name_Yuan = {
             set_name = "CQ"  # Yuan
@@ -4874,7 +4874,7 @@ character_event = {
             set_name = "hT"  # Zhou
           }
           china_name_Han = {
-            set_name = ""o"  # Han
+            set_name = "1f"  # Han
           }
           china_name_Qin = {
             set_name = "Êy"  # Qin
@@ -4886,7 +4886,7 @@ character_event = {
             set_name = "ôç"  # Zhao
           }
           china_name_Liao = {
-            set_name = "Ãè"  # Liao
+            set_name = "Aá"  # Liao
           }
           china_name_Yuan = {
             set_name = "CQ"  # Yuan
@@ -5007,7 +5007,7 @@ character_event = {
             set_name = "hTg"  # Zhou Empire
           }
           china_name_Han = {
-            set_name = ""og"  # Han Empire
+            set_name = "1fg"  # Han Empire
           }
           china_name_Qin = {
             set_name = "Êyg"  # Qin Empire
@@ -5019,7 +5019,7 @@ character_event = {
             set_name = "ôçg"  # Zhao Empire
           }
           china_name_Liao = {
-            set_name = "Ãèg"  # Liao Empire
+            set_name = "Aág"  # Liao Empire
           }
           china_name_Yuan = {
             set_name = "CQg"  # Yuan Empire
@@ -5113,7 +5113,7 @@ character_event = {
             set_name = "hTg"  # Zhou Empire
           }
           china_name_Han = {
-            set_name = ""og"  # Han Empire
+            set_name = "1fg"  # Han Empire
           }
           china_name_Qin = {
             set_name = "Êyg"  # Qin Empire
@@ -5125,7 +5125,7 @@ character_event = {
             set_name = "ôçg"  # Zhao Empire
           }
           china_name_Liao = {
-            set_name = "Ãèg"  # Liao Empire
+            set_name = "Aág"  # Liao Empire
           }
           china_name_Yuan = {
             set_name = "CQg"  # Yuan Empire

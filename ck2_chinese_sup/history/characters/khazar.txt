@@ -15,7 +15,7 @@
   }
 }
 74001 = {
-  name = "ßuI„³b"  # Tun-Yagbu
+  name = "qtI„³b"  # Tun-Yagbu
   dynasty = 12269
   father = 74000
   culture = "khazar"
@@ -28,7 +28,7 @@
   }
 }
 74002 = {
-  name = "«ƒÚŒ-Š"  # Bagha-Shad
+  name = "«ƒöŒ-Š"  # Bagha-Shad
   dynasty = 12269
   father = 74000
   culture = "khazar"
@@ -54,7 +54,7 @@
   }
 }
 74004 = {
-  name = "%YáˆÔk¯e"  # Irbis
+  name = "OáˆÔk¯e"  # Irbis
   dynasty = 12269
   father = 74003
   culture = "khazar"
@@ -67,7 +67,7 @@
   }
 }
 74005 = {
-  name = "USLO"  # Khalga
+  name = "U>iLO"  # Khalga
   dynasty = 12269
   father = 74003
   culture = "khazar"
@@ -93,7 +93,7 @@
   }
 }
 74007 = {
-  name = "^^S"  # Busir
+  name = "^^>i"  # Busir
   dynasty = 12269
   father = 74004
   culture = "khazar"
@@ -106,7 +106,7 @@
   }
 }
 74008 = {
-  name = "ôTSOKQ"  # Barjik
+  name = "ôT>iOKQ"  # Barjik
   dynasty = 12269
   father = 74007
   culture = "khazar"
@@ -119,7 +119,7 @@
   }
 }
 74009 = {
-  name = "ÔkÈTS"  # Bihar
+  name = "ÔkÈT>i"  # Bihar
   dynasty = 12269
   father = 74007
   culture = "khazar"
@@ -164,7 +164,7 @@
   }
 }
 74012 = {
-  name = "ôTÈTWS"  # Baghatur
+  name = "ôTÈTW>i"  # Baghatur
   dynasty = 12269
   father = 74009
   mother = 74010
@@ -178,7 +178,7 @@
   }
 }
 74013 = {
-  name = "%Y)R<h"  # Yilig
+  name = "O)R<h"  # Yilig
   dynasty = 12269
   father = 74011
   culture = "khazar"
@@ -191,7 +191,7 @@
   }
 }
 74014 = {
-  name = "jt³u¯e"  # Mänäs
+  name = "jtt¯e"  # Mänäs
   dynasty = 12269
   father = 74013
   culture = "khazar"
@@ -217,7 +217,7 @@
   }
 }
 74016 = {
-  name = "TXSWl"  # Tarkhan
+  name = "TX>iWl"  # Tarkhan
   dynasty = 12269
   father = 74014
   culture = "khazar"
@@ -243,7 +243,7 @@
   }
 }
 194369 = {
-  name = "I„Sv‡ÆY"  # Yeldem
+  name = "I„>iv‡ÆY"  # Yeldem
   female = yes
   dynasty = 12269
   father = 74016
@@ -351,7 +351,7 @@
   }
 }
 74024 = {
-  name = "¤o^+P"  # Zebulun
+  name = "³f^+P"  # Zebulun
   dynasty = 12270
   father = 74023
   culture = khazar
@@ -484,7 +484,7 @@
   }
 }
 183244 = {
-  name = "ÉbSaS"  # Lärkka
+  name = "Éb>iaS"  # Lärkka
   female = yes
   religion = tengri_pagan
   culture = khazar
@@ -554,7 +554,7 @@
   }
 }
 145786 = {
-  name = "	TôTS"  # Kibar
+  name = "	TôT>i"  # Kibar
   dynasty = 12269
   culture = "khazar"
   religion = "tengri_pagan"
@@ -567,7 +567,7 @@
   }
 }
 145787 = {
-  name = "%YSLk"  # Irge
+  name = "O>iLk"  # Irge
   female = yes
   dynasty = 12269
   culture = "khazar"
@@ -596,7 +596,7 @@
     birth = "733.1.1"
   }
   749.1.1 = {
-    name = "jtÏpžN"  # Maria
+    name = "jtLNžN"  # Maria
     religion = "iconoclast"
   }
   785.1.1 = {
@@ -691,7 +691,7 @@
   }
 }
 146191 = {
-  name = "¦unt+Y"  # Ioseph
+  name = "tnt+Y"  # Ioseph
   dynasty = 12270
   culture = "khazar"
   religion = "jewish"
@@ -720,7 +720,7 @@
   }
 }
 146193 = {
-  name = "'Y[ˆ"  # David
+  name = "'Yj"  # David
   dynasty = 1022378
   culture = "khazar"
   religion = "jewish"
@@ -745,7 +745,7 @@
   }
 }
 146195 = {
-  name = "¬USís"  # Çorpan
+  name = "¬U>iís"  # Çorpan
   dynasty = 1022377
   culture = "khazar"
   religion = "tengri_pagan"
@@ -770,7 +770,7 @@
   }
 }
 146197 = {
-  name = "^S"“"  # Bulçan
+  name = "^>i1Š"  # Bulçan
   dynasty = 1022377
   culture = "khazar"
   religion = "tengri_pagan"
@@ -783,7 +783,7 @@
   }
 }
 146198 = {
-  name = "TXôTS"  # Täbär
+  name = "TXôT>i"  # Täbär
   dynasty = 1022377
   culture = "khazar"
   religion = "tengri_pagan"
@@ -796,7 +796,7 @@
   }
 }
 146199 = {
-  name = "ôTSúWvQ"  # Bälgiçi
+  name = "ôT>iúWvQ"  # Bälgiçi
   dynasty = 1022377
   culture = "khazar"
   religion = "tengri_pagan"
@@ -846,7 +846,7 @@
   }
 }
 146203 = {
-  name = "©…STXvQ"  # Sartäç
+  name = "©…>iTXvQ"  # Sartäç
   dynasty = 1022381
   culture = "khazar"
   religion = "tengri_pagan"
@@ -871,8 +871,7 @@
   }
 }
 194355 = {
-  name = "ÑY
-„"  # Gulay
+  name = "ÑYûƒ"  # Gulay
   female = yes
   dynasty = 1022381
   father = 146203
@@ -937,7 +936,7 @@
   }
 }
 256058 = {
-  name = "^S"“"  # Bulçan
+  name = "^>i1Š"  # Bulçan
   dynasty = 1061038
   religion = "jewish"
   culture = "khazar"

@@ -7,47 +7,43 @@ EVTDESC60013;IP'YÑv[Root.GetTitledName]åT[Root.GetHerHis]S„ÅPàvùOÜN
 MONTHLY_PROJECTED_COST;òäœkg±ÇªåˇßY$COST$ß!;;;;;;;;;;;;x
 YEARLY_PROJECTED_COST;òäœkt^±ÇªåˇßY$COST$ß!;;;;;;;;;;;;x
 PER_MONTH;ßY$VAL$ß!/œkg;;;;;;;;;;;;x
-AIREASON_KINGDOMS_DONT_ACCEPT_VASSALAGE;bÔSoòWãsˇ;;;;;;;;;;;;x
+AIREASON_KINGDOMS_DONT_ACCEPT_VASSALAGE;bÔS>fWãsˇ;;;;;;;;;;;;x
 ACCEPT;•c◊S;;;;;;;;;;;;x
-DECLINE;“b›u;;;;;;;;;;;;x
+DECLINE;“bUt;;;;;;;;;;;;x
 HAS_LESS_RAISED_TROOP_DAYS;Õéäñ’R·TSºeßY$DAYS$ß!)Y\n;;;;;;;;;;;;x
 HAS_MORE_RAISED_TROOP_DAYS;Õéäñ’R·TÛÅSßY$DAYS$ß!)Y\n;;;;;;;;;;;;x
-SET_RAISED_TROOP_OPINION;ßY$ACTIVE$ß!Je dßY$PASSIVE$ß!Ñvøä∆ñÅVÏSuQåYaÚapgPñ-ä© ßY$MUCH$ß!0\n;;;;;;;;;;;;x
+SET_RAISED_TROOP_OPINION;ßY$ACTIVE$ß!Je dßY$PASSIVE$ß!Ñvøä∆ñµVÏSuQåYaÚapgPñ-äIN ßY$MUCH$ß!0\n;;;;;;;;;;;;x
 CONTESTED_TITLE;-rIYÑv-òúíˇ$TITLE$;;;;;;;;;;;;x
 THREAT_REASON_HATRED;NOåYa;;;;;;;;;;;;x
 THREAT_REASON_LOVE;ÿöåYa;;;;;;;;;;;;x
-THREAT_REASON_CB;¡R0bt1u;;;;;;;;;;;;x
+THREAT_REASON_CB;≤R0bt1u;;;;;;;;;;;;x
 THREAT_REASON_PRETENDER;¨â¶âw;;;;;;;;;;;;x
-THREAT_REASON_CLAIMANT;¡R1z
-k;;;;;;;;;;;;x
+THREAT_REASON_CLAIMANT;≤R1zb;;;;;;;;;;;;x
 THREAT_REASON_DISTANCE;›ç‚ñ;;;;;;;;;;;;x
 THREAT_LIEGE_CULTURE;TáeS;;;;;;;;;;;;x
 THREAT_LIEGE_RELIGION;TóRYe;;;;;;;;;;;;x
 THREAT_LIEGE_DEJURELIEGE;’ltòJN;;;;;;;;;;;;x
 INGAME_STORE;Jê2bgQFUó^;;;;;;;;;;;;x
-tut_3c_6;YBS!k’lãV;;;;;;;;;;;;x
-tut_3c_7;SV`OSbV’lãVóz„Sˇ`OÔSÂNwãâ^RTX<SlQWÑv’lãV01uºe^RTX<Soò’l-ÜâãsW’ltNÑvNËêRˇ‡Vdk’l-ÜâãsWÑvãs
-k’lnNgqVˇó0R`O0ﬁû dNπeÛS∂OÑv˛vÃVÂgwsä∆u≈`¡l0;;;;;;;;;;;;x
-tut_3c_8;YBS!k’lãVII;;;;;;;;;;;;x
-tut_3c_9;ê·àoòIyÜN’lW˘R^RTX<S’lãVÑvqVˇó0(WòËêÔSÂNw0R’lWO(uÑvÁub’lˇï^Ëê-N.YGRoòãs
-k’l0ﬁû dÁuÌuÂN”ungêNËêR0;;;;;;;;;;;;x
-REINFORCE_TOOLTIP;NPgS€bﬂR$NUM$TÎXuQ;;;;;;;;;;;;x
-TECH_GROWTH_PROG_SETUP;ÙvDèò0W|vÆU≈`¡l;;;;;;;;;;;;x
-TECH_GROWTH_PROG_LOG;$TECH$(W$PROV$Ñv|vÆU4ls^ûX†R0RßY$PROG$ß!;;;;;;;;;;;;x
-TECH_GROWTH_REALM_SETUP;W∂R|vÆU4ls^;;;;;;;;;;;;x
-TECH_GROWTH_REALM_LOG;$TECH$(W$PROV$Ñv|vÆU4ls^ûX†R0RßY$LEVEL$ß!;;;;;;;;;;;;x
-TECH_GROWTH_PROG_REALM_SETUP;W∂R|vÆU≈`¡l;;;;;;;;;;;;x
-TECH_GROWTH_PROG_REALM_LOG;$TECH$(W$PROV$Ñv|vÆU≈`¡lûX†R0RßY$PROG$ß!;;;;;;;;;;;;x
-LOADING_TIP_0;0ÙvDèò0W0oòcP∫N¡d	gÑvŒW!X0ŒW^åT^yøk;;;;;;;;;;;;x
-LOADING_TIP_49;‘N∆u¢jÂg`OªYnRÑvyrÍå;;;;;;;;;;;;x
-EVTDESC3340;SVNMOÀSÑUÑv˜^„ÅTbhàIyleaBfbÓTﬁû¨T0RÜNÍÅÒTÑvÇ-ò0÷NÒä©ba0RqgÖ`ˇ6qå_V—`Ñv‚ñVÜN0;;;;;;;;;;;;x
+tut_3c_6;YdS!k’lãV;;;;;;;;;;;;x
+tut_3c_7;vl`OSböå’lãVóz„Sˇ`OÔSÂNwãâ^RTX<SlQWÑv’lãV01uºe^RTX<S>f’l-ÜâãsW’ltNÑvNËêRˇ‡Vdk’l-ÜâãsWÑvãsb’lnNgqVˇó0R`O0ﬁû dNπeÛS∂OÑv˛vÃVÂgwsä0t≈`¡l0;;;;;;;;;;;;x
+tut_3c_8;YdS!k’lãVII;;;;;;;;;;;;x
+tut_3c_9;ê·àoòIyÜN’lWS^RTX<S’lãVÑvqVˇó0(WòËêÔSÂNw0R’lWO(uÑv|ub’lˇï^Ëê-N.YGR>fãsb’l0ﬁû d|uåuÂNPtngêNËêR0;;;;;;;;;;;;x
+REINFORCE_TOOLTIP;NPgS€bﬂR$NUM$TÎXuQ;;;;;;;;;;;;x
+TECH_GROWTH_PROG_SETUP;ÙvDèò0W|vUS≈`¡l;;;;;;;;;;;;x
+TECH_GROWTH_PROG_LOG;$TECH$(W$PROV$Ñv|vUS4ls^ûX†R0RßY$PROG$ß!;;;;;;;;;;;;x
+TECH_GROWTH_REALM_SETUP;W∂R|vUS4ls^;;;;;;;;;;;;x
+TECH_GROWTH_REALM_LOG;$TECH$(W$PROV$Ñv|vUS4ls^ûX†R0RßY$LEVEL$ß!;;;;;;;;;;;;x
+TECH_GROWTH_PROG_REALM_SETUP;W∂R|vUS≈`¡l;;;;;;;;;;;;x
+TECH_GROWTH_PROG_REALM_LOG;$TECH$(W$PROV$Ñv|vUS≈`¡lûX†R0RßY$PROG$ß!;;;;;;;;;;;;x
+LOADING_TIP_0;0ÙvDèò0W0>fcP∫N¡d	gÑvŒW!X0ŒW^åT^yøk;;;;;;;;;;;;x
+LOADING_TIP_49;‘N0t¢jÂg`OªYPRÑvyrÍå;;;;;;;;;;;;x
+EVTDESC3340;vlNMOÀSÑUÑv˜^„ÅTbhàIyleaBfbÓTﬁû¨T0RÜNÍÅÒTÑvÇ-ò0÷N2äINba0RNÖ`ˇ6qõVV—`Ñv‚ñöåÜN0;;;;;;;;;;;;x
 EVTOPTA3340;bsbÔS˝w1YªSÜN÷NÑvSle&&;;;;;;;;;;;;x
-alert_dejure_claim_instant;ßY`OÔSÂN1t÷S’ltlQWÑv¡R1zß!;;;;;;;;;;;;x
-alert_dejure_claim_delayed;`OÔSÂN1t÷SÂNNÑv’ltlQWÑv¡R1zˇ$LIST$;;;;;;;;;;;;x
-PRESSABLE_CLAIM;$CLAIMANT$˘R$COUNTY$ÑvTt¡R1z;;;;;;;;;;;;x
+alert_dejure_claim_instant;ßY`OÔSÂN1t÷S’ltlQWÑv≤R1zß!;;;;;;;;;;;;x
+alert_dejure_claim_delayed;`OÔSÂN1t÷SÂNNÑv’ltlQWÑv≤R1zˇ$LIST$;;;;;;;;;;;;x
+PRESSABLE_CLAIM;$CLAIMANT$S$COUNTY$ÑvTt≤R1z;;;;;;;;;;;;x
 OPT_draw_trees;2n”g9j(g;;;;;;;;;;;;x
 OPT_draw_rivers;2n”g≥lAm;;;;;;;;;;;;x
 OPT_draw_citysprawl;2n”gŒW^IS;;;;;;;;;;;;x
 tut_4c_11;ZZ˚YHeúg;;;;;;;;;;;;x
-OPT_legacy_shaders;
-ÇoòIy!jV;;;;;;;;;;;;x
+OPT_legacy_shaders;yoòIy!jV;;;;;;;;;;;;x

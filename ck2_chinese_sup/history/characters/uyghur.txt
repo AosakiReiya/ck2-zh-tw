@@ -183,7 +183,7 @@
   }
 }
 217103 = {
-  name = "ÌRŠV"  # Könçek
+  name = "ûRÈV"  # Könçek
   dynasty = 1051103
   religion = "manichean"
   culture = "uyghur"
@@ -212,7 +212,7 @@
   }
 }
 217105 = {
-  name = ">TkRäSÏp"  # Özgul
+  name = ">TkRäSLN"  # Özgul
   dynasty = 1051103
   religion = "manichean"
   culture = "uyghur"
@@ -286,7 +286,7 @@
   }
 }
 217110 = {
-  name = "¨šjs"  # Kozel
+  name = "¨šjs"  # Kozel
   dynasty = 1051102
   religion = "manichean"
   culture = "uyghur"
@@ -313,7 +313,7 @@
   }
 }
 217111 = {
-  name = "%Y„T"  # Yeldem
+  name = "O„T"  # Yeldem
   dynasty = 1051102
   religion = "manichean"
   culture = "uyghur"
@@ -381,7 +381,7 @@
   }
 }
 217116 = {
-  name = "ÌRŠV"  # Könçek
+  name = "ûRÈV"  # Könçek
   religion = "manichean"
   culture = "uyghur"
   female = yes
@@ -419,7 +419,7 @@
   }
 }
 217119 = {
-  name = "WXp"  # Kutan
+  name = "ýVXp"  # Kutan
   dynasty = 1051100
   religion = "manichean"
   culture = "uyghur"
@@ -534,7 +534,7 @@
   }
 }
 217186 = {
-  name = "¨šjs"  # Kozel
+  name = "¨šjs"  # Kozel
   dynasty = 1051104
   religion = buddhist
   culture = uyghur
@@ -666,7 +666,7 @@
   }
 }
 217232 = {
-  name = "%Y„T"  # Ituk
+  name = "O„T"  # Ituk
   dynasty = 1051121
   religion = buddhist
   culture = uyghur
@@ -683,7 +683,7 @@
   }
 }
 217233 = {
-  name = "Ïpjt%Y"  # Umay
+  name = "ÏpjtO"  # Umay
   religion = buddhist
   culture = uyghur
   female = yes
@@ -825,8 +825,7 @@
   }
 }
 217255 = {
-  name = "„S2ƒ
-„ÆY"  # Özlem
+  name = "„S2ƒûƒÆY"  # Özlem
   dynasty = 1051123
   religion = buddhist
   culture = uyghur
@@ -882,7 +881,7 @@
   }
 }
 166757 = {
-  name = "«ƒÚŒ"  # Bagha
+  name = "«ƒöŒ"  # Bagha
   dynasty = 1040062
   religion = "manichean"
   culture = "uyghur"
@@ -907,7 +906,7 @@
   }
 }
 166759 = {
-  name = "åSJNUV"  # Küchlüg
+  name = "åSJNŠ"  # Küchlüg
   dynasty = 1045083
   religion = "manichean"
   culture = "uyghur"
@@ -1030,7 +1029,7 @@
   }
 }
 194384 = {
-  name = "?–KQESS"  # Akgul
+  name = "?–KQES>i"  # Akgul
   female = yes
   dynasty = 1040064
   religion = "manichean"
@@ -1047,7 +1046,7 @@
   }
 }
 1059729 = {
-  name = "Är€’"  # Diyin
+  name = "Är‰"  # Diyin
   dynasty = 1040064
   religion = "buddhist"
   culture = "uyghur"
@@ -1125,7 +1124,7 @@
   }
 }
 166769 = {
-  name = "YL„¥u"  # Yeluohe
+  name = "YL„t"  # Yeluohe
   dynasty = 1040064
   religion = "buddhist"
   culture = "uyghur"
@@ -1140,7 +1139,7 @@
   }
 }
 1059731 = {
-  name = "yÜw"  # Lusheng
+  name = "yÝI"  # Lusheng
   dynasty = 1040064
   religion = "buddhist"
   culture = "uyghur"
@@ -1169,7 +1168,7 @@
   }
 }
 166771 = {
-  name = "`R"  # Huaining
+  name = "`çR"  # Huaining
   dynasty = 1040064
   religion = "buddhist"
   culture = "uyghur"
@@ -1183,7 +1182,7 @@
   }
 }
 166772 = {
-  name = "RVàV"  # Guizhong
+  name = "xbàV"  # Guizhong
   dynasty = 1040064
   religion = "buddhist"
   culture = "uyghur"
@@ -1197,7 +1196,7 @@
   }
 }
 166773 = {
-  name = "øRW"  # Baguo
+  name = "öRW"  # Baguo
   dynasty = 1040064
   religion = "buddhist"
   culture = "uyghur"
@@ -1281,7 +1280,7 @@
   }
 }
 166778 = {
-  name = "ÌRŠV"  # Könçek
+  name = "ûRÈV"  # Könçek
   dynasty = 1040065
   religion = "buddhist"
   culture = "uyghur"
@@ -1386,7 +1385,7 @@
   }
 }
 194400 = {
-  name = "ÕPjs"  # Peksen
+  name = "ÕPjs"  # Peksen
   female = yes
   dynasty = 1040065
   religion = "buddhist"
@@ -1402,7 +1401,7 @@
   }
 }
 166785 = {
-  name = "%YWLR"  # Itlar
+  name = "OWLR"  # Itlar
   dynasty = 1040065
   religion = "buddhist"
   culture = "uyghur"
@@ -1417,7 +1416,7 @@
   }
 }
 166786 = {
-  name = "‰`[ˆ"  # Çilbu
+  name = "‰`U"  # Çilbu
   dynasty = 1040065
   religion = "buddhist"
   culture = "uyghur"
@@ -1556,7 +1555,7 @@
   }
 }
 248082 = {
-  name = "&id…"  # Kumara
+  name = "žid…"  # Kumara
   dynasty = 1040024
   religion = "buddhist"
   culture = "sogdian"
@@ -1613,8 +1612,7 @@
   }
 }
 248085 = {
-  name = "äS
-„"  # Gulay
+  name = "äSûƒ"  # Gulay
   female = yes
   dynasty = 1040065
   religion = "nestorian"
@@ -1659,7 +1657,7 @@
   }
 }
 248088 = {
-  name = "Âså"  # Asep
+  name = "ÂsgS"  # Asep
   dynasty = 1040060
   religion = "nestorian"
   culture = "uyghur"
@@ -1689,7 +1687,7 @@
   }
 }
 248090 = {
-  name = "ïg[ˆÐc"  # Kopti
+  name = "ïgUÐc"  # Kopti
   dynasty = 1040060
   religion = "nestorian"
   culture = "uyghur"
@@ -1749,7 +1747,7 @@
   }
 }
 248094 = {
-  name = "ý#e"  # Tolun
+  name = "ýe"  # Tolun
   dynasty = 1040060
   religion = "nestorian"
   culture = "uyghur"
@@ -1764,7 +1762,7 @@
   }
 }
 248095 = {
-  name = "WgYS"  # Tugor
+  name = "WgY>i"  # Tugor
   dynasty = 1040060
   religion = "nestorian"
   culture = "uyghur"
@@ -1779,7 +1777,7 @@
   }
 }
 248096 = {
-  name = "ïg[ˆYrKQ"  # Kobyak
+  name = "ïgUYrKQ"  # Kobyak
   dynasty = 1040060
   religion = "nestorian"
   culture = "uyghur"
@@ -1794,7 +1792,7 @@
   }
 }
 248097 = {
-  name = "ïg[ˆžNKQ"  # Kobyak
+  name = "ïgUžNKQ"  # Kobyak
   dynasty = 1040060
   religion = "nestorian"
   culture = "uyghur"
@@ -1839,7 +1837,7 @@
   }
 }
 248100 = {
-  name = "TidÁoål"  # Dharmawarne
+  name = "TidJmål"  # Dharmawarne
   dynasty = 1040052
   religion = "buddhist"
   culture = "tocharian"
@@ -1893,7 +1891,7 @@
   }
 }
 248103 = {
-  name = "ÏpVyS"  # Uzur
+  name = "ÏpVy>i"  # Uzur
   dynasty = 1040052
   religion = "manichean"
   culture = "uyghur"
@@ -1983,7 +1981,7 @@
   }
 }
 248109 = {
-  name = "WXp"  # Kutan
+  name = "ýVXp"  # Kutan
   dynasty = 1040052
   religion = "manichean"
   culture = "uyghur"
@@ -2091,7 +2089,7 @@
   }
 }
 248217 = {
-  name = "ZY²"  # Siknak
+  name = "ZY1’"  # Siknak
   dynasty = 1051122
   religion = sunni
   culture = karluk
@@ -2110,7 +2108,7 @@
   }
 }
 248218 = {
-  name = "©…fkS"  # Savur
+  name = "©…fk>i"  # Savur
   dynasty = 1051119
   religion = sunni
   culture = karluk
@@ -2152,7 +2150,7 @@
   }
 }
 248221 = {
-  name = "Âså"  # Asep
+  name = "ÂsgS"  # Asep
   dynasty = 1051119
   religion = sunni
   culture = uyghur
@@ -2179,7 +2177,7 @@
   }
 }
 248223 = {
-  name = "ŠWáˆ"  # Togli
+  name = "ŠýVáˆ"  # Togli
   dynasty = 1051122
   religion = sunni
   culture = uyghur
@@ -2192,7 +2190,7 @@
   }
 }
 248224 = {
-  name = "ÏpVyS"  # Uzur
+  name = "ÏpVy>i"  # Uzur
   dynasty = 1051122
   religion = sunni
   culture = uyghur

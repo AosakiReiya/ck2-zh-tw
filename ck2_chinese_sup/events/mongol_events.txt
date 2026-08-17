@@ -2806,7 +2806,7 @@ character_event = {
     create_random_soldier = {
       random_traits = no
       dynasty = 613
-      name = "^XSñg"  # Seljuk
+      name = "^X>iñg"  # Seljuk
       culture = turkish
       religion = ROOT
       age = 18
@@ -2854,7 +2854,7 @@ character_event = {
       create_random_soldier = {
         random_traits = no
         dynasty = 613
-        name = "^XSñg"  # Seljuk
+        name = "^X>iñg"  # Seljuk
         culture = turkish
         religion = ROOT
         age = 18
@@ -6925,7 +6925,7 @@ character_event = {
       add_spouse = ROOT
     }
     create_character = {
-      name = "qgú"  # Subutai
+      name = "Nú"  # Subutai
       age = 35
       religion = "tengri_pagan"
       culture = "mongol"

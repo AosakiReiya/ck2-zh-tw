@@ -30,9 +30,9 @@ horse_group = {
       "≈ew"  # Traveller
       "¨ô+PÂT"  # Marengo
       "^m´É"  # Palomo
-      "õèõè≤ê–c"  # Cincinnati
+      "õèõè1í–c"  # Cincinnati
       "—y¸fGY"  # Comanche
-      "jwfÑv"oØe"  # Clever Hans
+      "pwfÑv1fØe"  # Clever Hans
       "Àó-ÜÍè+Y"  # Veillantif
       "ÒÇâTXWØe"  # Incitatus
       "˝ìëe"  # Rusty
@@ -43,7 +43,7 @@ horse_group = {
       "˜ñó"  # Lightning
       "Éï˚ñ"  # Flash
       "?ñπe1t"  # Alfonso
-      "?ñSTXKQØe"  # Artax
+      "?ñ>iTXKQØe"  # Artax
       "—ûëPKQ"  # Blackjack
       "Ûb dKb"  # Boxer
       "ªå∑V"  # Ferd
@@ -54,18 +54,18 @@ horse_group = {
       "jÅRQ"  # Merrylegs
       "ˇb4xñO"  # Napoleon
       "ÆvÜñ"  # Pylon
-      "]à“íw"  # Rusher
+      "l“íw"  # Rusher
       "?ñÖ∑V"  # Arod
       "?ñØe’lmØe"  # Asfaloth
-      "S¨ô‘kS"  # Bill the Pony
+      "S¨ô‘k>i"  # Bill the Pony
       "^˜ñb"  # Brego
       "	ëÙTlO"  # Bumpkin
       "•w•w"  # Fatty
-      "w÷wnR"  # Lumpkin
+      "w÷wPR"  # Lumpkin
       "kp≥ç"  # Firefoot
       "»TÜ®ò"  # Hasufel
-      "%è≥ç"  # Lightfoot
-      "≥u»TS"  # Nahar
+      ">è≥ç"  # Lightfoot
+      "t»T>i"  # Nahar
       "mkçóg"  # Roheryn
       "S3w5g"  # Sharp-ears
       "Íñõ"  # Snowmane
@@ -73,18 +73,18 @@ horse_group = {
       "Zó>S"  # Swish-tail
       "´njO…b"  # Windfola
       "gaJü"  # Wise-nose
-      "Úñ¯R"  # Rainbow
-      "óSØe"  # Horse
+      "ÚñˆR"  # Rainbow
+      "ó>iØe"  # Horse
       "å^Ds<õ“ô"  # Helhest
       "^‚l"  # Hippo
-      "yrm%Y"  # Trojan
+      "yrmO"  # Trojan
       "ùåaSkçØeyr"  # B‰ckah‰st
-      "dç:r"  # Red
+      "dçIi"  # Red
       "büR"  # Victory
-      "WSN<hS"  # Nightingale
+      "WSN<h>i"  # Nightingale
       "Øeyr˜ñ+Y"  # Streiff
       "¨ô–c<SKQ"  # Martinique
-      "Øe˜ñnf<SS"  # Sleipnir
+      "Øe˜ñnf<S>i"  # Sleipnir
       "‚lëPKQ"  # Bojack
       "IÉN€ò"  # Glue-Boy
       "-WY"  # Guido
@@ -92,29 +92,29 @@ horse_group = {
       "ØeW˜ñ"  # Sture
       "	T∆Y"  # Jim
       "<hÖ“R"  # Grolle
-      "]à dw"  # Dasher
+      "l dw"  # Dasher
       "ùåûN∑V"  # Bayard
       "^…b<h"  # Brag
       "ÅÅ"  # Neck
       "4lñY"  # N‰cken
       "—yÆvûN∑V"  # Copiad
-      "6wS+Ynt’lKQØe"  # J‰rvsˆfaks
+      "6w>i+Ynt’lKQØe"  # J‰rvsˆfaks
       "√û—ë9Ç"  # Golden
-      "_Ü“âKb"  # Hornline
-      "ÀóS≥u"  # Verner
+      "PÜ“âKb"  # Hornline
+      "Àó>it"  # Verner
       "^˜ñb"  # Brego
       "^â|v…bØe"  # Bucephalus
       "Ys|˛ä"  # Domino
       "ôÑÇÑ"  # Monty
       "Éï˚ñ"  # Bolt
       "gYKQ˜ñ"  # Oakley
-      "4bS"  # Dale
+      "4b>i"  # Dale
       "·àgY"  # Rio
-      "ƒ{∑V‘kSyr"  # Vanderbilt
+      "”r∑V‘k>iyr"  # Vanderbilt
       "jrò"  # Newton
       "sbIg"  # Trigger
       "ôl)Ráe"  # Sullivan
-      "ÙT≥u‘k"  # Barnaby
+      "ÙTt‘k"  # Barnaby
       "yr·à"  # Terry
       "®Nyr"  # Hunter
       "lKQ"  # Tyke
@@ -130,7 +130,7 @@ horse_group = {
       "˜ñó"  # Lightning
       "Éï˚ñ"  # Flash
       "?ñπe1t"  # Alfonso
-      "?ñSTXKQØe"  # Artax
+      "?ñ>iTXKQØe"  # Artax
       "—ûëPKQ"  # Blackjack
       "Ûb dKb"  # Boxer
       "ªå∑V"  # Ferd
@@ -141,18 +141,18 @@ horse_group = {
       "jÅRQ"  # Merrylegs
       "ˇb4xñO"  # Napoleon
       "TXRQ"  # Pylon
-      "]à“íw"  # Rusher
+      "l“íw"  # Rusher
       "?ñÖ∑V"  # Arod
       "?ñØe’lmØe"  # Asfaloth
       "S¨ô‘kâÉ"  # Bill the Pony
       "^˜ñb"  # Brego
       "	ëÙTlO"  # Bumpkin
       "•w•w"  # Fatty
-      "w÷wnR"  # Lumpkin
+      "w÷wPR"  # Lumpkin
       "kp≥ç"  # Firefoot
       "»TÜ®ò"  # Hasufel
-      "%è≥ç"  # Lightfoot
-      "≥u»TS"  # Nahar
+      ">è≥ç"  # Lightfoot
+      "t»T>i"  # Nahar
       "mkçóg"  # Roheryn
       "S3w5g"  # Sharp-ears
       "Íñõ"  # Snowmane
@@ -160,21 +160,21 @@ horse_group = {
       "Zó>S"  # Swish-tail
       "´njO…b"  # Windfola
       "gaJü"  # Wise-nose
-      "Úñ¯R"  # Rainbow
-      "óSr}"  # Horse
+      "ÚñˆR"  # Rainbow
+      "ó>iÅt"  # Horse
       "å^Ds<õ“ô"  # Helhest
       "^‚l"  # Hippo
-      "yrm%Y"  # Trojan
+      "yrmO"  # Trojan
       "ùåaSkçØeyr"  # B‰ckah‰st
-      "S¢u"  # Red
-      "ÙuY)RûN"  # Victory
-      "WSN<hS"  # Nightingale
+      "St"  # Red
+      "≠tY)RûN"  # Victory
+      "WSN<h>i"  # Nightingale
       "˜^<hHó"  # Tingeling
       "©ÖâÉ"  # Sallie
       "WS‹t"  # Pumpkin
       "ôôõèôe"  # Spice
       "CS·à¨ô"  # Chollima
-      "‰SS’lKQâ"  # Gullfaxi
+      "‰S>i’lKQâ"  # Gullfaxi
       "aS…b"  # Kara
       "Õs‡s"  # Pearl
       "Tõ’l"  # Magic
@@ -236,7 +236,7 @@ cat_group = {
       "on∆Yìå"  # Tom
       "ëeﬁû"  # Smudge
       "ófqV"  # Shadow
-      "	NsTøu"  # Zimm
+      "	NsT⁄t"  # Zimm
       "qS∆Y"  # Samm
       "∆RØeäV·à"  # Misstoffelees
       "bãV>O"  # Deuteronomy
@@ -249,26 +249,26 @@ cat_group = {
       "Ü<h…bï^"  # Socrates
       "^X“R∆Y"  # Salem
       "WÁv2É"  # Toulouse
-      "œgÃè2É"  # Berlioz
+      "œgAá2É"  # Berlioz
       "ä¨ôØe"  # Thomas
-      "‘kSKQ"  # Birk
-      "*rnR"  # Paws
+      "‘k>iKQ"  # Birk
+      "*rPR"  # Paws
       "ÙTâ	tØe »TmKQ dÀÜ<õ"  # Basileus Harlocke Spoops
       "åvŒëZ"  # Bazcat
       "€kt"  # Furball
-      "u#l"  # Angry
+      "u2c"  # Angry
       "ùONP"  # Snuggles
       "x^Kê"  # Lucky
-      "Ãucb"  # Buttons
+      "tcb"  # Buttons
       "Íñt"  # Snowbell
       "±b±b"  # Cuddles
       "KQoõKQqS"  # Crookshanks
       "‘k<hÉlØeHQu"  # Mr. Bigglesworth
       "ëeﬁû"  # Spot
-      "ÙuØeKQr}"  # Whiskers
+      "≠tØeKQÅt"  # Whiskers
       "x^Kê"  # Lucky
       "T<S"  # Juni
-      "∆TfUSnR"  # Maow
+      "∆TfUSPR"  # Maow
       "∆TfUãs"  # Cat
       "lxc^"  # Coins
       "—ûyå"  # Panther
@@ -280,29 +280,29 @@ cat_group = {
       "ƒO·à¡"  # Orion
       "ªå)RKQØe"  # Felix
       "–c∆Y"  # Tim
-      "ÖS"  # Rowl
+      "Ö>i"  # Rowl
       ")RØeyr"  # Lister
       "KQÖKQyr"  # Crockett
-      "§oá^∑VØe"  # Zebedeus
-      "lç©∑V"  # Syd
-      "ùåS"  # Bear
-      "VõÅKb"  # Ripper
+      "≥fá^∑VØe"  # Zebedeus
+      "jç©∑V"  # Syd
+      "ùå>i"  # Bear
+      "öåõÅKb"  # Ripper
       "´É·àØe"  # Maurice
       "ëPKQ"  # Jake
-      "âSÙuØeyr"  # Sylvester
+      "â>i≠tØeyr"  # Sylvester
       "‘k<h"  # Big
       "ä—ë"  # Talking
       "on∆Yìå"  # Tom
       "?ñyr…bØe"  # Atlas
-      "\ã…b+YN"  # Serafettin
+      "1å…b+YN"  # Serafettin
       "âôÑ"  # Simon
-      "–cS‘k(É"  # Santa
-      "*rnR"  # Paws
+      "–c>i‘k(É"  # Santa
+      "*rPR"  # Paws
       "•ûNY"  # M'aiq
       "áeÓhyr"  # Vincent
       "»TóVØe"  # Hades
       "†RÚÉ"  # FÎa
-      "˘}GY"  # Tyki
+      "uGY"  # Tyki
       "…b‘k"  # Lavi
       "Xo"  # Pan
       "ñw˙WÓh"  # Tjockisen
@@ -310,17 +310,17 @@ cat_group = {
       "´É·àØe"  # Morris
       "ófqV"  # Shadow
       "gYØeaS"  # Oscar
-      "√WØe˙WS"  # Eskil
+      "√WØe˙W>i"  # Eskil
       "ófqV"  # Shadow
       "wëj"  # Tommiecat
       "ZSØe"  # Bosse
       "…bØe"  # Lasse
-      "ÙTâS"  # Basil
-      "∆TfUA"Y"  # Zylyn
+      "ÙTâ>i"  # Basil
+      "∆TfUA1P"  # Zylyn
       "ÕÖìå"  # Snooka
       "jtyr"  # Maat
       "ÒQ1t"  # Keso
-      "Bilibili ◊r ∑VeV∂R∑^ õÖöR‰ä ›OYu"  # Lord-Admiral-Edward-Hawke-First-Baron-Hawke-First-Lord-of-the-Admiralty
+      "Bilibili ◊r ∑V›T∂R∑^ õÖöR‰ä ›OYu"  # Lord-Admiral-Edward-Hawke-First-Baron-Hawke-First-Lord-of-the-Admiralty
       "<Ss|2É"  # Nimitz
       "aS2É"  # Katz
       "•ûm"  # Milo
@@ -335,9 +335,9 @@ cat_group = {
       "â<hjt"  # Sigma
       "•ûÓh"  # Mysan
       "˛OØe•û"  # Missan
-      "ÙuY)RûN"  # Victoria
+      "≠tY)RûN"  # Victoria
       "Önf-ÜÇÑnt"  # Rumpelteazer
-      "jÑœp2Éùå…b"  # Grizabella
+      "jÑLN2Éùå…b"  # Grizabella
       "Íès|yr"  # Demeter
       "¶êùåoõ3tZ"  # Bombalurina
       "o—û"  # Sooty
@@ -345,27 +345,27 @@ cat_group = {
       "vYπlaÑÑRë"  # Syllabub
       "2óZ"  # Luna
       "HSY"  # Midnight
-      "≥u…b"  # Nala
-      "–cS‘k(É"  # Tussan
-      "^XSjt"  # Selma
+      "t…b"  # Nala
+      "–c>i‘k(É"  # Tussan
+      "^X>ijt"  # Selma
       "^X“R∆Y"  # Salem
       "sYlQ5r"  # Duchess
-      "jtœp"  # Marie
+      "jtLN"  # Marie
       "â<hÆY"  # Signe
-      "*rnR"  # Paws
-      "ÙT^XœpéÉ »TmKQ dÀÜ<õ"  # Basileus Harlocke Spoops
+      "*rPR"  # Paws
+      "ÙT^XLNéÉ »TmKQ dÀÜ<õ"  # Basileus Harlocke Spoops
       "åvŒëZ"  # Bazcat
       "€kt"  # Furball
-      "u#l"  # Angry
+      "u2c"  # Angry
       "ùONP"  # Snuggles
       "x^Kê"  # Lucky
-      "Ãucb"  # Buttons
+      "tcb"  # Buttons
       "Íñt"  # Snowbell
       "±b±b"  # Cuddles
       "KQoõKQqS"  # Crookshanks
       "‘k<hÉlØeHQu"  # Mr. Bigglesworth
       "ëeﬁû"  # Spot
-      "ÙuØeKQr}"  # Whiskers
+      "≠tØeKQÅt"  # Whiskers
       "x^Kê"  # Lucky
       "T<S"  # Juni
       "∆TfUé"  # Maow
@@ -388,27 +388,27 @@ cat_group = {
       "·àV"  # River
       "KQ)RgY"  # Cleo
       "ÇWÛg"  # Willow
-      "KQm%Y"  # Chloe
-      "≠Çr}‘Çyr"  # Bastet
+      "KQmO"  # Chloe
+      "≠ÇÅt‘Çyr"  # Bastet
       "jtôÇ„Nyr"  # Mafdet
-      "çÇœpr}"  # Aeris
+      "y|LNÅt"  # Aeris
       "ÁTKQõR"  # Tonks
       "âÉ©Ö"  # Lisa
       "s|g"  # Myran
-      "ôônR-Ü"  # Lillkissen
+      "ôôPR-Ü"  # Lillkissen
       "€ñ É"  # Daisy
       "^Xkçéyr"  # Sekhmet
       "∞ef"  # Nova
       "SÂúRQ"  # Birdie
-      "¢uFå"  # Mynta
+      "tFå"  # Mynta
       "	ÉâÉ"  # Molly
-      "0inR"  # Tjoppan
+      "0iPR"  # Tjoppan
       "Si"  # Nyanners
       "âwBh"  # Suki
-      "%YâØe"  # Isis
+      "OâØe"  # Isis
       "2óZ"  # Masika
       "aS)RƒOiO"  # Caliope
-      "1tS-·wâRZ-%YgQØe-∑V-…b-KQoõØe"  # Sor-Juana-InÈs-de-la-Cruz
+      "1t>i-·wâRZ-OgQØe-∑V-…b-KQoõØe"  # Sor-Juana-InÈs-de-la-Cruz
       "Yj"  # Mitzi
       "·`kOáR"  # Mischief
       "ÚñÕk"  # Smilla
@@ -459,26 +459,26 @@ bear_group = {
       0.3
     }
     male_names = {
-      "äq¶ui`"  # Bjˆrn
+      "äqti`"  # Bjˆrn
       "äqJii`"  # Bj¯rn
       "9óBóäq"  # Torbj¯rn
-      "≥u™RKQ"  # Nanuk
+      "t™RKQ"  # Nanuk
       "Ü©ÖØe"  # Ursus
       "∞Qäq"  # Isbjˆrn
       "|T˜UkT"  # Grrrowr
       "|TkTkT"  # Grrgrrr
       "˜UkT"  # Rawr
-      "äq∆Ylç"  # Bamse
+      "äq∆Yjç"  # Bamse
       "2ñkpäq"  # Smokey
       "äq<S"  # Barnie
       "äqHóòHQu"  # Sir Bearington
-      "äq≥u^Øe"  # Bearnabus
-      "äq≥u∑V"  # Bernard
+      "äqt^Øe"  # Bearnabus
+      "äqt∑V"  # Bernard
       "Säq"  # Asabjˆrn
-      "ØeÇÑS‘k¶ui`"  # Styrbjˆrn
-      "√WØe‘k¶ui`"  # Esbjˆrn
-      "Ùu<S"  # Bˆrje
-      "‘k¶ui`"  # Bjˆrne
+      "ØeÇÑ>i‘kti`"  # Styrbjˆrn
+      "√WØe‘kti`"  # Esbjˆrn
+      "≠t<S"  # Bˆrje
+      "‘kti`"  # Bjˆrne
       "‡É?Ü"  # Baloo
       "‚l‚l"  # Boo-Boo
       "€kt"  # Fluffy
@@ -497,28 +497,28 @@ bear_group = {
       "oõ¿syr"  # Rupert
       "Él5î"  # Wojtek
       "ﬂéﬂéäq"  # Uszatek
-      "äq≥u∑V"  # Bearnard
+      "äqt∑V"  # Bearnard
       "‘kûNgQ"  # Bjarne
-      "¶u"  # John
+      "t"  # John
       "äq*r"  # Bearclaw
-      "—yYäQ"  # Koda
+      "—yYæé"  # Koda
       "ïTkV"  # Gurr
-      "?ñ¯R"  # Nalle
+      "?ñˆR"  # Nalle
     }
     female_names = {
       "|T˜UkT"  # Grrrowr
       "|TkTkT"  # Grrgrrr
       "JUkT"  # Rawr
-      "äq∆Ylç"  # Bamse
+      "äq∆Yjç"  # Bamse
       "äq^XÆY"  # Ursine
       "Íñt"  # Snowball
       "äqO…b"  # Urszula
       "äqHóò+Y∫N"  # Lady Bearington
       "äqZN"  # Bernardine
-      "äq≥u€ûyr"  # Bernadette
+      "äqt€ûyr"  # Bernadette
       "€kt"  # Fluffy
       "gY™c"  # Otso
-      "^oõÖhœpéÉ"  # Brummelisa
+      "^oõÖhLNéÉ"  # Brummelisa
       "äqTåTå"  # Nalle-Maja
       "^oõjt"  # Brumma
       "ñô˛ò"  # Trinket
@@ -533,11 +533,11 @@ bear_group = {
       "Spp"  # Grizzly
       "±b±b"  # Cuddles
       "äqZN"  # Bearnardine
-      "äq≥u€ûyr"  # Bearnadette
+      "äqt€ûyr"  # Bearnadette
       "s|éÉ"  # Misha
       "2kÇÑ"  # Cindy
       "ÿöjÍè"  # Goldi
-      "?ñ¯R"  # Nalle
+      "?ñˆR"  # Nalle
       "jt≈ñ"  # Maja
       "ZsO"  # Nadja
     }
@@ -584,7 +584,7 @@ hedgehog_group = {
     }
     male_names = {
       "|TÁT|TÁT"  # Hughues
-      "wm∆w"  # Echinus
+      "wmÃx"  # Echinus
       "√W·à™RØe"  # Erinus
       "óR!kŒê"  # Kidnae
       "SS"  # Micro
@@ -593,19 +593,19 @@ hedgehog_group = {
       "†Q€k"  # Sclaterion
       "·àKQØe"  # Rix
       "SIR"  # Spike
-      "rêí"  # Pokey
+      "rêâ"  # Pokey
       "ÿhR∆Y"  # Quillem
-      "_á…^"  # Quilliam
-      "_áHóò"  # Quillington
+      "Pá…^"  # Quilliam
+      "PáHóò"  # Quillington
       "1t<SKQ"  # Sanic
-      "≥uKQoõØe"  # Knucklys
-      "åvÄí"  # Silver
+      "tKQoõØe"  # Knucklys
+      "åvèâ"  # Silver
       "-ÜØemyr"  # Lancelot
       "†R…b»T∑V"  # Galahad
       "ESoõÎX"  # Cyrus
       "›ëäX"  # Pincushion
-      "IR_á"  # Hedgehog
-      "¥f>Å#l"  # Grumpy
+      "IRPá"  # Hedgehog
+      "¥f>Å2c"  # Grumpy
       "ØÖGr"  # Crisp
       "çgúg"  # Pinecone
       "©Ö∆Y"  # Sam
@@ -613,59 +613,58 @@ hedgehog_group = {
       "ØeÇÑ<h"  # Stig
       "õÖâØe"  # Xerxes
       "ÇÑÿh∑´nIRRQ*Y*Y"  # Mr. Tiggy-Winkle
-      "ÿënR"  # Nails
+      "ÿëPR"  # Nails
       "JÉÿh"  # Thorn
       "ógéj"  # Ringo
       "<hÖ	T"  # Groogy
-      "gÒR"  # Punk
+      "g¢R"  # Punk
       "jålå"  # Hedgepig
       "Z¥Vˇnˇn"  # August
-      "^
-Ñi`"  # Blaine
+      "^˚Éi`"  # Blaine
       "ÉcÖ"  # Saul
     }
     female_names = {
-      "√WœpZ"  # Erina
+      "√WLNZ"  # Erina
       "√WGYY<S"  # Ekidney
       "Ng^tKQØe"  # Leerix
-      "?ñS	T…b"  # Algira
+      "?ñ>i	T…b"  # Algira
       "kçs|"  # Hemy
       "Ôg)R"  # Collie
       "Têœp…b"  # Daura
       "^…b"  # Para
       "áeyr)RûN"  # Ventria
       "ôl˙W…b"  # Shaquilla
-      "NùhSVªû"  # Prickquille
+      "Nùhvlªû"  # Prickquille
       "(gùh"  # Splinthia
       "<SôY"  # Nimue
-      "çÇs|"  # Amy
+      "y|s|"  # Amy
       "<SKQØe"  # Nix
       "SIR"  # Spike
       "›ëäX"  # Pincushion
-      "IR_á"  # Hedgehog
-      "¥f>Å#l"  # Grumpy
-      "rêí"  # Pokey
+      "IRPá"  # Hedgehog
+      "¥f>Å2c"  # Grumpy
+      "rêâ"  # Pokey
       "ØÖGr"  # Crisp
       "çgúg"  # Pinecone
-      "»T)RnR"  # Sam
+      "»T)RPR"  # Sam
       "dd˙d˙d"  # Wiggles
       "´spt"  # Rose
-      "]ùuSÛw"  # Pebbles
+      "lîuSÛw"  # Pebbles
       "iOÏY"  # Peggy
       "	V	VsYÎT"  # Hogatha
       "Ûw`i(g"  # Briar
       "±Ç±Ç"  # Flower
       "Öh<h"  # Meg
-      ")s¢u"  # Scarlet
+      ")st"  # Scarlet
       "´n∑V…b"  # Vendela
       "u‹Y"  # Ginger
-      "Öh≥u"  # Mena
+      "Öht"  # Mena
       "ÇÑéÉ"  # Tisha
       "gYZ"  # Oona
       "œpÜ…b"  # Ursula
       "3SÍèyr"  # Judit
       "yru"  # Tegan
-      "}ñIQÉïÉï"  # Sunshine
+      "åçIQÉïÉï"  # Sunshine
     }
     prefix = no
     pat_grf_name_chance = 50
@@ -720,7 +719,7 @@ duck_group = {
       "åv≈èÅ"  # Whitewing
       "(ù´^Øe"  # Duckus
       "ºlçé(ù"  # Quackmire
-      "ÀÜ-òSnR"  # Eggbert
+      "ÀÜ-òSPR"  # Eggbert
       "óÔÉ∑V"  # Howard
       "ÚSÿöªl"  # Scrooge
       "Ã€k‘v"  # Winghelm
@@ -728,30 +727,29 @@ duck_group = {
       "1k2kÛw"  # Gladstone
       "ÀÜ’|"  # Cake
       "ÃçÃçûdûd"  # Blunder
-      "(ùnR"  # Duck
+      "(ùPR"  # Duck
       "VV"  # Quackers
       "ÆvÆv"  # Pippi
       "bóbó"  # Face
       "aÑÑ"  # Grape
-      "?ñ≥uwm∆Y"  # Anaheim
-      "VnR"  # Quackel
+      "?ñtwm∆Y"  # Anaheim
+      "VPR"  # Quackel
       "Âú4V"  # Beaky
       "˛äNò"  # Nottington
       "∑V˜ñKQ"  # Drake
       "Œë(ù"  # Mallard
-      ""oØe"  # Hans
+      "1fØe"  # Hans
       "ÚSÿöªl"  # Scrooge
       "—ûófKN¸"  # Darkwing
       "èRQ"  # Huey
       "kgRQ"  # Dewey
       "ÔçRQ"  # Louie
-      "ªs)RÊtS"  # Bolivar
+      "ªs)RÊt>i"  # Bolivar
       "¨ôN"  # MÂrten
-      "¨ôS’n"  # Maarten
-      "ãs
-k"  # Cornelius
+      "¨ô>i’n"  # Maarten
+      "ãsb"  # Cornelius
       "»TfkZS∑V"  # Havbard
-      "KQ≥u^X"  # Knase
+      "KQt^X"  # Knase
       "ÒQ“R"  # Kalle
       "?ñ3wÖm"  # Arne
       "ƒr+P"  # Dylan
@@ -761,43 +759,43 @@ k"  # Cornelius
     }
     female_names = {
       "€ûâ"  # Daisy
-      "%Y´n"  # Irynn
+      "O´n"  # Irynn
       "ÆY)R"  # Neilly
-      "Âú#j"  # Aves
+      "Âú2a"  # Aves
       "€ò…^fZ"  # Winghelmina
-      "∂xÑr}"  # Beaktrice
+      "∂xÑÅt"  # Beaktrice
       "	ÉâÉ"  # Molly
       "S|é+N"  # Webbygail
       ",gÇÑZ"  # Bentina
-      "bSÍè"  # Goldie
+      "b>iÍè"  # Goldie
       "ëPÅêjt"  # Jemima
       "ÀÜ’|"  # Cake
       "ûdûdÃçÃç"  # Blunder
-      "(ùnR"  # Duck
+      "(ùPR"  # Duck
       "VV"  # Quackers
       "ÆvÆv"  # Pippi
       "…Å…Å"  # Face
       "aÑÑ"  # Grape
-      "?ñ≥uwm∆Y"  # Anaheim
+      "?ñtwm∆Y"  # Anaheim
       "Ã€k"  # Feathers
       "ÒQ©Ö"  # Kajsa
       "—msY"  # Donna
-      "óS’nâûN"  # Hortensia
+      "ó>i’nâûN"  # Hortensia
       "qS¿ñ"  # Chickadee
       "l…b"  # Tyra
       "‰S-Ü"  # Gullan
       "gYZ"  # Oona
       "œp^"  # Umpa
-      "%YfW"  # Gittan
+      "OfW"  # Gittan
       "?Ü…b"  # Lola
       "∂x¨QÉ"  # Petunia
-      "Chjr}"  # Doris
-      "jtÇÑSTê"  # Matilda
+      "ChjÅt"  # Doris
+      "jtÇÑ>iTê"  # Matilda
       "2óõè≤Y"  # Lucinda
       "kg”Ñ…b"  # Dumbella
-      "^XSjt"  # Selma
+      "^X>ijt"  # Selma
       "5g…b"  # Dora
-      "ƒ{ÆY"  # Fanny
+      "”rÆY"  # Fanny
       "*t*t"  # Kicki
       "ÇÑÇÑ"  # Titti
       "âR*t"  # Anki
@@ -853,30 +851,30 @@ dog_group = {
     male_names = {
       "ÚÉFå"  # Fido
       "?ñπe1t"  # Alfonso
-      "ÙTâS"  # Basil
-      "?ñS>Oyr"  # Albert
+      "ÙTâ>i"  # Basil
+      "?ñ>i>Oyr"  # Albert
       "√W)RØe4b"  # Alistair
-      "çÇS¨ô"  # Elmer
-      "	TS>Oyr"  # Gilbert
-      "√WS´n"  # Alwin
+      "y|>i¨ô"  # Elmer
+      "	T>i>Oyr"  # Gilbert
+      "√W>i´n"  # Alwin
       "^-Üyr)R"  # Brantley
       "Øw∑V·àKQ"  # Kendrik
-      "nflçKQ"  # Psyche
-      "«R#l"  # Pluck
+      "nfjçKQ"  # Psyche
+      "«R2c"  # Pluck
       "W˛v"  # Buckler
-      "^XnR"  # Spigot
+      "^XPR"  # Spigot
       "wï€w"  # Lance
       "“R é"  # Lurcher
       "àRg"  # Watch
       "wàR"  # Keeper
       "≈eäñ"  # Brigade
       "çRKb"  # Fencer
-      "TO+Y"  # Butcher
-      "V”bw"  # Blazer
+      "`S+Y"  # Butcher
+      "öå”bw"  # Blazer
       "ÒÇ«R"  # Prowess
       "ÂT/S"  # Craftsman
       "≥bóg∫N"  # Forester
-      "AoOU"  # Counsellor
+      "^èOU"  # Counsellor
       "dÀÜ<õ"  # Spoiler
       "kç·à"  # Hurry
       "3a`"  # Fury
@@ -884,7 +882,7 @@ dog_group = {
       "¥f’R"  # Riot
       "±Ç±Ç"  # Bloomer
       "Ö¨ô"  # Rome
-      "˝u>e"  # Blossom
+      "ªt>e"  # Blossom
       "kçœg"  # Hebe
       "^…b·à"  # Hilary
       "ó·à–c"  # Jolity
@@ -895,20 +893,19 @@ dog_group = {
       "öuQ"  # Trooper
       "∂U'õ"  # Bustle
       "·l·l"  # Bubbler
-      "jùjù"  # Rockdove
-      "PIV"  # Stubborn
+      "ñùñù"  # Rockdove
+      "PFV"  # Stubborn
       "jljl"  # Yelp
       "Æv·àÖh“R"  # Pele-mele
       "©XRQ"  # Strongboy
       ")Yzz"  # Sky
       "IQng"  # Sunbeam
-      "ìnR"  # Bodkin
+      "ìPR"  # Bodkin
       "âl`"  # Wistful
       "èOQ"  # Gnome
       ">SLà"  # Tracks
-      "]àûd"  # Dash
-      "^
-ÑKQ"  # Blake
+      "lûd"  # Dash
+      "^˚ÉKQ"  # Blake
       "%Y4O"  # Buddy
       "ÿö€ò"  # Goofy
       "nfoõä"  # Pluto
@@ -916,8 +913,8 @@ dog_group = {
       "•ûKQØe"  # Max
       "v◊r"  # Bonzo
       "ﬂo—y"  # Zico
-      "¬R\ó"  # Santi
-      "'t´écà"  # Cotte
+      "¬Rké"  # Santi
+      " t´écà"  # Cotte
       "ãsLr"  # Ruff
       "sbIg"  # Trigger
       "s|<S"  # Mini
@@ -929,13 +926,13 @@ dog_group = {
       "ÔçfØe"  # Louis
       "ÔÉ+YHQu"  # Mr Wuffles
       "®X4l"  # Inky
-      "©ÖkTS"  # Saurr
+      "©ÖkT>i"  # Saurr
       "·l´l"  # Bubbles
       "aSÊtØeåNN"  # Dog
       "pç◊r"  # Doggo
       "ófqV"  # Shadow
       "ëeﬁû"  # Spot
-      "¯Rùå"  # Babe
+      "ˆRùå"  # Babe
       "ëeﬁûHóò"  # Spotington
       "ÀóØe)R"  # Wesley
       "Wãs"  # Rex
@@ -943,7 +940,7 @@ dog_group = {
       "–cs|"  # Timmi
       "√W∑V"  # Ed
       "øO≈ñ´a"  # Benjamin
-      "ÕÖ¯RÛw"  # Sapphire
+      "ÕÖˆRÛw"  # Sapphire
       "wÉ¨ô"  # Homer
       "OQ˘ù"  # Grif
       "å^Hó"  # Ghost
@@ -957,13 +954,13 @@ dog_group = {
       "ÒQâ"  # Casey
       "©Ö∆Y"  # Sam
       "¨ôKQâ"  # Maxx
-      "VSáe"  # Kelvin
+      "öå>iáe"  # Kelvin
       "Ö5r"  # Rozz
       "√W?ñØe"  # Ajax
       "POÖ"  # Zorro
       "KQ)Rèy∑V"  # Clifford
       "Tê·à"  # Dali
-      "%VSò"  # Milton
+      "LV>iò"  # Milton
       "ÔÉu"  # Watson
       "S%YAl"  # Laddie
       "?ñôÑÓh"  # Amundsen
@@ -980,8 +977,8 @@ dog_group = {
       "„S4l"  # Slobbers
       "¬à4V"  # Splitlip
       "´pw"  # Swanker
-      "äV<h´n"  # Chirgwin
-      "∏Ñ<r"  # Steamer
+      "»V<h´n"  # Chirgwin
+      "∏Ñ`s"  # Steamer
       "3T€ò"  # Wuffler
       "s|9h"  # Myggen
       "Ævyr"  # Petter
@@ -989,32 +986,32 @@ dog_group = {
       "	N(g"  # Mikki
     }
     female_names = {
-      "aSÄï"  # Carmen
+      "aSèå"  # Carmen
       "√WâÉ˛ä"  # Eleanor
       "mZZ"  # Dolly
-      "%YôÇ"  # Eve
+      "OôÇ"  # Eve
       "ÚÉÏY"  # Fergie
-      "úgSTê"  # Golda
+      "úg>iTê"  # Golda
       "BhÆYáÖRQ"  # Guinevere
       "ÒÇÍè…b"  # Indira
       "∆RÖmÊt"  # Minerva
-      "KS'YÙumZ"  # Octavia
-      "nflçKQ"  # Psyche
-      "«R#l"  # Pluck
+      "KS'Y≠tmZ"  # Octavia
+      "nfjçKQ"  # Psyche
+      "«R2c"  # Pluck
       "W˛v"  # Buckler
-      "^XnR"  # Spigot
+      "^XPR"  # Spigot
       "wï€w"  # Lance
       "“R é"  # Lurcher
       "àRg"  # Watch
       "wàR"  # Keeper
       "≈eäñ"  # Brigade
       "çRKb"  # Fencer
-      "TO+Y"  # Butcher
-      "V”bw"  # Blazer
+      "`S+Y"  # Butcher
+      "öå”bw"  # Blazer
       "ÒÇ«R"  # Prowess
       "ÂT/S"  # Craftsman
       "≥bóg∫N"  # Forester
-      "AoOU"  # Counsellor
+      "^èOU"  # Counsellor
       "dÀÜ<õ"  # Spoiler
       "kç·à"  # Hurry
       "3a`"  # Fury
@@ -1022,7 +1019,7 @@ dog_group = {
       "¥f’R"  # Riot
       "±Ç±Ç"  # Bloomer
       "Ö¨ô"  # Rome
-      "˝u>e"  # Blossom
+      "ªt>e"  # Blossom
       "kçœg"  # Hebe
       "^…b·à"  # Hilary
       "ó·à–c"  # Jolity
@@ -1033,28 +1030,26 @@ dog_group = {
       "öuQ"  # Trooper
       "∂U'õ"  # Bustle
       "·l·l"  # Bubbler
-      "jùjù"  # Rockdove
-      "PIV"  # Stubborn
+      "ñùñù"  # Rockdove
+      "PFV"  # Stubborn
       "jljl"  # Yelp
       "OgKb"  # Killer
       "Æv·àÖh“R"  # Pele-mele
       ")Yzz"  # Sky
       "IQng"  # Sunbeam
-      "ìnR"  # Bodkin
+      "ìPR"  # Bodkin
       "âl`"  # Wistful
       "èOQ"  # Gnome
       ">SLà"  # Tracks
       "(ùéÉÆY"  # DashAnnie
-      "ØeÙuKQØe"  # Swix
+      "Øe≠tKQØe"  # Swix
       "Sé"  # Bella
       "ókç…b"  # Xohla
-      "
-Ñâ"  # Lassie
-      "
-Ñ%YaS"  # Laika
+      "˚Éâ"  # Lassie
+      "˚ÉOaS"  # Laika
       "gYNZ"  # Odine
       "®X4l"  # Inky
-      "aœpr}"  # Alice
+      "aLNÅt"  # Alice
       "%^‘N"  # Good
       "pà‘N"  # Bad
       "·l´l"  # Bubbles
@@ -1062,26 +1057,25 @@ dog_group = {
       "pç◊r"  # Doggo
       "ófqV"  # Shadow
       "ëeﬁû"  # Spot
-      "¯Rùå"  # Babe
+      "ˆRùå"  # Babe
       "◊Çùh"  # Twiggy
       "<S˙W"  # Nikki
       "∞ef"  # Nova
       "≈ñÆvÎX"  # Yippie
       "˙Wíd"  # Kisha
       "TXáÖ"  # Tavi
-      "ÆYÙu≈ñ"  # Naevia
-      "aœpr}"  # Alice
-      "ùåSTX"  # Berta
+      "ÆY≠t≈ñ"  # Naevia
+      "aLNÅt"  # Alice
+      "ùå>iTX"  # Berta
       "Ys|˛ä"  # Domino
       "^ÜñÍè"  # Blondi
       "Sé"  # Bella
       "mÇÑ"  # Lottie
       "9NÆY"  # Danny
-      "
-Ñ…b"  # Lyra
+      "˚É…b"  # Lyra
       "¥åfZ"  # Lady
       "ZÖhâÉûN"  # Nymeria
-      "PO%Y"  # Zoe
+      "POO"  # Zoe
       "ëP¨ô"  # Jemma
       "Ö<SûN"  # Ronja
       "ÉØe"  # Maus
@@ -1093,8 +1087,7 @@ dog_group = {
       "1kj"  # Gala
       "∂xTX"  # Bitta
       "s|mZ"  # Mia
-      "
-Ñ%YaS"  # Laika
+      "˚ÉOaS"  # Laika
       "éÉÇÑ"  # Sadie
       "Ü"  # Sue
       "éÉâÉ"  # Sally
@@ -1144,9 +1137,9 @@ elephant_group = {
       0.8
     }
     male_names = {
-      "ryr"  # Doot
+      "‰ryr"  # Doot
       "yrgWV"  # Trumpo
-      "JünR"  # Snoot
+      "JüPR"  # Snoot
       "ÆvmÎX"  # Pyyrhus
       "˙^FåÖ"  # Kandula
       "'YPRQ"  # Jumbo
@@ -1164,11 +1157,11 @@ elephant_group = {
       "?ñ‘bØe"  # Abbas
       "ºnFZ"  # Hanno
       "‡VOñÖ"  # Zaeem
-      ""o<S‘b"  # Hannibal
-      "ÙTS"  # Baal
+      "1f<S‘b"  # Hannibal
+      "ÙT>i"  # Baal
       "»TØe∑VoõÙT"  # Hasdrubal
-      "ÙT^S"  # Babur
-      "ÙTyrS"  # Batyr
+      "ÙT^>i"  # Babur
+      "ÙTyr>i"  # Batyr
       "‚lBTKQØe"  # Pollux
       "aSØeä3w"  # Castor
       "wïYrHQu"  # Mr-Tusk
@@ -1183,18 +1176,17 @@ elephant_group = {
       "6wçTÖ"  # Yathra
       "†RJü"  # Ghaazi
       "?ñºn‚l"  # Chotu
-      "ﬁR˙^Oñ"  # Baahi
+      "≥R˙^Oñ"  # Baahi
       "—û)Y"  # Bakhsh
       "OñºnY"  # Behru
       "yr3SØe"  # Zaki
-      "ãs
-k"  # Cornelius
+      "ãsb"  # Cornelius
       "ÜoõØe"  # Surus
     }
     female_names = {
-      "ZÖﬁROï^"  # Doot
+      "ZÖ≥ROï^"  # Doot
       "yrgWV"  # Trumpo
-      "JünR"  # Snoot
+      "JüPR"  # Snoot
       "ÆvmÎX"  # Pyyrhus
       "˙^FåÖ"  # Kandula
       "'YPRQ"  # Jumbo
@@ -1209,18 +1201,18 @@ k"  # Cornelius
       "Êè®h"  # Booper
       "S€òaå"  # Dombo
       ")Yzz"  # Celestial
-      ""oØeØw"  # Hansken
-      "¢u¯RÛw"  # Ruby
+      "1fØeØw"  # Hansken
+      "tˆRÛw"  # Ruby
       "µhLàsY"  # Miraan
       "(g…S"  # Moksha
       "fw)Y"  # Dhruti
       "°V,Ñ	g"  # Zahara
       "Y…S"  # Yasha
       "	TâRZ"  # Jaina
-      "kgSÊè"  # Fria
+      "kg>iÊè"  # Fria
       "©ÖÇÑ"  # Aashi
       "Oj<S"  # Hruti
-      "=ÈT–c◊k"  # Sia
+      "LvÈT–c◊k"  # Sia
       "TêNR"  # Daksha
       "œpéÉØe"  # Zia
       "-g…b"  # Xara
@@ -1272,34 +1264,34 @@ dragon_group = {
       0.0
     }
     male_names = {
-      "’l+Y<SS"  # Fafnir
-      "s|∑V†RS∑V"  # Midgard
+      "’l+Y<S>i"  # Fafnir
+      "s|∑V†R>i∑V"  # Midgard
       "?ñ‚lÚÉØe"  # Apopis
       "…b¨Q"  # Ladon
-      "—ySèUØe"  # Colchidei
+      "—y>ièUØe"  # Colchidei
       "ÆvT"  # Piton
-      "fk%Y+YS"  # Vouivre
+      "fkO+Y>i"  # Vouivre
       "∑V…bKQ"  # Drac
       "b˜ñgQGY"  # Gorynych
       "ÌsW"  # Bantu
       "¨ô™R"  # Mannu
       "ñwÓh"  # Khozen
-      "´É§oØe"  # Morzas
-      "§o∆Y^XS"  # Xemcel
+      "´É≥fØe"  # Morzas
+      "≥f∆Y^X>i"  # Xemcel
       "®X1NØe"  # Medeus
-      "´ÉSÊt"  # Morva
-      "HYSØe"  # Nils
+      "´É>iÊt"  # Morva
+      "HY>iØe"  # Nils
       "ÙT»T∆Yyr"  # Bahamut
-      ")RÙufW"  # Leviathan
+      ")R≠tfW"  # Leviathan
       "‹z^y"  # Ryujin
       "ﬂo-Üyr"  # Zilant
       "3XPå"  # Typhos
       "·lôÇ"  # Puff
       "*PKQØe"  # Nyx
       "IYr"  # Teethless
-      "SYq"  # Smokey
+      "uOYq"  # Smokey
       "äk°NKN¸"  # Deathwing
-      "ÎVÄí"  # Quicksilver
+      "ÎVèâ"  # Quicksilver
       "ppqV"  # Grey Ghost
       "wmYq"  # Seasmoke
       "™ÖÙg"  # Pyre
@@ -1311,24 +1303,23 @@ dragon_group = {
       "V…b∑V"  # Vlad
       "¸aÆv"  # Rattleskin
       "ô¸q"  # Ash
-      ",gr"  # Benedict
+      ",g‰r"  # Benedict
       "ÖNR"  # Rakshasha
       "∑V…b—y"  # Draco
       "∑V‰S…b"  # Dracul
       "∑V…bb"  # Drago
-      "’lôÇ≥u"  # Fafner
-      "√WÖS"  # Errol
+      "’lôÇt"  # Fafner
+      "√WÖ>i"  # Errol
       "jÑ“RY"  # Glaedr
       "<hﬁRçü"  # Glaurung
       "∞QÔÉ"  # Icefyre
       "èyÂTRQ"  # Falkor
-      "≥u	T<S"  # Nagini
+      "t	T<S"  # Nagini
       "·àgY˜ñœpØe"  # Rathalos
       "Æv+Y"  # Piff
       "V˜ñ∑V"  # Fred
-      "3SôÑ[R∑V"  # Voidaltarah
-      "∑V
-Ñ<h"  # Ddraig
+      "3SôÑjI∑V"  # Voidaltarah
+      "∑V˚É<h"  # Ddraig
       "∑V˜ñKQZSÎX"  # Drdrake
       "·Qê"  # Morttalis
       "Ìs<S"  # Barney
@@ -1338,24 +1329,23 @@ dragon_group = {
       "˜^TX<h)RûN"  # Tintaglia
       "aSyr…b"  # Katla
       "∑V…bÒQZ"  # Drakaina
-      "?ñ
-ÑKQr}TX©Ö"  # Gegheiss
-      "%Ynt…b"  # Jesasdess
+      "?ñ˚ÉKQÅtTX©Ö"  # Gegheiss
+      "Ont…b"  # Jesasdess
       "õèTêﬂÇ©Ö"  # Semoth
-      "çÇGY∑VZ"  # Heirel
-      "6w"Y†RóV"  # Taynnelth
+      "y|GY∑VZ"  # Heirel
+      "6w1P†RóV"  # Taynnelth
       "ZLO"  # Naga
       "–c˙W"  # Tiki
       "ÍQ"  # Nagi
       "ílÂÖ"  # Myrrh
       "ÆYÆYâR"  # Ninian
       "	T^tûN…b"  # Nah
-      "*PKQr}"  # Nyx
+      "*PKQÅt"  # Nyx
       "IYr"  # Teethless
-      "SYq"  # Smokey
+      "uOYq"  # Smokey
       "ÙT»T∆Yyr"  # Bahamut
       "äk°NKN¸"  # Deathwing
-      "ÎVÄí"  # Quicksilver
+      "ÎVèâ"  # Quicksilver
       "ppqV"  # Grey Ghost
       "wmYq"  # Seasmoke
       "·lôÇ"  # Puff
@@ -1426,108 +1416,107 @@ panda_group = {
       "Xokg+Y"  # Pandulf
       "+^ÖP"  # Shifu
       "÷wTê"  # Panda
-      "ÙTâS"  # Basil
+      "ÙTâ>i"  # Basil
       "kp±Ç"  # Spark
-      "ÅR"  # Ning
+      "ÁR"  # Ning
       ",gëPf"  # Benjamin
       "1t6w"  # Sawyer
       "kpÂÖ"  # Ceba
       "^^"  # Pabu
       "ÏÑ†R"  # Ponga
-      "˘znR"  # Bamboo
+      "˘zPR"  # Bamboo
       "aS…b"  # Kaala
       "·l·l"  # Puffball
       "œpçü"  # Oolong
       "vY6É"  # Chai
-      "Óh¯R"  # Semper
+      "ÓhˆR"  # Semper
       "◊kÖ"  # Vira
       "ÀeãV"  # Song
       "ñT±Uâ|"  # Masala
-      "%Y…b"  # Ila
-      "”u≈ñ"  # Zeya
-      "aSSÓh"  # Carson
+      "O…b"  # Ila
+      "Pt≈ñ"  # Zeya
+      "aS>iÓh"  # Carson
       "»TÖ∑V"  # Harold
       "AmfNùh"  # Stellar
-      "mnR"  # Lhotse
+      "mPR"  # Lhotse
       "qSuÑ"  # Wasabi
       "¬RÂR"  # Sabi
       "x^èy"  # Khusi
-      "YROñÖ"  # Sundar
-      "id≥uZ"  # Manasa
+      "kROñÖ"  # Sundar
+      "idtZ"  # Manasa
       "uU"  # Bo
       "id^<S"  # Mohini
       "ÒQáe"  # Kevyn
       "Ûú"  # Phoenix
       "?ñIP"  # Avi
-      "aSTXS"  # Katar
+      "aSTX>i"  # Katar
       "úg"  # Berry
       "ÙT·à"  # Barrie
       "nf´É·à"  # Pumori
       "âR^oõØe"  # Ambrus
-      "?ñS>Oyr"  # Albert
+      "?ñ>i>Oyr"  # Albert
       "Æô"  # Feng
       "•w•w"  # Chonk
       "bçü"  # Jackie
       "FåJÖ"  # Nutmeg
       "≤ÑuÑ"  # Sabal
       "iOò"  # Peyton
-      "%Y
-Ñ"  # Eli
+      "O˚É"  # Eli
       "^t∑V"  # Red
       "ÙT^"  # Babu
     }
     female_names = {
-      "¶unt¨Ç"  # Josefin
+      "tnt¨Ç"  # Josefin
       "XoSê¨ÇZ"  # Pandolfina
       "+^ÖP"  # Shifu
       "÷wTê"  # Panda
       "Ü sZ"  # Susana
-      "œp≤s"  # Liling
+      "LN≤s"  # Liling
       "ùå*t"  # Betsy
       "`	V"  # Scarlett
       "kpÂÖ"  # Ceba
       "^^"  # Pabu
       "ÏÑ†R"  # Ponga
-      "˘znR"  # Bamboo
+      "˘zPR"  # Bamboo
       "aS…b"  # Kaala
       "·l·l"  # Puffball
       "œpçü"  # Oolong
       "vY6É"  # Chai
-      "Óh¯R"  # Semper
+      "ÓhˆR"  # Semper
       "◊kÖ"  # Vira
       "ÀeãV"  # Song
       "1t<SmZ"  # Sonya
-      "énR"  # Miko
-      "≥uÊt"  # Nava
+      "éPR"  # Miko
+      "tÊt"  # Nava
       "Ha<S"  # Cini
       "ñT±Uâ|"  # Masala
       "^Z"  # Panna
       "Æv≈ñ"  # Piya
       "Êä"  # Satya
       "1t<SaS"  # Sonika
-      "%Y…b"  # Ila
-      "”u≈ñ"  # Zeya
-      "ÍñnR"  # Yukiko
-      "õinR"  # Hazel
+      "O…b"  # Ila
+      "Pt≈ñ"  # Zeya
+      "ÍñPR"  # Yukiko
+      "õiPR"  # Hazel
       "É∑V"  # Maude
       "Õï6w"  # Jaya
       "&ìuÑ"  # Wasabi
       "¬RÂR"  # Sabi
       "x^èy"  # Khusi
-      "YROñÖ"  # Sundar
-      "id≥uZ"  # Manasa
+      "kROñÖ"  # Sundar
+      "idtZ"  # Manasa
       "âÉ’l"  # Leafa
       "Q"  # Phoenix
-      "ùå?ñyrœpKQr}"  # Beatrix
-      "2ór}"  # Ruth
-      "çÇáÖ"  # Avi
-      "aSTXS"  # Katar
+      "ùå?ñyrLNKQÅt"  # Beatrix
+      "2óÅt"  # Ruth
+      "y|áÖ"  # Avi
+      "aSTX>i"  # Katar
       "úgúg"  # Berry
       "âôÑÆY"  # Simone
       "NTX"  # Chota
       "jtâÉ"  # Mali
       "PkÂÇ…b"  # Aurora
-      "çÇ^tS"  # Eriel
+      "y|^t>i"  # Eriel
       "÷w÷w"  # Chonk
       "¸f‚l"  # Mambo
       "FåJÖ"  # Nutmeg

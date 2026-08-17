@@ -34,7 +34,7 @@
   }
 }
 70002 = {
-  name = "SÖh<Sõè≤Y"  # Ermenisinda
+  name = ">iÖh<Sõè≤Y"  # Ermenisinda
   female = yes
   dynasty = 8600
   father = 70000
@@ -72,7 +72,7 @@
   }
 }
 70004 = {
-  name = "Vm%Y…b"  # Froila
+  name = "VmO…b"  # Froila
   dynasty = 8600
   father = 70003
   mother = 70002
@@ -139,7 +139,7 @@
   }
 }
 70011 = {
-  name = "Vm%Y…b"  # Froila
+  name = "VmO…b"  # Froila
   dynasty = 8601
   father = 70010
   religion = catholic
@@ -199,7 +199,7 @@
   }
 }
 70013 = {
-  name = "Ùu“RôÑY"  # Veremondo
+  name = "≠t“RôÑY"  # Veremondo
   dynasty = 8601
   father = 70011
   religion = catholic
@@ -396,7 +396,7 @@
   }
 }
 70022 = {
-  name = "√WSáÖ…b"  # Elvira
+  name = "√W>iáÖ…b"  # Elvira
   female = yes
   dynasty = 75
   father = 73857
@@ -529,7 +529,7 @@
   }
 }
 70027 = {
-  name = "lœpéÉ"  # Theresa
+  name = "lLNéÉ"  # Theresa
   female = yes
   dynasty = 405
   father = 72550
@@ -570,7 +570,7 @@
   }
 }
 70030 = {
-  name = "Vm%Y…b"  # Froila
+  name = "VmO…b"  # Froila
   dynasty = 8601
   father = 70019
   mother = 73772
@@ -718,7 +718,7 @@
   }
 }
 70150 = {
-  name = "ZSV˜ñY"  # Wifredo
+  name = "Z>iV˜ñY"  # Wifredo
   dynasty = 100204
   father = 73785
   religion = catholic
@@ -744,7 +744,7 @@
   }
 }
 70151 = {
-  name = "ÙuÆYÇÑTê"  # Winidilda
+  name = "≠tÆYÇÑTê"  # Winidilda
   female = yes
   religion = catholic
   culture = visigothic
@@ -756,7 +756,7 @@
   }
 }
 70152 = {
-  name = "ZSV˜ñY"  # Wifredo
+  name = "Z>iV˜ñY"  # Wifredo
   dynasty = 100204
   father = 70150
   mother = 70151
@@ -780,7 +780,7 @@
   }
 }
 70153 = {
-  name = "ÙuÆYÇÑTê"  # Winidilda
+  name = "≠tÆYÇÑTê"  # Winidilda
   female = yes
   dynasty = 100204
   father = 70150
@@ -848,7 +848,7 @@
   }
 }
 70157 = {
-  name = "SÄï	VÇÑØe"  # Ermengardis
+  name = ">ièå	VÇÑØe"  # Ermengardis
   female = yes
   religion = catholic
   culture = visigothic
@@ -876,7 +876,7 @@
   }
 }
 70243 = {
-  name = "SÖh<Sõè≤Y"  # Ermenisinda
+  name = ">iÖh<Sõè≤Y"  # Ermenisinda
   female = yes
   dynasty = 75
   father = 73871
@@ -890,7 +890,7 @@
   }
 }
 70244 = {
-  name = "√WSáÖ…b"  # Elvira
+  name = "√W>iáÖ…b"  # Elvira
   female = yes
   dynasty = 1020119
   father = 70242
@@ -1008,7 +1008,7 @@
   }
 }
 73750 = {
-  name = "Vm%Y…b"  # Froila
+  name = "VmO…b"  # Froila
   dynasty = 8601
   father = 70017
   mother = 70018
@@ -1038,7 +1038,7 @@
   }
 }
 73752 = {
-  name = "Ùu“RôÑY"  # Veremondo
+  name = "≠t“RôÑY"  # Veremondo
   dynasty = 8601
   father = 70017
   mother = 70018
@@ -1070,8 +1070,7 @@
   }
 }
 73754 = {
-  name = "
-ÑgY∑VûàÇÑr}"  # Leodegundis
+  name = "˚ÉgY∑VûàÇÑÅt"  # Leodegundis
   female = yes
   dynasty = 8601
   father = 70017
@@ -1104,7 +1103,7 @@
   }
 }
 73756 = {
-  name = "%Y<hﬁsi`"  # Egilona
+  name = "O<hﬁsi`"  # Egilona
   female = yes
   religion = catholic
   culture = visigothic
@@ -1116,7 +1115,7 @@
   }
 }
 73757 = {
-  name = "Ùu“RôÑY"  # Veremondo
+  name = "≠t“RôÑY"  # Veremondo
   dynasty = 8601
   father = 73755
   mother = 73756
@@ -1144,7 +1143,7 @@
   }
 }
 73759 = {
-  name = "SÖh<Sõè≤Y"  # Ermenisinda
+  name = ">iÖh<Sõè≤Y"  # Ermenisinda
   female = yes
   dynasty = 8601
   father = 73755
@@ -1174,7 +1173,7 @@
   }
 }
 73761 = {
-  name = "^yrSZ"  # Paterna
+  name = "^yr>iZ"  # Paterna
   female = yes
   religion = catholic
   culture = visigothic
@@ -1186,7 +1185,7 @@
   }
 }
 73762 = {
-  name = "%YSqg©Ö"  # Eldonza
+  name = "O>iqg©Ö"  # Eldonza
   female = yes
   dynasty = 8601
   father = 70015
@@ -1218,7 +1217,7 @@
   }
 }
 73764 = {
-  name = "%Y<hﬁsi`"  # Egilona
+  name = "O<hﬁsi`"  # Egilona
   female = yes
   religion = catholic
   culture = visigothic
@@ -1247,7 +1246,7 @@
   }
 }
 73766 = {
-  name = "SÖh<Sõè≤Y"  # Ermenisinda
+  name = ">iÖh<Sõè≤Y"  # Ermenisinda
   female = yes
   dynasty = 7012
   father = 73763
@@ -1364,7 +1363,7 @@
   }
 }
 73801 = {
-  name = "gY¨ôS"  # Omar
+  name = "gY¨ô>i"  # Omar
   dynasty = 12291
   father = 73799
   religion = sunni
@@ -1377,7 +1376,7 @@
   }
 }
 73802 = {
-  name = "≈ñ’lS"  # Yafar
+  name = "≈ñ’l>i"  # Yafar
   dynasty = 12292
   religion = sunni
   culture = visigothic
@@ -1417,7 +1416,7 @@
   }
 }
 73805 = {
-  name = "gY¨ôS"  # Omar
+  name = "gY¨ô>i"  # Omar
   dynasty = 12292
   father = 73803
   mother = 73804
@@ -1427,7 +1426,7 @@
     birth = yes
   }
   899.1.1 = {
-    name = "©ÖFzS"  # «amuel
+    name = "©ÖFz>i"  # «amuel
     religion = catholic
   }
   917.1.1 = {
@@ -1449,7 +1448,7 @@
   }
 }
 73807 = {
-  name = "≈ñ’lS"  # Yafar
+  name = "≈ñ’l>i"  # Yafar
   dynasty = 12292
   father = 73803
   mother = 73804
@@ -1475,7 +1474,7 @@
   }
 }
 73819 = {
-  name = "aS%YTê"  # «ayida
+  name = "aSOTê"  # «ayida
   female = yes
   religion = sunni
   culture = visigothic
@@ -1487,7 +1486,7 @@
   }
 }
 73851 = {
-  name = "çÇyr"  # Aid
+  name = "y|yr"  # Aid
   dynasty = 12289
   religion = sunni
   culture = visigothic
@@ -1530,7 +1529,7 @@
   }
 }
 73854 = {
-  name = "çÇjt≥u	TY"  # Airmanagildo
+  name = "y|jtt	TY"  # Airmanagildo
   dynasty = 75
   religion = catholic
   culture = visigothic
@@ -1542,7 +1541,7 @@
   }
 }
 73855 = {
-  name = "‰S–cS"  # Guttier
+  name = "‰S–c>i"  # Guttier
   dynasty = 75
   father = 73854
   religion = catholic
@@ -1558,7 +1557,7 @@
   }
 }
 73856 = {
-  name = "√WSáÖ…b"  # Elvira
+  name = "√W>iáÖ…b"  # Elvira
   female = yes
   religion = catholic
   culture = visigothic
@@ -1570,7 +1569,7 @@
   }
 }
 73857 = {
-  name = "çÇjt≥u	TY"  # Airmanagildo
+  name = "y|jtt	TY"  # Airmanagildo
   dynasty = 75
   father = 73855
   mother = 73856
@@ -1587,7 +1586,7 @@
   }
 }
 73858 = {
-  name = "?ñm%Yä"  # Aloito
+  name = "?ñmOä"  # Aloito
   dynasty = 75
   father = 73855
   mother = 73856
@@ -1601,7 +1600,7 @@
   }
 }
 73859 = {
-  name = "√WSáÖ…b"  # Elvira
+  name = "√W>iáÖ…b"  # Elvira
   female = yes
   dynasty = 75
   father = 73855
@@ -1631,7 +1630,7 @@
   }
 }
 73861 = {
-  name = "%YSqg©Ö"  # Eldonza
+  name = "O>iqg©Ö"  # Eldonza
   female = yes
   dynasty = 75
   father = 73857
@@ -1646,7 +1645,7 @@
   }
 }
 73862 = {
-  name = "‰S–cS"  # Guttier
+  name = "‰S–c>i"  # Guttier
   dynasty = 75
   father = 73855
   religion = catholic
@@ -1721,7 +1720,7 @@
   }
 }
 73867 = {
-  name = "√WSÖhgQ	TSY"  # Airmanagildo
+  name = "√W>iÖhgQ	T>iY"  # Airmanagildo
   dynasty = 8601
   father = 70116
   mother = 200059
@@ -1778,7 +1777,7 @@
   }
 }
 73871 = {
-  name = "‰S–cS"  # Guttier
+  name = "‰S–c>i"  # Guttier
   dynasty = 75
   father = 73857
   mother = 73759
@@ -1806,7 +1805,7 @@
   }
 }
 73873 = {
-  name = "Ùu¨ô…b˛ä"  # Wimarano
+  name = "≠t¨ô…b˛ä"  # Wimarano
   dynasty = 8600
   father = 70003
   mother = 70002
@@ -1823,7 +1822,7 @@
   }
 }
 73874 = {
-  name = "Ùu“RôÑY"  # Veremondo
+  name = "≠t“RôÑY"  # Veremondo
   dynasty = 8600
   father = 73873
   religion = catholic
@@ -1849,7 +1848,7 @@
   }
 }
 73876 = {
-  name = "√WSÖhgQ	TSY"  # Airmanagildo
+  name = "√W>iÖhgQ	T>iY"  # Airmanagildo
   dynasty = 8600
   father = 73875
   religion = catholic
@@ -1865,7 +1864,7 @@
   }
 }
 73877 = {
-  name = "%Y‘kâÉmZ"  # Iberia
+  name = "O‘kâÉmZ"  # Iberia
   female = yes
   religion = catholic
   culture = visigothic
@@ -1904,7 +1903,7 @@
   }
 }
 73880 = {
-  name = "Vm%Y…b"  # Froila
+  name = "VmO…b"  # Froila
   dynasty = 75
   father = 73871
   religion = catholic
@@ -1933,7 +1932,7 @@
   }
 }
 73892 = {
-  name = "√WSáÖ…b"  # Elvira
+  name = "√W>iáÖ…b"  # Elvira
   female = yes
   dynasty = 75
   father = 73893
@@ -1961,7 +1960,7 @@
   }
 }
 73894 = {
-  name = "‰S–cS"  # Guttier
+  name = "‰S–c>i"  # Guttier
   dynasty = 75
   father = 73891
   mother = 73892
@@ -1975,7 +1974,7 @@
   }
 }
 73899 = {
-  name = "?ñ[àkg“RÊt^∑V"  # Abdelwahid
+  name = "?ñUkg“RÊt^∑V"  # Abdelwahid
   dynasty = 12260
   father = 73900
   mother = 73907
@@ -2016,7 +2015,7 @@
   }
 }
 73902 = {
-  name = "?ñ∑VS?wÇÑØe"  # Adelgundis
+  name = "?ñ∑V>i?wÇÑØe"  # Adelgundis
   female = yes
   dynasty = 12295
   father = 73901
@@ -2042,7 +2041,7 @@
   }
 }
 73909 = {
-  name = "?ñ[àkg…b"  # Abdela
+  name = "?ñUkg…b"  # Abdela
   dynasty = 12296
   father = 73908
   religion = sunni
@@ -2068,7 +2067,7 @@
   }
 }
 73911 = {
-  name = "?ñ[àkg…b"  # Abdela
+  name = "?ñUkg…b"  # Abdela
   dynasty = 12296
   father = 73910
   religion = sunni
@@ -2096,7 +2095,7 @@
   }
 }
 73913 = {
-  name = "?ñ[àkg…b^GY"  # AbdelaÁiÁ
+  name = "?ñUkg…b^GY"  # AbdelaÁiÁ
   dynasty = 12297
   father = 73912
   mother = 73915
@@ -2124,7 +2123,7 @@
   }
 }
 73915 = {
-  name = "lçTê"  # «eida
+  name = "jçTê"  # «eida
   female = yes
   religion = sunni
   culture = visigothic
@@ -2149,7 +2148,7 @@
   }
 }
 73917 = {
-  name = "?ñ[à…b¨Ç"  # Abrafim
+  name = "?ñU…b¨Ç"  # Abrafim
   dynasty = 12260
   father = 73916
   religion = sunni
@@ -2162,7 +2161,7 @@
   }
 }
 73918 = {
-  name = "?ñ[àkg“RÖh)RKQ"  # Abdelmelic
+  name = "?ñUkg“RÖh)RKQ"  # Abdelmelic
   dynasty = 12260
   father = 73917
   religion = sunni
@@ -2242,7 +2241,7 @@
   }
 }
 73934 = {
-  name = "?ñ[àkg…b^GY"  # AbdelaÁiÁ
+  name = "?ñUkg…b^GY"  # AbdelaÁiÁ
   dynasty = 12300
   religion = sunni
   culture = visigothic
@@ -2295,7 +2294,7 @@
   }
 }
 73938 = {
-  name = "?ñ[à…b¨Ç"  # Abrafim
+  name = "?ñU…b¨Ç"  # Abrafim
   dynasty = 12301
   religion = sunni
   culture = visigothic
@@ -2336,7 +2335,7 @@
   }
 }
 73952 = {
-  name = "çÇÅêyr"  # Amet
+  name = "y|Åêyr"  # Amet
   dynasty = 12304
   religion = sunni
   culture = visigothic
@@ -2389,7 +2388,7 @@
   }
 }
 73956 = {
-  name = "¨ôS,Ñ"  # Marwan
+  name = "¨ô>i,Ñ"  # Marwan
   dynasty = 12305
   father = 73955
   religion = sunni
@@ -2402,7 +2401,7 @@
   }
 }
 73957 = {
-  name = "?ñ[à∑V…b[àÄï"  # Abderrabmen
+  name = "?ñU∑V…bUèå"  # Abderrabmen
   dynasty = 12305
   father = 73956
   religion = sunni
@@ -2418,7 +2417,7 @@
   }
 }
 73958 = {
-  name = "%Yr}…b"  # Isra
+  name = "OÅt…b"  # Isra
   female = yes
   religion = sunni
   culture = visigothic
@@ -2430,7 +2429,7 @@
   }
 }
 73959 = {
-  name = "lç∑V"  # «eid
+  name = "jç∑V"  # «eid
   dynasty = 12305
   father = 73957
   mother = 73958
@@ -2486,7 +2485,7 @@
   }
 }
 73963 = {
-  name = "≈ñr}s|Z"  # YaÁmina
+  name = "≈ñÅts|Z"  # YaÁmina
   female = yes
   religion = sunni
   culture = visigothic
@@ -2498,7 +2497,7 @@
   }
 }
 73964 = {
-  name = "—ywmS"  # «ohair
+  name = "—ywm>i"  # «ohair
   dynasty = 12307
   religion = sunni
   culture = visigothic
@@ -2510,7 +2509,7 @@
   }
 }
 73965 = {
-  name = "˙W≥u≥u"  # Kinana
+  name = "˙Wtt"  # Kinana
   dynasty = 12307
   father = 73964
   religion = sunni
@@ -2536,7 +2535,7 @@
   }
 }
 73969 = {
-  name = "?ñ[àkg…b"  # Abdela
+  name = "?ñUkg…b"  # Abdela
   dynasty = 12309
   religion = sunni
   culture = visigothic
@@ -2563,7 +2562,7 @@
   }
 }
 73971 = {
-  name = "çÇÅêyr"  # Amet
+  name = "y|Åêyr"  # Amet
   dynasty = 12309
   father = 73969
   mother = 73970
@@ -2592,7 +2591,7 @@
   }
 }
 73973 = {
-  name = "TXœp’l"  # Tarifa
+  name = "TXLN’l"  # Tarifa
   female = yes
   religion = sunni
   culture = visigothic
@@ -2604,7 +2603,7 @@
   }
 }
 73974 = {
-  name = "çÇÅêyr"  # Amet
+  name = "y|Åêyr"  # Amet
   dynasty = 12310
   father = 73972
   mother = 73973
@@ -2618,7 +2617,7 @@
   }
 }
 73976 = {
-  name = "?ñ[àkg…b"  # Abdela
+  name = "?ñUkg…b"  # Abdela
   dynasty = 12311
   religion = sunni
   culture = visigothic
@@ -2633,7 +2632,7 @@
   }
 }
 73977 = {
-  name = "çÇ©Ö"  # AiÁa
+  name = "y|©Ö"  # AiÁa
   female = yes
   religion = sunni
   culture = visigothic
@@ -2702,7 +2701,7 @@
   }
 }
 73982 = {
-  name = "?ñ[àkg…b"  # Abdela
+  name = "?ñUkg…b"  # Abdela
   dynasty = 12312
   father = 73981
   religion = sunni
@@ -2770,7 +2769,7 @@
   }
 }
 73987 = {
-  name = "¶u"  # Johan
+  name = "t"  # Johan
   dynasty = 12313
   religion = catholic
   culture = visigothic
@@ -2785,7 +2784,7 @@
   }
 }
 73988 = {
-  name = "?ñ<hÆYr}"  # Agnes
+  name = "?ñ<hÆYÅt"  # Agnes
   female = yes
   religion = catholic
   culture = visigothic
@@ -2868,7 +2867,7 @@
   }
 }
 73994 = {
-  name = "…b3tÇÑr}"  # Ralindis
+  name = "…b3tÇÑÅt"  # Ralindis
   female = yes
   religion = catholic
   culture = visigothic
@@ -2934,7 +2933,7 @@
   }
 }
 73999 = {
-  name = "SÖh<Sõè≤Y"  # Ermenisinda
+  name = ">iÖh<Sõè≤Y"  # Ermenisinda
   female = yes
   dynasty = 100204
   father = 73785
@@ -2977,7 +2976,7 @@
   }
 }
 74102 = {
-  name = "SÖh<SSÇÑr}"  # Ermenierdis
+  name = ">iÖh<S>iÇÑÅt"  # Ermenierdis
   female = yes
   religion = catholic
   culture = visigothic
@@ -3003,7 +3002,7 @@
   }
 }
 91392 = {
-  name = "SRr}Ôñ≤Y"  # Ercheswintha
+  name = ">iRÅtÔñ≤Y"  # Ercheswintha
   female = yes
   religion = "catholic"
   culture = "visigothic"
@@ -3035,7 +3034,7 @@
   }
 }
 107680 = {
-  name = "ªåSWS"  # Fern·n
+  name = "ªå>iWS"  # Fern·n
   dynasty = 776
   father = 73769
   religion = catholic
@@ -3131,7 +3130,7 @@
   }
 }
 109621 = {
-  name = "%YS∑VÊt…b"  # Elduara
+  name = "O>i∑VÊt…b"  # Elduara
   female = yes
   dynasty = 1020119
   religion = catholic
@@ -3211,7 +3210,7 @@
   }
 }
 142004 = {
-  name = "?ñÖ¶uä"  # Aloito
+  name = "?ñÖtä"  # Aloito
   dynasty = 8626
   father = 142005
   mother = 73860
@@ -3242,7 +3241,7 @@
   }
 }
 142006 = {
-  name = "Ùu¨ô…b˛ä"  # Wimarano
+  name = "≠t¨ô…b˛ä"  # Wimarano
   dynasty = 8626
   father = 73875
   religion = catholic
@@ -3258,7 +3257,7 @@
   }
 }
 168716 = {
-  name = "çÇjt≥u	TY"  # Airmanagildo
+  name = "y|jtt	TY"  # Airmanagildo
   dynasty = 1046033
   father = 200273
   religion = "catholic"
@@ -3277,7 +3276,7 @@
   }
 }
 168718 = {
-  name = "?ñTX≥u	TSY"  # Athanagildo
+  name = "?ñTXt	T>iY"  # Athanagildo
   dynasty = 1046033
   father = 168716
   mother = 168717
@@ -3374,7 +3373,7 @@
   }
 }
 168727 = {
-  name = "Ùu–cNb"  # Witiza
+  name = "≠t–cNb"  # Witiza
   dynasty = 1046032
   father = 168723
   mother = 168724
@@ -3402,7 +3401,7 @@
   }
 }
 168733 = {
-  name = "’lS∑VâÉZ"  # Faldrina
+  name = "’l>i∑VâÉZ"  # Faldrina
   female = yes
   dynasty = 1046032
   father = 200243
@@ -3417,7 +3416,7 @@
   }
 }
 168734 = {
-  name = "^oõgQGYSÍèr}"  # Brunechildis
+  name = "^oõgQGY>iÍèÅt"  # Brunechildis
   female = yes
   dynasty = 1044409
   father = 200276
@@ -3467,7 +3466,7 @@
   }
 }
 200037 = {
-  name = "?ñ[à≤Y"  # Abda
+  name = "?ñU≤Y"  # Abda
   female = yes
   religion = sunni
   culture = visigothic
@@ -3503,7 +3502,7 @@
   }
 }
 200045 = {
-  name = "?ñ[àkg…b¸f"  # Abderrabmen
+  name = "?ñUkg…b¸f"  # Abderrabmen
   dynasty = 1046015
   religion = sunni
   culture = visigothic
@@ -3562,7 +3561,7 @@
   }
 }
 200056 = {
-  name = "ôÇm%YœpZ"  # Froiliuva
+  name = "ôÇmOLNZ"  # Froiliuva
   female = yes
   religion = catholic
   culture = visigothic
@@ -3601,7 +3600,7 @@
   }
 }
 200060 = {
-  name = "SÖh<Sõè≤Y"  # Ermenisinda
+  name = ">iÖh<Sõè≤Y"  # Ermenisinda
   female = yes
   dynasty = 8601
   father = 70011
@@ -3615,7 +3614,7 @@
   }
 }
 200062 = {
-  name = "?ñ∑VS†RØeyr"  # Adelgaster
+  name = "?ñ∑V>i†RØeyr"  # Adelgaster
   dynasty = 8625
   father = 70118
   religion = catholic
@@ -3628,7 +3627,7 @@
   }
 }
 200063 = {
-  name = "%Y<hﬁsi`"  # Egilona
+  name = "O<hﬁsi`"  # Egilona
   female = yes
   religion = catholic
   culture = visigothic
@@ -3640,7 +3639,7 @@
   }
 }
 200064 = {
-  name = "?ñTX≥u	TSY"  # Athanagildo
+  name = "?ñTXt	T>iY"  # Athanagildo
   dynasty = 12295
   father = 73901
   religion = catholic
@@ -3653,7 +3652,7 @@
   }
 }
 200065 = {
-  name = "ôÇmÆYS∑V"  # Fronilde
+  name = "ôÇmÆY>i∑V"  # Fronilde
   female = yes
   dynasty = 7012
   father = 457681
@@ -3725,7 +3724,7 @@
   }
 }
 200070 = {
-  name = "‰S–cS"  # Guttier
+  name = "‰S–c>i"  # Guttier
   dynasty = 776
   father = 200069
   religion = catholic
@@ -3809,7 +3808,7 @@
   }
 }
 200086 = {
-  name = "T∑V¨ôS"  # Gundemar
+  name = "T∑V¨ô>i"  # Gundemar
   dynasty = 8618
   religion = catholic
   culture = visigothic
@@ -3882,7 +3881,7 @@
   }
 }
 200151 = {
-  name = "√WSôÑ‰SS"  # Ermengar
+  name = "√W>iôÑ‰S>i"  # Ermengar
   religion = catholic
   culture = visigothic
   758.1.1 = {
@@ -3930,7 +3929,7 @@
   }
 }
 200156 = {
-  name = "V˜ñYS"  # Fredol
+  name = "V˜ñY>i"  # Fredol
   religion = catholic
   culture = visigothic
   768.1.1 = {
@@ -3953,7 +3952,7 @@
   }
 }
 200199 = {
-  name = "≈ñr}s|Z"  # YaÁmina
+  name = "≈ñÅts|Z"  # YaÁmina
   female = yes
   religion = catholic
   culture = visigothic
@@ -4003,7 +4002,7 @@
   }
 }
 200208 = {
-  name = "gY¨ôS"  # Omar
+  name = "gY¨ô>i"  # Omar
   dynasty = 12291
   father = 73799
   religion = sunni
@@ -4058,7 +4057,7 @@
   }
 }
 200212 = {
-  name = "?ñ[àkg“RÖh)RKQ"  # Abdelmelic
+  name = "?ñUkg“RÖh)RKQ"  # Abdelmelic
   dynasty = 12291
   father = 200210
   mother = 200213
@@ -4072,7 +4071,7 @@
   }
 }
 200213 = {
-  name = "TXœp’l"  # Tarifa
+  name = "TXLN’l"  # Tarifa
   female = yes
   religion = sunni
   culture = visigothic
@@ -4084,7 +4083,7 @@
   }
 }
 200215 = {
-  name = "lçTê"  # «eida
+  name = "jçTê"  # «eida
   female = yes
   religion = sunni
   culture = visigothic
@@ -4123,7 +4122,7 @@
   }
 }
 200224 = {
-  name = "SÖh<Sõè≤Y"  # Ermenisinda
+  name = ">iÖh<Sõè≤Y"  # Ermenisinda
   female = yes
   religion = catholic
   culture = visigothic
@@ -4149,7 +4148,7 @@
   }
 }
 200227 = {
-  name = "?ñ[à≤Y"  # Abda
+  name = "?ñU≤Y"  # Abda
   female = yes
   religion = sunni
   culture = visigothic
@@ -4188,7 +4187,7 @@
   }
 }
 200237 = {
-  name = "kçSÙu^"  # Erwigio
+  name = "kç>i≠t^"  # Erwigio
   dynasty = 1046033
   father = 200238
   mother = 200239
@@ -4222,7 +4221,7 @@
   }
 }
 200240 = {
-  name = "—ëTêØeÙuY"  # Khindaswintho
+  name = "—ëTêØe≠tY"  # Khindaswintho
   dynasty = 1046033
   father = 200241
   religion = catholic
@@ -4252,7 +4251,7 @@
   }
 }
 200242 = {
-  name = "?ñ¨ôSôÑY"  # Amalmondo
+  name = "?ñ¨ô>iôÑY"  # Amalmondo
   dynasty = 1046033
   father = 200241
   religion = catholic
@@ -4282,7 +4281,7 @@
   }
 }
 200244 = {
-  name = "Ùu–cNb"  # Witiza
+  name = "≠t–cNb"  # Witiza
   dynasty = 1046032
   father = 200243
   mother = 200236
@@ -4313,7 +4312,7 @@
   }
 }
 200246 = {
-  name = "?ñœpùåSsO"  # Ariberga
+  name = "?ñLNùå>isO"  # Ariberga
   female = yes
   dynasty = 1046032
   father = 200255
@@ -4327,7 +4326,7 @@
   }
 }
 200247 = {
-  name = "Ùu–cNb"  # Witiza
+  name = "≠t–cNb"  # Witiza
   religion = catholic
   culture = visigothic
   620.1.1 = {
@@ -4414,7 +4413,7 @@
   }
 }
 200253 = {
-  name = "?ñSY"  # Ardo
+  name = "?ñ>iY"  # Ardo
   religion = catholic
   culture = visigothic
   678.1.1 = {
@@ -4427,7 +4426,7 @@
   }
 }
 200254 = {
-  name = "=kGY)RûN"  # Khintila
+  name = "LbGY)RûN"  # Khintila
   dynasty = 1046032
   religion = catholic
   culture = visigothic
@@ -4439,7 +4438,7 @@
   }
 }
 200255 = {
-  name = "WS†R"  # Tulga
+  name = "W>i†R"  # Tulga
   dynasty = 1046032
   father = 200254
   religion = catholic
@@ -4530,7 +4529,7 @@
   }
 }
 200269 = {
-  name = "T∑V¨ôS"  # Gundemar
+  name = "T∑V¨ô>i"  # Gundemar
   religion = catholic
   culture = visigothic
   558.1.1 = {
@@ -4541,7 +4540,7 @@
   }
 }
 200270 = {
-  name = "Ùuyr·àKQ"  # Wittericho
+  name = "≠tyr·àKQ"  # Wittericho
   religion = catholic
   culture = visigothic
   562.1.1 = {
@@ -4591,7 +4590,7 @@
   }
 }
 200273 = {
-  name = ")RgYÙu	TS∑V"  # Leovigildo
+  name = ")RgY≠t	T>i∑V"  # Leovigildo
   dynasty = 1046033
   father = 200274
   religion = catholic
@@ -4629,7 +4628,7 @@
   }
 }
 200276 = {
-  name = "?ñTX≥u	TSY"  # Athanagildo
+  name = "?ñTXt	T>iY"  # Athanagildo
   dynasty = 1044409
   religion = catholic
   culture = visigothic
@@ -4833,7 +4832,7 @@
   }
 }
 200290 = {
-  name = "?ñvñS+Y"  # Atawulfo
+  name = "?ñvñ>i+Y"  # Atawulfo
   dynasty = 1046035
   father = 200296
   religion = catholic
@@ -4893,7 +4892,7 @@
   }
 }
 200294 = {
-  name = "%ZS"YZSSsO"  # Ermeneberga
+  name = "%Z>i1PZS>isO"  # Ermeneberga
   female = yes
   dynasty = 1046035
   father = 200296
@@ -4919,7 +4918,7 @@
   }
 }
 200296 = {
-  name = "?ñTX≥u·àKQ"  # Athanaricho
+  name = "?ñTXt·àKQ"  # Athanaricho
   dynasty = 1046035
   father = 200295
   religion = catholic

@@ -1,5 +1,5 @@
 101545 = {
-  name = "ŠS¢Œ³u"  # Thorgunna
+  name = "Š>i¢Œt"  # Thorgunna
   female = yes
   dynasty = 100304
   martial = 5
@@ -19,7 +19,7 @@
   }
 }
 102506 = {
-  name = "‰<hÏp·V"  # Sigrid
+  name = "‰<hLN·V"  # Sigrid
   female = yes
   dynasty = 475
   martial = 8
@@ -64,7 +64,7 @@
   }
 }
 102524 = {
-  name = "g^S·V"  # Ragnhild
+  name = "g^>i·V"  # Ragnhild
   female = yes
   dynasty = 100273
   martial = 5
@@ -106,7 +106,7 @@
   }
 }
 102528 = {
-  name = "ÏpS™‚^S·V"  # Ulfhild
+  name = "Ïp>i™‚^>i·V"  # Ulfhild
   female = yes
   dynasty = 499
   martial = 8
@@ -128,7 +128,7 @@
   }
 }
 102530 = {
-  name = "g^S·V"  # Ragnhild
+  name = "g^>i·V"  # Ragnhild
   female = yes
   dynasty = 499
   martial = 4
@@ -148,7 +148,7 @@
   }
 }
 102531 = {
-  name = "ÈTÉbS·V"  # Harald
+  name = "ÈTÉb>i·V"  # Harald
   dynasty = 499
   martial = 7
   diplomacy = 7
@@ -292,7 +292,7 @@
   }
 }
 102533 = {
-  name = "jtÏpžN"  # Maria
+  name = "jtLNžN"  # Maria
   female = yes
   dynasty = 499
   martial = 8
@@ -357,7 +357,7 @@
   }
 }
 102536 = {
-  name = "g^S·V"  # Ragnhild
+  name = "g^>i·V"  # Ragnhild
   female = yes
   dynasty = 499
   martial = 4
@@ -380,7 +380,7 @@
   }
 }
 102538 = {
-  name = "âlS"  # Pål
+  name = "âl>i"  # Pål
   dynasty = 461
   martial = 8
   diplomacy = 5
@@ -405,7 +405,7 @@
   }
 }
 102539 = {
-  name = "ÃWS+P·V"  # Erlend
+  name = "ÃW>i+P·V"  # Erlend
   dynasty = 461
   martial = 6
   diplomacy = 6
@@ -448,7 +448,7 @@
   }
 }
 102547 = {
-  name = "gYSØž"  # Ormr
+  name = "gY>iØž"  # Ormr
   dynasty = 455
   martial = 7
   diplomacy = 7
@@ -644,7 +644,7 @@
   }
 }
 102569 = {
-  name = "?–S™‚^S·V"  # Alfhild
+  name = "?–>i™‚^>i·V"  # Alfhild
   female = yes
   dynasty = 446
   martial = 8
@@ -667,7 +667,7 @@
   }
 }
 102570 = {
-  name = "ñ‚„SÔk¦u<h"  # Ingebjørg
+  name = "ñ‚„SÔkt<h"  # Ingebjørg
   female = yes
   dynasty = 446
   martial = 6
@@ -705,7 +705,7 @@
   }
 }
 102574 = {
-  name = "ôŒ&rS"  # Leivur
+  name = "ôŒ&r>i"  # Leivur
   dynasty = 445
   martial = 7
   diplomacy = 4
@@ -795,7 +795,7 @@
   }
 }
 144250 = {
-  name = "¦ui`"  # Jon
+  name = "ti`"  # Jon
   dynasty = 101706
   religion = "catholic"
   culture = "norwegian"
@@ -808,7 +808,7 @@
   }
 }
 144632 = {
-  name = "yrSŠ"  # Teitur
+  name = "yr>iŠ"  # Teitur
   dynasty = 101891
   religion = "catholic"
   culture = "norwegian"
@@ -821,7 +821,7 @@
   }
 }
 144633 = {
-  name = "ÈTo›S"  # Hallur
+  name = "ÈTo›>i"  # Hallur
   dynasty = 101891
   religion = "catholic"
   culture = "norwegian"
@@ -847,7 +847,7 @@
   }
 }
 200003 = {
-  name = "¯e‚„SÔk¦ui`"  # Styrbjørn
+  name = "¯e‚„>iÔkti`"  # Styrbjørn
   dynasty = 100282
   martial = 5
   diplomacy = 6
@@ -883,7 +883,7 @@
   }
 }
 20017 = {
-  name = "¦ui`"  # Jon
+  name = "ti`"  # Jon
   dynasty = 100270
   martial = 6
   diplomacy = 7
@@ -900,7 +900,7 @@
   }
 }
 20018 = {
-  name = "ŠË„S"  # Torgeir
+  name = "ŠË„>i"  # Torgeir
   dynasty = 100034
   martial = 8
   diplomacy = 7
@@ -935,7 +935,7 @@
   }
 }
 200601 = {
-  name = "ÏpS™‚^S·V"  # Ulfhilde
+  name = "Ïp>i™‚^>i·V"  # Ulfhilde
   female = yes
   martial = 7
   diplomacy = 2
@@ -971,7 +971,7 @@
   }
 }
 202002 = {
-  name = "äS\S"  # Skofte
+  name = "äSS>i"  # Skofte
   dynasty = 100269
   martial = 7
   diplomacy = 6
@@ -1028,7 +1028,7 @@
   }
 }
 202005 = {
-  name = "¦ui`"  # Jon
+  name = "ti`"  # Jon
   dynasty = 499
   martial = 6
   diplomacy = 4
@@ -1066,7 +1066,7 @@
   }
 }
 202007 = {
-  name = "ÃW³uS"  # Einar
+  name = "ÃWt>i"  # Einar
   dynasty = 100275
   martial = 5
   diplomacy = 7
@@ -1085,7 +1085,7 @@
   }
 }
 202008 = {
-  name = "ŠSÌeðlàV"  # Torstein
+  name = "Š>iÌeðlàV"  # Torstein
   dynasty = 100276
   martial = 8
   diplomacy = 6
@@ -1102,7 +1102,7 @@
   }
 }
 202010 = {
-  name = "Ôk¦ui`"  # Bjorn
+  name = "Ôkti`"  # Bjorn
   dynasty = 100278
   martial = 4
   diplomacy = 6
@@ -1139,7 +1139,7 @@
   }
 }
 202012 = {
-  name = "1tætêS"  # Thorvaldur
+  name = "1tætê>i"  # Thorvaldur
   dynasty = 101891
   martial = 6
   diplomacy = 8
@@ -1159,7 +1159,7 @@
   }
 }
 202013 = {
-  name = "ÈTSñQS"  # Halkjell
+  name = "ÈT>iñQ>i"  # Halkjell
   dynasty = 100033
   martial = 6
   diplomacy = 4
@@ -1195,7 +1195,7 @@
   }
 }
 202017 = {
-  name = ":tçvRQ"  # Thórhallur
+  name = "IkçvRQ"  # Thórhallur
   martial = 5
   diplomacy = 6
   intrigue = 6
@@ -1211,7 +1211,7 @@
   }
 }
 202018 = {
-  name = "jOSçvRQ"  # Thorlákur
+  name = "jO>içvRQ"  # Thorlákur
   dynasty = 101908
   martial = 6
   diplomacy = 6
@@ -1232,7 +1232,7 @@
   }
 }
 202019 = {
-  name = "÷–wmS"  # Ragnheid
+  name = "÷–wm>i"  # Ragnheid
   female = yes
   martial = 4
   diplomacy = 5
@@ -1252,7 +1252,7 @@
   }
 }
 202020 = {
-  name = "?–¯eÔk¦ui`"  # Asbjørn
+  name = "?–¯eÔkti`"  # Asbjørn
   dynasty = 101706
   martial = 6
   diplomacy = 4
@@ -1293,7 +1293,7 @@
   }
 }
 202022 = {
-  name = "¦ui`"  # Jon
+  name = "ti`"  # Jon
   dynasty = 101706
   martial = 5
   diplomacy = 4
@@ -1313,7 +1313,7 @@
   }
 }
 202023 = {
-  name = "‰<hÏp·V"  # Sigrid
+  name = "‰<hLN·V"  # Sigrid
   female = yes
   dynasty = 101892
   martial = 5
@@ -1440,7 +1440,7 @@
   }
 }
 202029 = {
-  name = "ÝO·VS"  # Páll
+  name = "ÝO·V>i"  # Páll
   dynasty = 101892
   martial = 6
   diplomacy = 7
@@ -1462,7 +1462,7 @@
   }
 }
 202030 = {
-  name = "ZSS·V"  # Bård
+  name = "ZS>i·V"  # Bård
   dynasty = 2033
   martial = 5
   diplomacy = 8
@@ -1560,7 +1560,7 @@
   }
 }
 202035 = {
-  name = "jt	VÏpTX"  # Margareta
+  name = "jt	VLNTX"  # Margareta
   female = yes
   dynasty = 2033
   martial = 4
@@ -1579,7 +1579,7 @@
   }
 }
 202040 = {
-  name = "äSŠSÆY"  # Guttorm
+  name = "äSŠ>iÆY"  # Guttorm
   dynasty = 2033
   martial = 5
   diplomacy = 8
@@ -1605,7 +1605,7 @@
   }
 }
 202041 = {
-  name = "„SSyr"  # Eldrid
+  name = "„S>iyr"  # Eldrid
   female = yes
   martial = 5
   diplomacy = 7
@@ -1622,7 +1622,7 @@
   }
 }
 202042 = {
-  name = "‰<hÏp·V"  # Sigrid
+  name = "‰<hLN·V"  # Sigrid
   female = yes
   martial = 5
   diplomacy = 5
@@ -1639,7 +1639,7 @@
   }
 }
 202043 = {
-  name = "ñ‚<hÏp·V"  # Ingrid
+  name = "ñ‚<hLN·V"  # Ingrid
   female = yes
   dynasty = 2033
   martial = 5
@@ -1659,7 +1659,7 @@
   }
 }
 202050 = {
-  name = "ÃWS—g"  # Erling
+  name = "ÃW>i—g"  # Erling
   dynasty = 1030031
   martial = 7
   diplomacy = 7
@@ -1708,7 +1708,7 @@
   }
 }
 202052 = {
-  name = "‰äSS·V"  # Sigurd
+  name = "‰äS>i·V"  # Sigurd
   dynasty = 1030031
   martial = 7
   diplomacy = 7
@@ -1774,7 +1774,7 @@
   }
 }
 202501 = {
-  name = "‰äSS·V"  # Sigurd
+  name = "‰äS>i·V"  # Sigurd
   dynasty = 499
   martial = 4
   diplomacy = 4
@@ -1813,7 +1813,7 @@
   }
 }
 202503 = {
-  name = "‰äSS·V"  # Sigurd
+  name = "‰äS>i·V"  # Sigurd
   dynasty = 499
   martial = 5
   diplomacy = 8
@@ -1917,7 +1917,7 @@
   }
 }
 202508 = {
-  name = "äSŠSÆY"  # Guttorm
+  name = "äSŠ>iÆY"  # Guttorm
   dynasty = 499
   martial = 5
   diplomacy = 5
@@ -1956,7 +1956,7 @@
   }
 }
 202510 = {
-  name = "ÈTÉbS·V"  # Harald
+  name = "ÈTÉb>i·V"  # Harald
   dynasty = 499
   martial = 5
   diplomacy = 5
@@ -2066,7 +2066,7 @@
   }
 }
 202515 = {
-  name = "?–¯eyrÏp·V"  # Astrid
+  name = "?–¯eyrLN·V"  # Astrid
   female = yes
   dynasty = 375
   martial = 6
@@ -2105,7 +2105,7 @@
   }
 }
 203077 = {
-  name = "%YìYS"  # Ingibjørg
+  name = "OìY>i"  # Ingibjørg
   female = yes
   martial = 7
   diplomacy = 5
@@ -2147,7 +2147,7 @@
   }
 }
 20579 = {
-  name = "ÃWS¯ejO"  # Isleifur
+  name = "ÃW>i¯ejO"  # Isleifur
   dynasty = 101891
   martial = 5
   diplomacy = 5
@@ -2186,7 +2186,7 @@
   }
 }
 20581 = {
-  name = "qSÆYYS"  # Saemundr
+  name = "qSÆYY>i"  # Saemundr
   dynasty = 101892
   martial = 7
   diplomacy = 8
@@ -2226,7 +2226,7 @@
   }
 }
 220020 = {
-  name = "ÈTÉbS·V"  # Harald
+  name = "ÈTÉb>i·V"  # Harald
   dynasty = 100044
   martial = 6
   diplomacy = 6
@@ -2277,7 +2277,7 @@
   }
 }
 220022 = {
-  name = "gætS·V"  # Ragnvald
+  name = "gæt>i·V"  # Ragnvald
   dynasty = 556
   martial = 5
   diplomacy = 5
@@ -2323,7 +2323,7 @@
   }
 }
 220025 = {
-  name = "ñ‚„SÔk¦u<h"  # Ingebjørg
+  name = "ñ‚„SÔkt<h"  # Ingebjørg
   female = yes
   dynasty = 461
   martial = 5
@@ -2341,7 +2341,7 @@
   }
 }
 220026 = {
-  name = "g^S·V"  # Ragnhild
+  name = "g^>i·V"  # Ragnhild
   female = yes
   dynasty = 556
   martial = 5
@@ -2360,7 +2360,7 @@
   }
 }
 220035 = {
-  name = "g^S·V"  # Ragnhild
+  name = "g^>i·V"  # Ragnhild
   female = yes
   dynasty = 466
   martial = 5
@@ -2397,7 +2397,7 @@
   }
 }
 220037 = {
-  name = "jt<hÏpyr"  # Margaret
+  name = "jt<hLNyr"  # Margaret
   female = yes
   dynasty = 461
   martial = 8
@@ -2438,7 +2438,7 @@
   }
 }
 220041 = {
-  name = "jOS¬‚"  # Thorfinn
+  name = "jO>i¬‚"  # Thorfinn
   dynasty = 100044
   martial = 8
   diplomacy = 7
@@ -2496,7 +2496,7 @@
   }
 }
 222595 = {
-  name = "‰äSS·V"  # Sigurd
+  name = "‰äS>i·V"  # Sigurd
   dynasty = 499
   martial = 6
   diplomacy = 7
@@ -2628,7 +2628,7 @@
   }
 }
 40610 = {
-  name = "¢Œ³uS"  # Gunnar
+  name = "¢Œt>i"  # Gunnar
   dynasty = 108
   martial = 6
   diplomacy = 9
@@ -2666,7 +2666,7 @@
   }
 }
 40612 = {
-  name = "ÏpS+YkN"  # Úlfhédinn
+  name = "Ïp>i+YkN"  # Úlfhédinn
   dynasty = 108
   martial = 6
   diplomacy = 5
@@ -2686,7 +2686,7 @@
   }
 }
 40613 = {
-  name = "¤oáˆS"  # Gellir
+  name = "³fáˆ>i"  # Gellir
   dynasty = 108
   martial = 7
   diplomacy = 8
@@ -2707,7 +2707,7 @@
   }
 }
 40614 = {
-  name = "%Y¯e<hkgS"  # Ísgerdur
+  name = "O¯e<hkg>i"  # Ísgerdur
   female = yes
   martial = 5
   diplomacy = 5
@@ -2725,7 +2725,7 @@
   }
 }
 40615 = {
-  name = "©…SµhY"  # Sighvatur
+  name = "©…>iµhY"  # Sighvatur
   martial = 5
   diplomacy = 7
   intrigue = 7
@@ -2741,7 +2741,7 @@
   }
 }
 450660 = {
-  name = "¦ui`"  # Jon
+  name = "ti`"  # Jon
   dynasty = 145
   martial = 6
   diplomacy = 8
@@ -2781,7 +2781,7 @@
   }
 }
 450662 = {
-  name = "?–<h®Yr}"  # Agnes
+  name = "?–<h®Yt"  # Agnes
   female = yes
   dynasty = 499
   martial = 6
@@ -2801,7 +2801,7 @@
   }
 }
 450670 = {
-  name = "‰äSS·V"  # Sigurd
+  name = "‰äS>i·V"  # Sigurd
   dynasty = 145
   martial = 7
   diplomacy = 4
@@ -2867,7 +2867,7 @@
   }
 }
 450732 = {
-  name = "%YZ"  # Eyvor
+  name = "OZ"  # Eyvor
   female = yes
   dynasty = 135
   martial = 5
@@ -2905,7 +2905,7 @@
   }
 }
 450740 = {
-  name = "%YætS"  # Ivar
+  name = "Oæt>i"  # Ivar
   dynasty = 134
   martial = 8
   diplomacy = 7
@@ -2946,7 +2946,7 @@
   }
 }
 450742 = {
-  name = "‰^XS"  # Sissel
+  name = "‰^X>i"  # Sissel
   female = yes
   dynasty = 134
   martial = 5
@@ -2989,7 +2989,7 @@
   }
 }
 450751 = {
-  name = "™lS¯e¦"  # Saebjorn
+  name = "™l>i¯e¦"  # Saebjorn
   dynasty = 133
   martial = 5
   diplomacy = 8
@@ -3011,7 +3011,7 @@
   }
 }
 450752 = {
-  name = "g^S·V"  # Ragnhild
+  name = "g^>i·V"  # Ragnhild
   female = yes
   dynasty = 132
   martial = 7
@@ -3032,7 +3032,7 @@
   }
 }
 450780 = {
-  name = "ÃWS—g"  # Erling
+  name = "ÃW>i—g"  # Erling
   dynasty = 129
   martial = 5
   diplomacy = 4
@@ -3054,7 +3054,7 @@
   }
 }
 450781 = {
-  name = "ôu·VTR"  # Vidkun
+  name = "­t·VTR"  # Vidkun
   dynasty = 129
   martial = 6
   diplomacy = 7
@@ -3094,7 +3094,7 @@
   }
 }
 450783 = {
-  name = "‚3t"  # Elin
+  name = "y|3t"  # Elin
   female = yes
   dynasty = 128
   martial = 5
@@ -3193,7 +3193,7 @@
   }
 }
 450790 = {
-  name = "ñ‚„SÔk¦uES"  # Ingebjorg
+  name = "ñ‚„SÔktES"  # Ingebjorg
   female = yes
   dynasty = 129
   martial = 8
@@ -3214,7 +3214,7 @@
   }
 }
 450800 = {
-  name = "kS¯e˜"  # Hallsten
+  name = "k>i¯e˜"  # Hallsten
   dynasty = 127
   martial = 8
   diplomacy = 7
@@ -3238,8 +3238,7 @@
   }
 }
 450801 = {
-  name = "Š
-„+Y"  # Torleif
+  name = "Šûƒ+Y"  # Torleif
   dynasty = 127
   martial = 5
   diplomacy = 6
@@ -3259,7 +3258,7 @@
   }
 }
 450802 = {
-  name = "¬™<h^Syr"  # Magnhild
+  name = "¬™<h^>iyr"  # Magnhild
   female = yes
   dynasty = 126
   martial = 5
@@ -3277,7 +3276,7 @@
   }
 }
 450803 = {
-  name = "ŠS·V"  # Thord
+  name = "Š>i·V"  # Thord
   dynasty = 127
   martial = 7
   diplomacy = 7
@@ -3298,7 +3297,7 @@
   }
 }
 450804 = {
-  name = "¦uð"  # Johan
+  name = "tð"  # Johan
   dynasty = 127
   martial = 6
   diplomacy = 7
@@ -3318,7 +3317,7 @@
   }
 }
 450805 = {
-  name = "<SS¯e"  # Nils
+  name = "<S>i¯e"  # Nils
   dynasty = 127
   martial = 6
   diplomacy = 7
@@ -3418,7 +3417,7 @@
   }
 }
 450811 = {
-  name = "S—g"  # Elin
+  name = ">i—g"  # Elin
   female = yes
   martial = 6
   diplomacy = 7
@@ -3438,7 +3437,7 @@
   }
 }
 450812 = {
-  name = "‰<hÏp·V"  # Sigrid
+  name = "‰<hLN·V"  # Sigrid
   female = yes
   dynasty = 125
   martial = 6
@@ -3505,7 +3504,7 @@
   }
 }
 452600 = {
-  name = "ïgSyr"  # Ketill
+  name = "ïg>iyr"  # Ketill
   dynasty = 109
   martial = 5
   diplomacy = 5
@@ -3563,7 +3562,7 @@
   }
 }
 452603 = {
-  name = "¦ui`"  # Jon
+  name = "ti`"  # Jon
   dynasty = 109
   martial = 4
   diplomacy = 5
@@ -3582,8 +3581,7 @@
   }
 }
 452604 = {
-  name = "<SKQ
-„¯e"  # Nikolas
+  name = "<SKQûƒ¯e"  # Nikolas
   dynasty = 109
   martial = 4
   diplomacy = 5
@@ -3661,7 +3659,7 @@
   }
 }
 452608 = {
-  name = "gYSs|S"  # Ormur
+  name = "gY>is|>i"  # Ormur
   dynasty = 109
   martial = 6
   diplomacy = 5
@@ -3682,7 +3680,7 @@
   }
 }
 452610 = {
-  name = "ÃWÉbÈŒS"  # Eirikur
+  name = "ÃWÉbÈŒ>i"  # Eirikur
   dynasty = 108
   martial = 5
   diplomacy = 8
@@ -3722,7 +3720,7 @@
   }
 }
 452612 = {
-  name = "ÃW³uS"  # Einar
+  name = "ÃWt>i"  # Einar
   dynasty = 108
   martial = 4
   diplomacy = 7
@@ -3745,7 +3743,7 @@
   }
 }
 452613 = {
-  name = "wmS R"  # Helga
+  name = "wm>i R"  # Helga
   female = yes
   martial = 6
   diplomacy = 5
@@ -3784,7 +3782,7 @@
   }
 }
 452621 = {
-  name = "ŠkgS"  # Thordur
+  name = "Škg>i"  # Thordur
   dynasty = 109
   martial = 5
   diplomacy = 5
@@ -3803,7 +3801,7 @@
   }
 }
 487073 = {
-  name = "ŠSÔk¦ui`"  # Thorbjørn
+  name = "Š>iÔkti`"  # Thorbjørn
   dynasty = 100033
   martial = 6
   diplomacy = 4
@@ -3823,7 +3821,7 @@
   }
 }
 487074 = {
-  name = "1tSKQ‚„S"  # Thorketill
+  name = "1t>iKQ‚„>i"  # Thorketill
   dynasty = 100034
   martial = 6
   diplomacy = 5
@@ -3843,7 +3841,7 @@
   }
 }
 5787 = {
-  name = "wmS R"  # Helga
+  name = "wm>i R"  # Helga
   female = yes
   dynasty = 556
   martial = 6
@@ -3934,7 +3932,7 @@
   }
 }
 6907 = {
-  name = "jt<hÏpyr"  # Margaret
+  name = "jt<hLNyr"  # Margaret
   female = yes
   dynasty = 499
   martial = 4
@@ -3955,7 +3953,7 @@
   }
 }
 7349 = {
-  name = "ÃWS+P·V"  # Erlend
+  name = "ÃW>i+P·V"  # Erlend
   dynasty = 461
   religion = "catholic"
   culture = "norwegian"
@@ -3968,7 +3966,7 @@
   }
 }
 7350 = {
-  name = "âlS"  # Pål
+  name = "âl>i"  # Pål
   dynasty = 461
   religion = "catholic"
   culture = "norwegian"
@@ -3981,7 +3979,7 @@
   }
 }
 7351 = {
-  name = "ÈTÉbS·V"  # Harald
+  name = "ÈTÉb>i·V"  # Harald
   dynasty = 461
   religion = "catholic"
   culture = "norwegian"
@@ -4027,7 +4025,7 @@
   }
 }
 7393 = {
-  name = "Éb<h³uS"  # Ragnall
+  name = "Éb<ht>i"  # Ragnall
   dynasty = 556
   religion = "catholic"
   culture = "norwegian"
@@ -4040,7 +4038,7 @@
   }
 }
 7394 = {
-  name = "ÈTÉbS·V"  # Harald
+  name = "ÈTÉb>i·V"  # Harald
   dynasty = 556
   religion = "catholic"
   culture = "norwegian"
@@ -4070,7 +4068,7 @@
   }
 }
 83240 = {
-  name = "Š%YS"  # Torgil
+  name = "ŠO>i"  # Torgil
   dynasty = 9213
   martial = 3
   diplomacy = 4
@@ -4087,7 +4085,7 @@
   }
 }
 83241 = {
-  name = "gætS·V"  # Ragnvald
+  name = "gæt>i·V"  # Ragnvald
   dynasty = 9213
   martial = 5
   diplomacy = 4
@@ -4104,7 +4102,7 @@
   }
 }
 83242 = {
-  name = "^+P¤oS"  # Bróðir
+  name = "^+P³f>i"  # Bróðir
   dynasty = 9213
   martial = 6
   diplomacy = 4
@@ -4138,7 +4136,7 @@
   }
 }
 83244 = {
-  name = "gætS·V"  # Ragnvald
+  name = "gæt>i·V"  # Ragnvald
   dynasty = 9213
   martial = 4
   diplomacy = 6
@@ -4154,7 +4152,7 @@
   }
 }
 83245 = {
-  name = "gYTXS"  # Ottar
+  name = "gYTX>i"  # Ottar
   dynasty = 9213
   martial = 4
   diplomacy = 5
@@ -4171,7 +4169,7 @@
   }
 }
 83246 = {
-  name = "gYTXS"  # Ottar
+  name = "gYTX>i"  # Ottar
   dynasty = 9213
   martial = 7
   diplomacy = 4
@@ -4188,7 +4186,7 @@
   }
 }
 83247 = {
-  name = "gYTXS"  # Ottar
+  name = "gYTX>i"  # Ottar
   dynasty = 9213
   martial = 7
   diplomacy = 4
@@ -4205,7 +4203,7 @@
   }
 }
 83248 = {
-  name = "ŠS¬‚"  # Torfinn
+  name = "Š>i¬‚"  # Torfinn
   dynasty = 9213
   martial = 6
   diplomacy = 4
@@ -4222,7 +4220,7 @@
   }
 }
 83249 = {
-  name = "gætS·V"  # Ragnvald
+  name = "gæt>i·V"  # Ragnvald
   dynasty = 9213
   martial = 7
   diplomacy = 4
@@ -4252,7 +4250,7 @@
   }
 }
 83370 = {
-  name = "gætS·V"  # Ragnvald
+  name = "gæt>i·V"  # Ragnvald
   dynasty = 9214
   martial = 5
   diplomacy = 6
@@ -4287,7 +4285,7 @@
   }
 }
 83372 = {
-  name = "%YætS"  # Ivar
+  name = "Oæt>i"  # Ivar
   dynasty = 9214
   martial = 6
   diplomacy = 4
@@ -4304,7 +4302,7 @@
   }
 }
 83373 = {
-  name = "gætS·V"  # Ragnvald
+  name = "gæt>i·V"  # Ragnvald
   dynasty = 9214
   martial = 7
   diplomacy = 4
@@ -4361,7 +4359,7 @@
   }
 }
 161126 = {
-  name = "ÃWS—g"  # Erling
+  name = "ÃW>i—g"  # Erling
   dynasty = 1030031
   religion = "catholic"
   culture = "norwegian"
@@ -4375,7 +4373,7 @@
   }
 }
 161127 = {
-  name = "g^S·V"  # Ragnhild
+  name = "g^>i·V"  # Ragnhild
   female = yes
   dynasty = 2033
   religion = "catholic"
@@ -4390,7 +4388,7 @@
   }
 }
 161128 = {
-  name = "gÏp·V"  # Rangrid
+  name = "gLN·V"  # Rangrid
   female = yes
   dynasty = 2033
   religion = "catholic"
@@ -4404,7 +4402,7 @@
   }
 }
 161129 = {
-  name = "ñ‚„SÔk¦uES"  # Ingebjorg
+  name = "ñ‚„SÔktES"  # Ingebjorg
   female = yes
   dynasty = 1030031
   religion = "catholic"
@@ -4419,7 +4417,7 @@
   }
 }
 161130 = {
-  name = "jt<hÏpyr"  # Margret
+  name = "jt<hLNyr"  # Margret
   female = yes
   dynasty = 1030031
   religion = "catholic"
@@ -4434,7 +4432,7 @@
   }
 }
 161124 = {
-  name = "gYXeS"  # Asulf
+  name = "gYXe>i"  # Asulf
   dynasty = 2033
   religion = "catholic"
   culture = "norwegian"
@@ -4450,7 +4448,7 @@
   }
 }
 161297 = {
-  name = "ÃWS—g"  # Erling
+  name = "ÃW>i—g"  # Erling
   dynasty = 461
   religion = "catholic"
   culture = "norwegian"
@@ -4464,7 +4462,7 @@
   }
 }
 161298 = {
-  name = "¢Œ^S"  # Gunhild
+  name = "¢Œ^>i"  # Gunhild
   female = yes
   dynasty = 461
   religion = "catholic"
@@ -4494,7 +4492,7 @@
   }
 }
 161300 = {
-  name = "Å–·VƒlS"  # Jaddvor
+  name = "Å–·Vƒl>i"  # Jaddvor
   female = yes
   dynasty = 461
   religion = "catholic"
@@ -4523,7 +4521,7 @@
   }
 }
 167013 = {
-  name = "g^S·V"  # Ragnhild
+  name = "g^>i·V"  # Ragnhild
   female = yes
   dynasty = 499
   religion = "catholic"
@@ -4617,7 +4615,7 @@
   }
 }
 166050 = {
-  name = "Ôk¦u-†"  # Bjolan
+  name = "Ôkt-†"  # Bjolan
   dynasty = 1040005
   religion = "catholic"
   culture = "norwegian"
@@ -4658,7 +4656,7 @@
   }
 }
 183904 = {
-  name = "ŠS·V"  # Thord
+  name = "Š>i·V"  # Thord
   dynasty = 453
   religion = "catholic"
   culture = "norwegian"
@@ -4700,7 +4698,7 @@
   }
 }
 183907 = {
-  name = "?–¯eyrÏp·V"  # Astrid
+  name = "?–¯eyrLN·V"  # Astrid
   female = yes
   dynasty = 455
   religion = "catholic"
@@ -4714,7 +4712,7 @@
   }
 }
 183908 = {
-  name = "g^S·V"  # Ragnhild
+  name = "g^>i·V"  # Ragnhild
   female = yes
   dynasty = 756
   religion = "catholic"
@@ -4728,7 +4726,7 @@
   }
 }
 183909 = {
-  name = "‰<hÏp·V"  # Sigrid
+  name = "‰<hLN·V"  # Sigrid
   female = yes
   dynasty = 2033
   religion = "catholic"
@@ -4758,7 +4756,7 @@
   }
 }
 183911 = {
-  name = "gYSÆY"  # Orm
+  name = "gY>iÆY"  # Orm
   dynasty = 1030031
   religion = "catholic"
   culture = "norwegian"
@@ -4792,7 +4790,7 @@
   }
 }
 183913 = {
-  name = "g^S·V"  # Ragnhild
+  name = "g^>i·V"  # Ragnhild
   female = yes
   religion = "catholic"
   culture = "norwegian"
@@ -4804,7 +4802,7 @@
   }
 }
 194313 = {
-  name = "?–i`ôu·V"  # Arnvid
+  name = "?–i`­t·V"  # Arnvid
   dynasty = 1045068
   religion = catholic
   culture = norwegian
@@ -4816,7 +4814,7 @@
   }
 }
 194314 = {
-  name = "ÈTS8”"  # Haldor
+  name = "ÈT>i8”"  # Haldor
   dynasty = 1045069
   religion = catholic
   culture = norwegian
@@ -4828,7 +4826,7 @@
   }
 }
 194315 = {
-  name = "ÈTS8”"  # Haldor
+  name = "ÈT>i8”"  # Haldor
   dynasty = 1045070
   religion = catholic
   culture = norwegian
@@ -4840,7 +4838,7 @@
   }
 }
 194316 = {
-  name = "Š%YS"  # Torgil
+  name = "ŠO>i"  # Torgil
   dynasty = 1045071
   religion = catholic
   culture = norwegian
@@ -4852,7 +4850,7 @@
   }
 }
 194317 = {
-  name = "g³uS"  # Ragnar
+  name = "gt>i"  # Ragnar
   dynasty = 1045072
   religion = catholic
   culture = norwegian
@@ -4878,7 +4876,7 @@
   }
 }
 214083 = {
-  name = "jtS"  # Mar
+  name = "jt>i"  # Mar
   dynasty = 1043504
   religion = catholic
   culture = norse
@@ -4891,7 +4889,7 @@
   }
 }
 214084 = {
-  name = "ŠS«ƒ"  # Thormod
+  name = "Š>i«ƒ"  # Thormod
   dynasty = 1043504
   religion = catholic
   culture = norse
@@ -4904,7 +4902,7 @@
   }
 }
 214085 = {
-  name = "WSòƒ"  # Torfi
+  name = "W>iòƒ"  # Torfi
   dynasty = 1043504
   religion = catholic
   culture = norse
@@ -4917,7 +4915,7 @@
   }
 }
 214086 = {
-  name = "‰äSS·V"  # Sigurd
+  name = "‰äS>i·V"  # Sigurd
   dynasty = 1043504
   religion = catholic
   culture = norse
@@ -4930,7 +4928,7 @@
   }
 }
 214087 = {
-  name = "ÈT¬™S"  # Hamal
+  name = "ÈT¬™>i"  # Hamal
   dynasty = 1043504
   religion = catholic
   culture = norse
@@ -4956,7 +4954,7 @@
   }
 }
 214089 = {
-  name = "ŠS«ƒ"  # Thormod
+  name = "Š>i«ƒ"  # Thormod
   dynasty = 1043504
   religion = catholic
   culture = norse
@@ -4981,7 +4979,7 @@
   }
 }
 280003 = {
-  name = "?–S%Š"  # Arne
+  name = "?–>i%Š"  # Arne
   dynasty = 1062035
   religion = catholic
   culture = norwegian
@@ -5020,7 +5018,7 @@
   }
 }
 280006 = {
-  name = "ŠS«ƒ"  # Thormod
+  name = "Š>i«ƒ"  # Thormod
   dynasty = 1062035
   religion = catholic
   culture = norwegian
@@ -5033,7 +5031,7 @@
   }
 }
 280007 = {
-  name = "?–S%Š"  # Arne
+  name = "?–>i%Š"  # Arne
   dynasty = 1062035
   religion = catholic
   culture = norwegian
@@ -5046,7 +5044,7 @@
   }
 }
 280008 = {
-  name = "ŠS«ƒ"  # Thormod
+  name = "Š>i«ƒ"  # Thormod
   dynasty = 1062035
   religion = catholic
   culture = norwegian
@@ -5098,7 +5096,7 @@
   }
 }
 280014 = {
-  name = "?–S%Š"  # Arne
+  name = "?–>i%Š"  # Arne
   dynasty = 1062038
   religion = catholic
   culture = norwegian
@@ -5111,7 +5109,7 @@
   }
 }
 280015 = {
-  name = "ÃW³uS"  # Einar
+  name = "ÃWt>i"  # Einar
   dynasty = 1062038
   religion = catholic
   culture = norwegian
@@ -5137,7 +5135,7 @@
   }
 }
 280017 = {
-  name = "ÃW³uS"  # Einar
+  name = "ÃWt>i"  # Einar
   dynasty = 1062038
   religion = catholic
   culture = norwegian
