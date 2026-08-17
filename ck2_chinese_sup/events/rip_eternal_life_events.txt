@@ -907,7 +907,7 @@ narrative_event = {
       }
       create_character = {
         random_traits = no
-        name = "OŠv"  # Idunn
+        name = "%YŠv"  # Idunn
         dna = chaehghfacw
         dynasty = none
         religion = norse_pagan
@@ -1048,7 +1048,7 @@ narrative_event = {
         has_character_flag = intrigue_mystic
       }
       create_character = {
-        name = "KQLNeYiOyrÉb"  # Cleopatra
+        name = "KQÏpgYiOyrÉb"  # Cleopatra
         random_traits = no
         dynasty = none
         religion = hurufi
@@ -1270,7 +1270,7 @@ narrative_event = {
       }
       create_character = {
         random_traits = no
-        name = "OŠv"  # Idunn
+        name = "%YŠv"  # Idunn
         dna = chaehghfacw
         dynasty = none
         religion = norse_pagan
@@ -1413,7 +1413,7 @@ narrative_event = {
         has_character_flag = intrigue_mystic
       }
       create_character = {
-        name = "KQLNeYiOyrÉb"  # Cleopatra
+        name = "KQÏpgYiOyrÉb"  # Cleopatra
         random_traits = no
         dynasty = none
         religion = hurufi

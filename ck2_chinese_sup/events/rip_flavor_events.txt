@@ -11526,7 +11526,7 @@ character_event = {
             age = 32
             dynasty = none
             female = yes
-            name = "'kÑ‘<SZ"  # Eugenia
+            name = "PkÑ‘<SmZ"  # Eugenia
             culture = italian
             race = italian
             religion = catholic
@@ -11552,7 +11552,7 @@ character_event = {
             age = 32
             dynasty = none
             female = no
-            name = "eYäS¯eXb"  # Augusto
+            name = "gYäS¯eXb"  # Augusto
             culture = italian
             race = italian
             religion = catholic
@@ -13390,7 +13390,7 @@ character_event = {
       }
       create_character = {
         random_traits = no
-        name = "Ébs|÷–yQ"  # Ramirez
+        name = "Ébs|÷–2ƒ"  # Ramirez
         dynasty = none
         religion = catholic
         culture = scottish
@@ -13421,7 +13421,7 @@ character_event = {
       }
       create_character = {
         random_traits = no
-        name = "LNpQ"  # Uran
+        name = "Ïp-†"  # Uran
         dynasty = culture
         religion = pagan
         culture = random
@@ -13458,7 +13458,7 @@ character_event = {
       }
       create_character = {
         random_traits = no
-        name = "šNnt"  # Arthur
+        name = "žNnt"  # Arthur
         dynasty = none
         religion = catholic
         culture = breton
@@ -13491,7 +13491,7 @@ character_event = {
       }
       create_character = {
         random_traits = no
-        name = "XbS^·V"  # Torhild
+        name = "ŠS^·V"  # Torhild
         dynasty = none
         religion = norse_pagan
         culture = norse
@@ -13525,7 +13525,7 @@ character_event = {
       }
       create_character = {
         random_traits = no
-        name = "ñ‚‰TXþV¯e"  # Incitatus
+        name = "ñ‚‰TXW¯e"  # Incitatus
         dynasty = none
         religion = hellenic_pagan
         culture = horse

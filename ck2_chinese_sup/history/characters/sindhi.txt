@@ -1,5 +1,5 @@
 175050 = {
-  name = "'k¶ûS"  # Umar
+  name = "Pk•ûS"  # Umar
   dynasty = 1043005
   religion = "sunni"
   culture = "sindhi"
@@ -23,7 +23,7 @@
   }
 }
 178012 = {
-  name = "çN/T)R"  # Khafif
+  name = "çN_U)R"  # Khafif
   dynasty = 1041112
   religion = "sunni"
   culture = "sindhi"
@@ -35,7 +35,7 @@
   }
 }
 178013 = {
-  name = "?ñkSkgW…b^∑V"  # Abdurrashid
+  name = "?ñ[àkgÖ…b^∑V"  # Abdurrashid
   dynasty = 1041113
   religion = "sunni"
   culture = "sindhi"
@@ -59,7 +59,7 @@
   }
 }
 178015 = {
-  name = "ÉÇ!ç"  # Punhun
+  name = "ÉÇ¢å"  # Punhun
   dynasty = 1041115
   religion = "sunni"
   culture = "sindhi"
@@ -71,7 +71,7 @@
   }
 }
 178212 = {
-  name = "√ãW W6w"  # Har Rai
+  name = "6äÖ Ö6w"  # Har Rai
   dynasty = 1041117
   father = 188559
   religion = "sunni"
@@ -84,7 +84,7 @@
   }
 }
 178213 = {
-  name = "√ãW W6w"  # Har Rai
+  name = "6äÖ Ö6w"  # Har Rai
   dynasty = 1041116
   father = 188556
   religion = "shiite"
@@ -99,7 +99,7 @@
   }
 }
 178214 = {
-  name = "√ãW W6w"  # Har Rai
+  name = "6äÖ Ö6w"  # Har Rai
   dynasty = 1041116
   father = 178213
   religion = "shiite"
@@ -114,7 +114,7 @@
   }
 }
 178016 = {
-  name = "bY√ãeàHñ"  # Shahabuddin
+  name = "bY6ä‹àsñ"  # Shahabuddin
   dynasty = 1041116
   father = 178213
   religion = "shiite"
@@ -127,7 +127,7 @@
   }
 }
 178017 = {
-  name = "id√ãnrOñ"  # Mahmud
+  name = "id6änrOñ"  # Mahmud
   dynasty = 1041117
   father = 178212
   religion = "sunni"
@@ -140,7 +140,7 @@
   }
 }
 178200 = {
-  name = "?ñÅúZ"  # Anokhi
+  name = "?ñoõZ"  # Anokhi
   dynasty = 1041116
   father = 178016
   female = yes
@@ -158,7 +158,7 @@
   }
 }
 178201 = {
-  name = "√ãW W6w"  # Har Rai
+  name = "6äÖ Ö6w"  # Har Rai
   dynasty = 1041117
   father = 178017
   mother = 178200
@@ -173,7 +173,7 @@
   }
 }
 178202 = {
-  name = "W√ã∆RñOñ"  # Lakhmichand
+  name = "Ö6ä∆R·ïOñ"  # Lakhmichand
   dynasty = 1041117
   father = 178201
   culture = panjabi
@@ -187,7 +187,7 @@
   }
 }
 178203 = {
-  name = "<S√ã®h"  # Nihal
+  name = "<S6ä®h"  # Nihal
   dynasty = 1041117
   father = 178202
   female = yes
@@ -218,7 +218,7 @@
   }
 }
 178204 = {
-  name = "Oñ6wWid"  # Dayaram
+  name = "Oñ6wÖid"  # Dayaram
   culture = panjabi
   religion = shiite
   trait = sympathy_indian
@@ -274,7 +274,7 @@
   }
 }
 178207 = {
-  name = "≥R)R√eOñ"  # Srichand
+  name = "ﬁR)R√eOñ"  # Srichand
   dynasty = 1041117
   mother = 178203
   father = 178204
@@ -311,7 +311,7 @@
   }
 }
 178208 = {
-  name = "/T‰Snr"  # Begum
+  name = "_U‰Snr"  # Begum
   dynasty = 1041117
   mother = 178203
   father = 178205
@@ -333,7 +333,7 @@
   }
 }
 178209 = {
-  name = "÷NÒOW"  # Thakur
+  name = "÷NÒOÖ"  # Thakur
   dynasty = 1041117
   mother = 178203
   father = 178205
@@ -355,7 +355,7 @@
   }
 }
 178210 = {
-  name = "W≤êC`Y"  # Ranjit
+  name = "Ö≤êC`Y"  # Ranjit
   dynasty = 1041117
   mother = 178203
   father = 178205
@@ -403,7 +403,7 @@
   }
 }
 178211 = {
-  name = "W≤êC`Y"  # Ranjit
+  name = "Ö≤êC`Y"  # Ranjit
   dynasty = 1041117
   father = 178207
   culture = panjabi
@@ -424,7 +424,7 @@
   }
 }
 178215 = {
-  name = "?ñFZFåW≥R"  # Abdurrashid
+  name = "?ñFZFåÖﬁR"  # Abdurrashid
   dynasty = 1041116
   father = 178016
   religion = "hindu"
@@ -439,7 +439,7 @@
   }
 }
 178216 = {
-  name = "√eOﬂà)R"  # Chanesar
+  name = "√e%Yﬂà)R"  # Chanesar
   dynasty = 1041116
   father = 178215
   religion = "hindu"
@@ -454,7 +454,7 @@
   }
 }
 178217 = {
-  name = "?ñ®hÃeW"  # Ali Sher
+  name = "?ñ®hÃeÖ"  # Ali Sher
   dynasty = 1041116
   father = 178216
   religion = "hindu"
@@ -510,7 +510,7 @@
   }
 }
 178219 = {
-  name = "ØëW"  # Heer
+  name = "ØëÖ"  # Heer
   religion = "hindu"
   culture = "sindhi"
   trait = harelip
@@ -544,7 +544,7 @@
   }
 }
 178221 = {
-  name = "(Ñ"  # Sad
+  name = "©Ö"  # Sad
   religion = "hindu"
   culture = "sindhi"
   female = yes
@@ -561,7 +561,7 @@
   }
 }
 178222 = {
-  name = "3ç√ãW"  # Genhra
+  name = "∞å6äÖ"  # Genhra
   dynasty = 1041116
   religion = "hindu"
   culture = "sindhi"
@@ -580,7 +580,7 @@
   }
 }
 178223 = {
-  name = "Oñ4YFZ˝ê"  # Dadu Phattu
+  name = "Oñ-òFZ˝ê"  # Dadu Phattu
   dynasty = 1041116
   religion = "hindu"
   culture = "sindhi"
@@ -653,7 +653,7 @@
   }
 }
 178225 = {
-  name = "ZFZW"  # Sabar
+  name = "ZFZÖ"  # Sabar
   dynasty = 1041116
   religion = "hindu"
   culture = "sindhi"
@@ -673,7 +673,7 @@
   }
 }
 178226 = {
-  name = "œÇWY"  # Sorath
+  name = "ÜÖY"  # Sorath
   dynasty = 1041116
   religion = "hindu"
   culture = "sindhi"
@@ -708,7 +708,7 @@
   }
 }
 178227 = {
-  name = "/T|iäòHñ"  # Feruzuddin
+  name = "_Uj0òsñ"  # Feruzuddin
   dynasty = 1041116
   religion = "hindu"
   culture = "sindhi"
@@ -733,7 +733,7 @@
   }
 }
 178228 = {
-  name = "ôÑlW"  # Munzir
+  name = "ôÑlÖ"  # Munzir
   dynasty = 1041116
   father = 178227
   religion = "shiite"
@@ -746,7 +746,7 @@
   }
 }
 188349 = {
-  name = "çN/T)R"  # Khafif
+  name = "çN_U)R"  # Khafif
   dynasty = 1042090
   religion = "shiite"
   culture = "sindhi"
@@ -758,7 +758,7 @@
   }
 }
 188350 = {
-  name = "œÇLNid)R"  # Soomar
+  name = "Üœpid)R"  # Soomar
   dynasty = 1042090
   religion = "shiite"
   culture = "sindhi"
@@ -797,7 +797,7 @@
   }
 }
 188353 = {
-  name = "NbO≥u^TX)R"  # Zainab Tari
+  name = "Nb%Y≥u^TX)R"  # Zainab Tari
   female = yes
   dynasty = 1042090
   religion = "sunni"
@@ -812,7 +812,7 @@
   }
 }
 188354 = {
-  name = "Qh√ã)R"  # Sanghar
+  name = "Qh6ä)R"  # Sanghar
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -828,7 +828,7 @@
   }
 }
 188355 = {
-  name = "√ãnr"  # Hamun
+  name = "6änr"  # Hamun
   dynasty = 214004
   female = yes
   religion = "sunni"
@@ -842,7 +842,7 @@
   }
 }
 188356 = {
-  name = "'k¶ûS"  # Umar
+  name = "Pk•ûS"  # Umar
   dynasty = 214004
   religion = "sunni"
   culture = "sindhi"
@@ -854,7 +854,7 @@
   }
 }
 188357 = {
-  name = "çN/T)R"  # Khafif
+  name = "çN_U)R"  # Khafif
   dynasty = 214004
   religion = "sunni"
   culture = "sindhi"
@@ -867,7 +867,7 @@
   }
 }
 188358 = {
-  name = "'k¶ûS"  # Umar
+  name = "Pk•ûS"  # Umar
   dynasty = 214004
   religion = "sunni"
   culture = "sindhi"
@@ -880,7 +880,7 @@
   }
 }
 188359 = {
-  name = "óe`"  # Doda
+  name = "%õ`"  # Doda
   dynasty = 214004
   religion = "sunni"
   culture = "sindhi"
@@ -893,7 +893,7 @@
   }
 }
 188360 = {
-  name = "√ã/T"  # Hafif
+  name = "6ä_U"  # Hafif
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -906,7 +906,7 @@
   }
 }
 188361 = {
-  name = "'k¶ûS"  # Umar
+  name = "Pk•ûS"  # Umar
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -932,7 +932,7 @@
   }
 }
 188363 = {
-  name = "nàObS"  # Gunero
+  name = "ûà%YÁv"  # Gunero
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -945,7 +945,7 @@
   }
 }
 188364 = {
-  name = "FzUÿû∑V-˛VS"  # Muhammad-Tur
+  name = "FzUÿû∑V-WS"  # Muhammad-Tur
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -958,7 +958,7 @@
   }
 }
 188365 = {
-  name = "nàObS"  # Gunero
+  name = "ûà%YÁv"  # Gunero
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -971,7 +971,7 @@
   }
 }
 188366 = {
-  name = "óe`"  # Doda
+  name = "%õ`"  # Doda
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -984,7 +984,7 @@
   }
 }
 188367 = {
-  name = "YO"  # Tai
+  name = "Y%Y"  # Tai
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -997,7 +997,7 @@
   }
 }
 188368 = {
-  name = "√eO^q)R"  # Chanesar
+  name = "√e%Y^q)R"  # Chanesar
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -1023,7 +1023,7 @@
   }
 }
 188370 = {
-  name = "çN/T)R"  # Khafif
+  name = "çN_U)R"  # Khafif
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -1036,7 +1036,7 @@
   }
 }
 188371 = {
-  name = "óe`"  # Doda
+  name = "%õ`"  # Doda
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -1049,7 +1049,7 @@
   }
 }
 188372 = {
-  name = "∆vLOW"  # Bhungar
+  name = "∆vLOÖ"  # Bhungar
   dynasty = 1042090
   religion = "sunni"
   culture = "sindhi"
@@ -1090,7 +1090,7 @@
   }
 }
 188558 = {
-  name = "ôÑyQ)R"  # Munzir
+  name = "ôÑ2É)R"  # Munzir
   dynasty = 1041117
   religion = "hindu"
   culture = "sindhi"
@@ -1104,7 +1104,7 @@
   }
 }
 188559 = {
-  name = "bY√ãeàHñ"  # Shahabuddin
+  name = "bY6ä‹àsñ"  # Shahabuddin
   dynasty = 1041117
   religion = "hindu"
   culture = "sindhi"
@@ -1119,7 +1119,7 @@
   }
 }
 188560 = {
-  name = "zÇ<S»TW"  # Genhra
+  name = "›Ö<S»TÖ"  # Genhra
   dynasty = 1041118
   religion = "hindu"
   culture = "sindhi"
@@ -1133,7 +1133,7 @@
   }
 }
 188561 = {
-  name = ",Ç√ãæR≤ê"  # Banhbina
+  name = ",Ç6äæR≤ê"  # Banhbina
   dynasty = 1041114
   religion = "hindu"
   culture = "sindhi"
@@ -1147,7 +1147,7 @@
   }
 }
 188562 = {
-  name = "óe`"  # Doda
+  name = "%õ`"  # Doda
   dynasty = 1041113
   religion = "buddhist"
   culture = "sindhi"
@@ -1161,7 +1161,7 @@
   }
 }
 188563 = {
-  name = "√eOﬂà)R"  # Chanesar
+  name = "√e%Yﬂà)R"  # Chanesar
   dynasty = 1041112
   religion = "buddhist"
   culture = "sindhi"
@@ -1175,7 +1175,7 @@
   }
 }
 188564 = {
-  name = "?ñ)RÖQW"  # Arnel
+  name = "?ñ)RgQÖ"  # Arnel
   dynasty = 1041111
   religion = "hindu"
   culture = "sindhi"
@@ -1201,7 +1201,7 @@
   }
 }
 261105 = {
-  name = "÷NÒOW"  # Thakur
+  name = "÷NÒOÖ"  # Thakur
   dynasty = 1062541
   religion = sunni
   culture = sindhi
@@ -1213,7 +1213,7 @@
   }
 }
 261106 = {
-  name = "?ñFZFåW"  # Abdullah
+  name = "?ñFZFåÖ"  # Abdullah
   dynasty = 1043005
   religion = sunni
   culture = sindhi
@@ -1226,7 +1226,7 @@
   }
 }
 261107 = {
-  name = "'k¶ûS"  # Umar
+  name = "Pk•ûS"  # Umar
   dynasty = 1043005
   religion = sunni
   culture = sindhi
@@ -1239,7 +1239,7 @@
   }
 }
 261108 = {
-  name = "id√ã+g"  # Muhammad
+  name = "id6ä+g"  # Muhammad
   dynasty = 1043005
   religion = sunni
   culture = sindhi
@@ -1252,7 +1252,7 @@
   }
 }
 261109 = {
-  name = "√ãnr"  # Hamir
+  name = "6änr"  # Hamir
   dynasty = 1062542
   religion = sunni
   culture = sindhi

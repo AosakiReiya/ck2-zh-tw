@@ -1,5 +1,5 @@
 159710 = {
-  name = "æ—GYaS¯e"  # Vechkas
+  name = "Ë—GYaS¯e"  # Vechkas
   religion = "finnish_pagan"
   culture = meshchera
   dynasty = 1029106
@@ -12,7 +12,7 @@
   }
 }
 160121 = {
-  name = "·VÌ‘šN^"  # Deryab
+  name = "·VÌ‘N^"  # Deryab
   religion = "finnish_pagan"
   culture = meshchera
   dynasty = 1029106
@@ -25,7 +25,7 @@
   }
 }
 160122 = {
-  name = "æ—SÈaS"  # Velmayka
+  name = "Ë—SaS"  # Velmayka
   religion = "finnish_pagan"
   culture = meshchera
   dynasty = 1029106
@@ -38,7 +38,7 @@
   }
 }
 160123 = {
-  name = "lš÷–"  # Malyy
+  name = "¬™÷–"  # Malyy
   religion = "finnish_pagan"
   culture = meshchera
   dynasty = 1029106
@@ -51,7 +51,7 @@
   }
 }
 194156 = {
-  name = "^œÀN"  # Parush
+  name = "^o›ÀN"  # Parush
   dynasty = 1029106
   religion = finnish_pagan
   culture = meshchera
@@ -63,7 +63,7 @@
   }
 }
 194157 = {
-  name = "úW<SšNKQ"  # Kinyak
+  name = "úW<SNKQ"  # Kinyak
   dynasty = 1029106
   religion = finnish_pagan
   culture = meshchera
@@ -89,7 +89,7 @@
   }
 }
 194165 = {
-  name = "àVNbO"  # Inzhay
+  name = "àVNb%Y"  # Inzhay
   dynasty = 1045027
   religion = finnish_pagan
   culture = meshchera
@@ -101,7 +101,7 @@
   }
 }
 256052 = {
-  name = "®v<SšN¯e"  # Pinyas
+  name = "®v<SN¯e"  # Pinyas
   dynasty = 1061032
   religion = "finnish_pagan"
   culture = "meshchera"
@@ -113,7 +113,7 @@
   }
 }
 256105 = {
-  name = "eY+Yğl"  # Ovtay
+  name = "gY+Yğl"  # Ovtay
   dynasty = 1029106
   religion = orthodox
   culture = meshchera
@@ -125,7 +125,7 @@
   }
 }
 256106 = {
-  name = "ætS¾Z"  # Valdava
+  name = "ætSTZ"  # Valdava
   dynasty = 1029106
   father = 256105
   female = yes
@@ -139,7 +139,7 @@
   }
 }
 256107 = {
-  name = "LNNbÉb"  # Uzhara
+  name = "ÏpNbÉb"  # Uzhara
   dynasty = 1029106
   father = 256105
   religion = orthodox
@@ -152,7 +152,7 @@
   }
 }
 256108 = {
-  name = "?–NmŞ"  # Azyren
+  name = "?–ßo#"  # Azyren
   dynasty = 1029106
   father = 256107
   religion = orthodox
@@ -165,7 +165,7 @@
   }
 }
 256109 = {
-  name = "öSSNmÅ–"  # Erziya
+  name = "I„SßoÅ–"  # Erziya
   dynasty = 1029106
   father = 256108
   religion = orthodox
@@ -178,7 +178,7 @@
   }
 }
 256110 = {
-  name = "Ï‚Syr"  # Surt
+  name = "†Syr"  # Surt
   dynasty = 1029106
   father = 256108
   religion = orthodox
@@ -191,7 +191,7 @@
   }
 }
 256111 = {
-  name = "ætSüf^yQ"  # Varmanpaz
+  name = "ætSüf^2ƒ"  # Varmanpaz
   dynasty = 1029106
   father = 256109
   religion = orthodox
@@ -204,7 +204,7 @@
   }
 }
 256112 = {
-  name = "ôuÌ‘šN¯e"  # Viryas
+  name = "ôuÌ‘N¯e"  # Viryas
   dynasty = 1029106
   father = 256111
   religion = orthodox
@@ -231,7 +231,7 @@
   }
 }
 256114 = {
-  name = "‰ƒšNZ"  # Liyava
+  name = "‰ƒNZ"  # Liyava
   dynasty = 1029106
   father = 256112
   female = yes
@@ -257,7 +257,7 @@
   }
 }
 256125 = {
-  name = "ªRlbNb"  # Nuyanza
+  name = "ªRÚcNb"  # Nuyanza
   dynasty = 1061063
   father = 256124
   religion = orthodox

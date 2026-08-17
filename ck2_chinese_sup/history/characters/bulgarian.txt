@@ -17,7 +17,7 @@
   }
 }
 20486 = {
-  name = "?ñôü"  # Aron
+  name = "?ñçü"  # Aron
   dynasty = 702
   martial = 7
   diplomacy = 5
@@ -38,7 +38,7 @@
   }
 }
 215004 = {
-  name = "Y^Ws|S"  # Dobromir
+  name = "Y^Ös|S"  # Dobromir
   dynasty = 17008
   martial = 4
   diplomacy = 7
@@ -60,7 +60,7 @@
   }
 }
 217007 = {
-  name = "yQÉl<Ss|S"  # Zvonimir
+  name = "2ÉÉl<Ss|S"  # Zvonimir
   dynasty = 17001
   martial = 5
   diplomacy = 8
@@ -78,7 +78,7 @@
   }
 }
 217500 = {
-  name = "ON"  # Ivan
+  name = "%Y,Ñ"  # Ivan
   dynasty = 185
   martial = 7
   diplomacy = 5
@@ -120,7 +120,7 @@
   }
 }
 217502 = {
-  name = "aSmlb"  # Kaloyan
+  name = "aSm⁄c"  # Kaloyan
   dynasty = 185
   martial = 7
   diplomacy = 5
@@ -146,7 +146,7 @@
   }
 }
 217503 = {
-  name = "ON"  # Ivan
+  name = "%Y,Ñ"  # Ivan
   dynasty = 185
   martial = 6
   diplomacy = 8
@@ -164,7 +164,8 @@
   }
 }
 217504 = {
-  name = "√W±ÉZ"  # Elena
+  name = "√W
+ÑZ"  # Elena
   female = yes
   dynasty = 185
   martial = 7
@@ -185,7 +186,7 @@
   }
 }
 217505 = {
-  name = "ZSÃëS"  # Boril
+  name = "ZS·àS"  # Boril
   dynasty = 185
   martial = 4
   diplomacy = 4
@@ -208,7 +209,8 @@
   }
 }
 217506 = {
-  name = "?ñ±ÉKQâ"  # Aleksii
+  name = "?ñ
+ÑKQâ"  # Aleksii
   dynasty = 185
   martial = 5
   diplomacy = 6
@@ -226,7 +228,7 @@
   }
 }
 217507 = {
-  name = "Øeyr˜ñyQ"  # Strez
+  name = "Øeyr˜ñ2É"  # Strez
   dynasty = 185
   martial = 7
   diplomacy = 5
@@ -244,7 +246,8 @@
   }
 }
 232525 = {
-  name = "ON—y-?ñ±ÉKQÓOØe"  # Ivanko-Alexios
+  name = "%Y,Ñ—y-?ñ
+ÑKQÓOØe"  # Ivanko-Alexios
   dynasty = 101071
   martial = 4
   diplomacy = 4
@@ -264,7 +267,7 @@
   }
 }
 31160 = {
-  name = "ON"  # Ivan
+  name = "%Y,Ñ"  # Ivan
   dynasty = 185
   religion = "orthodox"
   culture = "bulgarian"
@@ -283,7 +286,7 @@
   }
 }
 31161 = {
-  name = "õsLNöN"  # Marija
+  name = "jtœpûN"  # Marija
   female = yes
   dynasty = 185
   religion = "orthodox"
@@ -298,7 +301,7 @@
   }
 }
 31162 = {
-  name = "çmØe…bZ"  # Beloslava
+  name = "ùåmØe…bZ"  # Beloslava
   female = yes
   dynasty = 185
   religion = "orthodox"
@@ -313,7 +316,8 @@
   }
 }
 31163 = {
-  name = "√W±ÉZ"  # Elena
+  name = "√W
+ÑZ"  # Elena
   female = yes
   dynasty = 185
   religion = "orthodox"
@@ -328,7 +332,7 @@
   }
 }
 31164 = {
-  name = "TXõs…b"  # Tamara
+  name = "TXjt…b"  # Tamara
   female = yes
   dynasty = 185
   religion = "orthodox"
@@ -357,7 +361,7 @@
   }
 }
 31166 = {
-  name = "s|»TOS"  # Mihail
+  name = "s|»T%YS"  # Mihail
   dynasty = 185
   religion = "orthodox"
   culture = "bulgarian"
@@ -371,7 +375,7 @@
   }
 }
 31167 = {
-  name = "ƒreYY…b"  # Teodora
+  name = "ƒrgYY…b"  # Teodora
   female = yes
   dynasty = 185
   religion = "orthodox"
@@ -386,7 +390,7 @@
   }
 }
 31168 = {
-  name = "õsLNöN"  # Marija
+  name = "jtœpûN"  # Marija
   female = yes
   dynasty = 185
   religion = "orthodox"
@@ -401,7 +405,7 @@
   }
 }
 31169 = {
-  name = "öNÜSqS'Y"  # Aleksandr
+  name = "ûNwkqS'Y"  # Aleksandr
   dynasty = 185
   religion = "orthodox"
   culture = "bulgarian"
@@ -427,7 +431,7 @@
   }
 }
 31171 = {
-  name = "‘k)RöNZ"  # Bilyana
+  name = "‘k)RûNZ"  # Bilyana
   female = yes
   dynasty = 185
   religion = "orthodox"
@@ -442,7 +446,7 @@
   }
 }
 31172 = {
-  name = "õsLNöN"  # Marija
+  name = "jtœpûN"  # Marija
   female = yes
   dynasty = 185
   religion = "orthodox"
@@ -457,7 +461,7 @@
   }
 }
 31183 = {
-  name = "KQ…bõsLNöN"  # Keramarija
+  name = "KQ…bjtœpûN"  # Keramarija
   female = yes
   dynasty = 185
   religion = "orthodox"
@@ -472,7 +476,7 @@
   }
 }
 31185 = {
-  name = "s|TN"  # Micho
+  name = "s|¨U"  # Micho
   dynasty = 7202
   religion = "orthodox"
   culture = "bulgarian"
@@ -521,7 +525,7 @@
   }
 }
 31188 = {
-  name = "s|»TOS"  # Mihail
+  name = "s|»T%YS"  # Mihail
   dynasty = 7203
   religion = "orthodox"
   culture = "bulgarian"
@@ -535,7 +539,7 @@
   }
 }
 31189 = {
-  name = "õsLNöN"  # Marija
+  name = "jtœpûN"  # Marija
   female = yes
   dynasty = 7203
   religion = "orthodox"
@@ -550,7 +554,7 @@
   }
 }
 31191 = {
-  name = "õsLNZ"  # Marina
+  name = "jtœpZ"  # Marina
   female = yes
   dynasty = 40
   religion = "orthodox"
@@ -564,7 +568,7 @@
   }
 }
 31192 = {
-  name = "OÊt÷^"  # Ivaljo
+  name = "%YÊt÷^"  # Ivaljo
   dynasty = 7204
   religion = "orthodox"
   culture = "bulgarian"
@@ -584,7 +588,7 @@
   }
 }
 31193 = {
-  name = "XbYS"  # Todor
+  name = "äYS"  # Todor
   dynasty = 40
   religion = "orthodox"
   culture = "bulgarian"
@@ -601,7 +605,8 @@
   }
 }
 31194 = {
-  name = "√W±ÉZ"  # Elena
+  name = "√W
+ÑZ"  # Elena
   female = yes
   dynasty = 40
   religion = "orthodox"
@@ -616,7 +621,7 @@
   }
 }
 31195 = {
-  name = "<heYS˙W"  # Georgi
+  name = "<hgYS˙W"  # Georgi
   dynasty = 40
   religion = "orthodox"
   culture = "bulgarian"
@@ -643,7 +648,7 @@
   }
 }
 31197 = {
-  name = "¶uâRÖQØe"  # Ioannes
+  name = "¶uâRgQØe"  # Ioannes
   dynasty = 7205
   religion = "orthodox"
   culture = "bulgarian"
@@ -657,7 +662,7 @@
   }
 }
 31198 = {
-  name = "ON"  # Ivan
+  name = "%Y,Ñ"  # Ivan
   dynasty = 7205
   religion = "orthodox"
   culture = "bulgarian"
@@ -682,7 +687,7 @@
   }
 }
 31200 = {
-  name = "ÉlOâS"  # Vojsil
+  name = "Él%YâS"  # Vojsil
   dynasty = 7205
   religion = "orthodox"
   culture = "bulgarian"
@@ -695,7 +700,7 @@
   }
 }
 31201 = {
-  name = "<heYS˙W"  # Georgi
+  name = "<hgYS˙W"  # Georgi
   dynasty = 40
   religion = "orthodox"
   culture = "bulgarian"
@@ -707,7 +712,7 @@
   }
 }
 40531 = {
-  name = "—y(Ñ…b"  # Kosara
+  name = "—y©Ö…b"  # Kosara
   female = yes
   dynasty = 702
   martial = 4
@@ -725,7 +730,7 @@
   }
 }
 41323 = {
-  name = "s|WØe…bZ"  # Miroslava
+  name = "s|ÖØe…bZ"  # Miroslava
   female = yes
   dynasty = 702
   martial = 5
@@ -762,7 +767,7 @@
   }
 }
 465551 = {
-  name = "ON"  # Ivan
+  name = "%Y,Ñ"  # Ivan
   dynasty = 185
   martial = 6
   diplomacy = 7
@@ -786,7 +791,7 @@
   }
 }
 467500 = {
-  name = "ON öNÜSqS'Y"  # Ivan Aleksandr
+  name = "%Y,Ñ ûNwkqS'Y"  # Ivan Aleksandr
   dynasty = 41
   martial = 6
   diplomacy = 5
@@ -810,7 +815,8 @@
   }
 }
 467501 = {
-  name = "√W±ÉZ"  # Elena
+  name = "√W
+ÑZ"  # Elena
   female = yes
   dynasty = 41
   martial = 5
@@ -831,7 +837,7 @@
   }
 }
 467502 = {
-  name = "ON-—yFzÅR"  # Ivan-Komnin
+  name = "%Y,Ñ-—yFzÅR"  # Ivan-Komnin
   dynasty = 41
   martial = 8
   diplomacy = 5
@@ -851,7 +857,7 @@
   }
 }
 467503 = {
-  name = "s|»TOS"  # Mihail
+  name = "s|»T%YS"  # Mihail
   dynasty = 41
   martial = 8
   diplomacy = 8
@@ -892,7 +898,7 @@
   }
 }
 467505 = {
-  name = "Øe…bPüs|S"  # Srazimir
+  name = "Øe…bJüs|S"  # Srazimir
   dynasty = 100500
   martial = 7
   diplomacy = 7
@@ -912,7 +918,7 @@
   }
 }
 467506 = {
-  name = "ÔQ…bﬂR"  # Keratsa
+  name = "ÒQ…bﬂR"  # Keratsa
   female = yes
   dynasty = 41
   martial = 7
@@ -933,7 +939,7 @@
   }
 }
 467507 = {
-  name = "ç≥RS"  # Belaur
+  name = "ùåﬁRS"  # Belaur
   dynasty = 41
   martial = 6
   diplomacy = 4
@@ -973,7 +979,7 @@
   }
 }
 467510 = {
-  name = "s|»TOS"  # Mihail
+  name = "s|»T%YS"  # Mihail
   dynasty = 41
   martial = 5
   diplomacy = 4
@@ -992,7 +998,7 @@
   }
 }
 467511 = {
-  name = "ON"  # Ivan
+  name = "%Y,Ñ"  # Ivan
   dynasty = 41
   martial = 4
   diplomacy = 4
@@ -1012,7 +1018,7 @@
   }
 }
 467512 = {
-  name = "ON"  # Ivan
+  name = "%Y,Ñ"  # Ivan
   dynasty = 41
   martial = 6
   diplomacy = 5
@@ -1034,7 +1040,7 @@
   }
 }
 467513 = {
-  name = "ÔQ…b TXõs…b"  # Kera Tamara
+  name = "ÒQ…b TXjt…b"  # Kera Tamara
   female = yes
   dynasty = 41
   martial = 7
@@ -1054,7 +1060,7 @@
   }
 }
 467520 = {
-  name = "s|»TOS"  # Mihail
+  name = "s|»T%YS"  # Mihail
   dynasty = 41
   martial = 8
   diplomacy = 4
@@ -1086,7 +1092,7 @@
   }
 }
 467521 = {
-  name = "ON Øeyr·Q"  # Ivan Stefan
+  name = "%Y,Ñ Øeyr·Q"  # Ivan Stefan
   dynasty = 41
   martial = 6
   diplomacy = 8
@@ -1125,7 +1131,7 @@
   }
 }
 467523 = {
-  name = "s|»TOS"  # Mihail
+  name = "s|»T%YS"  # Mihail
   dynasty = 41
   martial = 5
   diplomacy = 8
@@ -1165,7 +1171,7 @@
   }
 }
 467530 = {
-  name = "<heYS˙W"  # Georgi
+  name = "<hgYS˙W"  # Georgi
   dynasty = 40
   religion = "orthodox"
   culture = "bulgarian"
@@ -1190,7 +1196,7 @@
   }
 }
 170494 = {
-  name = "õsLNöN"  # Maria
+  name = "jtœpûN"  # Maria
   female = yes
   religion = "orthodox"
   culture = "bulgarian"
@@ -1245,7 +1251,7 @@
   }
 }
 467541 = {
-  name = "ƒreYY…b"  # Theodora
+  name = "ƒrgYY…b"  # Theodora
   female = yes
   dynasty = 7205
   martial = 4
@@ -1266,7 +1272,7 @@
   }
 }
 467542 = {
-  name = "õsLNöN"  # Maria
+  name = "jtœpûN"  # Maria
   female = yes
   dynasty = 7205
   martial = 6
@@ -1287,7 +1293,7 @@
   }
 }
 467550 = {
-  name = "ÙTÃëKQ"  # Balik
+  name = "ÙT·àKQ"  # Balik
   dynasty = 39
   martial = 8
   diplomacy = 4
@@ -1307,7 +1313,7 @@
   }
 }
 467551 = {
-  name = "Y^WÇÑNb"  # Dobrotitza
+  name = "Y^ÖÇÑNb"  # Dobrotitza
   dynasty = 39
   martial = 6
   diplomacy = 5
@@ -1327,7 +1333,7 @@
   }
 }
 467555 = {
-  name = "Y^Ws|S"  # Dobromir
+  name = "Y^Ös|S"  # Dobromir
   dynasty = 39
   martial = 8
   diplomacy = 5
@@ -1345,7 +1351,7 @@
   }
 }
 468550 = {
-  name = "ON"  # Ivan
+  name = "%Y,Ñ"  # Ivan
   dynasty = 40
   religion = "orthodox"
   culture = "bulgarian"
@@ -1422,7 +1428,7 @@
   }
 }
 70382 = {
-  name = "çúÃëØe"  # Boris
+  name = "ëõÃëØe"  # Boris
   dynasty = 8636
   martial = 7
   diplomacy = 6
@@ -1492,7 +1498,7 @@
   }
 }
 70385 = {
-  name = "s|WØe…bZ"  # Miroslava
+  name = "s|ÖØe…bZ"  # Miroslava
   female = yes
   dynasty = 8636
   martial = 4
@@ -1564,7 +1570,7 @@
   }
 }
 716 = {
-  name = "çúÃëØe"  # Boris
+  name = "ëõÃëØe"  # Boris
   dynasty = 8636
   martial = 4
   diplomacy = 7
@@ -1584,7 +1590,7 @@
   }
 }
 718 = {
-  name = "W¸f"  # Roman
+  name = "Ö¸f"  # Roman
   dynasty = 8636
   martial = 5
   diplomacy = 7
@@ -1604,7 +1610,7 @@
   }
 }
 720 = {
-  name = "?ñôü"  # Aron
+  name = "?ñçü"  # Aron
   dynasty = 702
   martial = 7
   diplomacy = 4
@@ -1624,7 +1630,7 @@
   }
 }
 722 = {
-  name = "ON V…bÍèØe…b+Y"  # Ivan Vladislav
+  name = "%Y,Ñ V…bÍèØe…b+Y"  # Ivan Vladislav
   dynasty = 702
   martial = 7
   diplomacy = 4
@@ -1643,7 +1649,7 @@
   }
 }
 724 = {
-  name = "?ñbSââR"  # Alusian
+  name = "?ñÁvââR"  # Alusian
   dynasty = 702
   martial = 8
   diplomacy = 5
@@ -1663,7 +1669,7 @@
   }
 }
 7242 = {
-  name = "(ÑFzOS"  # Samuil
+  name = "©ÖFz%YS"  # Samuil
   dynasty = 702
   martial = 7
   diplomacy = 5
@@ -1705,7 +1711,7 @@
   }
 }
 726 = {
-  name = "˛V…bw"  # Trajan
+  name = "W…bw"  # Trajan
   dynasty = 702
   martial = 5
   diplomacy = 5
@@ -1725,7 +1731,7 @@
   }
 }
 727 = {
-  name = "õsLNöN"  # Mariya
+  name = "jtœpûN"  # Mariya
   female = yes
   dynasty = 702
   martial = 8
@@ -1745,7 +1751,7 @@
   }
 }
 728 = {
-  name = "(ÑFzOS"  # Samuil
+  name = "©ÖFz%YS"  # Samuil
   dynasty = 702
   martial = 8
   diplomacy = 6
@@ -1764,7 +1770,7 @@
   }
 }
 729 = {
-  name = "ˆSaSwc3tZ"  # Ekaterina
+  name = "IÑaSwc3tZ"  # Ekaterina
   female = yes
   dynasty = 702
   martial = 7
@@ -1783,7 +1789,7 @@
   }
 }
 730 = {
-  name = "†R+YÃëS …bYs|S"  # Gavril Radomir
+  name = "†R+Y·àS …bYs|S"  # Gavril Radomir
   dynasty = 702
   martial = 5
   diplomacy = 5
@@ -1830,7 +1836,7 @@
   }
 }
 34463 = {
-  name = "<heYS˙W"  # Georgi
+  name = "<hgYS˙W"  # Georgi
   dynasty = 25200
   trait = "ambitious"
   religion = "orthodox"
@@ -1843,7 +1849,7 @@
   }
 }
 34584 = {
-  name = "Y^Ws|S"  # Dobromir
+  name = "Y^Ös|S"  # Dobromir
   dynasty = 100508
   religion = "orthodox"
   culture = "bulgarian"
@@ -1864,7 +1870,7 @@
   }
 }
 159126 = {
-  name = "yQÙuÆYﬂR"  # Zvinica
+  name = "2ÉÙuÆYﬂR"  # Zvinica
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bulgarian"
@@ -1877,7 +1883,7 @@
   }
 }
 168067 = {
-  name = "†R+YÃëS"  # Gavril
+  name = "†R+Y·àS"  # Gavril
   dynasty = 8636
   religion = "tengri_pagan"
   culture = "bulgarian"
@@ -1928,7 +1934,7 @@
   }
 }
 168070 = {
-  name = "†R+YÃëS"  # Gavril
+  name = "†R+Y·àS"  # Gavril
   dynasty = 8636
   religion = "tengri_pagan"
   culture = "bulgarian"
@@ -1944,7 +1950,7 @@
   }
 }
 168075 = {
-  name = "õsLNöN"  # Marija
+  name = "jtœpûN"  # Marija
   female = yes
   religion = "orthodox"
   culture = "bulgarian"
@@ -1990,7 +1996,7 @@
   }
 }
 168078 = {
-  name = "öN—y+Y"  # Iakov
+  name = "ûN—y+Y"  # Iakov
   dynasty = 8636
   religion = "tengri_pagan"
   culture = "bulgarian"
@@ -2007,7 +2013,7 @@
   }
 }
 168287 = {
-  name = "?ñmbZS˛VS"  # Alogobotur
+  name = "?ñmbZSWS"  # Alogobotur
   dynasty = 9581
   trait = "skilled_tactician"
   religion = "tengri_pagan"
@@ -2023,7 +2029,7 @@
   }
 }
 168288 = {
-  name = "löS»èØe"  # Marmais
+  name = "¨ôSÅêØe"  # Marmais
   dynasty = 9582
   trait = "skilled_tactician"
   religion = "tengri_pagan"
@@ -2055,7 +2061,7 @@
   }
 }
 168290 = {
-  name = "NbpQ"  # Zalan
+  name = "Nb-Ü"  # Zalan
   dynasty = 9584
   trait = "intricate_webweaver"
   religion = "orthodox"
@@ -2081,7 +2087,7 @@
   }
 }
 260669 = {
-  name = "ON"  # Ivan
+  name = "%Y,Ñ"  # Ivan
   dynasty = 8636
   religion = orthodox
   culture = bulgarian
@@ -2095,7 +2101,7 @@
   }
 }
 260670 = {
-  name = "øO≈ñØ`"  # Benjamin
+  name = "øO≈ñ´a"  # Benjamin
   dynasty = 8636
   religion = orthodox
   culture = bulgarian
@@ -2109,7 +2115,7 @@
   }
 }
 262323 = {
-  name = "s|»TOS"  # Mihail
+  name = "s|»T%YS"  # Mihail
   dynasty = 8636
   religion = orthodox
   culture = bulgarian
@@ -2134,7 +2140,7 @@
   }
 }
 262334 = {
-  name = "TNªl"  # George
+  name = "¨Uªl"  # George
   dynasty = 1063569
   father = 262333
   religion = orthodox
@@ -2149,7 +2155,7 @@
   }
 }
 262335 = {
-  name = "õsLNöN"  # Maria
+  name = "jtœpûN"  # Maria
   dynasty = 1063569
   female = yes
   father = 262333
@@ -2180,7 +2186,7 @@
   }
 }
 260671 = {
-  name = "æèi`"  # Dan
+  name = "Têi`"  # Dan
   dynasty = 1062299
   religion = orthodox
   culture = bulgarian
@@ -2192,7 +2198,8 @@
   }
 }
 260672 = {
-  name = "?ñ±ÉKQâ"  # Aleksii
+  name = "?ñ
+ÑKQâ"  # Aleksii
   dynasty = 1062300
   religion = orthodox
   culture = bulgarian
@@ -2254,7 +2261,7 @@
   }
 }
 260678 = {
-  name = "6wW)R∆Y"  # Jerolim
+  name = "6wÖ)R∆Y"  # Jerolim
   dynasty = 1062304
   religion = orthodox
   culture = bulgarian
@@ -2266,7 +2273,7 @@
   }
 }
 260679 = {
-  name = "eY<ht^"  # Ognen
+  name = "gY<ht^"  # Ognen
   dynasty = 1062305
   religion = orthodox
   culture = bulgarian
@@ -2290,7 +2297,7 @@
   }
 }
 260683 = {
-  name = "ÍèeY<Sâ"  # Dionisii
+  name = "ÍègY<Sâ"  # Dionisii
   dynasty = 1062309
   religion = orthodox
   culture = bulgarian
@@ -2302,7 +2309,7 @@
   }
 }
 260684 = {
-  name = "ZSÂeæèS"  # Bozidar
+  name = "ZSÂeTêS"  # Bozidar
   dynasty = 1062310
   religion = orthodox
   culture = bulgarian
@@ -2326,7 +2333,7 @@
   }
 }
 260686 = {
-  name = "—yyQlö"  # Kozma
+  name = "—y2É¨ô"  # Kozma
   dynasty = 1062312
   religion = orthodox
   culture = bulgarian
@@ -2350,7 +2357,7 @@
   }
 }
 260689 = {
-  name = "çS≥uN"  # Bernardin
+  name = "ùåS≥uN"  # Bernardin
   dynasty = 1062315
   religion = orthodox
   culture = bulgarian
@@ -2362,7 +2369,7 @@
   }
 }
 260690 = {
-  name = "nfÃë6wyQæè"  # Prijezda
+  name = "nfÃë6w2ÉTê"  # Prijezda
   dynasty = 1062316
   religion = orthodox
   culture = bulgarian

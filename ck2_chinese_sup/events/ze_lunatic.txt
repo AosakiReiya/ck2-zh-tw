@@ -79,7 +79,7 @@ character_event = {
     }
     tooltip = {
       create_character = {
-        name = "ê•DŽ"  # Glitterhoof
+        name = "ƒ•DŽ"  # Glitterhoof
         age = 16
         religion = ROOT
         culture = horse
@@ -96,7 +96,7 @@ character_event = {
       random_list = {
         50 = {
           create_character = {
-            name = "ê•DŽ"  # Glitterhoof
+            name = "ƒ•DŽ"  # Glitterhoof
             age = 16
             religion = ROOT
             culture = horse
@@ -111,7 +111,7 @@ character_event = {
         }
         50 = {
           create_character = {
-            name = "ê•DŽ"  # Glitterhoof
+            name = "ƒ•DŽ"  # Glitterhoof
             female = yes
             age = 16
             religion = ROOT

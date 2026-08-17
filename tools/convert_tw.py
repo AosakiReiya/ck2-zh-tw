@@ -39,40 +39,97 @@ ESCAPES = (0x10, 0x11, 0x12, 0x13)
 
 # ---------- 解碼 / 編碼 ----------
 
+def _is_cjk_escape(cp: int) -> bool:
+    return 0x4E00 <= cp <= 0x9FFF or 0x3400 <= cp <= 0x4DBF or 0x3040 <= cp <= 0x30FF
+
+
 def decode_escape(b: bytes):
-    """bytes -> (unicode_text, prefix_map)。
-    prefix_map[i] = 對應第 i 個 Unicode char 的 escape byte(僅 CJK-escape chars)。"""
+    """bytes -> (unicode_text, prefix_map, raw_latin)。
+
+    prefix_map[i] = escape byte(僅 CJK-escape chars);raw_latin = set of indices
+    那些來自 latin1 回退的原始位元組(需以 latin1 原樣寫回,不可 utf8 再編)。
+    0x10..0x13 只有當後兩字節解出 CJK 碼位時才視為 escape。"""
     out = []
     prefixes = {}
+    raw_latin: set[int] = set()
+    raw = bytearray()
+    char_count = 0
     i = 0
-    while i < len(b):
-        if b[i] in ESCAPES and i + 2 < len(b):
+    n = len(b)
+
+    def flush():
+        nonlocal char_count
+        if raw:
+            try:
+                s = bytes(raw).decode("utf-8")
+            except UnicodeDecodeError:
+                s = bytes(raw).decode("latin1")
+                raw_latin.update(range(char_count, char_count + len(s)))
+            out.append(s)
+            char_count += len(s)
+            raw.clear()
+
+    while i < n:
+        if b[i] in ESCAPES and i + 2 < n:
             cp = b[i + 1] | (b[i + 2] << 8)
-            out.append(chr(cp))
-            prefixes[len(out) - 1] = b[i]
-            i += 3
-        else:
-            out.append(chr(b[i]))
-            i += 1
-    return "".join(out), prefixes
+            if _is_cjk_escape(cp):
+                flush()
+                out.append(chr(cp))
+                prefixes[char_count] = b[i]
+                char_count += 1
+                i += 3
+                continue
+        raw.append(b[i])
+        i += 1
+    flush()
+    return "".join(out), prefixes, raw_latin
 
 
-def encode_escape(s: str, prefixes: dict) -> bytes:
+def encode_escape(s: str, prefixes: dict, raw_latin: set = None) -> bytes:
+    raw_latin = raw_latin or set()
     out = bytearray()
     for i, ch in enumerate(s):
         if i in prefixes:
             out.append(prefixes[i])
             out.append(ord(ch) & 0xFF)
             out.append((ord(ch) >> 8) & 0xFF)
+        elif i in raw_latin:
+            out.append(ord(ch) & 0xFF)
         else:
             out.extend(ch.encode("utf-8"))
     return bytes(out)
 
 
+def _align_props(src: list, dst: list, props_in: dict):
+    """對齊後回傳 dst props 繼承(等同 _align_conv_prefixes 的用法)。"""
+    return _align_conv_prefixes(src, dst, props_in)
+
+
+def _looks_escape(data: bytes) -> bool:
+    """有 0x10..0x13 前綴且後兩字節解出 CJK 字元 → 判定 escape 格式。"""
+    i = 0
+    n = len(data)
+    hits = 0
+    while i < n - 2:
+        if data[i] in ESCAPES and data[i + 1] < 0x80:
+            cp = data[i + 1] | (data[i + 2] << 8)
+            if 0x4E00 <= cp <= 0x9FFF or 0x3400 <= cp <= 0x4DBF:
+                hits += 1
+                if hits >= 2:
+                    return True
+                i += 3
+                continue
+        i += 1
+    return hits >= 1
+
+
 def sniff(data: bytes) -> str | None:
-    """回傳 'utf8' / 'gb18030' / 'escape' / None(binary)"""
+    """回傳 'escape' / 'utf8' / 'gb18030' / None(binary)"""
     if b"\x00" in data[:2000]:
         return None
+    # escape 優先:0x10-0x13 + UTF-16LE 是放送專用格式,正常 UTF-8 檔不會有
+    if _looks_escape(data):
+        return "escape"
     try:
         data.decode("utf-8")
         return "utf8"
@@ -83,9 +140,6 @@ def sniff(data: bytes) -> str | None:
         return "gb18030"
     except UnicodeDecodeError:
         pass
-    # utf8/gb18030 都失敗 → 判斷為 escape 格式(至少要有一個 0x10..0x13 序列)
-    if data.count(b"\x10") + data.count(b"\x11") + data.count(b"\x12") + data.count(b"\x13") > 0:
-        return "escape"
     return None
 
 
@@ -120,24 +174,81 @@ class Glossary:
 
 # ---------- 轉換 ----------
 
-def convert_text(text: str, glossary: Glossary) -> str:
-    """只轉換中文字元連續段;保留 ASCII 與所有非中文字元。"""
+def _align_conv_prefixes(src: list, dst: list, src_prefix: dict):
+    """DP 最小編輯距離對齊 src->dst,回傳 dst 每個字元的 prefix(繼承或預設)。
+
+    - 替換:繼承 src 對應字元的 prefix
+    - 插入:若輸出字元是 CJK 給 0x10,否則 None
+    - 刪除:消失
+    """
+    m, n = len(src), len(dst)
+    dp = [[0] * (n + 1) for _ in range(m + 1)]
+    for i in range(m + 1):
+        dp[i][0] = i
+    for j in range(n + 1):
+        dp[0][j] = j
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            sub = 0 if src[i - 1] == dst[j - 1] else 1
+            dp[i][j] = min(dp[i - 1][j - 1] + sub, dp[i - 1][j] + 1, dp[i][j - 1] + 1)
+    out = {}
+    i, j = m, n
+    while i > 0 or j > 0:
+        if i > 0 and j > 0:
+            sub = 0 if src[i - 1] == dst[j - 1] else 1
+            if dp[i][j] == dp[i - 1][j - 1] + sub:
+                j -= 1
+                i -= 1
+                out[j] = src_prefix.get(i)
+                continue
+        if i > 0 and dp[i][j] == dp[i - 1][j] + 1:
+            i -= 1
+            continue
+        # 插入
+        j -= 1
+        out[j] = 0x10 if "\u4e00" <= dst[j] <= "\u9fff" else None
+    return out
+
+
+def convert_text(text: str, prefixes_in: dict, raw_latin_in: set, glossary: Glossary):
+    """只轉換 U+4E00-U+9FFF 連續段(片語級);回傳 (converted, prefix_map, raw_latin)。
+
+    prefix_map: 輸出字元索引 -> escape byte。run 外字元原樣保留;
+    run 內依對齊繼承;片語合併插入的字元預設 0x10。
+    """
     out = []
-    buf = []
-    for ch in text:
-        if "\u4e00" <= ch <= "\u9fff" or "\u3400" <= ch <= "\u4dbf" or (
-            "\uff00" <= ch <= "\uffef"
-        ):
-            buf.append(ch)
+    prefixes_out: dict[int, int] = {}
+    raw_latin_out: set[int] = set()
+    pos = 0
+    n = len(text)
+    while pos < n:
+        ch = text[pos]
+        if "\u4e00" <= ch <= "\u9fff":
+            end = pos
+            while end < n and "\u4e00" <= text[end] <= "\u9fff":
+                end += 1
+            src = list(text[pos:end])
+            src_prefix = {i: prefixes_in[pos + i] for i in range(len(src)) if pos + i in prefixes_in}
+            src_latin = {i for i in range(len(src)) if pos + i in raw_latin_in}
+            conv = glossary.apply(OPENCC.convert("".join(src)))
+            pmap = _align_conv_prefixes(src, list(conv), src_prefix)
+            lmap = _align_conv_prefixes(src, list(conv), {i: True for i in src_latin})
+            base = len(out)
+            for j, c in enumerate(conv):
+                out.append(c)
+                if pmap.get(j) is not None:
+                    prefixes_out[base + j] = pmap[j]
+                if lmap.get(j) is not None:
+                    raw_latin_out.add(base + j)
+            pos = end
         else:
-            if buf:
-                piece = "".join(buf)
-                out.append(glossary.apply(OPENCC.convert(piece)))
-                buf = []
             out.append(ch)
-    if buf:
-        out.append(glossary.apply(OPENCC.convert("".join(buf))))
-    return "".join(out)
+            if pos in prefixes_in:
+                prefixes_out[len(out) - 1] = prefixes_in[pos]
+            if pos in raw_latin_in:
+                raw_latin_out.add(len(out) - 1)
+            pos += 1
+    return "".join(out), prefixes_out, raw_latin_out
 
 
 def convert_file(path: Path, glossary: Glossary, dry_run: bool, stats: dict):
@@ -148,7 +259,7 @@ def convert_file(path: Path, glossary: Glossary, dry_run: bool, stats: dict):
         return 0
     if kind in ("utf8", "gb18030"):
         text = data.decode(kind)
-        converted = convert_text(text, glossary)
+        converted, _, _ = convert_text(text, {}, set(), glossary)
         out = converted.encode(kind)
         stats["files"] += 1
         stats["chars"] += len(text)
@@ -156,9 +267,9 @@ def convert_file(path: Path, glossary: Glossary, dry_run: bool, stats: dict):
             path.write_bytes(out)
         return int(out != data)
     # escape 格式
-    text, prefixes = decode_escape(data)
-    converted = convert_text(text, glossary)
-    out = encode_escape(converted, prefixes)
+    text, prefixes, raw_latin = decode_escape(data)
+    converted, prefixes, raw_latin = convert_text(text, prefixes, raw_latin, glossary)
+    out = encode_escape(converted, prefixes, raw_latin)
     stats["files"] += 1
     stats["chars"] += sum(1 for ch in text if "\u4e00" <= ch <= "\u9fff")
     if dry_run:

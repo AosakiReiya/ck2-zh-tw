@@ -1,5 +1,5 @@
 242 = {
-  name = "kçWS+Y"  # Hrolfr
+  name = "kçÖS+Y"  # Hrolfr
   dynasty = 1043303
   martial = 7
   diplomacy = 6
@@ -61,7 +61,7 @@
   }
 }
 5789 = {
-  name = "âyrÃëKQ ÔQkç"  # Sihtric Caech
+  name = "âyrÃëKQ ÒQkç"  # Sihtric Caech
   dynasty = 20084
   martial = 7
   diplomacy = 7
@@ -78,7 +78,7 @@
   }
 }
 5790 = {
-  name = "eY…b+Y 8YpQ"  # Olafr Cuar·n
+  name = "gY…b+Y áä-Ü"  # Olafr Cuar·n
   dynasty = 20084
   martial = 7
   diplomacy = 7
@@ -118,7 +118,7 @@
   }
 }
 5792 = {
-  name = "OÊtS"  # Ivar
+  name = "%YÊtS"  # Ivar
   dynasty = 556
   martial = 7
   diplomacy = 7
@@ -205,7 +205,7 @@
   }
 }
 6837 = {
-  name = "OÊtS"  # Ivar
+  name = "%YÊtS"  # Ivar
   dynasty = 830
   religion = "norse_pagan"
   culture = "norse"
@@ -253,7 +253,7 @@
   }
 }
 6842 = {
-  name = "VÃë˜ñKQ"  # Frirek
+  name = "V·à˜ñKQ"  # Frirek
   dynasty = 834
   religion = "norse_pagan"
   culture = "norse"
@@ -277,7 +277,7 @@
   }
 }
 6844 = {
-  name = "æè<h"  # Dag
+  name = "Tê<h"  # Dag
   dynasty = 836
   religion = "norse_pagan"
   culture = "norse"
@@ -289,7 +289,7 @@
   }
 }
 6845 = {
-  name = "Øe)n"  # Sveinn
+  name = "Øe´n"  # Sveinn
   dynasty = 838
   religion = "norse_pagan"
   culture = "norse"
@@ -313,7 +313,7 @@
   }
 }
 6862 = {
-  name = "&O^S∑V"  # Rˆgnhildr
+  name = "+P^S∑V"  # Rˆgnhildr
   female = yes
   religion = "norse_pagan"
   culture = norse
@@ -340,7 +340,7 @@
   }
 }
 6864 = {
-  name = "?ñN≥R<h"  # Aslaug
+  name = "?ñr}ﬁR<h"  # Aslaug
   dynasty = 20084
   female = yes
   religion = "norse_pagan"
@@ -354,7 +354,7 @@
   }
 }
 6865 = {
-  name = "VÃë˜ñKQ"  # Frirek
+  name = "V·à˜ñKQ"  # Frirek
   dynasty = 818
   religion = "norse_pagan"
   culture = norse
@@ -367,7 +367,7 @@
   }
 }
 6866 = {
-  name = "√WÃëKQ"  # Eirikr
+  name = "√W·àKQ"  # Eirikr
   dynasty = 818
   religion = "norse_pagan"
   culture = norse
@@ -419,7 +419,7 @@
   }
 }
 6873 = {
-  name = "?ñSôÇLN∑V"  # Alfri
+  name = "?ñSôÇœp∑V"  # Alfri
   female = yes
   religion = norse_pagan
   culture = norse
@@ -431,7 +431,7 @@
   }
 }
 6874 = {
-  name = "ÒÇ<hôÇÃë∑V"  # Ingfrid
+  name = "ÒÇ<hôÇ·à∑V"  # Ingfrid
   female = yes
   religion = norse_pagan
   culture = norse
@@ -594,7 +594,7 @@
   }
 }
 6879 = {
-  name = "Ùu<hÍèN"  # Vigdis
+  name = "Ùu<hÍèr}"  # Vigdis
   female = yes
   religion = norse_pagan
   culture = norse
@@ -620,7 +620,7 @@
   }
 }
 40605 = {
-  name = "YuÃëKQ"  # Rurik
+  name = "Yu·àKQ"  # Rurik
   dynasty = 705
   dna = tczeyfghtom
   properties = th0ebd000000
@@ -704,7 +704,7 @@
   }
 }
 41234 = {
-  name = "â<hVÃë∑V"  # Sigfri
+  name = "â<hV·à∑V"  # Sigfri
   dynasty = 102
   martial = 6
   diplomacy = 6
@@ -741,7 +741,7 @@
   }
 }
 41257 = {
-  name = "Ãëì^S+Y"  # Rikulfr
+  name = "·à´^S+Y"  # Rikulfr
   dynasty = 821
   martial = 8
   diplomacy = 5
@@ -760,7 +760,7 @@
   }
 }
 41258 = {
-  name = "kç…b∑ã"  # Hrane
+  name = "kç…b%ä"  # Hrane
   dynasty = 822
   martial = 5
   diplomacy = 5
@@ -821,7 +821,7 @@
   }
 }
 83365 = {
-  name = "OÊtS"  # Ivar
+  name = "%YÊtS"  # Ivar
   dynasty = 9214
   martial = 7
   diplomacy = 6
@@ -837,7 +837,7 @@
   }
 }
 83366 = {
-  name = "â<hyrT<h"  # Sigtrygg
+  name = "â<hyrBT<h"  # Sigtrygg
   dynasty = 9214
   martial = 5
   diplomacy = 6
@@ -857,7 +857,7 @@
   }
 }
 83367 = {
-  name = "&OÊtS∑V"  # Rˆgnvaldr
+  name = "+PÊtS∑V"  # Rˆgnvaldr
   dynasty = 9214
   martial = 5
   diplomacy = 6
@@ -874,7 +874,7 @@
   }
 }
 100500 = {
-  name = "√WÃëKQ"  # Eirikr
+  name = "√W·àKQ"  # Eirikr
   dynasty = 502
   martial = 4
   diplomacy = 4
@@ -917,7 +917,7 @@
   }
 }
 100502 = {
-  name = "eY…b+Y"  # Olafr
+  name = "gY…b+Y"  # Olafr
   dynasty = 502
   martial = 4
   diplomacy = 6
@@ -961,7 +961,7 @@
   }
 }
 100504 = {
-  name = "√WÃëKQ"  # Eirikr
+  name = "√W·àKQ"  # Eirikr
   dynasty = 502
   martial = 8
   diplomacy = 5
@@ -983,7 +983,7 @@
   }
 }
 100505 = {
-  name = "ó∆YôÇLN∑V"  # Holmfrid
+  name = "ó∆YôÇœp∑V"  # Holmfrid
   female = yes
   dynasty = 502
   martial = 7
@@ -1004,7 +1004,7 @@
   }
 }
 100506 = {
-  name = "eY…b+Y"  # Olafr
+  name = "gY…b+Y"  # Olafr
   dynasty = 502
   martial = 5
   diplomacy = 5
@@ -1026,7 +1026,7 @@
   }
 }
 100508 = {
-  name = "?ñúQ∑V"  # Anundr
+  name = "?ñ≤è∑V"  # Anundr
   dynasty = 502
   martial = 6
   diplomacy = 6
@@ -1077,7 +1077,7 @@
   }
 }
 100510 = {
-  name = "?ñØeyrLN∑V"  # Astrid
+  name = "?ñØeyrœp∑V"  # Astrid
   female = yes
   martial = 6
   diplomacy = 7
@@ -1118,7 +1118,7 @@
   }
 }
 100512 = {
-  name = "?ñØeyrLN∑V"  # Astrid
+  name = "?ñØeyrœp∑V"  # Astrid
   female = yes
   dynasty = 502
   martial = 4
@@ -1160,7 +1160,7 @@
   }
 }
 100515 = {
-  name = "?ñúQ∑V"  # Anundr
+  name = "?ñ≤è∑V"  # Anundr
   dynasty = 502
   martial = 7
   diplomacy = 8
@@ -1182,7 +1182,7 @@
   }
 }
 100517 = {
-  name = "XbØeyr"  # Toste
+  name = "äØeyr"  # Toste
   dynasty = 500
   martial = 8
   diplomacy = 6
@@ -1220,7 +1220,7 @@
   }
 }
 100518 = {
-  name = "LNS+Y"  # Ulfr
+  name = "œpS+Y"  # Ulfr
   dynasty = 500
   martial = 4
   diplomacy = 7
@@ -1239,7 +1239,7 @@
   }
 }
 100519 = {
-  name = "â<hLN∑V"  # Sigrid
+  name = "â<hœp∑V"  # Sigrid
   female = yes
   dynasty = 500
   martial = 4
@@ -1260,7 +1260,7 @@
   }
 }
 100521 = {
-  name = "&OÊtS∑V"  # Rˆgnvaldr
+  name = "+PÊtS∑V"  # Rˆgnvaldr
   dynasty = 500
   martial = 5
   diplomacy = 6
@@ -1285,7 +1285,7 @@
   }
 }
 100532 = {
-  name = ")RÔQS"  # Likair
+  name = ")RÒQS"  # Likair
   dynasty = 495
   martial = 8
   diplomacy = 8
@@ -1305,7 +1305,7 @@
   }
 }
 100533 = {
-  name = "ôÑÔQS"  # Munkair
+  name = "ôÑÒQS"  # Munkair
   dynasty = 495
   martial = 7
   diplomacy = 8
@@ -1328,7 +1328,7 @@
   }
 }
 100534 = {
-  name = "WÍèeY∑V"  # Rodiaud
+  name = "ÖÍègY∑V"  # Rodiaud
   female = yes
   dynasty = 495
   martial = 6
@@ -1467,7 +1467,7 @@
   }
 }
 101505 = {
-  name = "Øe)n"  # Sveinn
+  name = "Øe´n"  # Sveinn
   dynasty = 490
   martial = 6
   diplomacy = 7
@@ -1560,7 +1560,7 @@
   }
 }
 101509 = {
-  name = "?ñØeyrLN∑V"  # Estrid
+  name = "?ñØeyrœp∑V"  # Estrid
   female = yes
   dynasty = 490
   martial = 4
@@ -1654,7 +1654,7 @@
   }
 }
 101514 = {
-  name = "Øe)n"  # Sveinn
+  name = "Øe´n"  # Sveinn
   dynasty = 490
   martial = 8
   diplomacy = 6
@@ -1692,7 +1692,7 @@
   }
 }
 101535 = {
-  name = "LNS+Y"  # Ulfr
+  name = "œpS+Y"  # Ulfr
   dynasty = 502
   martial = 6
   diplomacy = 4
@@ -1733,7 +1733,7 @@
   }
 }
 101541 = {
-  name = "LNS+Y"  # Ulfr
+  name = "œpS+Y"  # Ulfr
   dynasty = 1025000
   martial = 6
   diplomacy = 8
@@ -1878,7 +1878,7 @@
   }
 }
 102503 = {
-  name = "Xb‘k¶u"  # ﬁorbjˆrg
+  name = "ä‘k¶u"  # ﬁorbjˆrg
   female = yes
   dynasty = 499
   martial = 7
@@ -1943,7 +1943,7 @@
   }
 }
 102507 = {
-  name = "√WÃëKQ"  # Eirikr
+  name = "√W·àKQ"  # Eirikr
   dynasty = 499
   martial = 7
   diplomacy = 5
@@ -2109,7 +2109,7 @@
   }
 }
 102509 = {
-  name = "çSyr…bæè"  # Bertrada
+  name = "ùåSyr…bTê"  # Bertrada
   female = yes
   dynasty = 499
   martial = 8
@@ -2165,7 +2165,7 @@
   }
 }
 102512 = {
-  name = "ç<h¶uyr"  # Bergljot
+  name = "ùå<h¶uyr"  # Bergljot
   female = yes
   dynasty = 471
   martial = 8
@@ -2187,7 +2187,7 @@
   }
 }
 102513 = {
-  name = "&O^S∑V"  # Rˆgnhildr
+  name = "+P^S∑V"  # Rˆgnhildr
   female = yes
   dynasty = 471
   martial = 4
@@ -2207,7 +2207,7 @@
   }
 }
 102514 = {
-  name = "Øe)n"  # Sveinn
+  name = "Øe´n"  # Sveinn
   dynasty = 471
   martial = 8
   diplomacy = 6
@@ -2230,7 +2230,7 @@
   }
 }
 102515 = {
-  name = "â<hLN∑V"  # Sigrid
+  name = "â<hœp∑V"  # Sigrid
   female = yes
   dynasty = 471
   martial = 8
@@ -2252,7 +2252,7 @@
   }
 }
 102516 = {
-  name = "!ç^S∑V"  # Gunnhildr
+  name = "¢å^S∑V"  # Gunnhildr
   female = yes
   dynasty = 471
   martial = 5
@@ -2273,7 +2273,7 @@
   }
 }
 102517 = {
-  name = "√WÃëKQ"  # Eirikr
+  name = "√W·àKQ"  # Eirikr
   dynasty = 471
   martial = 4
   diplomacy = 8
@@ -2363,7 +2363,7 @@
   }
 }
 102522 = {
-  name = "OÊtS"  # Ivar
+  name = "%YÊtS"  # Ivar
   dynasty = 100273
   martial = 5
   diplomacy = 4
@@ -2405,7 +2405,7 @@
   }
 }
 102527 = {
-  name = "eY…b+Y"  # Olafr
+  name = "gY…b+Y"  # Olafr
   dynasty = 499
   martial = 7
   diplomacy = 4
@@ -2471,7 +2471,7 @@
   }
 }
 102541 = {
-  name = "?ñØeyrLN∑V"  # Astrid
+  name = "?ñØeyrœp∑V"  # Astrid
   female = yes
   dynasty = 459
   martial = 4
@@ -2491,7 +2491,7 @@
   }
 }
 102544 = {
-  name = "?ñØeyrLN∑V"  # Astrid
+  name = "?ñØeyrœp∑V"  # Astrid
   female = yes
   dynasty = 499
   martial = 6
@@ -2571,7 +2571,7 @@
   }
 }
 102548 = {
-  name = "?ñSÖQ"  # Arne
+  name = "?ñSgQ"  # Arne
   dynasty = 453
   martial = 7
   diplomacy = 8
@@ -2612,7 +2612,7 @@
   }
 }
 102550 = {
-  name = "XbSçÃë"  # ﬁorberg
+  name = "äSùåÃë"  # ﬁorberg
   dynasty = 453
   martial = 4
   diplomacy = 6
@@ -2635,7 +2635,7 @@
   }
 }
 102552 = {
-  name = "eY<hôÑ"  # Ogmundr
+  name = "gY<hôÑ"  # Ogmundr
   dynasty = 453
   martial = 7
   diplomacy = 7
@@ -2700,7 +2700,7 @@
   }
 }
 102556 = {
-  name = "XbS∑V"  # ﬁord
+  name = "äS∑V"  # ﬁord
   dynasty = 448
   martial = 5
   diplomacy = 4
@@ -2721,7 +2721,7 @@
   }
 }
 102559 = {
-  name = "pQÊókç"  # Rannveig
+  name = "-ÜÀókç"  # Rannveig
   female = yes
   dynasty = 447
   martial = 7
@@ -2762,7 +2762,7 @@
   }
 }
 102561 = {
-  name = "XbS∑V"  # ﬁord
+  name = "äS∑V"  # ﬁord
   dynasty = 447
   martial = 5
   diplomacy = 4
@@ -2803,7 +2803,7 @@
   }
 }
 102566 = {
-  name = "&O^S∑V"  # Rˆgnhildr
+  name = "+P^S∑V"  # Rˆgnhildr
   female = yes
   dynasty = 446
   martial = 8
@@ -2847,7 +2847,7 @@
   }
 }
 102572 = {
-  name = "»T+Y<h&O"  # Hafgrimr
+  name = "»T+Y<h+P"  # Hafgrimr
   dynasty = 445
   martial = 7
   diplomacy = 6
@@ -2865,7 +2865,7 @@
   }
 }
 102573 = {
-  name = "eY1t"  # ÷ssur
+  name = "gY1t"  # ÷ssur
   dynasty = 445
   martial = 7
   diplomacy = 7
@@ -3063,7 +3063,7 @@
   }
 }
 144002 = {
-  name = "eY…b+Y"  # Olafr
+  name = "gY…b+Y"  # Olafr
   dynasty = 499
   religion = "catholic"
   culture = norse
@@ -3077,7 +3077,7 @@
   }
 }
 144003 = {
-  name = "yrT<hÙu"  # Tryggve
+  name = "yrBT<hÙu"  # Tryggve
   dynasty = 499
   religion = "norse_pagan"
   culture = norse
@@ -3093,7 +3093,7 @@
   }
 }
 144004 = {
-  name = "eY…b+Y"  # Olafr
+  name = "gY…b+Y"  # Olafr
   dynasty = 499
   religion = "catholic"
   culture = norse
@@ -3121,7 +3121,7 @@
   }
 }
 144006 = {
-  name = "‰S∑VW∑V"  # Gurˆr
+  name = "‰S∑VÖ∑V"  # Gurˆr
   dynasty = 499
   religion = "norse_pagan"
   culture = norse
@@ -3160,7 +3160,7 @@
   }
 }
 161301 = {
-  name = "ÑSéNØel‡V"  # ÷ysteinn
+  name = "ÑSºeØel‡V"  # ÷ysteinn
   dynasty = 1043303
   religion = "norse_pagan"
   culture = norse
@@ -3185,7 +3185,7 @@
   }
 }
 161304 = {
-  name = "‰SXbS∆Y"  # Guttorm
+  name = "‰SäS∆Y"  # Guttorm
   dynasty = 1043303
   religion = "norse_pagan"
   culture = norse
@@ -3198,7 +3198,7 @@
   }
 }
 161305 = {
-  name = "ØeN^S∑V"  # Svanhildr
+  name = "Øe,Ñ^S∑V"  # Svanhildr
   female = yes
   dynasty = 1043303
   religion = "norse_pagan"
@@ -3226,7 +3226,7 @@
   }
 }
 161307 = {
-  name = "Wmg"  # Hrollaug
+  name = "Ömg"  # Hrollaug
   dynasty = 1043303
   religion = "norse_pagan"
   culture = norse
@@ -3257,7 +3257,7 @@
   }
 }
 161309 = {
-  name = "?ñi`ÔQS"  # Arnkell
+  name = "?ñi`ÒQS"  # Arnkell
   dynasty = 461
   religion = "norse_pagan"
   culture = norse
@@ -3271,7 +3271,7 @@
   }
 }
 161310 = {
-  name = "√WS&O∑V"  # Erlend
+  name = "√WS+P∑V"  # Erlend
   dynasty = 461
   religion = "norse_pagan"
   culture = norse
@@ -3336,7 +3336,7 @@
   }
 }
 161314 = {
-  name = "Ãë¶uyr"  # Ljot
+  name = "·à¶uyr"  # Ljot
   dynasty = 461
   religion = "norse_pagan"
   culture = norse
@@ -3370,7 +3370,7 @@
   }
 }
 161316 = {
-  name = "œÇlö)R"  # Sumarli
+  name = "Ü¨ô)R"  # Sumarli
   dynasty = 461
   religion = "catholic"
   culture = norse
@@ -3383,7 +3383,7 @@
   }
 }
 161317 = {
-  name = "^Åúâ"  # Brusi
+  name = "^oõâ"  # Brusi
   dynasty = 461
   religion = "catholic"
   culture = norse
@@ -3409,7 +3409,7 @@
   }
 }
 161319 = {
-  name = "&OÊtS∑V"  # Rˆgnvaldr
+  name = "+PÊtS∑V"  # Rˆgnvaldr
   dynasty = 461
   religion = "catholic"
   culture = norse
@@ -3422,7 +3422,7 @@
   }
 }
 161320 = {
-  name = "&O^S∑V"  # Rˆgnhildr
+  name = "+P^S∑V"  # Rˆgnhildr
   female = yes
   dynasty = 499
   religion = "catholic"
@@ -3450,7 +3450,7 @@
   }
 }
 161322 = {
-  name = "Xb˜ñ"  # ﬁorey
+  name = "ä˜ñ"  # ﬁorey
   dynasty = 1043303
   religion = "norse_pagan"
   culture = norse
@@ -3476,7 +3476,7 @@
   }
 }
 161324 = {
-  name = "1tSÍèN"  # ﬁordis
+  name = "1tSÍèr}"  # ﬁordis
   dynasty = 1043303
   religion = "norse_pagan"
   culture = norse
@@ -3489,7 +3489,7 @@
   }
 }
 161325 = {
-  name = "LNØe^KQ"  # Uspak
+  name = "œpØe^KQ"  # Uspak
   dynasty = 1043303
   religion = "catholic"
   culture = norse
@@ -3502,7 +3502,7 @@
   }
 }
 161326 = {
-  name = "œÇlö)R"  # Sumarli
+  name = "Ü¨ô)R"  # Sumarli
   dynasty = 1043303
   religion = "catholic"
   culture = norse
@@ -3515,7 +3515,7 @@
   }
 }
 163106 = {
-  name = "?ñúQ∑V"  # Anundr
+  name = "?ñ≤è∑V"  # Anundr
   dynasty = 502
   religion = "norse_pagan"
   culture = norse
@@ -3528,7 +3528,7 @@
   }
 }
 163107 = {
-  name = "√WÃëKQ"  # Eirikr
+  name = "√W·àKQ"  # Eirikr
   dynasty = 502
   religion = "norse_pagan"
   culture = norse
@@ -3575,7 +3575,7 @@
   }
 }
 6839 = {
-  name = "O)RâRZ"  # Iliana
+  name = "%Y)RâRZ"  # Iliana
   female = yes
   religion = "norse_pagan"
   culture = "norse"
@@ -3629,7 +3629,7 @@
   }
 }
 6836 = {
-  name = "?ñN≥R<h"  # Aslaug
+  name = "?ñr}ﬁR<h"  # Aslaug
   female = yes
   religion = "norse_pagan"
   culture = "norse"
@@ -3681,7 +3681,7 @@
   }
 }
 163111 = {
-  name = "OÊtS"  # Ivar
+  name = "%YÊtS"  # Ivar
   dna = gdtznlynibb
   properties = fj0dgd00000000000
   dynasty = 20084
@@ -3810,7 +3810,7 @@
   }
 }
 40608 = {
-  name = "â<hyrT<h"  # Sigtrygg
+  name = "â<hyrBT<h"  # Sigtrygg
   dynasty = 20084
   religion = "norse_pagan"
   culture = norse
@@ -3823,7 +3823,7 @@
   }
 }
 40609 = {
-  name = "â<hèyWyr"  # Sigfro˛
+  name = "â<hèyÖyr"  # Sigfro˛
   dynasty = 20084
   religion = "norse_pagan"
   culture = norse
@@ -3836,7 +3836,7 @@
   }
 }
 6814 = {
-  name = "ÙTÃë∑V"  # Barid
+  name = "ÙT·à∑V"  # Barid
   dynasty = 20084
   religion = "norse_pagan"
   culture = norse
@@ -4007,7 +4007,7 @@
   }
 }
 163119 = {
-  name = "LN‘k"  # Ubbe
+  name = "œp‘k"  # Ubbe
   dynasty = 7515
   religion = "norse_pagan"
   culture = norse
@@ -4098,7 +4098,7 @@
   }
 }
 167649 = {
-  name = "ÒÇ<hLN∑V"  # Ingrid
+  name = "ÒÇ<hœp∑V"  # Ingrid
   female = yes
   religion = "catholic"
   culture = norse
@@ -4110,7 +4110,7 @@
   }
 }
 101512 = {
-  name = "!ç^S∑V"  # Gunnhildr
+  name = "¢å^S∑V"  # Gunnhildr
   female = yes
   dynasty = 490
   martial = 4
@@ -4132,7 +4132,7 @@
   }
 }
 101504 = {
-  name = "!ç^S∑V"  # Gunnhildr
+  name = "¢å^S∑V"  # Gunnhildr
   female = yes
   dynasty = 490
   martial = 6
@@ -4193,7 +4193,7 @@
   }
 }
 166332 = {
-  name = "‘köN∑V<S"  # Bjarni
+  name = "‘kûN∑V<S"  # Bjarni
   dynasty = 1040003
   religion = "norse_pagan"
   culture = norse
@@ -4205,7 +4205,7 @@
   }
 }
 166040 = {
-  name = "çÇ)n∑V"  # Eyvindr
+  name = "çÇ´n∑V"  # Eyvindr
   dynasty = 1040003
   religion = "norse_pagan"
   culture = norse
@@ -4293,7 +4293,7 @@
   }
 }
 166329 = {
-  name = "√WÃëKQ"  # Eirikr
+  name = "√W·àKQ"  # Eirikr
   dynasty = 1040004
   religion = "norse_pagan"
   culture = norse
@@ -4319,7 +4319,7 @@
   }
 }
 166045 = {
-  name = "VWÍè"  # Froi
+  name = "VÖÍè"  # Froi
   female = yes
   dynasty = 499
   religion = "norse_pagan"
@@ -4389,7 +4389,7 @@
   }
 }
 451000 = {
-  name = "éNSZ"  # Ylva
+  name = "ºeSZ"  # Ylva
   female = yes
   dynasty = 490
   martial = 6
@@ -4410,7 +4410,7 @@
   }
 }
 451001 = {
-  name = "eYSÿû"  # Ormr
+  name = "gYSÿû"  # Ormr
   female = no
   martial = 6
   diplomacy = 4
@@ -4435,7 +4435,7 @@
   }
 }
 451002 = {
-  name = "eY<S"  # Oddny
+  name = "gY<S"  # Oddny
   female = yes
   martial = 6
   diplomacy = 4
@@ -4455,7 +4455,7 @@
   }
 }
 451003 = {
-  name = "bS∑Vs|…b"  # Ludmila
+  name = "Áv∑Vs|…b"  # Ludmila
   female = yes
   martial = 6
   diplomacy = 4
@@ -4494,7 +4494,7 @@
   }
 }
 451005 = {
-  name = "ØeÊtXb"  # Svarthˆfde
+  name = "ØeÊtä"  # Svarthˆfde
   female = no
   martial = 6
   diplomacy = 4
@@ -4515,7 +4515,7 @@
   }
 }
 167715 = {
-  name = "&OÊtS∑V"  # Rˆgnvaldr
+  name = "+PÊtS∑V"  # Rˆgnvaldr
   dynasty = 1029
   religion = "norse_pagan"
   culture = "norse"
@@ -4527,7 +4527,7 @@
   }
 }
 167716 = {
-  name = "kçWS+Y"  # Hrolfr
+  name = "kçÖS+Y"  # Hrolfr
   dynasty = 1029
   religion = "norse_pagan"
   culture = "norse"
@@ -4555,7 +4555,7 @@
   }
 }
 167718 = {
-  name = "eY…b+Y"  # Olafr
+  name = "gY…b+Y"  # Olafr
   dynasty = 1030
   religion = "norse_pagan"
   culture = "norse"
@@ -4583,7 +4583,7 @@
   }
 }
 167720 = {
-  name = "ÒÇ<hôÇÃë∑V"  # Ingfrid
+  name = "ÒÇ<hôÇ·à∑V"  # Ingfrid
   female = yes
   religion = "norse_pagan"
   culture = "norse"
@@ -4635,7 +4635,7 @@
   }
 }
 167724 = {
-  name = "OÊtS"  # Ivar
+  name = "%YÊtS"  # Ivar
   dynasty = 1032
   religion = "norse_pagan"
   culture = "norse"
@@ -4647,7 +4647,7 @@
   }
 }
 186004 = {
-  name = "&OÊtS∑V"  # Rˆgnvaldr
+  name = "+PÊtS∑V"  # Rˆgnvaldr
   dynasty = 1043303
   religion = "norse_pagan"
   culture = "norse"
@@ -4672,7 +4672,7 @@
   }
 }
 186007 = {
-  name = "1tÃëS"  # Thorir
+  name = "1t·àS"  # Thorir
   dynasty = 1043303
   religion = "norse_pagan"
   culture = "norse"
@@ -4689,7 +4689,7 @@
   }
 }
 186002 = {
-  name = "pg¶uyr†R∑V"  # Grjotgard
+  name = "ëP¶uyr†R∑V"  # Grjotgard
   dynasty = 1043302
   religion = "norse_pagan"
   culture = "norse"
@@ -4714,7 +4714,7 @@
   }
 }
 186000 = {
-  name = "eYTXS"  # Ottar
+  name = "gYTXS"  # Ottar
   dynasty = 1043300
   religion = "norse_pagan"
   culture = "norse"
@@ -4726,7 +4726,7 @@
   }
 }
 186016 = {
-  name = "eY…b+Y"  # Olafr
+  name = "gY…b+Y"  # Olafr
   dynasty = 1043308
   religion = "norse_pagan"
   culture = "norse"
@@ -4750,7 +4750,7 @@
   }
 }
 186017 = {
-  name = "W?ñS∑V"  # Roald
+  name = "Ö?ñS∑V"  # Roald
   dynasty = 1043307
   religion = "norse_pagan"
   culture = "norse"
@@ -4774,7 +4774,7 @@
   }
 }
 186012 = {
-  name = "Xb˜ñ"  # Tore
+  name = "ä˜ñ"  # Tore
   dynasty = 1043304
   religion = "norse_pagan"
   culture = "norse"
@@ -4787,7 +4787,7 @@
   }
 }
 186014 = {
-  name = "kçSöNSØe%m"  # Heljarskinn
+  name = "kçSûNSØe%m"  # Heljarskinn
   dynasty = 1043306
   religion = "norse_pagan"
   culture = "norse"
@@ -4799,7 +4799,7 @@
   }
 }
 186013 = {
-  name = "√WÃëKQ"  # Eirikr
+  name = "√W·àKQ"  # Eirikr
   dynasty = 1043305
   religion = "norse_pagan"
   culture = "norse"
@@ -4872,7 +4872,7 @@
   }
 }
 1761 = {
-  name = "çÇôÇY	TZ"  # Eudokia
+  name = "çÇôÇY	TmZ"  # Eudokia
   female = yes
   dynasty = 1022158
   martial = 4
@@ -4934,7 +4934,7 @@
   }
 }
 167779 = {
-  name = "gôÇÃë∑V"  # Ragnfrid
+  name = "gôÇ·à∑V"  # Ragnfrid
   dynasty = 9552
   religion = "norse_pagan"
   culture = "norse"
@@ -4976,7 +4976,7 @@
   }
 }
 167782 = {
-  name = "kçWÃëKQ"  # Hrˆrekr
+  name = "kçÖ·àKQ"  # Hrˆrekr
   dynasty = 9552
   religion = "norse_pagan"
   culture = "norse"
@@ -5005,7 +5005,7 @@
   }
 }
 180257 = {
-  name = "†Ræè"  # Garar
+  name = "†RTê"  # Garar
   dynasty = 1042061
   religion = "norse_pagan"
   culture = "norse"
@@ -5017,7 +5017,7 @@
   }
 }
 180258 = {
-  name = "LN<S"  # Uni
+  name = "œp<S"  # Uni
   dynasty = 1042061
   religion = "norse_pagan"
   culture = "norse"
@@ -5042,7 +5042,7 @@
   }
 }
 168317 = {
-  name = "ÑSéNØel‡V"  # ÷ysteinn
+  name = "ÑSºeØel‡V"  # ÷ysteinn
   dynasty = 499
   religion = "norse_pagan"
   culture = "norse"
@@ -5055,7 +5055,7 @@
   }
 }
 168318 = {
-  name = "‰S∑VW∑V"  # Gurˆr
+  name = "‰S∑VÖ∑V"  # Gurˆr
   dynasty = 499
   religion = "norse_pagan"
   culture = "norse"
@@ -5081,7 +5081,7 @@
   }
 }
 168320 = {
-  name = "‰S∑VW∑V"  # Gurˆr
+  name = "‰S∑VÖ∑V"  # Gurˆr
   dynasty = 499
   religion = "norse_pagan"
   culture = "norse"
@@ -5094,7 +5094,7 @@
   }
 }
 168321 = {
-  name = "eY…b+Y"  # Olafr
+  name = "gY…b+Y"  # Olafr
   dynasty = 499
   religion = "norse_pagan"
   culture = "norse"
@@ -5107,7 +5107,7 @@
   }
 }
 168322 = {
-  name = "&OÊtS∑V"  # Rˆgnvaldr
+  name = "+PÊtS∑V"  # Rˆgnvaldr
   dynasty = 499
   religion = "norse_pagan"
   culture = "norse"
@@ -5164,7 +5164,7 @@
   }
 }
 168326 = {
-  name = "‰S∑VW∑V"  # Gurˆr
+  name = "‰S∑VÖ∑V"  # Gurˆr
   dynasty = 499
   religion = "norse_pagan"
   culture = "norse"
@@ -5177,7 +5177,7 @@
   }
 }
 168327 = {
-  name = "XbS"  # ﬁor
+  name = "äS"  # ﬁor
   dynasty = 499
   religion = "norse_pagan"
   culture = "norse"
@@ -5203,7 +5203,7 @@
   }
 }
 168329 = {
-  name = "XbS"  # ﬁor
+  name = "äS"  # ﬁor
   dynasty = 499
   religion = "norse_pagan"
   culture = "norse"
@@ -5216,7 +5216,7 @@
   }
 }
 168330 = {
-  name = "eY…b+Y"  # Olafr
+  name = "gY…b+Y"  # Olafr
   dynasty = 499
   religion = "norse_pagan"
   culture = "norse"
@@ -5232,7 +5232,7 @@
   }
 }
 168331 = {
-  name = "ÑSéNØel‡V"  # ÷ysteinn
+  name = "ÑSºeØel‡V"  # ÷ysteinn
   dynasty = 499
   religion = "norse_pagan"
   culture = "norse"
@@ -5274,7 +5274,7 @@
   }
 }
 168335 = {
-  name = "â<hVÃë∑V"  # Sigfri
+  name = "â<hV·à∑V"  # Sigfri
   dynasty = 7514
   religion = "norse_pagan"
   culture = norse
@@ -5288,7 +5288,7 @@
   }
 }
 168336 = {
-  name = "‰S∑VVÃë∑V"  # Gufri
+  name = "‰S∑VV·à∑V"  # Gufri
   dynasty = 7514
   religion = "norse_pagan"
   culture = norse
@@ -5308,7 +5308,7 @@
   }
 }
 168337 = {
-  name = "&O^S∑V"  # Rˆgnhildr
+  name = "+P^S∑V"  # Rˆgnhildr
   female = yes
   dynasty = 7514
   religion = "catholic"
@@ -5323,7 +5323,7 @@
   }
 }
 168338 = {
-  name = "â<hVÃë∑V"  # Sigfri
+  name = "â<hV·à∑V"  # Sigfri
   dynasty = 7514
   religion = "norse_pagan"
   culture = norse
@@ -5351,7 +5351,7 @@
   }
 }
 168340 = {
-  name = "eY∑VOØeS"  # Audgisl
+  name = "gY∑V%YØeS"  # Audgisl
   dynasty = 7514
   religion = "norse_pagan"
   culture = norse
@@ -5365,7 +5365,7 @@
   }
 }
 168341 = {
-  name = "OÊtS"  # Ivar
+  name = "%YÊtS"  # Ivar
   dynasty = 7514
   religion = "norse_pagan"
   culture = norse
@@ -5392,7 +5392,7 @@
   }
 }
 168343 = {
-  name = "kçWkgS+Y"  # Hroulfr
+  name = "kçÖkgS+Y"  # Hroulfr
   dynasty = 9552
   religion = "norse_pagan"
   culture = "norse"
@@ -5439,7 +5439,8 @@
   }
 }
 168367 = {
-  name = "kç±ÉKQ"  # H‰rek
+  name = "kç
+ÑKQ"  # H‰rek
   dynasty = 9589
   religion = "norse_pagan"
   culture = "norse"
@@ -5458,7 +5459,7 @@
   }
 }
 168368 = {
-  name = "kçWÃëKQ"  # Hrˆrekr
+  name = "kçÖ·àKQ"  # Hrˆrekr
   dynasty = 9589
   religion = "norse_pagan"
   culture = "norse"
@@ -5476,7 +5477,7 @@
   }
 }
 168369 = {
-  name = "^S∑VÃëæè"  # Hildrida
+  name = "^S∑V·àTê"  # Hildrida
   female = yes
   religion = "norse_pagan"
   culture = "norse"
@@ -5516,7 +5517,7 @@
   }
 }
 168500 = {
-  name = "‰S∑VVÃë∑V"  # Gufri
+  name = "‰S∑VV·à∑V"  # Gufri
   dynasty = 20084
   religion = "norse_pagan"
   culture = norse
@@ -5529,7 +5530,7 @@
   }
 }
 168609 = {
-  name = "çÇéN∑V"  # Aur
+  name = "çÇºe∑V"  # Aur
   female = yes
   dynasty = 9612
   religion = "norse_pagan"
@@ -5544,7 +5545,7 @@
   }
 }
 168610 = {
-  name = "ÔQÇÑS"  # Ketill
+  name = "ÒQÇÑS"  # Ketill
   dynasty = 9612
   religion = "norse_pagan"
   culture = "norse"
@@ -5572,7 +5573,7 @@
   }
 }
 168612 = {
-  name = "ObÙu∑V"  # Yngvild
+  name = "%YbÙu∑V"  # Yngvild
   female = yes
   religion = "norse_pagan"
   culture = "norse"
@@ -5612,7 +5613,7 @@
   }
 }
 168615 = {
-  name = "XbSfe"  # ﬁordunn
+  name = "äSfe"  # ﬁordunn
   female = yes
   dynasty = 9612
   religion = "norse_pagan"
@@ -5627,7 +5628,7 @@
   }
 }
 168616 = {
-  name = "¶u&O"  # Jorunn
+  name = "¶u+P"  # Jorunn
   female = yes
   dynasty = 9612
   religion = "norse_pagan"
@@ -5690,7 +5691,7 @@
   }
 }
 168633 = {
-  name = "â<hVÃë∑V"  # Sigfri
+  name = "â<hV·à∑V"  # Sigfri
   dynasty = 9552
   religion = "norse_pagan"
   culture = "norse"
@@ -5729,7 +5730,7 @@
   }
 }
 168636 = {
-  name = "kçWS+Y"  # Hrolfr
+  name = "kçÖS+Y"  # Hrolfr
   dynasty = 9552
   religion = "norse_pagan"
   culture = "norse"
@@ -5755,7 +5756,7 @@
   }
 }
 168638 = {
-  name = "â<hVÃë∑V"  # Sigfri
+  name = "â<hV·à∑V"  # Sigfri
   dynasty = 9552
   religion = "norse_pagan"
   culture = "norse"
@@ -5831,7 +5832,7 @@
   }
 }
 168646 = {
-  name = "!çS"  # Gunnor
+  name = "¢åS"  # Gunnor
   female = yes
   dynasty = 9552
   religion = "norse_pagan"
@@ -5872,7 +5873,7 @@
   }
 }
 168649 = {
-  name = "&O^S∑V"  # Rˆgnhildr
+  name = "+P^S∑V"  # Rˆgnhildr
   female = yes
   dynasty = 9613
   religion = "norse_pagan"
@@ -5887,7 +5888,7 @@
   }
 }
 168650 = {
-  name = "‰SXbS∆Y"  # Guttorm
+  name = "‰SäS∆Y"  # Guttorm
   dynasty = 9613
   religion = "norse_pagan"
   culture = "norse"
@@ -5906,7 +5907,7 @@
   }
 }
 183900 = {
-  name = "1r∑VÃë"  # Eindride
+  name = "a∑V·à"  # Eindride
   dynasty = 451
   religion = "norse_pagan"
   culture = "norse"
@@ -5919,7 +5920,7 @@
   }
 }
 183901 = {
-  name = "1r∑VÃë"  # Eindride
+  name = "a∑V·à"  # Eindride
   dynasty = 451
   religion = "catholic"
   culture = "norse"
@@ -5934,7 +5935,7 @@
   }
 }
 180680 = {
-  name = "eYæè"  # Oda
+  name = "gYTê"  # Oda
   religion = "catholic"
   culture = "norse"
   add_trait = "mastermind_theologian"
@@ -6012,7 +6013,7 @@
   }
 }
 194008 = {
-  name = "÷vS"  # Geir
+  name = "ÀÑS"  # Geir
   dynasty = 1045010
   religion = "norse_pagan"
   culture = norse
@@ -6040,7 +6041,7 @@
   }
 }
 194010 = {
-  name = "eY∑V"  # Oddr
+  name = "gY∑V"  # Oddr
   dynasty = 822
   religion = norse_pagan
   culture = norse
@@ -6112,7 +6113,7 @@
   }
 }
 194016 = {
-  name = "eYÊtS"  # ÷rvar
+  name = "gYÊtS"  # ÷rvar
   dynasty = 1045013
   religion = norse_pagan
   culture = norse
@@ -6124,7 +6125,7 @@
   }
 }
 194017 = {
-  name = "LNS+Y"  # Ulfr
+  name = "œpS+Y"  # Ulfr
   dynasty = 1045014
   religion = norse_pagan
   culture = norse
@@ -6136,7 +6137,7 @@
   }
 }
 194018 = {
-  name = "eYSÿû"  # Ormr
+  name = "gYSÿû"  # Ormr
   dynasty = 1045015
   religion = norse_pagan
   culture = norse
@@ -6148,7 +6149,7 @@
   }
 }
 194019 = {
-  name = "â<hyrT<h"  # Sigtrygg
+  name = "â<hyrBT<h"  # Sigtrygg
   dynasty = 1045018
   religion = norse_pagan
   culture = norse
@@ -6184,7 +6185,7 @@
   }
 }
 194022 = {
-  name = "yrT<hÙu"  # Tryggve
+  name = "yrBT<hÙu"  # Tryggve
   dynasty = 1183
   religion = norse_pagan
   culture = norse
@@ -6208,7 +6209,7 @@
   }
 }
 194027 = {
-  name = "OÊtS"  # Ivar
+  name = "%YÊtS"  # Ivar
   dynasty = 1045002
   religion = norse_pagan
   culture = norse
@@ -6220,7 +6221,7 @@
   }
 }
 194028 = {
-  name = "pQ∑VV"  # Randver
+  name = "-Ü∑VV"  # Randver
   dynasty = 502
   religion = norse_pagan
   culture = norse
@@ -6233,7 +6234,7 @@
   }
 }
 194029 = {
-  name = "ÊtSæè"  # Valdar
+  name = "ÊtSTê"  # Valdar
   dynasty = 502
   religion = norse_pagan
   culture = norse
@@ -6246,7 +6247,7 @@
   }
 }
 194030 = {
-  name = "eY…b+Y"  # Olafr
+  name = "gY…b+Y"  # Olafr
   dynasty = 502
   religion = norse_pagan
   culture = norse
@@ -6259,7 +6260,7 @@
   }
 }
 194031 = {
-  name = "‡V	TöNS∑V"  # Ingjald
+  name = "‡V	TûNS∑V"  # Ingjald
   dynasty = 502
   religion = norse_pagan
   culture = norse
@@ -6272,7 +6273,7 @@
   }
 }
 194032 = {
-  name = "?ñúQ∑V"  # Anundr
+  name = "?ñ≤è∑V"  # Anundr
   dynasty = 502
   religion = norse_pagan
   culture = norse
@@ -6284,7 +6285,7 @@
   }
 }
 194033 = {
-  name = "ÒÇmS"  # Ingild
+  name = "ÒÇToS"  # Ingild
   dynasty = 502
   religion = norse_pagan
   culture = norse
@@ -6301,7 +6302,7 @@
   }
 }
 194034 = {
-  name = "çÇéN∑V"  # Aur
+  name = "çÇºe∑V"  # Aur
   dynasty = 1045002
   religion = norse_pagan
   culture = norse
@@ -6315,7 +6316,7 @@
   }
 }
 194035 = {
-  name = "kçWÃëKQ"  # Hrˆrekr
+  name = "kçÖ·àKQ"  # Hrˆrekr
   dynasty = 102013
   religion = norse_pagan
   culture = norse
@@ -6327,7 +6328,7 @@
   }
 }
 194036 = {
-  name = "∑VpQ∑V"  # ﬁr·ndr
+  name = "∑V-Ü∑V"  # ﬁr·ndr
   dynasty = 102013
   religion = norse_pagan
   culture = norse
@@ -6341,7 +6342,7 @@
   }
 }
 194037 = {
-  name = "kçWÃëKQ"  # Hrˆrekr
+  name = "kçÖ·àKQ"  # Hrˆrekr
   dynasty = 102013
   religion = norse_pagan
   culture = norse
@@ -6358,7 +6359,7 @@
   }
 }
 194038 = {
-  name = "&OôÇLN∑V"  # Rˆgnfri
+  name = "+PôÇœp∑V"  # Rˆgnfri
   religion = norse_pagan
   culture = norse
   female = yes
@@ -6373,7 +6374,7 @@
   }
 }
 194039 = {
-  name = "1tWS+Y"  # ﬁorolfr
+  name = "1tÖS+Y"  # ﬁorolfr
   dynasty = 102013
   religion = norse_pagan
   culture = norse
@@ -6399,7 +6400,7 @@
   }
 }
 180771 = {
-  name = "W¸f∑V"  # HrÛmundar
+  name = "Ö¸f∑V"  # HrÛmundar
   dynasty = 1043504
   religion = "norse_pagan"
   culture = "norse"
@@ -6452,7 +6453,7 @@
   }
 }
 180777 = {
-  name = "W?ñ∑V"  # HrÛaldur
+  name = "Ö?ñ∑V"  # HrÛaldur
   dynasty = 1043504
   religion = "norse_pagan"
   culture = "norse"
@@ -6465,7 +6466,7 @@
   }
 }
 180778 = {
-  name = "W∑Vlö"  # HrÛmar
+  name = "Ö∑V¨ô"  # HrÛmar
   dynasty = 1043504
   religion = "norse_pagan"
   culture = "norse"
@@ -6478,7 +6479,8 @@
   }
 }
 180779 = {
-  name = "¶u±É"  # Hjˆrleifr
+  name = "¶u
+Ñ"  # Hjˆrleifr
   dynasty = 1043504
   religion = "norse_pagan"
   culture = "norse"
@@ -6494,7 +6496,7 @@
   }
 }
 194045 = {
-  name = "VWÍè"  # Froi
+  name = "VÖÍè"  # Froi
   dynasty = 1045009
   religion = norse_pagan
   culture = norse
@@ -6506,7 +6508,7 @@
   }
 }
 194046 = {
-  name = "eY∑V"  # Oddr
+  name = "gY∑V"  # Oddr
   dynasty = 825
   religion = "norse_pagan"
   culture = norse
@@ -6519,7 +6521,7 @@
   }
 }
 194047 = {
-  name = "VWÍè"  # Froi
+  name = "VÖÍè"  # Froi
   dynasty = 825
   religion = "norse_pagan"
   culture = norse
@@ -6532,7 +6534,7 @@
   }
 }
 194048 = {
-  name = "Øeì^)R"  # Skuli
+  name = "Øe´^)R"  # Skuli
   dynasty = 825
   religion = "norse_pagan"
   culture = norse
@@ -6571,7 +6573,7 @@
   }
 }
 194051 = {
-  name = "mgÖQ"  # Hˆgne
+  name = "mggQ"  # Hˆgne
   dynasty = 821
   religion = norse_pagan
   culture = norse
@@ -6622,7 +6624,7 @@
   }
 }
 194055 = {
-  name = "√WÃëKQ"  # Eirikr
+  name = "√W·àKQ"  # Eirikr
   dynasty = 1045021
   religion = norse_pagan
   culture = norse
@@ -6651,7 +6653,7 @@
   }
 }
 194057 = {
-  name = "&OôÇLN∑V"  # Rˆgnfri
+  name = "+PôÇœp∑V"  # Rˆgnfri
   female = yes
   religion = norse_pagan
   culture = norse
@@ -6702,7 +6704,7 @@
   }
 }
 194061 = {
-  name = "yrT<hÙu"  # Tryggve
+  name = "yrBT<hÙu"  # Tryggve
   dynasty = 1045020
   religion = norse_pagan
   culture = norse
@@ -6740,7 +6742,7 @@
   }
 }
 214081 = {
-  name = "XbFzS"  # ﬁormÛr
+  name = "äFzS"  # ﬁormÛr
   dynasty = 1043504
   religion = norse_pagan
   culture = norse
@@ -6756,7 +6758,7 @@
   }
 }
 214082 = {
-  name = "»TlöS"  # Hamal
+  name = "»T¨ôS"  # Hamal
   dynasty = 1043504
   religion = catholic
   culture = norse
@@ -6781,7 +6783,7 @@
   }
 }
 280000 = {
-  name = "?ñS+Y÷vS"  # Alfgeir
+  name = "?ñS+YÀÑS"  # Alfgeir
   dynasty = 1062033
   religion = norse_pagan
   culture = norse
@@ -6793,7 +6795,7 @@
   }
 }
 280001 = {
-  name = "ØeÊóKQ"  # Sverker
+  name = "ØeÀóKQ"  # Sverker
   dynasty = 1062034
   religion = norse_pagan
   culture = norse
@@ -6829,7 +6831,7 @@
   }
 }
 280020 = {
-  name = "yrÃë<hÊó"  # Tryggve
+  name = "yrÃë<hÀó"  # Tryggve
   dynasty = 1062038
   religion = norse_pagan
   culture = norse
@@ -6865,7 +6867,7 @@
   }
 }
 280023 = {
-  name = "?ñS+Y÷vS"  # Alfgeir
+  name = "?ñS+YÀÑS"  # Alfgeir
   dynasty = 1062041
   religion = norse_pagan
   culture = norse
@@ -6877,7 +6879,8 @@
   }
 }
 280024 = {
-  name = "?ñ±É"  # Ale
+  name = "?ñ
+Ñ"  # Ale
   dynasty = 1062041
   religion = norse_pagan
   culture = norse
@@ -6889,7 +6892,7 @@
   }
 }
 280025 = {
-  name = "kçW∑V†RS"  # Hrogar
+  name = "kçÖ∑V†RS"  # Hrogar
   dynasty = 1062042
   religion = norse_pagan
   culture = norse
@@ -6901,7 +6904,7 @@
   }
 }
 214900 = {
-  name = "‰S∑VVÃë∑V"  # Gufri
+  name = "‰S∑VV·à∑V"  # Gufri
   dynasty = 20084
   religion = norse_pagan
   culture = norse
@@ -6914,7 +6917,7 @@
   }
 }
 214901 = {
-  name = "‰S∑VVÃë∑V"  # Gufri
+  name = "‰S∑VV·à∑V"  # Gufri
   dynasty = 20084
   religion = norse_pagan
   culture = norse
@@ -6927,7 +6930,7 @@
   }
 }
 214902 = {
-  name = "&OÊtS∑V"  # Rˆgnvaldr
+  name = "+PÊtS∑V"  # Rˆgnvaldr
   dynasty = 20084
   religion = norse_pagan
   culture = norse
@@ -6940,7 +6943,7 @@
   }
 }
 214903 = {
-  name = "^≥RwÃë"  # Bl·k·ri
+  name = "^ﬁRw·à"  # Bl·k·ri
   dynasty = 20084
   religion = norse_pagan
   culture = norse
@@ -6953,7 +6956,7 @@
   }
 }
 214904 = {
-  name = "eY…b+Y"  # Olafr
+  name = "gY…b+Y"  # Olafr
   dynasty = 20084
   religion = norse_pagan
   culture = norse
@@ -6986,7 +6989,7 @@
   }
 }
 214906 = {
-  name = "OÊtS"  # Ivar
+  name = "%YÊtS"  # Ivar
   dynasty = 20084
   religion = norse_pagan
   culture = norse
@@ -7012,7 +7015,7 @@
   }
 }
 214908 = {
-  name = "löì^Øe"  # Maccus
+  name = "¨ô´^Øe"  # Maccus
   dynasty = 20084
   religion = norse_pagan
   culture = norse
@@ -7025,7 +7028,7 @@
   }
 }
 214909 = {
-  name = "‰S∑VVÃë∑V"  # Gufri
+  name = "‰S∑VV·à∑V"  # Gufri
   dynasty = 20084
   religion = norse_pagan
   culture = norse
@@ -7038,7 +7041,7 @@
   }
 }
 214912 = {
-  name = "&OÊtS∑V"  # Rˆgnvaldr
+  name = "+PÊtS∑V"  # Rˆgnvaldr
   dynasty = 20084
   religion = norse_pagan
   culture = norse
@@ -7051,7 +7054,7 @@
   }
 }
 214913 = {
-  name = "&OÊtS∑V"  # Rˆgnvaldr
+  name = "+PÊtS∑V"  # Rˆgnvaldr
   dynasty = 20084
   religion = norse_pagan
   culture = norse
@@ -7064,7 +7067,7 @@
   }
 }
 214924 = {
-  name = "ÊtØelö≥Ri`"  # Uathmar·n
+  name = "ÊtØe¨ôﬁRi`"  # Uathmar·n
   dynasty = 20084
   religion = norse_pagan
   culture = norse
@@ -7089,7 +7092,7 @@
   }
 }
 310019 = {
-  name = "Øe)n"  # Svend
+  name = "Øe´n"  # Svend
   religion = norse_pagan
   culture = norse
   dynasty = 1062002
@@ -7101,7 +7104,7 @@
   }
 }
 310020 = {
-  name = "ÊtS∑VlöS"  # Valdemar
+  name = "ÊtS∑V¨ôS"  # Valdemar
   religion = norse_pagan
   culture = norse
   dynasty = 1062003
@@ -7125,7 +7128,7 @@
   }
 }
 310022 = {
-  name = "kçWS+Y"  # Hrolfr
+  name = "kçÖS+Y"  # Hrolfr
   religion = norse_pagan
   culture = norse
   dynasty = 1062005
@@ -7149,7 +7152,7 @@
   }
 }
 310024 = {
-  name = "!ç≥uS"  # Gunnarr
+  name = "¢å≥uS"  # Gunnarr
   religion = norse_pagan
   culture = norse
   dynasty = 1062007
@@ -7161,7 +7164,7 @@
   }
 }
 310025 = {
-  name = "?ñúQ∑V"  # Anundr
+  name = "?ñ≤è∑V"  # Anundr
   religion = norse_pagan
   culture = norse
   dynasty = 1062008
@@ -7188,7 +7191,7 @@
   }
 }
 260517 = {
-  name = "!ç≥uS"  # Gunnarr
+  name = "¢å≥uS"  # Gunnarr
   religion = norse_pagan
   culture = norse
   dynasty = 1062206
@@ -7205,7 +7208,7 @@
   }
 }
 260518 = {
-  name = "ÔQ–c‘k¶ui`"  # Ketilbjˆrn
+  name = "ÒQ–c‘k¶ui`"  # Ketilbjˆrn
   religion = norse_pagan
   culture = norse
   dynasty = 479
@@ -7222,7 +7225,7 @@
   }
 }
 260519 = {
-  name = "&O^S∑V"  # Rˆgnhildr
+  name = "+P^S∑V"  # Rˆgnhildr
   female = yes
   religion = norse_pagan
   culture = norse
@@ -7354,7 +7357,7 @@
   }
 }
 260557 = {
-  name = "kç…b∑ã"  # Hrane
+  name = "kç…b%ä"  # Hrane
   dynasty = 1062231
   religion = norse_pagan
   culture = norse
@@ -7371,7 +7374,8 @@
   }
 }
 260558 = {
-  name = "?ñ±É"  # Ale
+  name = "?ñ
+Ñ"  # Ale
   dynasty = 1062232
   religion = norse_pagan
   culture = norse
@@ -7433,7 +7437,7 @@
   }
 }
 260562 = {
-  name = "VWÍè"  # Frodi
+  name = "VÖÍè"  # Frodi
   dynasty = 1062236
   religion = norse_pagan
   culture = norse
@@ -7450,7 +7454,7 @@
   }
 }
 260563 = {
-  name = "√WÃëKQ"  # Erikr
+  name = "√W·àKQ"  # Erikr
   dynasty = 1062237
   religion = norse_pagan
   culture = norse
@@ -7518,7 +7522,7 @@
   }
 }
 260567 = {
-  name = "!ç“R∑V"  # Gunr¯d
+  name = "¢å“R∑V"  # Gunr¯d
   dynasty = 1062241
   religion = norse_pagan
   culture = norse
@@ -7532,7 +7536,7 @@
   }
 }
 260602 = {
-  name = "&OÊtS∑V"  # Rˆgnvaldr
+  name = "+PÊtS∑V"  # Rˆgnvaldr
   dynasty = 1062258
   religion = norse_pagan
   culture = norse
@@ -7571,7 +7575,7 @@
   }
 }
 261139 = {
-  name = "wm&OZ"  # Helena
+  name = "wm+PZ"  # Helena
   female = yes
   religion = norse_pagan
   culture = norse
@@ -7598,7 +7602,7 @@
   }
 }
 261141 = {
-  name = "kç…b∑ã"  # Hrane
+  name = "kç…b%ä"  # Hrane
   dynasty = 1062206
   religion = norse_pagan
   culture = norse
@@ -7612,7 +7616,7 @@
   }
 }
 261142 = {
-  name = "!ç≥uS"  # Gunnarr
+  name = "¢å≥uS"  # Gunnarr
   dynasty = 1062206
   religion = norse_pagan
   culture = norse
@@ -7626,7 +7630,7 @@
   }
 }
 261143 = {
-  name = "<heYS<h"  # Georg
+  name = "<hgYS<h"  # Georg
   dynasty = 479
   religion = norse_pagan
   culture = norse
@@ -7641,7 +7645,7 @@
   }
 }
 261144 = {
-  name = "^XââÉöN"  # Cecilia
+  name = "^XââÉûN"  # Cecilia
   female = yes
   religion = norse_pagan
   culture = norse
@@ -7653,7 +7657,7 @@
   }
 }
 261145 = {
-  name = "wm&OZ"  # Helena
+  name = "wm+PZ"  # Helena
   female = yes
   religion = norse_pagan
   culture = norse
@@ -7705,7 +7709,7 @@
   }
 }
 261149 = {
-  name = "OÊtS"  # Ivar
+  name = "%YÊtS"  # Ivar
   dynasty = 1062205
   religion = norse_pagan
   culture = norse
@@ -7820,7 +7824,7 @@
   }
 }
 261157 = {
-  name = "?ñN≥R<h"  # Aslaug
+  name = "?ñr}ﬁR<h"  # Aslaug
   female = yes
   dynasty = 1062566
   religion = norse_pagan
@@ -7833,7 +7837,7 @@
   }
 }
 261158 = {
-  name = "çZTX"  # Beata
+  name = "ùåmZTX"  # Beata
   female = yes
   dynasty = 1062567
   religion = norse_pagan
@@ -7846,7 +7850,7 @@
   }
 }
 261159 = {
-  name = "eYm+Y"  # ≈lov
+  name = "gYm+Y"  # ≈lov
   female = yes
   dynasty = 499
   religion = norse_pagan
@@ -7860,7 +7864,7 @@
   }
 }
 261160 = {
-  name = "eYbS’l"  # Oluffa
+  name = "gYÁv’l"  # Oluffa
   female = yes
   dynasty = 1043303
   religion = norse_pagan
@@ -7875,7 +7879,7 @@
   }
 }
 261161 = {
-  name = "ç<h)R¶uyr"  # Bergljot
+  name = "ùå<h)R¶uyr"  # Bergljot
   female = yes
   dynasty = 1043303
   religion = norse_pagan
@@ -7904,7 +7908,7 @@
   }
 }
 261163 = {
-  name = "ó∆YôÇLN∑V"  # Holmfrid
+  name = "ó∆YôÇœp∑V"  # Holmfrid
   female = yes
   dynasty = 1062568
   religion = norse_pagan
@@ -7917,7 +7921,7 @@
   }
 }
 261164 = {
-  name = "‡V	TöNS∑V"  # Ingjald
+  name = "‡V	TûNS∑V"  # Ingjald
   dynasty = 1062226
   religion = norse_pagan
   culture = norse
@@ -8002,7 +8006,7 @@
   }
 }
 261170 = {
-  name = "?ñ(Ñ"  # Asa
+  name = "?ñ©Ö"  # Asa
   female = yes
   dynasty = 1062229
   religion = norse_pagan
@@ -8030,7 +8034,7 @@
   }
 }
 261172 = {
-  name = "OLNéÉåv"  # Elisabet
+  name = "%YœpéÉåv"  # Elisabet
   female = yes
   dynasty = 1062228
   religion = norse_pagan
@@ -8059,7 +8063,7 @@
   }
 }
 261174 = {
-  name = "VçÖZ"  # Freyja
+  name = "VçÖmZ"  # Freyja
   female = yes
   dynasty = 1062237
   religion = norse_pagan
@@ -8088,7 +8092,7 @@
   }
 }
 261176 = {
-  name = "?ñØeyrLN∑V"  # Astrid
+  name = "?ñØeyrœp∑V"  # Astrid
   female = yes
   dynasty = 1062233
   religion = norse_pagan
@@ -8103,7 +8107,7 @@
   }
 }
 261178 = {
-  name = "3tæè"  # Linda
+  name = "3tTê"  # Linda
   female = yes
   dynasty = 1062233
   religion = norse_pagan
@@ -8133,7 +8137,7 @@
   }
 }
 261180 = {
-  name = "ó∆YôÇLN∑V"  # Holmfrid
+  name = "ó∆YôÇœp∑V"  # Holmfrid
   female = yes
   dynasty = 1062571
   religion = norse_pagan
@@ -8189,7 +8193,7 @@
   }
 }
 261184 = {
-  name = "uæèS+Y"  # Gandalfr
+  name = "uTêS+Y"  # Gandalfr
   dynasty = 1062238
   religion = norse_pagan
   culture = norse
@@ -8217,7 +8221,7 @@
   }
 }
 261186 = {
-  name = "ØeN^S∑V"  # Svanhildr
+  name = "Øe,Ñ^S∑V"  # Svanhildr
   female = yes
   dynasty = 1062238
   religion = norse_pagan
@@ -8232,7 +8236,7 @@
   }
 }
 261187 = {
-  name = "ÊtS∑VlöS"  # Valdemar
+  name = "ÊtS∑V¨ôS"  # Valdemar
   dynasty = 1062238
   religion = norse_pagan
   culture = norse
@@ -8246,7 +8250,7 @@
   }
 }
 261188 = {
-  name = "eYSÿû"  # Ormr
+  name = "gYSÿû"  # Ormr
   dynasty = 1062232
   religion = norse_pagan
   culture = norse
@@ -8261,7 +8265,7 @@
   }
 }
 261189 = {
-  name = "öNØe…b*t"  # Aslaug
+  name = "ûNØe…b*t"  # Aslaug
   female = yes
   dynasty = 1062573
   religion = norse_pagan
@@ -8316,7 +8320,7 @@
   }
 }
 261193 = {
-  name = "LN˙WéÉ"  # Rikissa
+  name = "œp˙WéÉ"  # Rikissa
   female = yes
   dynasty = 1062574
   religion = norse_pagan
@@ -8329,7 +8333,7 @@
   }
 }
 261194 = {
-  name = "kç≈ñSõs"  # Hjalmar
+  name = "kç≈ñSjt"  # Hjalmar
   dynasty = 1062237
   religion = norse_pagan
   culture = norse
@@ -8357,7 +8361,7 @@
   }
 }
 261196 = {
-  name = "wm&OZ"  # Helena
+  name = "wm+PZ"  # Helena
   female = yes
   dynasty = 1062237
   religion = norse_pagan
@@ -8372,7 +8376,7 @@
   }
 }
 261197 = {
-  name = "lö(É"  # Mats
+  name = "¨ô(É"  # Mats
   dynasty = 1062236
   religion = norse_pagan
   culture = norse
@@ -8387,7 +8391,7 @@
   }
 }
 261198 = {
-  name = "éNSZ"  # Ylva
+  name = "ºeSZ"  # Ylva
   female = yes
   dynasty = 1062575
   religion = norse_pagan
@@ -8427,7 +8431,7 @@
   }
 }
 261201 = {
-  name = "â<hyrT<h"  # Sigtrygg
+  name = "â<hyrBT<h"  # Sigtrygg
   dynasty = 1062236
   religion = norse_pagan
   culture = norse
@@ -8456,7 +8460,7 @@
   }
 }
 261203 = {
-  name = "õsLNöN"  # Maria
+  name = "jtœpûN"  # Maria
   female = yes
   dynasty = 1062577
   religion = norse_pagan
@@ -8484,7 +8488,7 @@
   }
 }
 261205 = {
-  name = "Xb)RS"  # Tolir
+  name = "ä)RS"  # Tolir
   dynasty = 1062240
   religion = norse_pagan
   culture = norse
@@ -8539,7 +8543,7 @@
   }
 }
 261209 = {
-  name = "â<hLN∑V"  # Sigrid
+  name = "â<hœp∑V"  # Sigrid
   female = yes
   dynasty = 1062580
   religion = norse_pagan
@@ -8552,7 +8556,7 @@
   }
 }
 261210 = {
-  name = "õs	VLNTX"  # Margareta
+  name = "jt	VœpTX"  # Margareta
   female = yes
   dynasty = 502
   religion = norse_pagan
@@ -8567,7 +8571,7 @@
   }
 }
 261211 = {
-  name = "1tÚÉöN"  # Sofia
+  name = "1tÚÉûN"  # Sofia
   female = yes
   dynasty = 1062581
   religion = norse_pagan
@@ -8594,7 +8598,7 @@
   }
 }
 261213 = {
-  name = "eY(Ñ"  # ≈sa
+  name = "gY©Ö"  # ≈sa
   female = yes
   dynasty = 1062235
   religion = norse_pagan
@@ -8624,7 +8628,7 @@
   }
 }
 261215 = {
-  name = "LNSôÇ^S∑V"  # Ulfhildr
+  name = "œpSôÇ^S∑V"  # Ulfhildr
   female = yes
   dynasty = 1062582
   religion = norse_pagan

@@ -2532,7 +2532,7 @@ character_event = {
         limit = {
           culture = frankish
         }
-        set_name = "©‹Z"  # Jeanne
+        set_name = "“‹Z"  # Jeanne
         give_nickname = nick_darc
       }
       if = {

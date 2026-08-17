@@ -1,5 +1,5 @@
 3500 = {
-  name = "löØe‰Syr"  # Masgut
+  name = "¨ôØe‰Syr"  # Masgut
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -12,7 +12,7 @@
   }
 }
 3502 = {
-  name = "?ñyQSS"  # Azgar
+  name = "?ñ2ÉSS"  # Azgar
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -53,7 +53,7 @@
   }
 }
 6856 = {
-  name = "(ÑâÉﬂR"  # Sarica
+  name = "©ÖâÉﬂR"  # Sarica
   female = yes
   religion = "tengri_pagan"
   culture = bolghar
@@ -67,7 +67,7 @@
   }
 }
 6857 = {
-  name = "≈ñNl"  # Yavantey
+  name = "≈ñ,Ñl"  # Yavantey
   religion = "tengri_pagan"
   culture = bolghar
   dynasty = 1029152
@@ -84,7 +84,7 @@
   }
 }
 6858 = {
-  name = "ˆS—y–cRKQ"  # YeÁtirek
+  name = "IÑ—y–cRKQ"  # YeÁtirek
   religion = "tengri_pagan"
   culture = pecheneg
   dynasty = 1029159
@@ -101,7 +101,7 @@
   }
 }
 20923 = {
-  name = "°eAå√y?Q"  # Okhotur
+  name = "°eAåøyRQ"  # Okhotur
   dynasty = 5062094
   martial = 7
   diplomacy = 8
@@ -118,7 +118,7 @@
   }
 }
 194394 = {
-  name = "gSñSØe"  # Okors
+  name = "ÂÅ ïSØe"  # Okors
   dynasty = 5062094
   religion = "tengri_pagan"
   culture = bolghar
@@ -131,7 +131,7 @@
   }
 }
 194395 = {
-  name = "(Ñ…b"  # Sar‰
+  name = "©Ö…b"  # Sar‰
   female = yes
   dynasty = 5062094
   religion = "tengri_pagan"
@@ -158,7 +158,7 @@
   }
 }
 34936 = {
-  name = "OSLO∆Y"  # Ilgam
+  name = "%YSLO∆Y"  # Ilgam
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -184,7 +184,7 @@
   }
 }
 34938 = {
-  name = "˙Wì^"  # Djiku
+  name = "˙W´^"  # Djiku
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -197,7 +197,7 @@
   }
 }
 34939 = {
-  name = "^LRyr ^(g?Q"  # Bulat Temur
+  name = "^LRyr ^(gRQ"  # Bulat Temur
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -223,7 +223,7 @@
   }
 }
 34941 = {
-  name = "(ÑSfW"  # Saltan
+  name = "©ÖSfW"  # Saltan
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -249,7 +249,7 @@
   }
 }
 34943 = {
-  name = "¡î–cöNKQ"  # Tetiak
+  name = "5î–cûNKQ"  # Tetiak
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -262,7 +262,7 @@
   }
 }
 34944 = {
-  name = "‘kì^S"  # Bichur
+  name = "‘k´^S"  # Bichur
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -288,7 +288,7 @@
   }
 }
 194419 = {
-  name = "õs…b"  # Mala
+  name = "jt…b"  # Mala
   female = yes
   dynasty = 591
   religion = "sunni"
@@ -315,7 +315,7 @@
   }
 }
 41418 = {
-  name = "–clö?Q Fzf ÙT>ç≥uKQ"  # Timar Mumin Badjanak
+  name = "–c¨ôRQ Fzf ÙT»å≥uKQ"  # Timar Mumin Badjanak
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -328,7 +328,7 @@
   }
 }
 41419 = {
-  name = "?ñ¿N…b+Y ÙTÅúKQ"  # Ashraf Baluq
+  name = "?ñ¿N…b+Y ÙToõKQ"  # Ashraf Baluq
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -341,7 +341,7 @@
   }
 }
 41420 = {
-  name = "öNSV"  # Adam
+  name = "ûNSV"  # Adam
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -384,7 +384,7 @@
     birth = "860.1.1"
   }
   920.1.1 = {
-    name = "?ñSs|Øe >ç’lS"  # Almis Jafar
+    name = "?ñSs|Øe »å’lS"  # Almis Jafar
     religion = "sunni"
   }
   925.1.2 = {
@@ -408,7 +408,7 @@
   }
 }
 125602 = {
-  name = "s|ÔQS öNSw"  # Mikail Yalkau
+  name = "s|ÒQS ûNSw"  # Mikail Yalkau
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -424,7 +424,7 @@
   }
 }
 125603 = {
-  name = "TX)RkS Fzf"  # Talib Mumin
+  name = "TX)R[à Fzf"  # Talib Mumin
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -437,7 +437,7 @@
   }
 }
 125604 = {
-  name = "fkS…b2k"  # Ibrahim
+  name = "f[à…b2k"  # Ibrahim
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -450,7 +450,7 @@
   }
 }
 125605 = {
-  name = "ôl∆Ynà"  # Shamgun
+  name = "ôl∆Yûà"  # Shamgun
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -463,7 +463,7 @@
   }
 }
 125606 = {
-  name = "	T(Ñ∆Y âRÙTS"  # Khisam Anbal
+  name = "	T©Ö∆Y âRÙTS"  # Khisam Anbal
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -476,7 +476,7 @@
   }
 }
 125607 = {
-  name = "eY–cöNKQ"  # Otyak
+  name = "gY–cûNKQ"  # Otyak
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -489,7 +489,7 @@
   }
 }
 125608 = {
-  name = "?ñkSkg…b R‘kS"  # Abdullah Chebir
+  name = "?ñ[àkg…b R‘kS"  # Abdullah Chebir
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -592,11 +592,11 @@
   }
   875.1.2 = {
     death = "875.1.2"
-    name = "^S˙W ?ñkSkg…b"  # Shilki Abdullah
+    name = "^S˙W ?ñ[àkg…b"  # Shilki Abdullah
   }
 }
 159129 = {
-  name = "?ñùOæèS"  # Aydar
+  name = "?ñùOTêS"  # Aydar
   dynasty = 591
   religion = "tengri_pagan"
   culture = bolghar
@@ -627,7 +627,7 @@
   }
 }
 159117 = {
-  name = "ì^^…byr"  # Kubrat
+  name = "´^^…byr"  # Kubrat
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -643,7 +643,7 @@
   }
 }
 159118 = {
-  name = "?ñØe^ÅúKQ"  # Asparukh
+  name = "?ñØe^oõKQ"  # Asparukh
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -656,7 +656,7 @@
   }
 }
 159119 = {
-  name = "ñyr…b<h"  # Kotrag
+  name = " ïyr…b<h"  # Kotrag
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -682,7 +682,7 @@
   }
 }
 159121 = {
-  name = "¡îR)R<h"  # Telerig
+  name = "5îR)R<h"  # Telerig
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -702,7 +702,7 @@
   }
 }
 159122 = {
-  name = "aSSæè∆Y"  # Kardam
+  name = "aSSTê∆Y"  # Kardam
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -719,7 +719,7 @@
   }
 }
 159123 = {
-  name = "KQÅú∆Y"  # Krum
+  name = "KQoõ∆Y"  # Krum
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -739,7 +739,7 @@
   }
 }
 159124 = {
-  name = "eY´ÉSTX<h"  # Omortag
+  name = "gY´ÉSTX<h"  # Omortag
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -752,7 +752,7 @@
   }
 }
 159125 = {
-  name = "õs…bs|S"  # Malamir
+  name = "jt…bs|S"  # Malamir
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -778,7 +778,7 @@
   }
 }
 159130 = {
-  name = "˛V˙W"  # Tukiy
+  name = "W˙W"  # Tukiy
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -791,7 +791,7 @@
   }
 }
 159131 = {
-  name = "OSU"  # Irkhan
+  name = "%YSU"  # Irkhan
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -804,7 +804,7 @@
   }
 }
 159132 = {
-  name = "XbKQ˛V"  # Toktu
+  name = "XbKQW"  # Toktu
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -817,7 +817,7 @@
   }
 }
 159133 = {
-  name = "jçÊtS"  # Sevar
+  name = "lçÊtS"  # Sevar
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -830,7 +830,7 @@
   }
 }
 159134 = {
-  name = "ì^‹bS"  # Kuber
+  name = "´^‹bS"  # Kuber
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -859,7 +859,7 @@
   }
 }
 160142 = {
-  name = "?ñ…bÆSpQ"  # Araslan
+  name = "?ñ…b›^-Ü"  # Araslan
   religion = "tengri_pagan"
   culture = pecheneg
   dynasty = 1029159
@@ -875,7 +875,7 @@
   }
 }
 160143 = {
-  name = "aSyr≈ñLNaS"  # K‰tyarikka
+  name = "aSyr≈ñœpaS"  # K‰tyarikka
   female = yes
   religion = "tengri_pagan"
   culture = bolghar
@@ -892,7 +892,7 @@
   }
 }
 160144 = {
-  name = "ÔQRõsLN"  # KÎlyamal
+  name = "ÒQRjtœp"  # KÎlyamal
   female = yes
   religion = "tengri_pagan"
   culture = bolghar
@@ -909,7 +909,7 @@
   }
 }
 160145 = {
-  name = "Fz÷vS"  # Mugel
+  name = "FzÀÑS"  # Mugel
   religion = "tengri_pagan"
   culture = pecheneg
   dynasty = 1029159
@@ -940,7 +940,7 @@
   }
 }
 160147 = {
-  name = "ÙT»T˛VS"  # Baghatur
+  name = "ÙT»TWS"  # Baghatur
   religion = "tengri_pagan"
   culture = bolghar
   dynasty = 1029155
@@ -973,7 +973,7 @@
   }
 }
 160149 = {
-  name = "(ÑSTXvQ"  # Sart‰Á
+  name = "©ÖSTXvQ"  # Sart‰Á
   religion = "tengri_pagan"
   culture = bolghar
   dynasty = 1029155
@@ -1043,7 +1043,7 @@
   }
 }
 160154 = {
-  name = "^KQ–cöN"  # Pakhtiyar
+  name = "^KQ–cûN"  # Pakhtiyar
   religion = "tengri_pagan"
   culture = pecheneg
   dynasty = 1029159
@@ -1057,7 +1057,8 @@
   }
 }
 160155 = {
-  name = "^^ç"  # Buzan
+  name = "^
+ç"  # Buzan
   religion = "tengri_pagan"
   culture = pecheneg
   dynasty = 1029159
@@ -1071,7 +1072,7 @@
   }
 }
 160156 = {
-  name = "(Ñ)RÔQS"  # Sarikel
+  name = "©Ö)RÒQS"  # Sarikel
   female = yes
   religion = "tengri_pagan"
   culture = bolghar
@@ -1089,7 +1090,7 @@
   }
 }
 160157 = {
-  name = "OSU"  # Irkhan
+  name = "%YSU"  # Irkhan
   religion = "tengri_pagan"
   culture = bolghar
   dynasty = 1029152
@@ -1103,7 +1104,7 @@
   }
 }
 160158 = {
-  name = "?ñùOæèS"  # Aydar
+  name = "?ñùOTêS"  # Aydar
   religion = "tengri_pagan"
   culture = bolghar
   dynasty = 1029152
@@ -1144,7 +1145,7 @@
   }
 }
 160161 = {
-  name = "kb–cRKQ"  # Savtilek
+  name = "Éc–cRKQ"  # Savtilek
   female = yes
   religion = "tengri_pagan"
   culture = bolghar
@@ -1161,7 +1162,7 @@
   }
 }
 160162 = {
-  name = "˛V˙W"  # Tukiy
+  name = "W˙W"  # Tukiy
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1175,7 +1176,7 @@
   }
 }
 160163 = {
-  name = "OSU"  # Irkhan
+  name = "%YSU"  # Irkhan
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1189,7 +1190,7 @@
   }
 }
 160164 = {
-  name = "?ñùOæèS"  # Aydar
+  name = "?ñùOTêS"  # Aydar
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1221,7 +1222,7 @@
   }
 }
 160166 = {
-  name = "(Ñáe–cKQ"  # Savintik
+  name = "©Öáe–cKQ"  # Savintik
   female = yes
   religion = "tengri_pagan"
   culture = bolghar
@@ -1252,7 +1253,7 @@
   }
 }
 160168 = {
-  name = "^(g?Q˜ñ"  # TimÎreÁ
+  name = "^(gRQ˜ñ"  # TimÎreÁ
   religion = "tengri_pagan"
   culture = bolghar
   dynasty = 1029157
@@ -1279,7 +1280,7 @@
   }
 }
 160170 = {
-  name = "?ñùOæèS"  # Aydar
+  name = "?ñùOTêS"  # Aydar
   religion = "tengri_pagan"
   culture = bolghar
   dynasty = 1029157
@@ -1296,7 +1297,7 @@
   }
 }
 160171 = {
-  name = "OØeiOÃëKQ"  # Isperikh
+  name = "%YØeiO·àKQ"  # Isperikh
   religion = "tengri_pagan"
   culture = bolghar
   dynasty = 1029157
@@ -1313,7 +1314,7 @@
   }
 }
 160172 = {
-  name = "(ÑpQl"  # Sarantay
+  name = "©Ö-Ül"  # Sarantay
   female = yes
   religion = "tengri_pagan"
   culture = bolghar
@@ -1432,7 +1433,7 @@
   }
 }
 145937 = {
-  name = "jçÊtS"  # Sevar
+  name = "lçÊtS"  # Sevar
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1445,7 +1446,7 @@
   }
 }
 145938 = {
-  name = "ÔQSéKQ"  # Kermek
+  name = "ÒQSéKQ"  # Kermek
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1458,7 +1459,7 @@
   }
 }
 145939 = {
-  name = "XbKQ˛V"  # Toktu
+  name = "XbKQW"  # Toktu
   dynasty = 591
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1471,7 +1472,7 @@
   }
 }
 145940 = {
-  name = "LNpQ"  # Uran
+  name = "œp-Ü"  # Uran
   dynasty = 1029148
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1529,7 +1530,7 @@
   }
 }
 145944 = {
-  name = "LNÅúØe"  # Urus
+  name = "œpoõØe"  # Urus
   dynasty = 1022331
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1544,7 +1545,7 @@
   }
 }
 145945 = {
-  name = "LNÿûS"  # Umor
+  name = "œpÿûS"  # Umor
   dynasty = 1022331
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1557,7 +1558,7 @@
   }
 }
 145946 = {
-  name = "ÙuÖQKQ"  # Vinekh
+  name = "ÙugQKQ"  # Vinekh
   dynasty = 1022331
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1571,7 +1572,7 @@
   }
 }
 145947 = {
-  name = "LN˛VNNS"  # Uturgur
+  name = "œpWNNS"  # Uturgur
   dynasty = 1022331
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1584,7 +1585,7 @@
   }
 }
 145948 = {
-  name = "^Sõs"  # Sirma
+  name = "^Sjt"  # Sirma
   dynasty = 1022331
   female = yes
   religion = "tengri_pagan"
@@ -1639,7 +1640,7 @@
   }
 }
 145952 = {
-  name = "Íè)RöNRKQ"  # Dilyarek
+  name = "Íè)RûNRKQ"  # Dilyarek
   dynasty = 1029149
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1653,7 +1654,7 @@
   }
 }
 145953 = {
-  name = "ÔQ“R‘kS"  # Kelbir
+  name = "ÒQ“R‘kS"  # Kelbir
   dynasty = 1022332
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1665,7 +1666,7 @@
   }
 }
 145954 = {
-  name = "(ÑæR"  # Sabin
+  name = "©ÖæR"  # Sabin
   dynasty = 1022332
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1681,7 +1682,7 @@
   }
 }
 145955 = {
-  name = "kgì^∆Y"  # Dukum
+  name = "kg´^∆Y"  # Dukum
   dynasty = 1022332
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1708,7 +1709,7 @@
   }
 }
 188789 = {
-  name = "TXÃëN"  # Taridin
+  name = "TX·àN"  # Taridin
   dynasty = 1029159
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1720,7 +1721,7 @@
   }
 }
 188790 = {
-  name = "eYâ"  # Oshi
+  name = "gYâ"  # Oshi
   dynasty = 1029159
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1747,7 +1748,7 @@
   }
 }
 188801 = {
-  name = "ì^∑VÙTS∑V"  # Khudbard
+  name = "´^∑VÙTS∑V"  # Khudbard
   dynasty = 1029157
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1759,7 +1760,7 @@
   }
 }
 188802 = {
-  name = "eYFzSTX<h"  # Omurtag
+  name = "gYFzSTX<h"  # Omurtag
   dynasty = 1029157
   religion = "tengri_pagan"
   culture = "bolghar"
@@ -1772,7 +1773,7 @@
   }
 }
 188858 = {
-  name = "OØeÃë·Q"  # Islivan
+  name = "%YØeÃë·Q"  # Islivan
   religion = "tengri_pagan"
   culture = bolghar
   dynasty = 1029152
@@ -1810,7 +1811,7 @@
   }
 }
 194182 = {
-  name = "OSLO∆Y"  # Ilgam
+  name = "%YSLO∆Y"  # Ilgam
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -1823,7 +1824,7 @@
   }
 }
 194183 = {
-  name = "OSLO∆Y"  # Ilgam
+  name = "%YSLO∆Y"  # Ilgam
   dynasty = 591
   religion = "sunni"
   culture = "bolghar"
@@ -1853,7 +1854,7 @@
   }
 }
 229007 = {
-  name = "(ÑfkS"  # Savur
+  name = "©ÖfkS"  # Savur
   dynasty = 1053011
   martial = 7
   diplomacy = 6
@@ -1873,7 +1874,7 @@
   }
 }
 217339 = {
-  name = "nf…bKQ(Ñ"  # Praksa
+  name = "nf…bKQ©Ö"  # Praksa
   dynasty = 1029158
   religion = sunni
   culture = bolghar
@@ -1885,7 +1886,7 @@
   }
 }
 217340 = {
-  name = "bS˙W…b"  # Rugila
+  name = "Áv˙W…b"  # Rugila
   dynasty = 1029156
   religion = sunni
   culture = bolghar
@@ -1897,7 +1898,7 @@
   }
 }
 258095 = {
-  name = "eYKQâ"  # Okhsi
+  name = "gYKQâ"  # Okhsi
   dynasty = 1100017
   religion = "sunni"
   culture = "bolghar"
@@ -1933,7 +1934,7 @@
   }
 }
 260705 = {
-  name = "OØe^S"  # Isbul
+  name = "%YØe^S"  # Isbul
   dynasty = 1062331
   religion = tengri_pagan
   culture = bolghar
@@ -1945,7 +1946,7 @@
   }
 }
 260706 = {
-  name = "ÿö)Ræè"  # Goleda
+  name = "ÿö)RTê"  # Goleda
   dynasty = 1062332
   religion = tengri_pagan
   culture = bolghar
@@ -1957,7 +1958,7 @@
   }
 }
 260707 = {
-  name = "õsb˜^"  # Magotin
+  name = "jtb˜^"  # Magotin
   dynasty = 1062333
   religion = sunni
   culture = bolghar

@@ -15,7 +15,7 @@
   }
 }
 74001 = {
-  name = "ßuöS³b"  # Tun-Yagbu
+  name = "ßuI„³b"  # Tun-Yagbu
   dynasty = 12269
   father = 74000
   culture = "khazar"
@@ -28,7 +28,7 @@
   }
 }
 74002 = {
-  name = "«ƒI¾‹"  # Bagha-Shad
+  name = "«ƒÚŒ-Š"  # Bagha-Shad
   dynasty = 12269
   father = 74000
   culture = "khazar"
@@ -41,7 +41,7 @@
   }
 }
 74003 = {
-  name = "ek)R¾‹"  # Böri-Shad
+  name = "ek)R-Š"  # Böri-Shad
   dynasty = 12269
   father = 74002
   culture = "khazar"
@@ -54,7 +54,7 @@
   }
 }
 74004 = {
-  name = "OÌ‘Ôk¯e"  # Irbis
+  name = "%YáˆÔk¯e"  # Irbis
   dynasty = 12269
   father = 74003
   culture = "khazar"
@@ -151,7 +151,7 @@
   }
 }
 74011 = {
-  name = "fTrPŸ"  # Kundaç
+  name = "fTrJŸ"  # Kundaç
   dynasty = 12269
   father = 74006
   culture = "khazar"
@@ -164,7 +164,7 @@
   }
 }
 74012 = {
-  name = "ôTÈTşVS"  # Baghatur
+  name = "ôTÈTWS"  # Baghatur
   dynasty = 12269
   father = 74009
   mother = 74010
@@ -178,7 +178,7 @@
   }
 }
 74013 = {
-  name = "O)R<h"  # Yilig
+  name = "%Y)R<h"  # Yilig
   dynasty = 12269
   father = 74011
   culture = "khazar"
@@ -191,7 +191,7 @@
   }
 }
 74014 = {
-  name = "›s³u¯e"  # Mänäs
+  name = "jt³u¯e"  # Mänäs
   dynasty = 12269
   father = 74013
   culture = "khazar"
@@ -204,7 +204,7 @@
   }
 }
 74015 = {
-  name = "şVŒR"  # Tuvan
+  name = "WŒR"  # Tuvan
   dynasty = 12269
   father = 74013
   culture = "khazar"
@@ -230,7 +230,7 @@
   }
 }
 74017 = {
-  name = "’dæ)RšN"  # Zachariah
+  name = "’dæ)RN"  # Zachariah
   dynasty = 12269
   father = 74016
   culture = "khazar"
@@ -243,7 +243,7 @@
   }
 }
 194369 = {
-  name = "öSSv‡ÆY"  # Yeldem
+  name = "I„Sv‡ÆY"  # Yeldem
   female = yes
   dynasty = 12269
   father = 74016
@@ -257,7 +257,7 @@
   }
 }
 74018 = {
-  name = "^pQ"  # Bulan
+  name = "^-†"  # Bulan
   dynasty = 12269
   culture = "khazar"
   religion = "tengri_pagan"
@@ -274,7 +274,7 @@
   }
 }
 74019 = {
-  name = "ÄOôT•^šN"  # Obadiah
+  name = "ÄOôT•^N"  # Obadiah
   dynasty = 12269
   father = 146186
   culture = "khazar"
@@ -308,7 +308,7 @@
   }
 }
 74021 = {
-  name = "›sÿb‰"  # Manasseh
+  name = "jtÿb‰"  # Manasseh
   dynasty = 12270
   father = 74020
   culture = "khazar"
@@ -351,7 +351,7 @@
   }
 }
 74024 = {
-  name = "ıl^&O"  # Zebulun
+  name = "¤o^+P"  # Zebulun
   dynasty = 12270
   father = 74023
   culture = khazar
@@ -364,7 +364,7 @@
   }
 }
 74025 = {
-  name = "›sÿb‰"  # Manasseh
+  name = "jtÿb‰"  # Manasseh
   dna = hmdhnbsbvri
   properties = eer0id000000000000
   dynasty = 12270
@@ -445,7 +445,7 @@
   }
 }
 180226 = {
-  name = "šN+Yê"  # Yavdi
+  name = "N+Yê"  # Yavdi
   dynasty = 1042041
   religion = jewish
   culture = khazar
@@ -542,7 +542,7 @@
   }
 }
 173000 = {
-  name = "+RR‚„"  # Belet
+  name = "%RR‚„"  # Belet
   female = yes
   religion = jewish
   culture = khazar
@@ -567,7 +567,7 @@
   }
 }
 145787 = {
-  name = "OSLk"  # Irge
+  name = "%YSLk"  # Irge
   female = yes
   dynasty = 12269
   culture = "khazar"
@@ -578,7 +578,7 @@
     birth = "718.1.1"
   }
   735.1.1 = {
-    name = "1r²ƒ"  # Eirene
+    name = "aî„"  # Eirene
     religion = "iconoclast"
   }
   750.1.25 = {
@@ -586,7 +586,7 @@
   }
 }
 145999 = {
-  name = "›sÉb"  # Mala
+  name = "jtÉb"  # Mala
   female = yes
   dynasty = 12269
   culture = "khazar"
@@ -596,7 +596,7 @@
     birth = "733.1.1"
   }
   749.1.1 = {
-    name = "›sLNšN"  # Maria
+    name = "jtÏpN"  # Maria
     religion = "iconoclast"
   }
   785.1.1 = {
@@ -604,7 +604,7 @@
   }
 }
 146185 = {
-  name = "şVÉb"  # Tura
+  name = "WÉb"  # Tura
   dynasty = 12269
   female = yes
   religion = "tengri_pagan"
@@ -614,7 +614,7 @@
     birth = yes
   }
   703.1.1 = {
-    name = "ÄreYYÉb"  # Theodora
+    name = "ÄrgYYÉb"  # Theodora
     religion = "orthodox"
   }
   711.1.1 = {
@@ -639,7 +639,7 @@
   }
 }
 146187 = {
-  name = "šN&O"  # Aaron
+  name = "N+P"  # Aaron
   dynasty = 12270
   culture = "khazar"
   religion = "jewish"
@@ -652,7 +652,7 @@
   }
 }
 146188 = {
-  name = "s|ÿb°s"  # Menahem
+  name = "s|ÿbşs"  # Menahem
   dynasty = 12270
   culture = "khazar"
   religion = "jewish"
@@ -665,7 +665,7 @@
   }
 }
 146189 = {
-  name = "¿OÅ–¯`"  # Benjamin
+  name = "¿OÅ–«a"  # Benjamin
   dynasty = 12270
   culture = "khazar"
   religion = "jewish"
@@ -678,7 +678,7 @@
   }
 }
 146190 = {
-  name = "šN&O"  # Aaron
+  name = "N+P"  # Aaron
   dynasty = 12270
   culture = "khazar"
   religion = "jewish"
@@ -707,7 +707,7 @@
   }
 }
 146192 = {
-  name = "šN>OÉbU"  # Abraham
+  name = "N>OÉbU"  # Abraham
   dynasty = 12270
   culture = "khazar"
   religion = "jewish"
@@ -720,7 +720,7 @@
   }
 }
 146193 = {
-  name = "'YkS"  # David
+  name = "'Y[ˆ"  # David
   dynasty = 1022378
   culture = "khazar"
   religion = "jewish"
@@ -745,7 +745,7 @@
   }
 }
 146195 = {
-  name = "TNSís"  # Çorpan
+  name = "¬USís"  # Çorpan
   dynasty = 1022377
   culture = "khazar"
   religion = "tengri_pagan"
@@ -757,7 +757,7 @@
   }
 }
 146196 = {
-  name = "‰Fz(„"  # Simsam
+  name = "‰Fz©…"  # Simsam
   dynasty = 1022377
   culture = "khazar"
   religion = "tengri_pagan"
@@ -770,7 +770,7 @@
   }
 }
 146197 = {
-  name = "^S±”"  # Bulçan
+  name = "^S"“"  # Bulçan
   dynasty = 1022377
   culture = "khazar"
   religion = "tengri_pagan"
@@ -809,7 +809,7 @@
   }
 }
 146200 = {
-  name = "ïQ RÉb<h"  # Kayghalagh
+  name = "ñQ RÉb<h"  # Kayghalagh
   dynasty = 1022377
   culture = "khazar"
   religion = "tengri_pagan"
@@ -834,7 +834,7 @@
   }
 }
 146202 = {
-  name = "‰˜)RÑS"  # Iltäbär
+  name = "!˜)R|v"  # Iltäbär
   dynasty = 1022380
   culture = "khazar"
   religion = "tengri_pagan"
@@ -846,7 +846,7 @@
   }
 }
 146203 = {
-  name = "(„STXvQ"  # Sartäç
+  name = "©…STXvQ"  # Sartäç
   dynasty = 1022381
   culture = "khazar"
   religion = "tengri_pagan"
@@ -858,7 +858,7 @@
   }
 }
 194347 = {
-  name = "öS³b"  # Yabghu
+  name = "I„³b"  # Yabghu
   dynasty = 1022381
   father = 146203
   culture = "khazar"
@@ -871,7 +871,8 @@
   }
 }
 194355 = {
-  name = "ÑY±ƒ"  # Gulay
+  name = "ÑY
+„"  # Gulay
   female = yes
   dynasty = 1022381
   father = 146203
@@ -897,7 +898,7 @@
   }
 }
 194346 = {
-  name = "ôT¯eşV"  # Bastu
+  name = "ôT¯eW"  # Bastu
   dynasty = 1022382
   father = 146204
   culture = "khazar"
@@ -910,7 +911,7 @@
   }
 }
 194356 = {
-  name = "şVÉb"  # Tura
+  name = "WÉb"  # Tura
   dynasty = 1022382
   female = yes
   father = 146204
@@ -924,7 +925,7 @@
   }
 }
 256057 = {
-  name = "kPŸaSšN"  # Hezekiah
+  name = "kJŸaSN"  # Hezekiah
   dynasty = 1061037
   religion = "jewish"
   culture = "khazar"
@@ -936,7 +937,7 @@
   }
 }
 256058 = {
-  name = "^S±”"  # Bulçan
+  name = "^S"“"  # Bulçan
   dynasty = 1061038
   religion = "jewish"
   culture = "khazar"
@@ -948,7 +949,7 @@
   }
 }
 258094 = {
-  name = "šN+Yê"  # Yavdi
+  name = "N+Yê"  # Yavdi
   dynasty = 1100016
   religion = "jewish"
   culture = "khazar"
@@ -960,7 +961,7 @@
   }
 }
 260702 = {
-  name = "aS›s	T"  # Kamaj
+  name = "aSjt	T"  # Kamaj
   dynasty = 1062328
   religion = tengri_pagan
   culture = khazar
@@ -972,7 +973,7 @@
   }
 }
 260703 = {
-  name = "PŸ(„"  # Kisa
+  name = "JŸ©…"  # Kisa
   dynasty = 1062329
   religion = tengri_pagan
   culture = khazar
@@ -984,7 +985,7 @@
   }
 }
 260704 = {
-  name = "Å–Nğl"  # Yavantey
+  name = "Å–,„ğl"  # Yavantey
   dynasty = 1062330
   religion = jewish
   culture = khazar

@@ -674,7 +674,7 @@ narrative_event = {
       }
     }
     new_character = {
-      set_name = "WpQ"  # Roland
+      set_name = "…-†"  # Roland
       set_character_flag = is_roland
       set_character_flag = hero_knight
       opinion = {
@@ -1063,7 +1063,7 @@ narrative_event = {
       }
     }
     new_character = {
-      set_name = "eY	TS"  # Ogier
+      set_name = "gY	TS"  # Ogier
       set_character_flag = is_ogier
       set_character_flag = hero_knight
       opinion = {

@@ -18,7 +18,7 @@
   }
 }
 41709 = {
-  name = "ÙTÅúKQ"  # Baruch
+  name = "ÙToõKQ"  # Baruch
   dynasty = 11001
   father = 41713
   martial = 5
@@ -39,7 +39,7 @@
   }
 }
 41711 = {
-  name = "O/tèy"  # Yosef
+  name = "*Q/tèy"  # Yosef
   dynasty = 11001
   father = 41713
   martial = 4
@@ -62,7 +62,7 @@
   }
 }
 41713 = {
-  name = "öNSV"  # Adam
+  name = "ûNSV"  # Adam
   dynasty = 11001
   martial = 5
   diplomacy = 5
@@ -82,7 +82,7 @@
   }
 }
 41715 = {
-  name = "öN>O…bU"  # Avraham
+  name = "ûN>O…bU"  # Avraham
   dynasty = 11002
   martial = 3
   diplomacy = 10
@@ -122,7 +122,7 @@
   }
 }
 41716 = {
-  name = "æèâÉöN"  # Dalia
+  name = "TêâÉûN"  # Dalia
   female = yes
   martial = 5
   diplomacy = 5
@@ -139,7 +139,7 @@
   }
 }
 41717 = {
-  name = "1å^yr"  # Sheshet
+  name = "\ã^yr"  # Sheshet
   dynasty = 11003
   martial = 3
   diplomacy = 10
@@ -180,7 +180,7 @@
   }
 }
 3221 = {
-  name = "O/tèy"  # Yosef
+  name = "*Q/tèy"  # Yosef
   dynasty = 101606
   martial = 5
   diplomacy = 7
@@ -202,7 +202,7 @@
   }
 }
 41708 = {
-  name = "öN,rˇb"  # Adina
+  name = "ûN,rˇb"  # Adina
   female = yes
   martial = 5
   diplomacy = 5
@@ -271,7 +271,7 @@
   }
 }
 90133 = {
-  name = "O/tèy"  # Yosef
+  name = "*Q/tèy"  # Yosef
   dynasty = 20078
   martial = 5
   diplomacy = 8
@@ -288,7 +288,7 @@
   }
 }
 90134 = {
-  name = "öN>O…bU"  # Avraham
+  name = "ûN>O…bU"  # Avraham
   dynasty = 20078
   martial = 4
   diplomacy = 6
@@ -317,7 +317,7 @@
   }
 }
 261381 = {
-  name = "^XbO"  # Paltoi
+  name = "^ä%Y"  # Paltoi
   dynasty = 1041066
   religion = jewish
   culture = sephardi
@@ -330,7 +330,7 @@
   }
 }
 261382 = {
-  name = "œÇ…b∆Y"  # Sulam
+  name = "Ü…b∆Y"  # Sulam
   dynasty = 1041066
   religion = jewish
   culture = sephardi
@@ -343,7 +343,7 @@
   }
 }
 261383 = {
-  name = "üè…b"  # Beila
+  name = "‚ï…b"  # Beila
   female = yes
   dynasty = 1041066
   religion = jewish
@@ -357,7 +357,7 @@
   }
 }
 261384 = {
-  name = "löyrWZ"  # Matrona
+  name = "¨ôyrÖZ"  # Matrona
   female = yes
   dynasty = 1041066
   religion = jewish

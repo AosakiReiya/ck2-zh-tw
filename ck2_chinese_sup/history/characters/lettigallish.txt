@@ -1,5 +1,5 @@
 144628 = {
-  name = "Ì‘1"  # Litto
+  name = "áˆ+"  # Litto
   dynasty = 9534
   religion = "baltic_pagan"
   culture = "lettigallish"
@@ -12,7 +12,7 @@
   }
 }
 144629 = {
-  name = "¾S¯eÉbæ—"  # Darbeslave
+  name = "TSŒ¯eÉbË—"  # Darbeslave
   dynasty = 100374
   religion = "baltic_pagan"
   culture = "lettigallish"
@@ -25,7 +25,8 @@
   }
 }
 20603 = {
-  name = "“^S±ƒFz‚"  # Kurlemuae
+  name = "«^S
+„Fz‚"  # Kurlemuae
   dynasty = 100374
   martial = 6
   diplomacy = 8
@@ -42,7 +43,8 @@
   }
 }
 220603 = {
-  name = "“^S±ƒFz^X"  # Kurlemuse
+  name = "«^S
+„Fz^X"  # Kurlemuse
   dynasty = 100374
   martial = 6
   diplomacy = 8
@@ -73,7 +75,7 @@
   }
 }
 228022 = {
-  name = "YôušNyr"  # Dovyat
+  name = "YôuNyr"  # Dovyat
   dynasty = 100372
   religion = "baltic_pagan"
   culture = "lettigallish"
@@ -102,7 +104,7 @@
   }
 }
 228075 = {
-  name = "(„"  # Sabe
+  name = "©…Œ"  # Sabe
   dynasty = 100373
   religion = "baltic_pagan"
   culture = "lettigallish"
@@ -127,7 +129,7 @@
   }
 }
 28075 = {
-  name = "(„"  # Sabe
+  name = "©…Œ"  # Sabe
   dynasty = 100373
   martial = 7
   diplomacy = 7
@@ -145,7 +147,7 @@
   }
 }
 143132 = {
-  name = "(„"  # Sabe
+  name = "©…Œ"  # Sabe
   dynasty = 100373
   religion = "baltic_pagan"
   culture = "lettigallish"
@@ -158,7 +160,7 @@
   }
 }
 143133 = {
-  name = "(„"  # Sabe
+  name = "©…Œ"  # Sabe
   dynasty = 100373
   religion = "baltic_pagan"
   culture = "lettigallish"
@@ -171,7 +173,7 @@
   }
 }
 143149 = {
-  name = "YôušNyr"  # Dovyat
+  name = "YôuNyr"  # Dovyat
   dynasty = 100372
   religion = "baltic_pagan"
   culture = "lettigallish"
@@ -197,7 +199,7 @@
   }
 }
 6892 = {
-  name = "¾Ébyr"  # Darate
+  name = "TÉbyr"  # Darate
   female = yes
   dynasty = 9530
   religion = baltic_pagan
@@ -211,7 +213,7 @@
   }
 }
 167731 = {
-  name = "ÔkKQ1Œ"  # Bikshe
+  name = "ÔkKQ\‹"  # Bikshe
   dynasty = 9531
   religion = baltic_pagan
   culture = lettigallish
@@ -223,7 +225,7 @@
   }
 }
 167732 = {
-  name = "³uSætOyr"  # Narvait
+  name = "³uSæt%Yyr"  # Narvait
   dynasty = 9532
   religion = baltic_pagan
   culture = lettigallish
@@ -238,7 +240,7 @@
   }
 }
 167733 = {
-  name = "æt)RïQÉb"  # Valikaila
+  name = "æt)RñQÉb"  # Valikaila
   dynasty = 9533
   religion = "baltic_pagan"
   culture = "lettigallish"
@@ -250,7 +252,7 @@
   }
 }
 170351 = {
-  name = "nf“^æ—Éb¯e"  # Pukuveras
+  name = "nf«^Ë—Éb¯e"  # Pukuveras
   dynasty = 1040229
   religion = "baltic_pagan"
   culture = "lettigallish"
@@ -288,7 +290,7 @@
   }
 }
 194107 = {
-  name = "—gØš¾¯e"  # Ringaudas
+  name = "—gØšT¯e"  # Ringaudas
   dynasty = 9530
   religion = baltic_pagan
   culture = lettigallish
@@ -314,7 +316,7 @@
   }
 }
 194111 = {
-  name = "æ—Ç‘KQ"  # Vetseke
+  name = "Ë—¡cKQ"  # Vetseke
   dynasty = 9530
   religion = baltic_pagan
   culture = lettigallish
@@ -327,7 +329,7 @@
   }
 }
 194112 = {
-  name = "ôu^“^yr"  # Vishikut
+  name = "ôu^«^yr"  # Vishikut
   dynasty = 9530
   religion = baltic_pagan
   culture = lettigallish
@@ -376,7 +378,7 @@
   }
 }
 256002 = {
-  name = "PŸœ)R¯e"  # Cirulis
+  name = "JŸo›)R¯e"  # Cirulis
   dynasty = 1061002
   religion = baltic_pagan
   culture = lettigallish
@@ -388,7 +390,7 @@
   }
 }
 256003 = {
-  name = "è•·V…Q"  # Mendene
+  name = "€•·VgQ"  # Mendene
   dynasty = 1061002
   religion = baltic_pagan
   culture = lettigallish
@@ -401,7 +403,7 @@
   }
 }
 256004 = {
-  name = "PŸœ)R¯e"  # Cirulis
+  name = "JŸo›)R¯e"  # Cirulis
   dynasty = 1061002
   religion = baltic_pagan
   culture = lettigallish
@@ -414,7 +416,7 @@
   }
 }
 256022 = {
-  name = "	T¾(ƒ"  # Gibedats
+  name = "	TŒT(ƒ"  # Gibedats
   dynasty = "1061007"
   religion = baltic_pagan
   culture = lettigallish
@@ -443,7 +445,7 @@
   }
 }
 260763 = {
-  name = "yr÷–<SeYTX"  # Treniota
+  name = "yr÷–<SgYTX"  # Treniota
   dynasty = 1062375
   religion = baltic_pagan
   culture = lettigallish
@@ -509,7 +511,7 @@
   }
 }
 261249 = {
-  name = "<h…ıl"  # Greze
+  name = "<h…¤o"  # Greze
   female = yes
   religion = baltic_pagan
   culture = lettigallish
@@ -521,7 +523,7 @@
   }
 }
 261250 = {
-  name = "!·V R"  # Gundega
+  name = "¢Œ·V R"  # Gundega
   female = yes
   dynasty = 1062377
   religion = baltic_pagan
@@ -551,7 +553,7 @@
   }
 }
 261252 = {
-  name = "›sLNyr"  # Marite
+  name = "jtÏpyr"  # Marite
   female = yes
   dynasty = 1062586
   religion = baltic_pagan
@@ -594,7 +596,7 @@
   }
 }
 261255 = {
-  name = "Yj"  # Dose
+  name = "Yl"  # Dose
   female = yes
   religion = baltic_pagan
   culture = lettigallish
@@ -606,7 +608,8 @@
   }
 }
 261256 = {
-  name = " R±ƒ…Q"  # Galeine
+  name = " R
+„gQ"  # Galeine
   dynasty = 1062376
   religion = baltic_pagan
   culture = lettigallish
@@ -620,7 +623,7 @@
   }
 }
 261257 = {
-  name = "¾Ébyr"  # Darate
+  name = "TÉbyr"  # Darate
   female = yes
   dynasty = 1062376
   religion = baltic_pagan
@@ -635,7 +638,7 @@
   }
 }
 261258 = {
-  name = "6w·VşV¯e"  # Jedetus
+  name = "6w·VW¯e"  # Jedetus
   dynasty = 1062374
   religion = baltic_pagan
   culture = lettigallish
@@ -662,7 +665,7 @@
   }
 }
 261260 = {
-  name = "nfúWOKQ"  # Pukiik
+  name = "nfúW%YKQ"  # Pukiik
   dynasty = 1062374
   religion = baltic_pagan
   culture = lettigallish
@@ -718,7 +721,7 @@
   }
 }
 261264 = {
-  name = "ÔkÕnN"  # Bitens
+  name = "ÔkÕnr}"  # Bitens
   female = yes
   religion = baltic_pagan
   culture = lettigallish
@@ -744,7 +747,7 @@
   }
 }
 261266 = {
-  name = "OÃWZ"  # Ieva
+  name = "%YÃWZ"  # Ieva
   female = yes
   dynasty = 1062375
   religion = baltic_pagan

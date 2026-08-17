@@ -22,7 +22,7 @@
   }
 }
 212560 = {
-  name = "1t+RØe…b+Y"  # Sobieslav
+  name = "1t%RØe…b+Y"  # Sobieslav
   dynasty = 506
   martial = 7
   diplomacy = 6
@@ -52,7 +52,7 @@
   }
 }
 212850 = {
-  name = "ç∑VÂekç"  # Bedrich
+  name = "ùå∑VÂekç"  # Bedrich
   dynasty = 506
   martial = 4
   diplomacy = 6
@@ -124,7 +124,7 @@
   }
 }
 212854 = {
-  name = "bS∑Vs|…b"  # Ludmila
+  name = "Áv∑Vs|…b"  # Ludmila
   female = yes
   dynasty = 506
   martial = 5
@@ -146,7 +146,7 @@
   }
 }
 212855 = {
-  name = "nfÌps|ØeS"  # Premysl
+  name = "nf±qs|ØeS"  # Premysl
   dynasty = 506
   martial = 8
   diplomacy = 7
@@ -195,7 +195,7 @@
   }
 }
 212858 = {
-  name = "ÉlOwckç"  # Vojtech
+  name = "Él%Ywckç"  # Vojtech
   dynasty = 506
   martial = 5
   diplomacy = 4
@@ -216,7 +216,7 @@
   }
 }
 212859 = {
-  name = "?ñÖQÂeaS"  # Anezka
+  name = "?ñgQÂeaS"  # Anezka
   female = yes
   dynasty = 506
   martial = 5
@@ -237,7 +237,7 @@
   }
 }
 212860 = {
-  name = "LNkçéÉ"  # Richeza
+  name = "œpkçéÉ"  # Richeza
   female = yes
   dynasty = 506
   martial = 7
@@ -433,7 +433,7 @@
   }
 }
 212871 = {
-  name = "õsSÔQTX"  # MarkÈta
+  name = "jtSÒQTX"  # MarkÈta
   female = yes
   dynasty = 506
   martial = 4
@@ -454,7 +454,7 @@
   }
 }
 212872 = {
-  name = "1t+RØe…b+Y"  # Sobieslav
+  name = "1t%RØe…b+Y"  # Sobieslav
   dynasty = 506
   martial = 7
   diplomacy = 6
@@ -478,7 +478,7 @@
   }
 }
 212873 = {
-  name = "eYS∑VÂekç"  # Oldrich
+  name = "gYS∑VÂekç"  # Oldrich
   dynasty = 506
   martial = 7
   diplomacy = 4
@@ -565,7 +565,7 @@
   }
 }
 212892 = {
-  name = "eYTX"  # Ota
+  name = "gYTX"  # Ota
   dynasty = 506
   martial = 4
   diplomacy = 5
@@ -589,7 +589,7 @@
   }
 }
 212893 = {
-  name = "eYTX"  # Ota
+  name = "gYTX"  # Ota
   dynasty = 506
   martial = 4
   diplomacy = 5
@@ -628,7 +628,7 @@
   }
 }
 212895 = {
-  name = "^ÌpcRØe…b+Y"  # Bretislav
+  name = "^±qcRØe…b+Y"  # Bretislav
   dynasty = 506
   martial = 6
   diplomacy = 5
@@ -649,7 +649,7 @@
   }
 }
 221521 = {
-  name = "wm&OZ"  # Helena
+  name = "wm+PZ"  # Helena
   female = yes
   dynasty = 506
   martial = 8
@@ -694,7 +694,7 @@
   }
 }
 232526 = {
-  name = "wm&OZ"  # Helena
+  name = "wm+PZ"  # Helena
   female = yes
   dynasty = 506
   martial = 6
@@ -711,7 +711,7 @@
     birth = "1158.1.1"
   }
   1164.1.1 = {
-    name = "O3tÆY"  # Eirene
+    name = "%Y3tÆY"  # Eirene
   }
   1221.1.1 = {
     death = "1221.1.1"
@@ -742,7 +742,7 @@
   }
 }
 470161 = {
-  name = "yQ∑VØe…b+Y"  # Zdeslav
+  name = "2É∑VØe…b+Y"  # Zdeslav
   dynasty = 12474
   martial = 7
   diplomacy = 6
@@ -763,7 +763,7 @@
   }
 }
 500 = {
-  name = "ZSÂeÉlO"  # Borivoj
+  name = "ZSÂeÉl%Y"  # Borivoj
   dynasty = 506
   martial = 7
   diplomacy = 8
@@ -791,7 +791,7 @@
   }
 }
 501 = {
-  name = "bS∑Vs|…b"  # Ludmila
+  name = "Áv∑Vs|…b"  # Ludmila
   female = yes
   dynasty = 250
   martial = 7
@@ -886,7 +886,7 @@
   }
 }
 507 = {
-  name = "‘kZbTX"  # Biagota
+  name = "‘kmZbTX"  # Biagota
   female = yes
   martial = 7
   diplomacy = 6
@@ -905,7 +905,8 @@
   }
 }
 508 = {
-  name = "ZS±ÉØe…b+Y"  # Boleslav
+  name = "ZS
+ÑØe…b+Y"  # Boleslav
   dynasty = 506
   martial = 6
   diplomacy = 7
@@ -959,7 +960,8 @@
   }
 }
 510 = {
-  name = "ZS±ÉØe…b+Y"  # Boleslav
+  name = "ZS
+ÑØe…b+Y"  # Boleslav
   dynasty = 506
   martial = 7
   diplomacy = 6
@@ -987,7 +989,8 @@
   }
 }
 512 = {
-  name = "ZS±ÉØe…b+Y"  # Boleslav
+  name = "ZS
+ÑØe…b+Y"  # Boleslav
   dynasty = 506
   martial = 4
   diplomacy = 6
@@ -1007,7 +1010,7 @@
   }
 }
 514 = {
-  name = "≈ñWs|S"  # JaromÌr
+  name = "≈ñÖs|S"  # JaromÌr
   dynasty = 506
   martial = 5
   diplomacy = 7
@@ -1028,7 +1031,7 @@
   }
 }
 516 = {
-  name = "eYS∑VÂekç"  # Oldrich
+  name = "gYS∑VÂekç"  # Oldrich
   dynasty = 506
   martial = 6
   diplomacy = 8
@@ -1051,7 +1054,7 @@
   }
 }
 517 = {
-  name = "ZSÌpZ"  # Bozena
+  name = "ZS±qZ"  # Bozena
   female = yes
   martial = 3
   diplomacy = 7
@@ -1068,7 +1071,7 @@
   }
 }
 518 = {
-  name = "^ÌpcRØe…b+Y"  # Bretislav
+  name = "^±qcRØe…b+Y"  # Bretislav
   dynasty = 506
   martial = 9
   diplomacy = 4
@@ -1166,7 +1169,7 @@
   }
 }
 528 = {
-  name = "≈ñWs|S"  # JaromÌr
+  name = "≈ñÖs|S"  # JaromÌr
   dynasty = 506
   martial = 3
   diplomacy = 5
@@ -1188,7 +1191,7 @@
   }
 }
 530 = {
-  name = "^ÌpcRØe…b+Y"  # Bretislav
+  name = "^±qcRØe…b+Y"  # Bretislav
   dynasty = 506
   martial = 5
   diplomacy = 6
@@ -1210,7 +1213,7 @@
   }
 }
 534 = {
-  name = "ØeÊtXbZSS"  # Svatobor
+  name = "ØeÊtäZSS"  # Svatobor
   dynasty = 506
   martial = 3
   diplomacy = 5
@@ -1229,7 +1232,8 @@
   }
 }
 8500 = {
-  name = "ZS±ÉØe…b+Y"  # Boleslav
+  name = "ZS
+ÑØe…b+Y"  # Boleslav
   dynasty = 506
   martial = 3
   diplomacy = 4
@@ -1249,7 +1253,7 @@
   }
 }
 8502 = {
-  name = "bS∑Vs|…b"  # Ludmila
+  name = "Áv∑Vs|…b"  # Ludmila
   female = yes
   dynasty = 506
   martial = 3
@@ -1269,7 +1273,7 @@
   }
 }
 8504 = {
-  name = "ZSÂeÉlO"  # Borivoj
+  name = "ZSÂeÉl%Y"  # Borivoj
   dynasty = 506
   martial = 2
   diplomacy = 6
@@ -1324,7 +1328,7 @@
   }
 }
 96001 = {
-  name = "nfÌps|ØeS"  # Premysl
+  name = "nf±qs|ØeS"  # Premysl
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1431,7 +1435,7 @@
   }
 }
 96006 = {
-  name = "ØeÊtXbnfbSKQ"  # Svatopluk
+  name = "ØeÊtänfÁvKQ"  # Svatopluk
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1457,7 +1461,7 @@
   }
 }
 96008 = {
-  name = "'k9çÖh"  # Eufemie
+  name = "PkªåÖh"  # Eufemie
   female = yes
   dynasty = 506
   religion = catholic
@@ -1472,7 +1476,7 @@
   }
 }
 96009 = {
-  name = "eYTX"  # Ota
+  name = "gYTX"  # Ota
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1507,7 +1511,7 @@
   }
 }
 96011 = {
-  name = "ØeÊtXbnfbSKQ"  # Svatopluk
+  name = "ØeÊtänfÁvKQ"  # Svatopluk
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1524,7 +1528,7 @@
   }
 }
 96012 = {
-  name = "eYS∑VÂekç"  # Oldrich
+  name = "gYS∑VÂekç"  # Oldrich
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1540,7 +1544,7 @@
   }
 }
 96014 = {
-  name = "'k9çÖh"  # Eufemie
+  name = "PkªåÖh"  # Eufemie
   female = yes
   dynasty = 506
   religion = catholic
@@ -1568,7 +1572,7 @@
   }
 }
 96016 = {
-  name = "õsLN"  # Marie
+  name = "jtœp"  # Marie
   female = yes
   dynasty = 506
   religion = catholic
@@ -1582,7 +1586,7 @@
   }
 }
 96017 = {
-  name = "^ÌpcRØe…b+Y"  # Bretislav
+  name = "^±qcRØe…b+Y"  # Bretislav
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1595,7 +1599,7 @@
   }
 }
 96018 = {
-  name = "≈ñWs|S"  # JaromÌr
+  name = "≈ñÖs|S"  # JaromÌr
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1639,7 +1643,7 @@
   }
 }
 96021 = {
-  name = "LNkçéÉ"  # Richeza
+  name = "œpkçéÉ"  # Richeza
   female = yes
   dynasty = 506
   religion = catholic
@@ -1697,7 +1701,7 @@
   }
 }
 96025 = {
-  name = "õsLN"  # Marie
+  name = "jtœp"  # Marie
   female = yes
   dynasty = 506
   religion = catholic
@@ -1742,7 +1746,8 @@
   }
 }
 96028 = {
-  name = "ZS±ÉØe…b+Y"  # Boleslav
+  name = "ZS
+ÑØe…b+Y"  # Boleslav
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1757,7 +1762,7 @@
   }
 }
 96029 = {
-  name = "1t+RØe…b+Y"  # Sobieslav
+  name = "1t%RØe…b+Y"  # Sobieslav
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1771,7 +1776,7 @@
   }
 }
 96030 = {
-  name = "ZSÂeÉlO"  # Borivoj
+  name = "ZSÂeÉl%Y"  # Borivoj
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1799,7 +1804,7 @@
   }
 }
 96033 = {
-  name = "eYSsO"  # Olga
+  name = "gYSsO"  # Olga
   female = yes
   dynasty = 506
   religion = catholic
@@ -1814,7 +1819,7 @@
   }
 }
 96034 = {
-  name = "õsSÔQTX"  # MarkÈta
+  name = "jtSÒQTX"  # MarkÈta
   female = yes
   dynasty = 506
   religion = catholic
@@ -1829,7 +1834,7 @@
   }
 }
 96035 = {
-  name = "ØeÊtXbnfbSKQ"  # Svatopluk
+  name = "ØeÊtänfÁvKQ"  # Svatopluk
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1868,7 +1873,7 @@
   }
 }
 96037 = {
-  name = "õsSÔQTX"  # MarkÈta
+  name = "jtSÒQTX"  # MarkÈta
   female = yes
   dynasty = 506
   religion = catholic
@@ -1974,7 +1979,7 @@
   }
 }
 96044 = {
-  name = "nfÌps|ØeS"  # Premysl
+  name = "nf±qs|ØeS"  # Premysl
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -1989,7 +1994,7 @@
   }
 }
 96045 = {
-  name = "?ñÖQÂeaS"  # Anezka
+  name = "?ñgQÂeaS"  # Anezka
   female = yes
   dynasty = 506
   religion = catholic
@@ -2011,7 +2016,8 @@
   }
 }
 96046 = {
-  name = "Ùu±És|Z"  # VilemÌna
+  name = "Ùu
+Ñs|Z"  # VilemÌna
   female = yes
   dynasty = 506
   religion = catholic
@@ -2043,7 +2049,7 @@
   }
 }
 96048 = {
-  name = "?ñÖQÂeaS"  # Anezka
+  name = "?ñgQÂeaS"  # Anezka
   female = yes
   dynasty = 506
   religion = catholic
@@ -2058,7 +2064,7 @@
   }
 }
 96049 = {
-  name = "ZSÌpZ"  # Bozena
+  name = "ZS±qZ"  # Bozena
   female = yes
   dynasty = 506
   religion = catholic
@@ -2089,7 +2095,7 @@
   }
 }
 96051 = {
-  name = "?ñÖQÂeaS"  # Anezka
+  name = "?ñgQÂeaS"  # Anezka
   female = yes
   dynasty = 506
   religion = catholic
@@ -2104,7 +2110,7 @@
   }
 }
 96052 = {
-  name = "s|ì^…b¿N"  # Mikul·s
+  name = "s|´^…b¿N"  # Mikul·s
   dynasty = 10110
   religion = catholic
   culture = bohemian
@@ -2120,7 +2126,7 @@
   }
 }
 96053 = {
-  name = "s|ì^…b¿N"  # Mikul·s
+  name = "s|´^…b¿N"  # Mikul·s
   dynasty = 10110
   religion = catholic
   culture = bohemian
@@ -2133,7 +2139,7 @@
   }
 }
 96054 = {
-  name = "lb"  # Jan
+  name = "⁄c"  # Jan
   dynasty = 10110
   religion = catholic
   culture = bohemian
@@ -2146,7 +2152,7 @@
   }
 }
 96055 = {
-  name = "lb"  # Jan
+  name = "⁄c"  # Jan
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -2163,7 +2169,7 @@
   }
 }
 96056 = {
-  name = "nfÌps|ØeS"  # Premysl
+  name = "nf±qs|ØeS"  # Premysl
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -2177,7 +2183,7 @@
   }
 }
 96057 = {
-  name = "?ñÖQÂeaS"  # Anezka
+  name = "?ñgQÂeaS"  # Anezka
   female = yes
   dynasty = 506
   religion = catholic
@@ -2223,7 +2229,7 @@
   }
 }
 96060 = {
-  name = "lb"  # Jan
+  name = "⁄c"  # Jan
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -2237,7 +2243,7 @@
   }
 }
 96061 = {
-  name = "õsSÔQTX"  # MarkÈta
+  name = "jtSÒQTX"  # MarkÈta
   female = yes
   dynasty = 506
   religion = catholic
@@ -2269,7 +2275,7 @@
   }
 }
 96063 = {
-  name = "?ñÖQÂeaS"  # Anezka
+  name = "?ñgQÂeaS"  # Anezka
   female = yes
   dynasty = 506
   religion = catholic
@@ -2284,7 +2290,7 @@
   }
 }
 96064 = {
-  name = "lb"  # Jan
+  name = "⁄c"  # Jan
   dynasty = 506
   religion = catholic
   culture = bohemian
@@ -2299,7 +2305,7 @@
   }
 }
 96065 = {
-  name = "õsSÔQTX"  # MarkÈta
+  name = "jtSÒQTX"  # MarkÈta
   female = yes
   dynasty = 10110
   religion = catholic
@@ -2313,7 +2319,7 @@
   }
 }
 96066 = {
-  name = "^ÍèÉlO"  # Budivoj
+  name = "^ÍèÉl%Y"  # Budivoj
   dynasty = 10106
   religion = catholic
   culture = bohemian
@@ -2369,7 +2375,7 @@
   }
 }
 96069 = {
-  name = "6w1åKQ"  # Jesek
+  name = "6w\ãKQ"  # Jesek
   dynasty = 10106
   religion = catholic
   culture = bohemian
@@ -2405,7 +2411,7 @@
   }
 }
 471525 = {
-  name = "'kÚÉs|Z"  # Eufemia
+  name = "PkÚÉs|mZ"  # Eufemia
   female = yes
   dynasty = 10110
   religion = catholic
@@ -2420,7 +2426,7 @@
   }
 }
 96070 = {
-  name = "…bÍè∆Y-ÿöävÇÑLNØe"  # Radim-Gaudentius
+  name = "…bÍè∆Y-ÿöävÇÑœpØe"  # Radim-Gaudentius
   dynasty = 9588
   religion = catholic
   culture = bohemian
@@ -2438,7 +2444,7 @@
   }
 }
 96113 = {
-  name = "nfW—ynf"  # Prokop
+  name = "nfÖ—ynf"  # Prokop
   religion = catholic
   culture = bohemian
   1227.1.1 = {
@@ -2449,7 +2455,7 @@
   }
 }
 221551 = {
-  name = "bS∑Vs|…b"  # Ludmila
+  name = "Áv∑Vs|…b"  # Ludmila
   female = yes
   religion = catholic
   culture = bohemian
@@ -2474,7 +2480,7 @@
   }
 }
 168345 = {
-  name = "nfÌps|ØeS"  # Premysl
+  name = "nf±qs|ØeS"  # Premysl
   dynasty = 506
   religion = slavic_pagan
   culture = bohemian
@@ -2486,7 +2492,7 @@
   }
 }
 168346 = {
-  name = "ÖQNbs|ØeS"  # Nezamysl
+  name = "gQNbs|ØeS"  # Nezamysl
   dynasty = 506
   religion = slavic_pagan
   culture = bohemian
@@ -2538,7 +2544,7 @@
   }
 }
 168350 = {
-  name = "KQÌp1ts|ØeS"  # Kresomysl
+  name = "KQ±q1ts|ØeS"  # Kresomysl
   dynasty = 506
   religion = slavic_pagan
   culture = bohemian
@@ -2551,7 +2557,7 @@
   }
 }
 168351 = {
-  name = "ÖQKQpQ"  # Neklan
+  name = "gQKQ-Ü"  # Neklan
   dynasty = 506
   religion = slavic_pagan
   culture = bohemian
@@ -2597,7 +2603,7 @@
   }
 }
 168354 = {
-  name = "ØeyrWOs|S"  # Strojmir
+  name = "ØeyrÖ%Ys|S"  # Strojmir
   dynasty = 506
   religion = slavic_pagan
   culture = bohemian
@@ -2678,7 +2684,7 @@
   }
 }
 168361 = {
-  name = "ØeyrÌpPüØe…bZ"  # Strezislava
+  name = "Øeyr±qJüØe…bZ"  # Strezislava
   female = yes
   dynasty = 506
   religion = catholic
@@ -2693,7 +2699,7 @@
   }
 }
 168362 = {
-  name = "ÉlOwckç"  # Vojtech
+  name = "Él%Ywckç"  # Vojtech
   dynasty = 9588
   religion = catholic
   culture = bohemian
@@ -2714,7 +2720,7 @@
   }
 }
 168363 = {
-  name = "1t+RØe…b+Y"  # Sobeslav
+  name = "1t%RØe…b+Y"  # Sobeslav
   dynasty = 9588
   religion = catholic
   culture = bohemian
@@ -2757,7 +2763,7 @@
   }
 }
 261351 = {
-  name = "ç∑VÂe¿NaS"  # Bedriska
+  name = "ùå∑VÂe¿NaS"  # Bedriska
   female = yes
   religion = catholic
   culture = bohemian
@@ -2769,7 +2775,7 @@
   }
 }
 261352 = {
-  name = "ZSÌpZ"  # Bozena
+  name = "ZS±qZ"  # Bozena
   female = yes
   religion = catholic
   culture = bohemian
@@ -2795,7 +2801,7 @@
   }
 }
 261354 = {
-  name = "Y^WØe…bZ"  # Dobroslava
+  name = "Y^ÖØe…bZ"  # Dobroslava
   dynasty = 1062276
   religion = catholic
   culture = bohemian
@@ -2809,7 +2815,7 @@
   }
 }
 261355 = {
-  name = "'k9çÖh"  # Eufemie
+  name = "PkªåÖh"  # Eufemie
   dynasty = 1062276
   female = yes
   religion = catholic
@@ -2824,7 +2830,7 @@
   }
 }
 261356 = {
-  name = "?ñÖQÂeaS"  # Anezka
+  name = "?ñgQÂeaS"  # Anezka
   female = yes
   dynasty = 1062276
   religion = catholic
@@ -2854,7 +2860,7 @@
   }
 }
 261358 = {
-  name = "YÑTX"  # Dorota
+  name = "Y?ÜTX"  # Dorota
   female = yes
   religion = catholic
   culture = bohemian
@@ -2880,7 +2886,7 @@
   }
 }
 261360 = {
-  name = "nfW—ynf"  # Prokop
+  name = "nfÖ—ynf"  # Prokop
   dynasty = 10100
   religion = catholic
   culture = bohemian
@@ -2937,7 +2943,7 @@
   }
 }
 273020 = {
-  name = "pQÂe"  # Lanç
+  name = "-ÜÂe"  # Lanç
   dynasty = 7120
   religion = catholic
   culture = german
@@ -2953,7 +2959,7 @@
   }
 }
 273021 = {
-  name = "Êó)R¿N"  # Velia
+  name = "Àó)R¿N"  # Velia
   dynasty = 250
   religion = slavic_pagan
   culture = bohemian
@@ -2979,7 +2985,7 @@
   }
 }
 273023 = {
-  name = "Öm´ÉO"  # Nemoj
+  name = "Öm´É%Y"  # Nemoj
   dynasty = 250
   religion = slavic_pagan
   culture = bohemian
@@ -3003,7 +3009,7 @@
   }
 }
 273052 = {
-  name = "ﬂRØeXbkçÖQ+Y"  # Castohnev
+  name = "ﬂRØeXbkçgQ+Y"  # Castohnev
   dynasty = 1069074
   religion = slavic_pagan
   culture = bohemian
@@ -3028,7 +3034,7 @@
   }
 }
 273026 = {
-  name = "—yIl"  # Kochan
+  name = "—y"o"  # Kochan
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3077,7 +3083,7 @@
   }
 }
 273029 = {
-  name = "—yIl"  # Kochan
+  name = "—y"o"  # Kochan
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3090,7 +3096,7 @@
   }
 }
 273030 = {
-  name = "ZS˝lO"  # Bozej
+  name = "ZS§o%Y"  # Bozej
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3103,7 +3109,7 @@
   }
 }
 273031 = {
-  name = "—yIl"  # Kochan
+  name = "—y"o"  # Kochan
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3130,7 +3136,7 @@
   }
 }
 273033 = {
-  name = "Öm´ÉO"  # Nemoj
+  name = "Öm´É%Y"  # Nemoj
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3171,7 +3177,7 @@
   }
 }
 273036 = {
-  name = "Öm´ÉO"  # Nemoj
+  name = "Öm´É%Y"  # Nemoj
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3201,7 +3207,7 @@
   }
 }
 273038 = {
-  name = "æèlöôl"  # Damaaa
+  name = "Tê¨ôôl"  # Damaaa
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3216,7 +3222,7 @@
   }
 }
 273039 = {
-  name = "ÖQLNôl"  # Neuaa
+  name = "gQœpôl"  # Neuaa
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3231,7 +3237,7 @@
   }
 }
 273040 = {
-  name = "ZS˝lO"  # Bozej
+  name = "ZS§o%Y"  # Bozej
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3244,7 +3250,7 @@
   }
 }
 273041 = {
-  name = "ZS˝lO"  # Bozej
+  name = "ZS§o%Y"  # Bozej
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3274,7 +3280,7 @@
   }
 }
 273043 = {
-  name = "ZSÅúyr"  # Borut
+  name = "ZSoõyr"  # Borut
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3289,7 +3295,7 @@
   }
 }
 273044 = {
-  name = "lb"  # Jan
+  name = "⁄c"  # Jan
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3302,7 +3308,7 @@
   }
 }
 273045 = {
-  name = "kçÅúTX"  # Hruta
+  name = "kçoõTX"  # Hruta
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3341,7 +3347,7 @@
   }
 }
 273048 = {
-  name = "kçÅúTX"  # Hruta
+  name = "kçoõTX"  # Hruta
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3354,7 +3360,7 @@
   }
 }
 273049 = {
-  name = "Öm´ÉO"  # Nemoj
+  name = "Öm´É%Y"  # Nemoj
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3367,7 +3373,7 @@
   }
 }
 273050 = {
-  name = "Öm´ÉO"  # Nemoj
+  name = "Öm´É%Y"  # Nemoj
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3380,7 +3386,7 @@
   }
 }
 273051 = {
-  name = "öNWkçÖQ+Y"  # Jarohnev
+  name = "ûNÖkçgQ+Y"  # Jarohnev
   dynasty = 10107
   religion = catholic
   culture = bohemian
@@ -3407,7 +3413,7 @@
   }
 }
 273054 = {
-  name = "‚l^˜ñØe…b+Y"  # Pobreslav
+  name = "‚lHO˜ñØe…b+Y"  # Pobreslav
   dynasty = 9588
   religion = catholic
   culture = bohemian
@@ -3421,7 +3427,7 @@
   }
 }
 273055 = {
-  name = "‚l˜ñO"  # Porej
+  name = "‚l˜ñ%Y"  # Porej
   dynasty = 9588
   religion = catholic
   culture = bohemian
@@ -3474,7 +3480,7 @@
   }
 }
 273068 = {
-  name = "Yç¿N"  # Dobea
+  name = "Yùå¿N"  # Dobea
   dynasty = 1069072
   religion = catholic
   culture = bohemian
@@ -3487,7 +3493,7 @@
   }
 }
 273069 = {
-  name = "—yöNTX"  # Kojata
+  name = "—yûNTX"  # Kojata
   dynasty = 1069073
   religion = catholic
   culture = bohemian

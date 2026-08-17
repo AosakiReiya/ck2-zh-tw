@@ -19,7 +19,7 @@
   }
 }
 194386 = {
-  name = "–fW"  # Kortan
+  name = "Ê•fW"  # Kortan
   dynasty = 100512
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -32,7 +32,7 @@
   }
 }
 194387 = {
-  name = "›sÉb"  # Mala
+  name = "jtÉb"  # Mala
   female = yes
   dynasty = 100512
   religion = "tengri_pagan"
@@ -46,7 +46,7 @@
   }
 }
 20637 = {
-  name = "O^"  # Ipa
+  name = "%Y^"  # Ipa
   dynasty = 100514
   martial = 5
   diplomacy = 4
@@ -82,7 +82,7 @@
   }
 }
 20641 = {
-  name = "TXşV¯e"  # Tatus
+  name = "TXW¯e"  # Tatus
   dynasty = 100542
   martial = 7
   diplomacy = 5
@@ -101,7 +101,7 @@
   }
 }
 20642 = {
-  name = "“^S"  # Küre
+  name = "«^S"  # Küre
   dynasty = 100543
   martial = 7
   diplomacy = 7
@@ -118,7 +118,7 @@
   }
 }
 475420 = {
-  name = "–S9N"  # Kortan
+  name = "Ê•S9N"  # Kortan
   dynasty = 100542
   martial = 7
   diplomacy = 8
@@ -139,7 +139,7 @@
   }
 }
 479050 = {
-  name = "“^ÃW‰"  # Küerçi
+  name = "«^ÃW‰"  # Küerçi
   dynasty = 100543
   martial = 6
   diplomacy = 4
@@ -157,7 +157,7 @@
   }
 }
 483 = {
-  name = "(„‰ƒaS"  # Sarica
+  name = "©…‰ƒaS"  # Sarica
   female = yes
   martial = 4
   diplomacy = 4
@@ -175,7 +175,7 @@
   }
 }
 34808 = {
-  name = "ôTXbS"  # Bator
+  name = "ôTŠS"  # Bator
   dynasty = 1051136
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -200,7 +200,7 @@
   }
 }
 34810 = {
-  name = "–S9N"  # Kortan
+  name = "Ê•S9N"  # Kortan
   dynasty = 1051136
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -213,7 +213,7 @@
   }
 }
 34811 = {
-  name = "“^÷–"  # Kure
+  name = "«^÷–"  # Kure
   religion = "tengri_pagan"
   culture = "pecheneg"
   1070.1.1 = {
@@ -235,7 +235,7 @@
   }
 }
 34813 = {
-  name = "ïQkg"  # Kaydum
+  name = "ñQkg"  # Kaydum
   religion = "tengri_pagan"
   culture = "pecheneg"
   1125.1.1 = {
@@ -246,7 +246,7 @@
   }
 }
 34814 = {
-  name = "TXşV¯e"  # Tatus
+  name = "TXW¯e"  # Tatus
   religion = "tengri_pagan"
   culture = "pecheneg"
   1070.1.1 = {
@@ -257,7 +257,7 @@
   }
 }
 34815 = {
-  name = "OSãNO"  # Ildey
+  name = "%YSãN%Y"  # Ildey
   religion = "tengri_pagan"
   culture = "pecheneg"
   1095.1.1 = {
@@ -290,7 +290,7 @@
   }
 }
 34818 = {
-  name = "yrS"  # Teber
+  name = "yrŒS"  # Teber
   religion = "tengri_pagan"
   culture = "pecheneg"
   1095.1.1 = {
@@ -312,7 +312,7 @@
   }
 }
 180173 = {
-  name = "Lm"  # Bayça
+  name = "ŒLm"  # Bayça
   dynasty = 1042052
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -422,7 +422,7 @@
   }
 }
 180175 = {
-  name = "–SÇRğl"  # Kourkoutai
+  name = "Ê•SÇRğl"  # Kourkoutai
   dynasty = 1042052
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -453,7 +453,7 @@
   }
 }
 180177 = {
-  name = "–S9N"  # Kortan
+  name = "Ê•S9N"  # Kortan
   dynasty = 1042052
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -470,7 +470,8 @@
   }
 }
 180178 = {
-  name = "^Xôu±ƒ"  # Sevilay
+  name = "^Xôu
+„"  # Sevilay
   female = yes
   dynasty = 1042052
   religion = "tengri_pagan"
@@ -485,7 +486,7 @@
   }
 }
 180227 = {
-  name = "šN+Yê"  # Yavdi
+  name = "N+Yê"  # Yavdi
   dynasty = 1042054
   religion = "manichean"
   culture = "pecheneg"
@@ -515,7 +516,7 @@
   }
 }
 180256 = {
-  name = "vTXyQ"  # Baitzas
+  name = "vTX2ƒ"  # Baitzas
   dynasty = 1042053
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -546,7 +547,7 @@
   }
 }
 180230 = {
-  name = "TXşV¯e"  # Tatus
+  name = "TXW¯e"  # Tatus
   dynasty = 1042057
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -563,7 +564,7 @@
   }
 }
 180231 = {
-  name = "ôTTXyQ"  # Batas
+  name = "ôTTX2ƒ"  # Batas
   dynasty = 1042057
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -577,7 +578,7 @@
   }
 }
 180232 = {
-  name = "Fzyrœ"  # Mutlu
+  name = "Fzyro›"  # Mutlu
   female = yes
   dynasty = 1042057
   religion = "tengri_pagan"
@@ -608,7 +609,7 @@
   }
 }
 180234 = {
-  name = "^X)nêKQ"  # Sevindik
+  name = "^X«nêKQ"  # Sevindik
   female = yes
   dynasty = 1042051
   religion = "tengri_pagan"
@@ -623,7 +624,8 @@
   }
 }
 180235 = {
-  name = "„SyQ±ƒÆY"  # Özlem
+  name = "„S2ƒ
+„ÆY"  # Özlem
   female = yes
   dynasty = 1042051
   religion = "tengri_pagan"
@@ -638,7 +640,7 @@
   }
 }
 180236 = {
-  name = "ïQYÆY"  # Kaydum
+  name = "ñQYÆY"  # Kaydum
   dynasty = 1042051
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -655,7 +657,7 @@
   }
 }
 180237 = {
-  name = "ïQYÆY"  # Kaydum
+  name = "ñQYÆY"  # Kaydum
   dynasty = 1042051
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -669,7 +671,7 @@
   }
 }
 180238 = {
-  name = "ZSœ"  # Boru
+  name = "ZSo›"  # Boru
   dynasty = 1042055
   religion = "manichean"
   culture = "pecheneg"
@@ -684,7 +686,7 @@
   }
 }
 180239 = {
-  name = "LNÔkKQ"  # Usunbike
+  name = "ÏpÔkKQ"  # Usunbike
   female = yes
   dynasty = 1042055
   religion = "manichean"
@@ -725,7 +727,7 @@
   }
 }
 180242 = {
-  name = "úWšNyQ"  # Giazis
+  name = "úWN2ƒ"  # Giazis
   dynasty = 1042050
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -756,7 +758,7 @@
   }
 }
 180244 = {
-  name = "úWšNyQ"  # Giazis
+  name = "úWN2ƒ"  # Giazis
   dynasty = 1042050
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -770,7 +772,7 @@
   }
 }
 180245 = {
-  name = "ğlKQœ"  # Tekçe
+  name = "ğlKQo›"  # Tekçe
   female = yes
   dynasty = 1042050
   religion = "tengri_pagan"
@@ -785,7 +787,7 @@
   }
 }
 180246 = {
-  name = "lšÉb"  # Mala
+  name = "¬™Éb"  # Mala
   female = yes
   dynasty = 1042043
   religion = "tengri_pagan"
@@ -811,7 +813,7 @@
   }
 }
 180248 = {
-  name = "OSêyQ"  # Yildiz
+  name = "%YSê2ƒ"  # Yildiz
   female = yes
   dynasty = 1042042
   religion = "tengri_pagan"
@@ -852,7 +854,7 @@
   }
 }
 194364 = {
-  name = "Fzyrœ"  # Mutlu
+  name = "Fzyro›"  # Mutlu
   female = yes
   dynasty = 1042052
   religion = "manichean"
@@ -885,7 +887,7 @@
   }
 }
 188807 = {
-  name = "TXşV¯e"  # Tatus
+  name = "TXW¯e"  # Tatus
   dynasty = 1042057
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -897,7 +899,7 @@
   }
 }
 188808 = {
-  name = "TXşV¯e"  # Tatus
+  name = "TXW¯e"  # Tatus
   dynasty = 1042057
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -910,7 +912,7 @@
   }
 }
 188809 = {
-  name = "	TšN	T¯e"  # Giazis
+  name = "	TN	T¯e"  # Giazis
   dynasty = 1042054
   religion = "manichean"
   culture = "pecheneg"
@@ -924,7 +926,7 @@
   }
 }
 188810 = {
-  name = "	TšN	T¯e"  # Yeke
+  name = "	TN	T¯e"  # Yeke
   dynasty = 1042054
   religion = "manichean"
   culture = "pecheneg"
@@ -937,7 +939,7 @@
   }
 }
 188811 = {
-  name = "	TšN	T¯e"  # Giazis
+  name = "	TN	T¯e"  # Giazis
   dynasty = 1042054
   religion = "manichean"
   culture = "pecheneg"
@@ -965,7 +967,7 @@
   }
 }
 188813 = {
-  name = "‚šN¼–"  # Ayasun
+  name = "‚N¼–"  # Ayasun
   female = yes
   dynasty = 1042052
   religion = "tengri_pagan"
@@ -979,7 +981,7 @@
   }
 }
 188814 = {
-  name = "Ï‚.O"  # Suru
+  name = "†.O"  # Suru
   dynasty = 1042052
   religion = "manichean"
   culture = "pecheneg"
@@ -991,7 +993,7 @@
   }
 }
 188815 = {
-  name = "LNYRKQ"  # Usunbike
+  name = "ÏpYRŒKQ"  # Usunbike
   female = yes
   dynasty = 1042052
   religion = "manichean"
@@ -1018,7 +1020,7 @@
   }
 }
 188818 = {
-  name = "j<hÌ‘"  # Celgil
+  name = "l<hÌ‘"  # Celgil
   dynasty = 1042051
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1046,7 +1048,7 @@
   }
 }
 188820 = {
-  name = "	TšN	T¯e"  # Giazis
+  name = "	TN	T¯e"  # Giazis
   dynasty = 1042050
   religion = "manichean"
   culture = "pecheneg"
@@ -1058,7 +1060,7 @@
   }
 }
 188821 = {
-  name = "Ï‚.O"  # Suru
+  name = "†.O"  # Suru
   dynasty = 1042050
   religion = "manichean"
   culture = "pecheneg"
@@ -1071,7 +1073,7 @@
   }
 }
 188822 = {
-  name = "	TšN	T¯e"  # Giazis
+  name = "	TN	T¯e"  # Giazis
   dynasty = 1042050
   religion = "manichean"
   culture = "pecheneg"
@@ -1084,7 +1086,7 @@
   }
 }
 188823 = {
-  name = "“^œ"  # Kuru
+  name = "«^o›"  # Kuru
   dynasty = 1042050
   religion = "manichean"
   culture = "pecheneg"
@@ -1097,7 +1099,7 @@
   }
 }
 256056 = {
-  name = "ÑyS“^fW"  # Korkutan
+  name = "ÑyS«^fW"  # Korkutan
   dynasty = 1061036
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1109,7 +1111,7 @@
   }
 }
 256066 = {
-  name = "ZSœ"  # Boru
+  name = "ZSo›"  # Boru
   dynasty = 1061045
   religion = tengri_pagan
   culture = pecheneg
@@ -1121,7 +1123,7 @@
   }
 }
 258083 = {
-  name = "TXşV¯e"  # Tatus
+  name = "TXW¯e"  # Tatus
   dynasty = 1100005
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1133,7 +1135,8 @@
   }
 }
 258086 = {
-  name = "Ôk±ƒS"  # Bülär
+  name = "Ôk
+„S"  # Bülär
   dynasty = 1100008
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1145,7 +1148,7 @@
   }
 }
 258087 = {
-  name = "6w…Q"  # Yänäy
+  name = "6wgQ"  # Yänäy
   dynasty = 1100009
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1157,7 +1160,8 @@
   }
 }
 258088 = {
-  name = "ÃW±ƒ"  # Äyle
+  name = "ÃW
+„"  # Äyle
   dynasty = 1100010
   religion = "tengri_pagan"
   culture = "pecheneg"
@@ -1205,7 +1209,7 @@
   }
 }
 260696 = {
-  name = "O^ÄO¯e"  # Ipaos
+  name = "%Y^ÄO¯e"  # Ipaos
   dynasty = 1062322
   religion = tengri_pagan
   culture = pecheneg

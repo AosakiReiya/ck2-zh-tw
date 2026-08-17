@@ -1,111 +1,113 @@
 ### ParaTranz ###
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTOPTA_HL_121;b„vgËSÿÄžÑ‘1S>fØš5„vaŒVÿ;;;;;;;;;;;;x
+EVTOPTA_HL_121;b„vgËSÿÃžÑ‘1So˜Øš´Œ„vaŒVÿ;;;;;;;;;;;;x
 abandon_province;>eVwýN;;;;;;;;;;;;x
-abandon_province_desc;>föeP>eVÙWWW0WÿÁ™V0Rôf R¥wƒl„vgrIW†N0;;;;;;;;;;;;x
-nomads_exploited_land;8ngrlBŽŽÇ„vW0W;;;;;;;;;;;;x
+abandon_province_desc;o˜BfP>eVJXW0Wÿw™V0Rôf R¥wƒl„vgrIW†N0;;;;;;;;;;;;x
+nomads_exploited_land;JgrlBŽªŽN„vW0W;;;;;;;;;;;;x
 nomad_population_boom;ºNãSr¸p;;;;;;;;;;;;x
-nomad_population_boom_spillover;ºNãSÇŒAm1Y;;;;;;;;;;;;x
-PROVINCE_ABANDONED_TOOLTIP;>eVÙ*NwýNÿ©‹N*N»ýV·ƒ—VƒR0;;;;;;;;;;;;x
+nomad_population_boom_spillover;ºNãSN,Am1Y;;;;;;;;;;;;x
+PROVINCE_ABANDONED_TOOLTIP;>eVPwýNÿ“‹NP0‘Wrs—VƒR0;;;;;;;;;;;;x
 ANY_SETTLEMENT;ûNa0W¶N;;;;;;;;;;;;x
-CB_NAME_INSTALLKHAN;åbËzïSWl;;;;;;;;;;;;x
-cb_install_khan_desc;TèÏeïSåNfk›RŸ^ÜžïSWlv^(uôf	gžR›R„vºNãNÿf0;;;;;;;;;;;;x
-elephant_trample_tactic;baŒõŽb>g;;;;;;;;;;;;x
-INTERACTION_NOT_ALREADY_ENEMIES;N>fLeºN;;;;;;;;;;;;x
+CB_NAME_INSTALLKHAN;ÁdËzïSWl;;;;;;;;;;;;x
+cb_install_khan_desc;TèÏeïSåNfk›Râ^ÜžïSWl&N(uôf	g¦›R„vºNãNÿf0;;;;;;;;;;;;x
+elephant_trample_tactic;0baŒŽŽ0b>g;;;;;;;;;;;;x
+INTERACTION_NOT_ALREADY_ENEMIES;qgo˜ueºN;;;;;;;;;;;;x
 CLAN_SAME_FAITH;øvT„váOðN;;;;;;;;;;;;x
-DOES_NOT_RISK_MINOR_CLAN_RISING;àe!k¶uèÏew‹NÎ˜i–;;;;;;;;;;;;x
-RISKS_MINOR_CLAN_RISING;	g!k¶uèÏew‹NÎ˜i–;;;;;;;;;;;;x
-nomad_expansion_desc;‚YœgbìNåb	g³YZgÿ1SýwY(WNIWb‰N-NVg'YGrYýVW0W0;;;;;;;;;;;;x
+DOES_NOT_RISK_MINOR_CLAN_RISING;!q!k¶uèÏew‹N¨˜ª–;;;;;;;;;;;;x
+RISKS_MINOR_CLAN_RISING;	g!k¶uèÏew‹N¨˜ª–;;;;;;;;;;;;x
+nomad_expansion_desc;‚YœgbPÁd	g³ YZgÿ1Sýw Y(WNIW0b-r-NVg'YGrYWW0W0;;;;;;;;;;;;x
 CB_NAME_NOMAD_EXPANSION;[Title.GetBaseName]„vãg;;;;;;;;;;;;x
-WAR_NAME_NOMAD_EXPANSION;$ORDER$ $FIRST_ADJ$IYÖS$OTHER_TITLE$b‰N;;;;;;;;;;;;x
-CLAN_SIZE;§YèÏepeÏ‘¾0RNP–§!;;;;;;;;;;;;x
-CLAN_SIZE_DESC;g'YèÏepeÏ‘1u†˜W'YS³QšR0ÇYèÏeOäNOb	gèÏeùRvQ†˜JN„v§YèÏeÂ‰a§!¶NuˆmgqVÍT0èÏepeÏ‘„vÝuùRg'Y<PIN§Y$MAX$§!*NèÏeÿdköe`ONýw§YRÂˆèÏe§!v^NûNUO«ˆVg„v§Y8ngr§!ObIN§YèL„§!Sã0;;;;;;;;;;;;x
-succ_nomad_succession;8ngrçubÕl;;;;;;;;;;;;x
-recent_county_uprising;gÑÛSqN;;;;;;;;;;;;x
-prisoner_to_oubilette;TbÛÆRbr;;;;;;;;;;;;x
-prisoner_to_oubilette_desc;S§Y[Root.GetTitledFirstName]§!TbÛ0Wbr…Qgñm„vmtzÌ‘ÿŒRhQØV‰c[Root.GetObjectPronoun]0¡lºNýwÎNÆRbrÌ‘Ñÿÿ[Root.GetPossPronounCap]„˜gÿRŒT(WÌ‘b—S%`gRNM–	ÿ0;;;;;;;;;;;;x
-prisoner_to_dungeon;l0R0Wbr;;;;;;;;;;;;x
-prisoner_to_dungeon_desc;Šb§Y[Root.GetTitledFirstName]§!l0R0Wbr„vUSô•Ì‘ÿ(W²[Root.GetSubjectPronoun]àeÕlŠfÑÿØýwJm—VENN›N0;;;;;;;;;;;;x
-prisoner_to_suite;oy;;;;;;;;;;;;x
-prisoner_to_suite_desc;Šb§Y[Root.GetTitledFirstName]§!lûy0RkSuQŠbˆR„vWYô•-N0ÙOÐcGSÑ„vàQ‡sÿFO[Root.GetSubjectPronoun]NOÐc‰Blv^NïSåNJm—VˆVEN0;;;;;;;;;;;;x
-MODIFIER_ADDED_NO_END;§Y$WHERE$§!·ƒ—V†N0§Y$WHAT$§!0ÿåb	gåNNHeœgÿ\n$EFFECT$\n\n;;;;;;;;;;;;x
+WAR_NAME_NOMAD_EXPANSION;$ORDER$ $FIRST_ADJ$IYÖS$OTHER_TITLE$0b-r;;;;;;;;;;;;x
+CLAN_SIZE;§YèÏexeÏ‘T0RNP–§!;;;;;;;;;;;;x
+CLAN_SIZE_DESC;g'YèÏexeÏ‘1u˜W'YSzlšR0NYèÏegäNOb	gèÏeùRvQ˜JN„v§YèÏeÀ‰a§!¶NuˆmuiqVÿ—0èÏexeÏ‘„vÝuùRg'Y<P©§Y$MAX$§!PèÏeÿdkBf`Oqgýw§YRÂˆèÏe§!&NNûNUO«ˆVg„v§YJgr§!gb©§YèL„§!Sã0;;;;;;;;;;;;x
+succ_nomad_succession;JgrçubÕl;;;;;;;;;;;;x
+recent_county_uprising;gÑÛS‚N;;;;;;;;;;;;x
+prisoner_to_oubilette;Tb2ÆRbr;;;;;;;;;;;;x
+prisoner_to_oubilette_desc;S§Y[Root.GetTitledFirstName]§!Tb20WbrgQgñm„vmtzáˆÿŒRhQØV‰c[Root.GetObjectPronoun]0’lºNýwž_ÆRbráˆÑÿÿ[Root.GetPossPronounCap]˜gÿRŒT(Wáˆb—S%`‡RNM–	ÿ0;;;;;;;;;;;;x
+prisoner_to_dungeon;I0R0Wbr;;;;;;;;;;;;x
+prisoner_to_dungeon_desc;Šb§Y[Root.GetTitledFirstName]§!I0R0Wbr„v®U“•áˆÿ(W²[Root.GetSubjectPronoun]!qÕl%fÑÿ„ýwÁo—VENN›N0;;;;;;;;;;;;x
+prisoner_to_suite;ßŽy;;;;;;;;;;;;x
+prisoner_to_suite_desc;Šb§Y[Root.GetTitledFirstName]§!Iûy0R[ˆuQŠbˆR„vWY“•-N0gÐcGSÑ„v_j‡sÿFO[Root.GetSubjectPronoun]qggÐc‰Bl&NNïSåNÁo—VˆVEN0;;;;;;;;;;;;x
+MODIFIER_ADDED_NO_END;§Y$WHERE$§!rs—V†N0§Y$WHAT$§!0ÿÁd	gåNNHeœgÿ\n$EFFECT$\n\n;;;;;;;;;;;;x
 NOMAD_LAND_OVERRUN;§YèÏe4ngW0W§!;;;;;;;;;;;;x
-NOMAD_LAND_OVERRUN_DESC;ïSWlåb	gW0W„vÜ…vQÖNèÏe0ÖNÅVŠ˜³NúQ§Y$NUM$§!WWW0Wÿ&TRïSýwb—4N°s	gèÏe„vÛSqNÿuób—4N!k¶uèÏew‹NÿåNÕ‹þV·ƒÖS(WJNAmèÏe-N„vckSV0WMO&&;;;;;;;;;;;;x
-SENTIMENT_VS_CLAN;ùR§Y$CLAN$§!èÏe„vÂ‰aÿ;;;;;;;;;;;;x
-EMPTY_PROVINCES_IN_REALM;†˜W…Q„v8ngrwýN;;;;;;;;;;;;x
-REVOKE_TITLE_INTERACTION_1N;6eÞV§Y[ThirdPartyTitle.GetFullName]§!Oˆmw §R$PRESTIGE$§! Zg0ÙOO§Y[Recipient.GetTitledFirstName]§!ùR`O„vŒYaM–NO §R$OPINION$§!ÿvQÖN^—8ngrSãŒYaM–NO §R$OPINION2$§!0;;;;;;;;;;;;x
-EXILE_IMPRISONED_INTERACTION_LONG_DESC;«ˆqšúQƒX„vÒ‰r‚ïSåNJmOw»yVÿFOÖNìNS«ˆë>eVhQè4YTˆÿv^N1¶NS«ˆ¡l6e0;;;;;;;;;;;;x
-EXILE_IMPRISONED_INTERACTION_2;àet1uqšSã„vßu»lwO«ˆÆ‰IN´fTÿvQÖNSãùR`OM–NO§R$OPINION$§!ŒYa0;;;;;;;;;;;;x
-declare_feud_desc;å‚ŒTvQÖNèÏe	gNÇNÿAQ¸‹`OÑS¨R‰NIYb‰Nÿd–^—`O>fïSWl`OàeÕlùRN^SèÏeÑS¨Rb‰Nb«R c0	ÿ;;;;;;;;;;;;x
-SETTLE_FEUD_INTERACTION_DESC;ÐcúQŒTã‰v^ÓungbìNN[Recipient.Clan.GetName]„vNÇN0ÙS±‚9bìN §R$COST$§!¤0;;;;;;;;;;;;x
-SETTLE_FEUD_INTERACTION_LONG_DESC;ÐcúQŒTã‰v^>eØNÙu[Recipient.Clan.GetName]N'Yr±”Oˆe±”&&;;;;;;;;;;;;x
-ABSORB_CLAN_INTERACTION_DESC;TS§Y[Recipient.Clan.GetName]§!èÏe‚Yœg`O	gˆVYèÏe„vÝ‹ÙO^—8^	g(u0;;;;;;;;;;;;x
-ABSORB_CLAN_INTERACTION_LONG_DESC;TSèÏev^N>fN*N×S1kÎ„vLˆINÿFO‚Yœg`O	gˆVYèÏeÿÙ1SˆV	gÅV‰†N0;;;;;;;;;;;;x
-FORM_BLOOD_OATH_INTERACTION_DESC;Oˆ“ŠïSåN©‹§Y[Recipient.Clan.GetName]§!èÏebIN`OZWšR„vßvËSÿêS‰ÌS¹eßu»lwÍN6q(WN0FO>fÿ`OÅNýwåb	gN*NvQÖNèÏekOIN`O„vÓuÜbDQV&&;;;;;;;;;;;;x
-FORM_BLOOD_OATH_INTERACTION_LONG_DESC;Oˆ“ŠïSåN©‹æSNèÏebIN`OZWšR„vßvËSÿêS‰ÌS¹eßu»lwÍN6q(WN0FO>fÿ`OÅNýwåb	gN*NvQÖNèÏekOIN`O„vÓuÜbDQV&&;;;;;;;;;;;;x
-adopt_faith_desc;`OïSåN9ebc[Root.Clan.GetName]èÏe„váOðN0[Root.Religion.GetName]—RYenx	gvQO¹p&&;;;;;;;;;;;;x
-GOV_PRESTIGE_LAW_CHANGE_DESC;Õl‹V>fÇ±‚9Zg9eØS„vÿw^—Ç•bhy;;;;;;;;;;;;x
-LAW_NORMAL_CHANGE_PIETY_COST;(W$GOV$?eSONÿ—‰±‚9$PIETY$$PIETYNAME$eg9eØS†˜0WÕl;;;;;;;;;;;;x
-LAW_DE_JURE_CHANGE_PIETY_COST;(W$GOV$?eSONÿ—‰±‚9$PIETY$$PIETYNAME$eg9eØS‹sCgÕl;;;;;;;;;;;;x
-LAW_NORMAL_CHANGE_PRESTIGE_COST;(W$GOV$?eSONÿ—‰±‚9$PRESTIGE$Zgeg9eØS†˜0WÕl;;;;;;;;;;;;x
-LAW_DE_JURE_CHANGE_PRESTIGE_COST;(W$GOV$?eSONÿ—‰±‚9$PRESTIGE$Zgeg9eØS‹sCgÕl;;;;;;;;;;;;x
-NO_TEMPLE_HOLDING;¡l	g^y¿k0W¶N;;;;;;;;;;;;x
+NOMAD_LAND_OVERRUN_DESC;ïSWlÁd	gW0W„v`…vQÖNèÏe0ÖNÅV0˜³NúQ§Y$NUM$§!JXW0Wÿ&TGRïSýwb—èþs	gèÏe„vÛS‚Nÿuób—è!k¶uèÏew‹NÿåNfŠWrsÖS(WJNAmèÏe-N„vckSV0WMO&&;;;;;;;;;;;;x
+SENTIMENT_VS_CLAN;ùR§Y$CLAN$§!èÏe„vÀ‰aÿ;;;;;;;;;;;;x
+EMPTY_PROVINCES_IN_REALM;˜WgQ„vJgrwýN;;;;;;;;;;;;x
+REVOKE_TITLE_INTERACTION_1N;6eÞV§Y[ThirdPartyTitle.GetFullName]§!gˆmw §R$PRESTIGE$§! Zg0gO§Y[Recipient.GetTitledFirstName]§!ùR`O„vŒYaM–NO §R$OPINION$§!ÿvQÖN^—JgrSãŒYaM–NO §R$OPINION2$§!0;;;;;;;;;;;;x
+EXILE_IMPRISONED_INTERACTION_LONG_DESC;«ˆEšúQƒX„vÒ‰r‚ïSåNÁoOwâ–VÿFOÖNPS«ˆë>eVhQè-˜œ’ÿ&NNäŒ¶NS«ˆ’l6e0;;;;;;;;;;;;x
+EXILE_IMPRISONED_INTERACTION_2;!qt1uEšSã„vßu»lwg«ˆ–‰©´fTÿvQÖNSãùR`OM–NO§R$OPINION$§!ŒYa0;;;;;;;;;;;;x
+declare_feud_desc;å‚ŒTvQÖNèÏe	gNÇNÿAQ1Š`O|vÕR-rIY0b-rÿd–^—`Oo˜ïSWl`O!qÕlùRN^SèÏe|vÕR0b-rb«R c0	ÿ;;;;;;;;;;;;x
+SETTLE_FEUD_INTERACTION_DESC;ÐcúQŒTã‰&NÓungbP‚[Recipient.Clan.GetName]„vNÇN0S±‚»ŒbP §R$COST$§!¤0;;;;;;;;;;;;x
+SETTLE_FEUD_INTERACTION_LONG_DESC;ÐcúQŒTã‰&N>eØNÙu[Recipient.Clan.GetName]N'Yr"“Oˆe"“&&;;;;;;;;;;;;x
+ABSORB_CLAN_INTERACTION_DESC;TS§Y[Recipient.Clan.GetName]§!èÏe‚Yœg`O	gˆVYèÏe„vqŠg^—8^	g(u0;;;;;;;;;;;;x
+ABSORB_CLAN_INTERACTION_LONG_DESC;TSèÏe&Nqgo˜NP×S1kÎ„vLˆ©ÿFO‚Yœg`O	gˆVYèÏeÿ1SˆV	gÅV‰†N0;;;;;;;;;;;;x
+FORM_BLOOD_OATH_INTERACTION_DESC;Oˆ“ŠïSåN“‹§Y[Recipient.Clan.GetName]§!èÏeb©`OXšR„vßvËSÿêS‰Ù–¹eßu»lwÍN6q(WN0FOo˜ÿ`OÅPýwÁd	gNPvQÖNèÏekO©`O„vÓuÜbDQV&&;;;;;;;;;;;;x
+FORM_BLOOD_OATH_INTERACTION_LONG_DESC;Oˆ“ŠïSåN“‹æSNèÏeb©`OXšR„vßvËSÿêS‰Ù–¹eßu»lwÍN6q(WN0FOo˜ÿ`OÅPýwÁd	gNPvQÖNèÏekO©`O„vÓuÜbDQV&&;;;;;;;;;;;;x
+adopt_faith_desc;`OïSåN9eÛc[Root.Clan.GetName]èÏe„váOðN0[Root.Religion.GetName]—RYeºx	gvQ*QÞž&&;;;;;;;;;;;;x
+GOV_PRESTIGE_LAW_CHANGE_DESC;Õl‹Vo˜N±‚»ŒZg9eŠ‹„vÿw^—N•bhy;;;;;;;;;;;;x
+LAW_NORMAL_CHANGE_PIETY_COST;(W$GOV$?eÔšNÿ—‰±‚»Œ$PIETY$$PIETYNAME$†O9eŠ‹˜0WÕl;;;;;;;;;;;;x
+LAW_DE_JURE_CHANGE_PIETY_COST;(W$GOV$?eÔšNÿ—‰±‚»Œ$PIETY$$PIETYNAME$†O9eŠ‹‹s
+kÕl;;;;;;;;;;;;x
+LAW_NORMAL_CHANGE_PRESTIGE_COST;(W$GOV$?eÔšNÿ—‰±‚»Œ$PRESTIGE$Zg†O9eŠ‹˜0WÕl;;;;;;;;;;;;x
+LAW_DE_JURE_CHANGE_PRESTIGE_COST;(W$GOV$?eÔšNÿ—‰±‚»Œ$PRESTIGE$Zg†O9eŠ‹‹s
+kÕl;;;;;;;;;;;;x
+NO_TEMPLE_HOLDING;’l	g^y¿k0W¶N;;;;;;;;;;;;x
 clan_opinion_splitted_blood_brother_clan;RÂˆbÓuÜbDQV„vèÏe;;;;;;;;;;;;x
 clan_opinion_splitted_my_clan;RÂˆb„vèÏe;;;;;;;;;;;;x
-clan_opinion_attempted_splitted_my_clan;Õ‹þV»SRÂˆb„vèÏe;;;;;;;;;;;;x
-PROVINCE_NOT_UNDER_SIEGE;§Y$PROVINCE$§!NYŽNôVJe¶r`;;;;;;;;;;;;x
-ABSORB_CLAN_INTERACTION_4;vQÖNèÏeSãNOÍSùRTSÛSqN¶RÏe0;;;;;;;;;;;;x
-TECHPOINTS_FROM_BUILDINGS;egêú^Qrÿ §Y$AMOUNT$§!\n;;;;;;;;;;;;x
-RULER_HAS_MOVED_CAPITAL_RECENTLY_NOMAD;§Y[GetTitledFirstName]§!NAQ¸‹(W$MONTHS$*Ng…QQ!kûy¨R–™ý0;;;;;;;;;;;;x
+clan_opinion_attempted_splitted_my_clan;fŠW»SRÂˆb„vèÏe;;;;;;;;;;;;x
+PROVINCE_NOT_UNDER_SIEGE;§Y$PROVINCE$§!qgU†¼eWJeÀrKa;;;;;;;;;;;;x
+ABSORB_CLAN_INTERACTION_4;vQÖNèÏeSãqggÍSùRTSÛS‚N¶RÏe0;;;;;;;;;;;;x
+TECHPOINTS_FROM_BUILDINGS;†Oêú^Qrÿ §Y$AMOUNT$§!\n;;;;;;;;;;;;x
+RULER_HAS_MOVED_CAPITAL_RECENTLY_NOMAD;§Y[GetTitledFirstName]§!qgAQ1Š(W$MONTHS$PggQQ!kûyÕR–™ý0;;;;;;;;;;;;x
 MANPOWER_BREAKDOWN;SVMRºN›RRM‘;;;;;;;;;;;;x
-LIEGE_LEVY_DESC_OWNS;§Y$VASSAL$§!J`qQåb	g§Y$NUM$§!›Q–\n;;;;;;;;;;;;x
-LIEGE_LEVY_DESC_OWNS_DEPLETION;1uŽNncwÿ§Y$VASSAL$§!SVMRïSåNìSÆ–§Y$NUM$§!›Q–\n;;;;;;;;;;;;x
+LIEGE_LEVY_DESC_OWNS;§Y$VASSAL$§!J`qQÁd	g§Y$NUM$§!ÍŽŠ–\n;;;;;;;;;;;;x
+LIEGE_LEVY_DESC_OWNS_DEPLETION;1u¼eÚdwÿ§Y$VASSAL$§!SVMRïSåNìSÆ–§Y$NUM$§!ÍŽŠ–\n;;;;;;;;;;;;x
 TRIBAL_VASSAL_CALL_TO_ARMS_BUTTON_NO_WAR;§Y$VASSAL$§!ÿ§Y$MEN$§! ºN	ÿ;;;;;;;;;;;;x
-ALLIES_POTENTIAL;ko(Wb‰NTßv;;;;;;;;;;;;x
-SUZERAIN_OF;>f§Y$OTHER$§!„v—RJN;;;;;;;;;;;;x
-SET_SPECIAL_TITLE_DESC;§Y$CHARACTER$§!—V0R4YTˆÿ§Y$TITLE$§!\n;;;;;;;;;;;;x
-REMOVE_SPECIAL_TITLE_DESC;§Y$CHARACTER$§!1Y»S4YTˆÿ§Y$TITLE$§!\n;;;;;;;;;;;;x
+ALLIES_POTENTIAL;ko(W0b-rTßv;;;;;;;;;;;;x
+SUZERAIN_OF;o˜§Y$OTHER$§!„v—RJN;;;;;;;;;;;;x
+SET_SPECIAL_TITLE_DESC;§Y$CHARACTER$§!—V0R-˜œ’ÿ§Y$TITLE$§!\n;;;;;;;;;;;;x
+REMOVE_SPECIAL_TITLE_DESC;§Y$CHARACTER$§!1Y»S-˜œ’ÿ§Y$TITLE$§!\n;;;;;;;;;;;;x
 BOY;7uiR;;;;;;;;;;;;x
-employ_soldier;ÐcÔbc%c˜R;;;;;;;;;;;;x
-employ_soldier_desc;ÎN›Q–„vnfëXuQ-NKfGSNTc%c˜RåNc%cbIW›Q–0;;;;;;;;;;;;x
-ISNT_COUNTY_CAPITAL;N>fwýN–™œ^;;;;;;;;;;;;x
-IS_COUNTY_CAPITAL;>fwýN–™œ^;;;;;;;;;;;;x
-tocharian;TkpW;;;;;;;;;;;;x
-no_horse_breeder_desc;'YIƒŸSNNôv%`—ëVNIVîX„vlš9S0;;;;;;;;;;;;x
+employ_soldier;ÐcÔbcîc˜R;;;;;;;;;;;;x
+employ_soldier_desc;ž_ÍŽŠ–„vnfëXuQ-NIfGSNTcîc˜RåNcîc0bIWÍŽŠ–0;;;;;;;;;;;;x
+ISNT_COUNTY_CAPITAL;qgo˜wýN–™œ^;;;;;;;;;;;;x
+IS_COUNTY_CAPITAL;o˜wýN–™œ^;;;;;;;;;;;;x
+tocharian;Tkp…;;;;;;;;;;;;x
+no_horse_breeder_desc;'YIƒŸSNNôv%`—ëVNIVïX„v¬™9S0;;;;;;;;;;;;x
 TERRAIN_IS;0WbV;;;;;;;;;;;;x
-HORDE_RETTYPE_INDIAN;aŒ‘šuQ;;;;;;;;;;;;x
-HORDE_RETTYPE_DESERT;†š|š‘šuQ;;;;;;;;;;;;x
-HOLYSITE_UNBUILT;§Y$SITENAME$§!„v2W0WISN*N^y¿k0W¶N;;;;;;;;;;;;x
-CALL_ALLY_BLOOD_BROTHERS;\n§YàVIN`O>fÓuÜbDQVÿÖNìNàeÕlÒbÝu0§!;;;;;;;;;;;;x
-INTERACTION_CALL_TO_WAR_HAS_VALID_TARGET;ÅVŠ˜	gNIWïSåNìS3U§Y[Recipient.GetTitledFirstName]§!egÂS R„vb‰N;;;;;;;;;;;;x
-SUZERAIN_RELATIONSHIP;§Y$SUZERAIN$§!>f§Y$TRIBUTARY$§!„v—RJN0;;;;;;;;;;;;x
-MERC_RIVAL_REASON;\n§Y[GetBestName]§!êS‰ŒT`O>fÇNLesQû|1SNOÿf`OHeŒT0;;;;;;;;;;;;x
-MERC_FRIEND_REASON;\n§Y[GetBestName]§!(W`OŒT[GetPossPronoun]gËSÿ$CHAR$§!Vb„vöeP>fNOÿf`OHeŒT„v0;;;;;;;;;;;;x
+HORDE_RETTYPE_INDIAN;aŒšuQ;;;;;;;;;;;;x
+HORDE_RETTYPE_DESERT;ñ™Ý™šuQ;;;;;;;;;;;;x
+HOLYSITE_UNBUILT;§Y$SITENAME$§!„v2W0WISNP^y¿k0W¶N;;;;;;;;;;;;x
+CALL_ALLY_BLOOD_BROTHERS;\n§YàV©`Oo˜ÓuÜbDQVÿÖNP!qÕlÒbÝu0§!;;;;;;;;;;;;x
+INTERACTION_CALL_TO_WAR_HAS_VALID_TARGET;ÅV0˜	gNIWïSåNìS3U§Y[Recipient.GetTitledFirstName]§!†OÃS R„v0b-r;;;;;;;;;;;;x
+SUZERAIN_RELATIONSHIP;§Y$SUZERAIN$§!o˜§Y$TRIBUTARY$§!„v—RJN0;;;;;;;;;;;;x
+MERC_RIVAL_REASON;\n§Y[GetBestName]§!êS‰ŒT`Oo˜ÇNueÜ•ÂO1Sqggÿf`OHeŒT0;;;;;;;;;;;;x
+MERC_FRIEND_REASON;\n§Y[GetBestName]§!(W`OŒT[GetPossPronoun]gËSÿ$CHAR$§!V0b„vBfPo˜qggÿf`OHeŒT„v0;;;;;;;;;;;;x
 NOMAD_UNUSED_MANPOWER_MODIFIER;*g(uºN›R;;;;;;;;;;;;x
 CURRENT_POPULATION;SVMRºNãS;;;;;;;;;;;;x
-adopt_tribalism_named;kOINèL„šRES(W[Root.GetName];;;;;;;;;;;;x
-adopt_republicanism_named;(W[Root.GetName]bËzFUNqQŒTýV;;;;;;;;;;;;x
-adopt_feudalism_named;Ç‘(uSú^6Rv^šRES(W[Root.GetName];;;;;;;;;;;;x
-CHRONICLE_NOMAD_FOUNDED_MERCHANT_REPUBLIC;[From.GetDynName](W[From.GetHerHis]†ußW…QbËz†N°e„vFUNqQŒTýVÿSKNMR„v8ngruJm›bø‹T0;;;;;;;;;;;;x
-nomad_adopt_republicanism;bËzFUNqQŒTýV;;;;;;;;;;;;x
-nomad_adopt_republicanism_named;(W[Root.GetName]bËzFUNqQŒTýV;;;;;;;;;;;;x
-nomad_adopt_republicanism_desc;bïSåN	ébNQåN8ngr„v¹eVuJmÿv^NbËzN*NFUNqQŒTýV;;;;;;;;;;;;x
-SET_TITLE_NOMAD_EFFECT;§Y$TITLE$§!ØSIN8ngr4YTˆ0\n;;;;;;;;;;;;x
-UNSET_TITLE_NOMAD_EFFECT;§Y$TITLE$§!NQ>f8ngr4YTˆ0\n;;;;;;;;;;;;x
-GLOBAL_MODIFIER_TRADE_ROUTE_WEALTH;ùRŽN8fÙz„vhQOS8fï¿u1ÌR;;;;;;;;;;;;x
-GLOBAL_MODIFIER_TRADE_ROUTE_VALUE;ùRŽN8fÙzhQOS8fï¿u6eeQ;;;;;;;;;;;;x
-GLOBAL_MODIFIER_TRADEVALUE;8fÙz…Q„vhQOS8f÷N<P;;;;;;;;;;;;x
+adopt_tribalism_named;kO©èL„šRES(W[Root.GetName];;;;;;;;;;;;x
+adopt_republicanism_named;(W[Root.GetName]bËzFUmiqQŒTW;;;;;;;;;;;;x
+adopt_feudalism_named;¡c(uSú^6R&NšRES(W[Root.GetName];;;;;;;;;;;;x
+CHRONICLE_NOMAD_FOUNDED_MERCHANT_REPUBLIC;[From.GetDynName](W[From.GetHerHis]†ußWgQbËz†N°e„vFUmiqQŒTWÿSKNMR„vJgruÁoËbøŠfŒ_0;;;;;;;;;;;;x
+nomad_adopt_republicanism;bËzFUmiqQŒTW;;;;;;;;;;;;x
+nomad_adopt_republicanism_named;(W[Root.GetName]bËzFUmiqQŒTW;;;;;;;;;;;;x
+nomad_adopt_republicanism_desc;bïSåNxÇdqgQåNJgr„v¹eVuÁoÿ&NNbËzNPFUmiqQŒTW;;;;;;;;;;;;x
+SET_TITLE_NOMAD_EFFECT;§Y$TITLE$§!Š‹©Jgr-˜œ’0\n;;;;;;;;;;;;x
+UNSET_TITLE_NOMAD_EFFECT;§Y$TITLE$§!qgQo˜Jgr-˜œ’0\n;;;;;;;;;;;;x
+GLOBAL_MODIFIER_TRADE_ROUTE_WEALTH;ùR¼e¿ŒfÙz„vhQTS¿Œfï¿uäŒÌR;;;;;;;;;;;;x
+GLOBAL_MODIFIER_TRADE_ROUTE_VALUE;ùR¼e¿ŒfÙzhQTS¿Œfï¿u6eeQ;;;;;;;;;;;;x
+GLOBAL_MODIFIER_TRADEVALUE;¿ŒfÙzgQ„vhQTS¿ŒfùP<P;;;;;;;;;;;;x
 HAS_COUNTY_CAPITAL;	gwýN–™œ^;;;;;;;;;;;;x
-HASNT_COUNTY_CAPITAL;¡l	gwýN–™œ^;;;;;;;;;;;;x
-INTER_REALM_LOOTING;…Qè«R c;;;;;;;;;;;;x
-INTER_REALM_LOOTING_DESC;Ù*Nè–¢bÇeg„vÄžÑ‘Oôv¥c R0ROb	gw„vÑ‘“^Ì‘ÿàVINÖNìN>f(WêñT„v†˜0WÌ‘«R c0;;;;;;;;;;;;x
-is_not_busy_trigger_tooltip;¡l	gÙVŽN´RO0érs0ÅeLˆbvQÖNyrŠkJm¨R\n;;;;;;;;;;;;x
-ISNT_NOMADIC;N>f8ngr;;;;;;;;;;;;x
-REALM_PROVINCE_STARTS;ûNa†˜0WwýN;;;;;;;;;;;;x
-NOT_REALM_PROVINCE_STARTS;àe†˜0WwýN;;;;;;;;;;;;x
-EVTDESC6061;ÊNée’‘egbaÉ‰ŒY†NˆVY0<ONNb„v¾uÅuòTÏuÇ»S†N0;;;;;;;;;;;;x
-choose_warhorse_nomad;c	N9Sblš;;;;;;;;;;;;x
-choose_warhorse_nomad_desc;NTIVîX„v[Root.Culture.GetName]ßu»lw‰M‘N9SIVîX„vblš0bïSåNÎNlš³Ì‘	ébN9SÁyºNblš›ObO(u0‚Yœgb‰Ù7hZP„vÝ‹ÿ²HNbØ‰±‚±”»SÙublšÅˆM‘øv”^„vlšwQ0;;;;;;;;;;;;x
-nomad_acquires_warhorse_tooltip;VËYc	blš0;;;;;;;;;;;;x
-nomad_warhorse;ŒRŽ„vblš;;;;;;;;;;;;x
-nomad_warhorse_desc;dkÒ‰r‚	éb†NN9SŒRŽ„vblškOIN[GetHerHis]ÁyºNPW‘šÿÙÙuˆN[GetHerHim]ôfYZg0;;;;;;;;;;;;x
+HASNT_COUNTY_CAPITAL;’l	gwýN–™œ^;;;;;;;;;;;;x
+INTER_REALM_LOOTING;gQè«R c;;;;;;;;;;;;x
+INTER_REALM_LOOTING_DESC;PèŠ–6dN†O„vÃžÑ‘gôv¥c R0ROb	gw„vÑ‘«^áˆÿàV©ÖNPo˜(WêñT„v˜0Wáˆ«R c0;;;;;;;;;;;;x
+is_not_busy_trigger_tooltip;’l	gÙV¼e´Rg0érus0ÅeLˆbvQÖNyrŠkÁoÕR\n;;;;;;;;;;;;x
+ISNT_NOMADIC;qgo˜Jgr;;;;;;;;;;;;x
+REALM_PROVINCE_STARTS;ûNa˜0WwýN;;;;;;;;;;;;x
+NOT_REALM_PROVINCE_STARTS;!q˜0WwýN;;;;;;;;;;;;x
+EVTDESC6061;ÊNée’‘†Obaº‰ŒY†NˆVY0<ONNb„v¾uÅuòTÏuN»S†N0;;;;;;;;;;;;x
+choose_warhorse_nomad;cxN9S0b¬™;;;;;;;;;;;;x
+choose_warhorse_nomad_desc;NTIVïX„v[Root.Culture.GetName]ßu»lw‰M‘N9SIVïX„v0b¬™0bïSåNž_¬™³áˆxÇdN9SÁyºN0b¬™›ObO(u0‚Yœgb‰#jZP„vqŠÿ²¼žb„‰±‚"“»SÙu0b¬™ÝˆM‘øvÉa„v¬™wQ0;;;;;;;;;;;;x
+nomad_acquires_warhorse_tooltip;VËYcx0b¬™0;;;;;;;;;;;;x
+nomad_warhorse;ŒRŽ„v0b¬™;;;;;;;;;;;;x
+nomad_warhorse_desc;dkÒ‰r‚xÇd†NN9SŒRŽ„v0b¬™kO©[GetHerHis]ÁyºNPWšÿÙuˆN[GetHerHim]ôfYZg0;;;;;;;;;;;;x

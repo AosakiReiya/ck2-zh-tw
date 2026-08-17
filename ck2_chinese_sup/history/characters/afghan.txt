@@ -44,7 +44,7 @@
   }
 }
 74725 = {
-  name = "LNÜb¾"  # Ubaidah
+  name = "ÏpÜbT"  # Ubaidah
   female = yes
   religion = "sunni"
   culture = "afghan"
@@ -56,7 +56,7 @@
   }
 }
 178019 = {
-  name = "…QNbÆY"  # Nezam
+  name = "gQNbÆY"  # Nezam
   dynasty = 1041119
   religion = "sunni"
   culture = "afghan"
@@ -68,7 +68,7 @@
   }
 }
 188565 = {
-  name = "ÃRSÆQ"  # Bo-Fuzun
+  name = "ÃRS–n"  # Bo-Fuzun
   dynasty = 1042110
   religion = "buddhist"
   culture = "afghan"
@@ -102,7 +102,7 @@
   }
 }
 188567 = {
-  name = "³uyQ?–kTXS"  # Naz'aktar
+  name = "³u2ƒ?–kTXS"  # Naz'aktar
   dynasty = 1042110
   religion = "buddhist"
   culture = "afghan"
@@ -119,7 +119,7 @@
   }
 }
 188570 = {
-  name = "™lS)n"  # `arvin
+  name = "™lS«n"  # `arvin
   dynasty = 1042109
   religion = "buddhist"
   culture = "afghan"
@@ -175,7 +175,7 @@
   }
 }
 188700 = {
-  name = "«ƒIyräR"  # Barhatakin
+  name = "«ƒÚŒyräR"  # Barhatakin
   dynasty = 1042110
   religion = "zun_pagan"
   culture = "afghan"
@@ -187,7 +187,7 @@
   }
 }
 188701 = {
-  name = "œyrÕkS"  # Rutbil
+  name = "o›yrbuS"  # Rutbil
   dynasty = 1042110
   religion = "zun_pagan"
   culture = "afghan"
@@ -200,7 +200,7 @@
   }
 }
 188702 = {
-  name = "‚Y¡lÂb¾"  # Rumofuda
+  name = "‚Y’lÂbT"  # Rumofuda
   dynasty = 1042110
   religion = "zun_pagan"
   culture = "afghan"
@@ -226,7 +226,7 @@
   }
 }
 188628 = {
-  name = "‚Y¡lÂb¾"  # Jimofuta
+  name = "‚Y’lÂbT"  # Jimofuta
   dna = aehzcotudbu
   properties = hb0ccd000000000000
   dynasty = 1042110
@@ -242,7 +242,7 @@
   }
 }
 188705 = {
-  name = "«ƒI"  # Barha
+  name = "«ƒÚŒ"  # Barha
   dynasty = 1042110
   religion = "zun_pagan"
   culture = "afghan"
@@ -256,7 +256,7 @@
   }
 }
 188706 = {
-  name = ",g³uyQ"  # Benaz
+  name = ",g³u2ƒ"  # Benaz
   female = yes
   dynasty = 1042110
   religion = "zun_pagan"
@@ -271,7 +271,7 @@
   }
 }
 188707 = {
-  name = "‚Y¡lÂb¾"  # Rumofuda
+  name = "‚Y’lÂbT"  # Rumofuda
   dynasty = 1042110
   religion = "zun_pagan"
   culture = "afghan"
@@ -285,7 +285,7 @@
   }
 }
 188708 = {
-  name = "œyrÕkS"  # Rutbil
+  name = "o›yrbuS"  # Rutbil
   dynasty = 1042110
   religion = "zun_pagan"
   culture = "afghan"
@@ -298,7 +298,7 @@
   }
 }
 188709 = {
-  name = "‚Y¡lÂb¾"  # Jimofuta
+  name = "‚Y’lÂbT"  # Jimofuta
   dynasty = 1042110
   religion = "zun_pagan"
   culture = "afghan"
@@ -340,7 +340,7 @@
   }
 }
 188712 = {
-  name = "òƒœyQ"  # Firuz
+  name = "òƒo›2ƒ"  # Firuz
   dynasty = 1042110
   religion = "zun_pagan"
   culture = "afghan"
@@ -407,7 +407,7 @@
   }
 }
 188716 = {
-  name = "ıl÷–"  # Zerê
+  name = "¤o÷–"  # Zerê
   dynasty = 1042110
   religion = "zun_pagan"
   culture = "afghan"
@@ -421,7 +421,7 @@
   }
 }
 188717 = {
-  name = "yräRm"  # Tegin-Shah
+  name = "yräRQp"  # Tegin-Shah
   dynasty = 1042110
   religion = "buddhist"
   culture = "afghan"
@@ -447,7 +447,7 @@
   }
 }
 188719 = {
-  name = "¾ªRÀN"  # Danûa
+  name = "TªRÀN"  # Danûa
   dynasty = 1042156
   religion = "zun_pagan"
   culture = "afghan"
@@ -459,7 +459,7 @@
   }
 }
 188720 = {
-  name = "?–…yQ"  # Arêz
+  name = "?–…2ƒ"  # Arêz
   female = yes
   dynasty = 1042156
   religion = "zun_pagan"
@@ -473,7 +473,7 @@
   }
 }
 188721 = {
-  name = "iOSæt…Q"  # Perwane
+  name = "iOSætgQ"  # Perwane
   female = yes
   dynasty = 1042156
   religion = "zun_pagan"
@@ -487,7 +487,7 @@
   }
 }
 188722 = {
-  name = "œ—Éb"  # Ruhollah
+  name = "o›—Éb"  # Ruhollah
   dynasty = 1042157
   religion = "zun_pagan"
   culture = "afghan"
@@ -499,7 +499,7 @@
   }
 }
 188723 = {
-  name = "œ—Éb"  # Ruhollah
+  name = "o›—Éb"  # Ruhollah
   dynasty = 1042157
   religion = "zun_pagan"
   culture = "afghan"
@@ -526,7 +526,7 @@
   }
 }
 261032 = {
-  name = "aS›sbSaS"  # Kamaluka
+  name = "aSjtçvaS"  # Kamaluka
   dynasty = 1043006
   religion = hindu
   culture = afghan
@@ -566,7 +566,7 @@
   }
 }
 261111 = {
-  name = "¾·VætS"  # Dadvar
+  name = "T·VætS"  # Dadvar
   dynasty = 1062544
   religion = sunni
   culture = afghan
@@ -593,7 +593,7 @@
   }
 }
 1059732 = {
-  name = "òƒœyQ"  # Firuz
+  name = "òƒo›2ƒ"  # Firuz
   dynasty = 1062597
   religion = hindu
   culture = afghan
@@ -608,7 +608,7 @@
   }
 }
 1059733 = {
-  name = "KQS"  # Bakr
+  name = "ŒKQS"  # Bakr
   dynasty = 1062597
   religion = hindu
   culture = afghan
@@ -640,7 +640,7 @@
   }
 }
 1059735 = {
-  name = "?–^ üfÏ‚S"  # Abu Mansur
+  name = "?–^ üf†S"  # Abu Mansur
   dynasty = 1062598
   religion = sunni
   culture = afghan

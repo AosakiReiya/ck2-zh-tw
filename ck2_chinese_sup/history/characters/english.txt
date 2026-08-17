@@ -38,7 +38,7 @@
   }
 }
 144240 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 342
   religion = "catholic"
@@ -52,7 +52,7 @@
   }
 }
 203544 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 101709
   martial = 5
@@ -72,7 +72,7 @@
   }
 }
 203545 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 364
   martial = 6
@@ -182,7 +182,7 @@
   }
 }
 204007 = {
-  name = "<hWâZ"  # Groecia
+  name = "<hÖâmZ"  # Groecia
   female = yes
   martial = 5
   diplomacy = 4
@@ -223,7 +223,7 @@
   }
 }
 204009 = {
-  name = ">çSØe"  # Giles
+  name = "»åSØe"  # Giles
   dynasty = 350
   martial = 5
   diplomacy = 5
@@ -305,7 +305,7 @@
   }
 }
 204013 = {
-  name = "<ti`"  # Joane
+  name = " ti`"  # Joane
   female = yes
   dynasty = 350
   martial = 5
@@ -328,7 +328,7 @@
   }
 }
 204014 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 350
   martial = 5
@@ -433,7 +433,7 @@
   }
 }
 204038 = {
-  name = "–ceYÙTS∑V"  # Theobald
+  name = "–cgYÙTS∑V"  # Theobald
   dynasty = 4040
   martial = 7
   diplomacy = 5
@@ -491,7 +491,7 @@
   }
 }
 204041 = {
-  name = "–ceYÙTS∑V"  # Theobald
+  name = "–cgYÙTS∑V"  # Theobald
   dynasty = 4040
   martial = 6
   diplomacy = 6
@@ -565,7 +565,7 @@
   }
 }
 204502 = {
-  name = "∑^ØefWN"  # Constance
+  name = "∑^ØefWr}"  # Constance
   female = yes
   dynasty = 106
   martial = 6
@@ -585,7 +585,7 @@
   }
 }
 204503 = {
-  name = "√WâÉ˙ãS"  # Eleonore
+  name = "√WâÉ˛äS"  # Eleonore
   female = yes
   dynasty = 106
   martial = 4
@@ -604,7 +604,7 @@
   }
 }
 204504 = {
-  name = "õsÇÑS∑V"  # Mathilde
+  name = "jtÇÑS∑V"  # Mathilde
   female = yes
   dynasty = 106
   martial = 8
@@ -623,7 +623,7 @@
   }
 }
 204505 = {
-  name = "öNnt"  # Arthur
+  name = "ûNnt"  # Arthur
   dynasty = 106
   martial = 4
   diplomacy = 7
@@ -686,7 +686,7 @@
   }
 }
 204509 = {
-  name = "õsÇÑSæè"  # Matilda
+  name = "jtÇÑSTê"  # Matilda
   female = yes
   dynasty = 106
   martial = 8
@@ -741,7 +741,7 @@
   }
 }
 204511 = {
-  name = "pgVÃë"  # Geoffrey
+  name = "ëPV·à"  # Geoffrey
   dynasty = 106
   martial = 4
   diplomacy = 5
@@ -764,7 +764,7 @@
   }
 }
 204512 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 106
   martial = 7
@@ -787,7 +787,7 @@
   }
 }
 204513 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 106
   martial = 8
@@ -855,7 +855,7 @@
   }
 }
 204515 = {
-  name = "O≤Y"  # Ida
+  name = "%Y≤Y"  # Ida
   female = yes
   martial = 8
   diplomacy = 7
@@ -874,7 +874,7 @@
   }
 }
 204516 = {
-  name = "pgVÃë"  # Geoffrey
+  name = "ëPV·à"  # Geoffrey
   dynasty = 106
   martial = 6
   diplomacy = 5
@@ -1070,7 +1070,7 @@
   }
 }
 204537 = {
-  name = "?ñSáÖN"  # Alvise
+  name = "?ñSáÖr}"  # Alvise
   female = yes
   dynasty = 100023
   martial = 7
@@ -1168,7 +1168,7 @@
   }
 }
 204550 = {
-  name = "eY^Ãë"  # Aubrey
+  name = "gY^Ãë"  # Aubrey
   dynasty = 365
   martial = 4
   diplomacy = 8
@@ -1196,7 +1196,7 @@
   }
 }
 204551 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 365
   martial = 7
   diplomacy = 4
@@ -1261,7 +1261,7 @@
   }
 }
 204554 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 365
   martial = 8
@@ -1282,7 +1282,7 @@
   }
 }
 204555 = {
-  name = "eY^Ãë"  # Aubrey
+  name = "gY^Ãë"  # Aubrey
   dynasty = 365
   martial = 7
   diplomacy = 7
@@ -1302,7 +1302,7 @@
   }
 }
 204560 = {
-  name = "eY^Ãë"  # Aubrey
+  name = "gY^Ãë"  # Aubrey
   dynasty = 365
   martial = 4
   diplomacy = 5
@@ -1323,7 +1323,7 @@
   }
 }
 204561 = {
-  name = "?ñ∑VLNéÉ"  # Adeliza
+  name = "?ñ∑VœpéÉ"  # Adeliza
   female = yes
   dynasty = 364
   martial = 7
@@ -1343,7 +1343,7 @@
   }
 }
 204563 = {
-  name = "WÉZ"  # Rohesia
+  name = "ÖÉmZ"  # Rohesia
   female = yes
   dynasty = 365
   martial = 5
@@ -1383,7 +1383,7 @@
   }
 }
 204575 = {
-  name = "?ñ<hÆYN"  # Agnes
+  name = "?ñ<hÆYr}"  # Agnes
   female = yes
   religion = "catholic"
   culture = "english"
@@ -1395,7 +1395,7 @@
   }
 }
 204580 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 5061
   martial = 8
   diplomacy = 4
@@ -1417,7 +1417,7 @@
   }
 }
 204581 = {
-  name = "|VóVW<SS"  # Petronille
+  name = "|VóVÖ<SS"  # Petronille
   female = yes
   dynasty = 362
   martial = 7
@@ -1437,7 +1437,7 @@
   }
 }
 204582 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 5061
   martial = 7
   diplomacy = 7
@@ -1461,7 +1461,7 @@
   }
 }
 204583 = {
-  name = "|VóVW<SS"  # Petronille
+  name = "|VóVÖ<SS"  # Petronille
   female = yes
   dynasty = 5061
   martial = 8
@@ -1501,7 +1501,7 @@
   }
 }
 204585 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 101859
   martial = 7
   diplomacy = 4
@@ -1520,7 +1520,7 @@
   }
 }
 204590 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 5061
   martial = 7
   diplomacy = 6
@@ -1542,7 +1542,7 @@
   }
 }
 204591 = {
-  name = "?ñs|N"  # Amice
+  name = "?ñs|r}"  # Amice
   female = yes
   dynasty = 559
   martial = 8
@@ -1562,7 +1562,7 @@
   }
 }
 204592 = {
-  name = "»TáÖN"  # Hawise
+  name = "»TáÖr}"  # Hawise
   female = yes
   dynasty = 5061
   martial = 6
@@ -1672,7 +1672,8 @@
   }
 }
 204610 = {
-  name = "IlV±É"  # Humphrey
+  name = ""oV
+Ñ"  # Humphrey
   dynasty = 359
   martial = 5
   diplomacy = 6
@@ -1695,7 +1696,8 @@
   }
 }
 204620 = {
-  name = "IlV±É"  # Humphrey
+  name = ""oV
+Ñ"  # Humphrey
   dynasty = 359
   martial = 6
   diplomacy = 6
@@ -1717,7 +1719,7 @@
   }
 }
 204621 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 358
   martial = 8
@@ -1737,7 +1739,7 @@
   }
 }
 204622 = {
-  name = "¶ûm"  # Milo
+  name = "•ûm"  # Milo
   dynasty = 358
   martial = 8
   diplomacy = 6
@@ -1798,7 +1800,7 @@
   }
 }
 204631 = {
-  name = "OéÉçS"  # Isabelle
+  name = "%YéÉùåS"  # Isabelle
   female = yes
   dynasty = 748
   martial = 5
@@ -1820,7 +1822,7 @@
   }
 }
 204632 = {
-  name = "pgVÃë"  # Geoffrey
+  name = "ëPV·à"  # Geoffrey
   dynasty = 748
   martial = 6
   diplomacy = 6
@@ -1905,7 +1907,7 @@
   }
 }
 204636 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 748
   martial = 7
@@ -1926,7 +1928,7 @@
   }
 }
 204641 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 748
   martial = 6
@@ -1972,7 +1974,7 @@
   }
 }
 204656 = {
-  name = "?ñ∑VLNéÉ"  # Adeliza
+  name = "?ñ∑VœpéÉ"  # Adeliza
   female = yes
   dynasty = 356
   martial = 5
@@ -2015,7 +2017,7 @@
   }
 }
 204658 = {
-  name = "çú∑V)n"  # Baldwin
+  name = "ëõ∑V´n"  # Baldwin
   dynasty = 101857
   martial = 7
   diplomacy = 4
@@ -2061,7 +2063,7 @@
   }
 }
 204664 = {
-  name = "?ñs|âZ"  # Amicia
+  name = "?ñs|âmZ"  # Amicia
   female = yes
   dynasty = 355
   martial = 6
@@ -2083,7 +2085,7 @@
   }
 }
 204665 = {
-  name = "OéÉçS"  # Isabelle
+  name = "%YéÉùåS"  # Isabelle
   female = yes
   dynasty = 355
   religion = "catholic"
@@ -2218,7 +2220,7 @@
   }
 }
 204683 = {
-  name = "?ñ<hÆYN"  # Agnes
+  name = "?ñ<hÆYr}"  # Agnes
   female = yes
   dynasty = 9111
   martial = 8
@@ -2238,7 +2240,7 @@
   }
 }
 204684 = {
-  name = "»TáÖN"  # Hawise
+  name = "»TáÖr}"  # Hawise
   female = yes
   dynasty = 9111
   martial = 6
@@ -2326,7 +2328,7 @@
   }
 }
 204691 = {
-  name = "bæè"  # Goda
+  name = "bTê"  # Goda
   female = yes
   dynasty = 351
   martial = 6
@@ -2367,7 +2369,7 @@
   }
 }
 204693 = {
-  name = "OéÉçS"  # Isabelle
+  name = "%YéÉùåS"  # Isabelle
   female = yes
   dynasty = 352
   martial = 8
@@ -2410,7 +2412,7 @@
   }
 }
 204695 = {
-  name = "¿sÖQS"  # Pernell
+  name = "¿sgQS"  # Pernell
   dynasty = 352
   martial = 8
   diplomacy = 8
@@ -2473,7 +2475,7 @@
   }
 }
 204698 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 352
   martial = 5
   diplomacy = 4
@@ -2492,7 +2494,7 @@
   }
 }
 204699 = {
-  name = "ÊtSÔQóg"  # Walkelin
+  name = "ÊtSÒQóg"  # Walkelin
   dynasty = 352
   martial = 5
   diplomacy = 4
@@ -2513,7 +2515,7 @@
   }
 }
 204700 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 352
   martial = 4
   diplomacy = 7
@@ -2535,7 +2537,7 @@
   }
 }
 204701 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 349
   martial = 6
@@ -2555,7 +2557,7 @@
   }
 }
 204710 = {
-  name = "ÉlS&O"  # Waleran
+  name = "ÉlS+P"  # Waleran
   dynasty = 5061
   martial = 4
   diplomacy = 7
@@ -2596,7 +2598,7 @@
   }
 }
 204715 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 5061
   martial = 4
   diplomacy = 8
@@ -2618,7 +2620,7 @@
   }
 }
 204716 = {
-  name = "àQ˜ñ∑V"  # Gunred
+  name = "°\˜ñ∑V"  # Gunred
   female = yes
   dynasty = 748
   martial = 5
@@ -2639,7 +2641,7 @@
   }
 }
 204730 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 346
   martial = 7
   diplomacy = 5
@@ -2704,7 +2706,7 @@
   }
 }
 204736 = {
-  name = "1gLNâRZ"  # Julianna
+  name = "1gœpâRZ"  # Julianna
   female = yes
   dynasty = 365
   martial = 6
@@ -2739,7 +2741,7 @@
   }
 }
 204741 = {
-  name = "»TáÖN"  # Hawise
+  name = "»TáÖr}"  # Hawise
   female = yes
   dynasty = 343
   martial = 4
@@ -2757,7 +2759,7 @@
   }
 }
 204745 = {
-  name = "pgVÃë"  # Geoffrey
+  name = "ëPV·à"  # Geoffrey
   dynasty = 344
   martial = 8
   diplomacy = 6
@@ -2886,7 +2888,7 @@
   }
 }
 204772 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 364
   martial = 8
@@ -2950,7 +2952,7 @@
   }
 }
 204781 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 5061
   martial = 7
@@ -2971,7 +2973,7 @@
   }
 }
 204782 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 101710
   martial = 5
   diplomacy = 4
@@ -2993,7 +2995,7 @@
   }
 }
 204783 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 101710
   martial = 7
   diplomacy = 4
@@ -3041,7 +3043,7 @@
   }
 }
 204791 = {
-  name = "OLNéÉåv"  # Elizabeth
+  name = "%YœpéÉåv"  # Elizabeth
   female = yes
   dynasty = 5061
   martial = 7
@@ -3061,7 +3063,7 @@
   }
 }
 204795 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 364
   martial = 4
   diplomacy = 7
@@ -3166,7 +3168,7 @@
   }
 }
 204800 = {
-  name = "HYpgS"  # Nigel
+  name = "HYëPS"  # Nigel
   dynasty = 9115
   martial = 8
   diplomacy = 7
@@ -3248,7 +3250,7 @@
   }
 }
 204804 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 9115
   martial = 6
   diplomacy = 5
@@ -3290,7 +3292,7 @@
   }
 }
 204806 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 9115
   martial = 5
   diplomacy = 7
@@ -3432,7 +3434,7 @@
   }
 }
 230529 = {
-  name = "OéÉç…b"  # Isabella
+  name = "%YéÉùå…b"  # Isabella
   female = yes
   dynasty = 347
   martial = 5
@@ -3581,7 +3583,7 @@
   }
 }
 31001 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 23100
   religion = "catholic"
   culture = "english"
@@ -3644,7 +3646,7 @@
   }
 }
 31005 = {
-  name = "?ñ<hÆYN"  # Agnes
+  name = "?ñ<hÆYr}"  # Agnes
   female = yes
   dynasty = 4026
   religion = "catholic"
@@ -3657,7 +3659,7 @@
   }
 }
 31006 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 23100
   religion = "catholic"
   culture = "english"
@@ -3671,7 +3673,7 @@
   }
 }
 31007 = {
-  name = "1r∑VNS"  # Edward
+  name = "a∑VÔÉ"  # Edward
   dynasty = 23100
   religion = "catholic"
   culture = "english"
@@ -3699,7 +3701,7 @@
   }
 }
 31009 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 23100
   religion = "catholic"
   culture = "english"
@@ -3713,7 +3715,7 @@
   }
 }
 31010 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 23100
   religion = "catholic"
@@ -3728,7 +3730,7 @@
   }
 }
 31011 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 23100
   religion = "catholic"
   culture = "english"
@@ -3742,7 +3744,7 @@
   }
 }
 31012 = {
-  name = "OLNéÉåv"  # Elizabeth
+  name = "%YœpéÉåv"  # Elizabeth
   female = yes
   dynasty = 23100
   religion = "catholic"
@@ -3797,7 +3799,7 @@
   }
 }
 332029 = {
-  name = "?ñÙuâZ"  # Avicia
+  name = "?ñÙuâmZ"  # Avicia
   female = yes
   dynasty = 100058
   martial = 3
@@ -3853,7 +3855,7 @@
   }
 }
 332034 = {
-  name = "pgÙuØe"  # Gervase
+  name = "ëPÙuØe"  # Gervase
   dynasty = 25058
   martial = 5
   diplomacy = 4
@@ -3905,7 +3907,7 @@
   }
 }
 453067 = {
-  name = "õsLN"  # Mary
+  name = "jtœp"  # Mary
   female = yes
   martial = 6
   diplomacy = 5
@@ -3923,7 +3925,7 @@
   }
 }
 453400 = {
-  name = "≥R&OØe"  # Laurence
+  name = "ﬁR+PØe"  # Laurence
   dynasty = 540
   martial = 8
   diplomacy = 4
@@ -3990,7 +3992,7 @@
   }
 }
 453604 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   martial = 5
   diplomacy = 4
@@ -4082,7 +4084,7 @@
   }
 }
 454022 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 100059
   martial = 8
   diplomacy = 6
@@ -4102,7 +4104,7 @@
   }
 }
 454023 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 4037
   religion = "catholic"
@@ -4139,7 +4141,7 @@
   }
 }
 454030 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4036
   martial = 5
   diplomacy = 8
@@ -4162,7 +4164,7 @@
   }
 }
 454031 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   martial = 5
   diplomacy = 8
@@ -4180,7 +4182,7 @@
   }
 }
 454032 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4036
   martial = 5
   diplomacy = 8
@@ -4197,7 +4199,7 @@
   }
 }
 454033 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4036
   martial = 5
   diplomacy = 7
@@ -4260,7 +4262,7 @@
   }
 }
 454036 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 4036
   martial = 7
@@ -4343,7 +4345,7 @@
   }
 }
 454041 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 20050
   martial = 5
@@ -4413,7 +4415,7 @@
   }
 }
 454046 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 101710
   religion = "catholic"
@@ -4540,7 +4542,7 @@
   }
 }
 454052 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4001
   martial = 5
   diplomacy = 5
@@ -4559,7 +4561,7 @@
   }
 }
 454053 = {
-  name = "TNOØe"  # Joyce
+  name = "¨U%YØe"  # Joyce
   female = yes
   dynasty = 4001
   martial = 4
@@ -4579,7 +4581,7 @@
   }
 }
 454054 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   dynasty = 385
   female = yes
   martial = 5
@@ -4598,7 +4600,7 @@
   }
 }
 454055 = {
-  name = "çÇ&O"  # Alan
+  name = "çÇ+P"  # Alan
   dynasty = 4001
   martial = 5
   diplomacy = 5
@@ -4678,7 +4680,7 @@
   }
 }
 454103 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 4039
   martial = 5
   diplomacy = 5
@@ -4698,7 +4700,7 @@
   }
 }
 454104 = {
-  name = "?ñ5gõs"  # Adomar
+  name = "?ñ5gjt"  # Adomar
   dynasty = 4039
   martial = 5
   diplomacy = 5
@@ -4721,7 +4723,7 @@
   }
 }
 454105 = {
-  name = "OLNéÉåv"  # Elizabeth
+  name = "%YœpéÉåv"  # Elizabeth
   female = yes
   dynasty = 4039
   martial = 2
@@ -4764,7 +4766,7 @@
   }
 }
 454107 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 4034
   martial = 5
@@ -4785,7 +4787,7 @@
   }
 }
 454108 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   martial = 6
   diplomacy = 7
@@ -4848,7 +4850,7 @@
   }
 }
 454112 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 4041
   martial = 4
@@ -4886,7 +4888,7 @@
   }
 }
 454114 = {
-  name = "iOyrÑÆY…b"  # Petronilla
+  name = "iOyr?ÜÆY…b"  # Petronilla
   female = yes
   dynasty = 4040
   martial = 5
@@ -4924,7 +4926,7 @@
   }
 }
 454121 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 4041
   martial = 4
   diplomacy = 5
@@ -4966,7 +4968,7 @@
   }
 }
 454123 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 4041
   religion = "catholic"
   culture = "english"
@@ -4992,7 +4994,7 @@
   }
 }
 454125 = {
-  name = "pg…bS∑V"  # Gerald
+  name = "ëP…bS∑V"  # Gerald
   dynasty = 4041
   religion = "catholic"
   culture = "english"
@@ -5057,7 +5059,7 @@
   }
 }
 454152 = {
-  name = "Z…^eYKQ"  # Willian Oc
+  name = "Z…^gYKQ"  # Willian Oc
   dynasty = 4034
   martial = 5
   diplomacy = 5
@@ -5174,7 +5176,7 @@
   }
 }
 454213 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 4042
   martial = 5
@@ -5213,7 +5215,7 @@
   }
 }
 454500 = {
-  name = "1r∑VNS"  # Edward
+  name = "a∑VÔÉ"  # Edward
   dynasty = 106
   dna = cdllaaijgan
   properties = ad0bcc000000
@@ -5244,7 +5246,7 @@
   }
 }
 454501 = {
-  name = "1r∑VNS"  # Edward
+  name = "a∑VÔÉ"  # Edward
   dynasty = 106
   martial = 10
   diplomacy = 6
@@ -5267,7 +5269,7 @@
   }
 }
 454502 = {
-  name = "OéÉç…b"  # Isabella
+  name = "%YéÉùå…b"  # Isabella
   female = yes
   dynasty = 106
   martial = 4
@@ -5288,7 +5290,7 @@
   }
 }
 454503 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 106
   martial = 7
@@ -5309,7 +5311,7 @@
   }
 }
 454505 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 106
   martial = 8
@@ -5330,7 +5332,7 @@
   }
 }
 454506 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 106
   martial = 6
@@ -5374,7 +5376,7 @@
   }
 }
 454510 = {
-  name = "1r∑VNS"  # Edward
+  name = "a∑VÔÉ"  # Edward
   dynasty = 106
   martial = 5
   diplomacy = 7
@@ -5426,7 +5428,7 @@
   }
 }
 454512 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   martial = 7
   diplomacy = 8
@@ -5463,7 +5465,7 @@
   }
 }
 454514 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 106
   martial = 7
@@ -5483,7 +5485,7 @@
   }
 }
 454515 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 100073
   martial = 3
@@ -5504,7 +5506,7 @@
   }
 }
 454516 = {
-  name = "OLNéÉåv"  # Elizabeth
+  name = "%YœpéÉåv"  # Elizabeth
   female = yes
   dynasty = 106
   martial = 7
@@ -5524,7 +5526,7 @@
   }
 }
 454520 = {
-  name = "1r∑VNS"  # Edward
+  name = "a∑VÔÉ"  # Edward
   dynasty = 106
   martial = 10
   diplomacy = 7
@@ -5655,7 +5657,7 @@
   }
 }
 454529 = {
-  name = "õsÇÑSæè"  # Matilda
+  name = "jtÇÑSTê"  # Matilda
   female = yes
   dynasty = 106
   martial = 5
@@ -5674,7 +5676,7 @@
   }
 }
 454530 = {
-  name = "^pQ*t"  # Blanche
+  name = "^-Ü*t"  # Blanche
   female = yes
   dynasty = 106
   martial = 7
@@ -5716,7 +5718,7 @@
   }
 }
 454532 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 106
   martial = 7
@@ -5737,7 +5739,7 @@
   }
 }
 454533 = {
-  name = "√W3t˙ã"  # Eleonor
+  name = "√W3t˛ä"  # Eleonor
   female = yes
   dynasty = 106
   martial = 7
@@ -5758,7 +5760,7 @@
   }
 }
 454534 = {
-  name = "õsLN"  # Mary
+  name = "jtœp"  # Mary
   female = yes
   dynasty = 106
   martial = 5
@@ -5779,7 +5781,7 @@
   }
 }
 454550 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 106
   martial = 8
   diplomacy = 8
@@ -5802,7 +5804,7 @@
   }
 }
 454551 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 104
   martial = 4
@@ -5820,7 +5822,7 @@
   }
 }
 454552 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 106
   martial = 4
@@ -5842,7 +5844,7 @@
   }
 }
 454553 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 106
   martial = 7
@@ -5864,7 +5866,7 @@
   }
 }
 454554 = {
-  name = "õsLN"  # Mary
+  name = "jtœp"  # Mary
   female = yes
   dynasty = 4019
   martial = 6
@@ -5883,7 +5885,8 @@
   }
 }
 454560 = {
-  name = "IlV±É"  # Humphrey
+  name = ""oV
+Ñ"  # Humphrey
   dynasty = 359
   martial = 7
   diplomacy = 5
@@ -5904,7 +5907,8 @@
   }
 }
 454561 = {
-  name = "IlV±É"  # Humphrey
+  name = ""oV
+Ñ"  # Humphrey
   dynasty = 359
   martial = 7
   diplomacy = 5
@@ -5945,7 +5949,7 @@
   }
 }
 454563 = {
-  name = "OLNéÉåv"  # Elizabeth
+  name = "%YœpéÉåv"  # Elizabeth
   female = yes
   martial = 7
   diplomacy = 5
@@ -5963,7 +5967,7 @@
   }
 }
 454564 = {
-  name = "√W3t˙ã"  # Eleanore
+  name = "√W3t˛ä"  # Eleanore
   female = yes
   dynasty = 359
   martial = 5
@@ -5985,7 +5989,7 @@
   }
 }
 454565 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 359
   martial = 5
@@ -6006,7 +6010,7 @@
   }
 }
 454572 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 347
   martial = 7
@@ -6047,7 +6051,7 @@
   }
 }
 454575 = {
-  name = "õsLN"  # Mary
+  name = "jtœp"  # Mary
   female = yes
   dynasty = 101899
   martial = 5
@@ -6066,7 +6070,7 @@
   }
 }
 454576 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 4035
   martial = 7
   diplomacy = 7
@@ -6086,7 +6090,7 @@
   }
 }
 454577 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4035
   martial = 5
   diplomacy = 8
@@ -6145,7 +6149,7 @@
   }
 }
 454580 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 365
   martial = 6
@@ -6184,7 +6188,7 @@
   }
 }
 454582 = {
-  name = "TNâRÆY"  # Joanne
+  name = "¨UâRÆY"  # Joanne
   female = yes
   dynasty = 517
   martial = 7
@@ -6203,7 +6207,7 @@
   }
 }
 454583 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 365
   martial = 7
   diplomacy = 5
@@ -6301,7 +6305,7 @@
   }
 }
 454590 = {
-  name = "÷vO"  # Guy
+  name = "ÀÑ%Y"  # Guy
   dynasty = 102008
   martial = 8
   diplomacy = 5
@@ -6323,7 +6327,7 @@
   }
 }
 454592 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 102008
   martial = 8
   diplomacy = 5
@@ -6406,7 +6410,7 @@
   }
 }
 454600 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4010
   martial = 8
   diplomacy = 5
@@ -6448,7 +6452,7 @@
   }
 }
 454602 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4010
   martial = 8
   diplomacy = 5
@@ -6468,7 +6472,7 @@
   }
 }
 454603 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 4010
   martial = 8
@@ -6489,7 +6493,7 @@
   }
 }
 454604 = {
-  name = "OYÆYZ"  # Idonea
+  name = "%YYÆYmZ"  # Idonea
   female = yes
   dynasty = 4010
   martial = 5
@@ -6510,7 +6514,7 @@
   }
 }
 454605 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 106
   religion = "catholic"
@@ -6555,7 +6559,7 @@
   }
 }
 454607 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 364
   martial = 5
@@ -6576,7 +6580,7 @@
   }
 }
 454608 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 364
   martial = 5
@@ -6598,7 +6602,7 @@
   }
 }
 454609 = {
-  name = "OLNéÉåv"  # Elizabeth
+  name = "%YœpéÉåv"  # Elizabeth
   female = yes
   dynasty = 364
   martial = 5
@@ -6637,7 +6641,7 @@
   }
 }
 454611 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 4023
   martial = 5
@@ -6705,7 +6709,7 @@
   }
 }
 454614 = {
-  name = "OLNéÉåv"  # Elizabeth
+  name = "%YœpéÉåv"  # Elizabeth
   female = yes
   dynasty = 4034
   martial = 6
@@ -6725,7 +6729,7 @@
   }
 }
 455764 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 106
   martial = 5
@@ -6745,7 +6749,7 @@
   }
 }
 455791 = {
-  name = "‘k?ñyrLNØe"  # Beatrice
+  name = "‘k?ñyrœpØe"  # Beatrice
   female = yes
   dynasty = 106
   martial = 5
@@ -6765,7 +6769,7 @@
   }
 }
 455792 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 106
   martial = 5
@@ -6785,7 +6789,7 @@
   }
 }
 487043 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 106
   martial = 5
@@ -6827,7 +6831,7 @@
   }
 }
 7284 = {
-  name = "√W	TÇÑZ"  # Egidia
+  name = "√W	TÇÑmZ"  # Egidia
   female = yes
   dynasty = 4037
   martial = 7
@@ -6849,7 +6853,7 @@
   }
 }
 7353 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 101709
   religion = "catholic"
@@ -6864,7 +6868,8 @@
   }
 }
 7354 = {
-  name = "âRØe±É∆Y"  # Anslem
+  name = "âRØe
+Ñ∆Y"  # Anslem
   dynasty = 101709
   religion = "catholic"
   culture = "english"
@@ -6964,7 +6969,7 @@
   }
 }
 7372 = {
-  name = "'YkS"  # David
+  name = "'Y[à"  # David
   dynasty = 540
   religion = "catholic"
   culture = "english"
@@ -7006,7 +7011,7 @@
   }
 }
 7376 = {
-  name = "õs<hLN"  # Margery
+  name = "jt<hœp"  # Margery
   female = yes
   dynasty = 346
   religion = "catholic"
@@ -7084,7 +7089,7 @@
   }
 }
 7428 = {
-  name = "WØe"  # Rose
+  name = "ÖØe"  # Rose
   female = yes
   dynasty = 4037
   religion = "catholic"
@@ -7115,7 +7120,7 @@
   }
 }
 7436 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 364
   religion = "catholic"
@@ -7144,7 +7149,7 @@
   }
 }
 7441 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 5061
   religion = "catholic"
   culture = "english"
@@ -7161,7 +7166,7 @@
   }
 }
 7443 = {
-  name = "ÉlS&O"  # Waleran
+  name = "ÉlS+P"  # Waleran
   dynasty = 5061
   religion = "catholic"
   culture = "english"
@@ -7179,7 +7184,7 @@
   }
 }
 7445 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 364
   religion = "catholic"
   culture = "english"
@@ -7215,7 +7220,7 @@
   }
 }
 7447 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 100067
   religion = "catholic"
@@ -7247,7 +7252,7 @@
   }
 }
 7449 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 5061
   religion = "catholic"
@@ -7261,7 +7266,7 @@
   }
 }
 7450 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 5061
   religion = "catholic"
@@ -7275,7 +7280,7 @@
   }
 }
 7451 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 5061
   religion = "catholic"
   culture = "english"
@@ -7291,7 +7296,7 @@
   }
 }
 7452 = {
-  name = "õs<hLN"  # Margery
+  name = "jt<hœp"  # Margery
   female = yes
   dynasty = 359
   religion = "catholic"
@@ -7320,7 +7325,7 @@
   }
 }
 7454 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 346
   martial = 6
   diplomacy = 7
@@ -7340,7 +7345,7 @@
   }
 }
 7455 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 346
   martial = 6
@@ -7377,7 +7382,7 @@
   }
 }
 7457 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 346
   martial = 6
   diplomacy = 7
@@ -7436,7 +7441,7 @@
   }
 }
 7461 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 358
   religion = "catholic"
   culture = "english"
@@ -7449,7 +7454,8 @@
   }
 }
 7462 = {
-  name = "IlV±É"  # Humphrey
+  name = ""oV
+Ñ"  # Humphrey
   dynasty = 359
   religion = "catholic"
   culture = "english"
@@ -7463,7 +7469,8 @@
   }
 }
 7463 = {
-  name = "IlV±É"  # Humphrey
+  name = ""oV
+Ñ"  # Humphrey
   dynasty = 359
   religion = "catholic"
   culture = "english"
@@ -7491,7 +7498,7 @@
   }
 }
 7510 = {
-  name = "OéÉç…b"  # Isabella
+  name = "%YéÉùå…b"  # Isabella
   female = yes
   dynasty = 106
   religion = "catholic"
@@ -7599,7 +7606,7 @@
   }
 }
 82079 = {
-  name = "OÉl"  # Ivo
+  name = "%YÉl"  # Ivo
   dynasty = 9113
   martial = 6
   diplomacy = 6
@@ -7617,7 +7624,7 @@
   }
 }
 82080 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 9113
   martial = 7
   diplomacy = 6
@@ -7652,7 +7659,7 @@
   }
 }
 82082 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 9113
   martial = 7
   diplomacy = 5
@@ -7669,7 +7676,7 @@
   }
 }
 82083 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 9113
   martial = 7
@@ -7687,7 +7694,7 @@
   }
 }
 82084 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 4010
   martial = 6
   diplomacy = 5
@@ -7706,7 +7713,7 @@
   }
 }
 31381 = {
-  name = "¿sÖQS"  # Pernel
+  name = "¿sgQS"  # Pernel
   female = yes
   dynasty = 4037
   religion = "catholic"
@@ -7721,7 +7728,7 @@
   }
 }
 32506 = {
-  name = "lö‹bS"  # Mabile
+  name = "¨ô‹bS"  # Mabile
   female = yes
   dynasty = 5061
   religion = "catholic"
@@ -7736,7 +7743,7 @@
   }
 }
 32507 = {
-  name = "õsLN"  # Mary
+  name = "jtœp"  # Mary
   female = yes
   dynasty = 101857
   religion = "catholic"
@@ -7751,7 +7758,7 @@
   }
 }
 32508 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 101857
   religion = "catholic"
@@ -7766,7 +7773,7 @@
   }
 }
 32509 = {
-  name = "çú∑V)n"  # Baldwin
+  name = "ëõ∑V´n"  # Baldwin
   dynasty = 101857
   religion = "catholic"
   culture = "english"
@@ -7783,7 +7790,7 @@
   }
 }
 32510 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   religion = "catholic"
   culture = "english"
@@ -7795,7 +7802,7 @@
   }
 }
 32511 = {
-  name = "çú∑V)n"  # Baldwin
+  name = "ëõ∑V´n"  # Baldwin
   dynasty = 101857
   religion = "catholic"
   culture = "english"
@@ -7809,7 +7816,7 @@
   }
 }
 32512 = {
-  name = "çú∑V)n"  # Baldwin
+  name = "ëõ∑V´n"  # Baldwin
   dynasty = 101857
   religion = "catholic"
   culture = "english"
@@ -7822,7 +7829,7 @@
   }
 }
 32513 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 101857
   religion = "catholic"
@@ -7836,7 +7843,7 @@
   }
 }
 33367 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 364
   religion = "catholic"
@@ -7851,7 +7858,7 @@
   }
 }
 129019 = {
-  name = "pgVÃë"  # Geoffrey
+  name = "ëPV·à"  # Geoffrey
   religion = "catholic"
   culture = "english"
   1080.1.1 = {
@@ -7912,7 +7919,7 @@
   }
 }
 129030 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   religion = "catholic"
   culture = "english"
   1207.1.1 = {
@@ -7923,7 +7930,7 @@
   }
 }
 129031 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   religion = "catholic"
   culture = "english"
   1217.1.1 = {
@@ -7934,7 +7941,7 @@
   }
 }
 129032 = {
-  name = "âRN<S"  # Antony
+  name = "âRqg<S"  # Antony
   religion = "catholic"
   culture = "english"
   martial = 8
@@ -7961,7 +7968,7 @@
   }
 }
 129034 = {
-  name = "RfØe"  # Lewis
+  name = "âRfØe"  # Lewis
   religion = "catholic"
   culture = "english"
   1262.1.1 = {
@@ -7989,7 +7996,7 @@
   }
 }
 129036 = {
-  name = "âR∑VÅú"  # Andrew
+  name = "âR∑Voõ"  # Andrew
   dynasty = 4007
   religion = "catholic"
   culture = "english"
@@ -8001,7 +8008,7 @@
   }
 }
 129037 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 106
   religion = "catholic"
   culture = "english"
@@ -8015,7 +8022,7 @@
   }
 }
 129038 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 106
   religion = "catholic"
@@ -8044,7 +8051,7 @@
   }
 }
 129040 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 101710
   religion = "catholic"
@@ -8059,7 +8066,7 @@
   }
 }
 129041 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 352
   religion = "catholic"
@@ -8073,7 +8080,7 @@
   }
 }
 129042 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 352
   religion = "catholic"
   culture = "english"
@@ -8090,7 +8097,7 @@
   }
 }
 129043 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   religion = "catholic"
   culture = "english"
@@ -8119,7 +8126,7 @@
   }
 }
 129045 = {
-  name = "»TáÖN"  # Hawise
+  name = "»TáÖr}"  # Hawise
   dynasty = 101710
   female = yes
   religion = "catholic"
@@ -8134,7 +8141,7 @@
   }
 }
 129046 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   religion = "catholic"
   culture = "english"
@@ -8146,7 +8153,7 @@
   }
 }
 129047 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 365
   religion = "catholic"
   culture = "english"
@@ -8163,7 +8170,7 @@
   }
 }
 129050 = {
-  name = "pgVÃë"  # Geoffrey
+  name = "ëPV·à"  # Geoffrey
   dynasty = 344
   religion = "catholic"
   culture = "english"
@@ -8180,7 +8187,7 @@
   }
 }
 129051 = {
-  name = "pgVÃë"  # Geoffrey
+  name = "ëPV·à"  # Geoffrey
   dynasty = 11500
   religion = "catholic"
   culture = "english"
@@ -8192,7 +8199,7 @@
   }
 }
 129052 = {
-  name = "pgVÃë"  # Geoffrey
+  name = "ëPV·à"  # Geoffrey
   dynasty = 11500
   religion = "catholic"
   culture = "english"
@@ -8232,7 +8239,8 @@
   }
 }
 129055 = {
-  name = "IlV±É"  # Humphrey
+  name = ""oV
+Ñ"  # Humphrey
   dynasty = 359
   religion = "catholic"
   culture = "english"
@@ -8301,7 +8309,7 @@
   }
 }
 129063 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 752
   religion = "catholic"
   culture = "english"
@@ -8315,7 +8323,7 @@
   }
 }
 129064 = {
-  name = "çú∑V)n"  # Baldwin
+  name = "ëõ∑V´n"  # Baldwin
   religion = "catholic"
   culture = "english"
   1125.1.1 = {
@@ -8337,7 +8345,7 @@
   }
 }
 129066 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   religion = "catholic"
   culture = "english"
   1127.1.1 = {
@@ -8381,7 +8389,7 @@
   }
 }
 129070 = {
-  name = "&OSê+Y"  # Randulf
+  name = "+PSê+Y"  # Randulf
   religion = "catholic"
   culture = "english"
   1157.1.1 = {
@@ -8497,7 +8505,7 @@
   }
 }
 129080 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   religion = "catholic"
   culture = "english"
   1265.1.1 = {
@@ -8508,7 +8516,7 @@
   }
 }
 129081 = {
-  name = "öNSV"  # Adam
+  name = "ûNSV"  # Adam
   religion = "catholic"
   culture = "english"
   1277.1.1 = {
@@ -8532,7 +8540,7 @@
   }
 }
 129084 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4037
   religion = "catholic"
   culture = "english"
@@ -8545,7 +8553,7 @@
   }
 }
 129085 = {
-  name = "?ñS^˜ñ≤Y"  # Albreda
+  name = "?ñSHO˜ñ≤Y"  # Albreda
   female = yes
   dynasty = 4037
   religion = "catholic"
@@ -8559,7 +8567,7 @@
   }
 }
 129086 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   religion = "catholic"
   culture = "english"
   1097.1.1 = {
@@ -8573,7 +8581,7 @@
   }
 }
 129087 = {
-  name = "?ñS^˜ñ≤Y"  # Albreda
+  name = "?ñSHO˜ñ≤Y"  # Albreda
   female = yes
   dynasty = 4037
   religion = "catholic"
@@ -8616,7 +8624,7 @@
   }
 }
 129090 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 4037
   religion = "catholic"
   culture = "english"
@@ -8629,7 +8637,7 @@
   }
 }
 203036 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 752
   religion = "catholic"
   culture = "english"
@@ -8693,7 +8701,7 @@
   }
 }
 138451 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 106
   religion = "catholic"
@@ -8712,7 +8720,7 @@
   }
 }
 34349 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 7305
   religion = "catholic"
   culture = "english"
@@ -8739,7 +8747,7 @@
   }
 }
 34353 = {
-  name = "OLNéÉåv"  # Elizabeth
+  name = "%YœpéÉåv"  # Elizabeth
   female = yes
   dynasty = 20035
   religion = "catholic"
@@ -8754,7 +8762,7 @@
   }
 }
 34354 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 7306
   religion = "catholic"
@@ -8769,7 +8777,7 @@
   }
 }
 83306 = {
-  name = "'kNÖQS"  # Odinel
+  name = "PkNgQS"  # Odinel
   dynasty = 9114
   martial = 6
   diplomacy = 5
@@ -8786,7 +8794,7 @@
   }
 }
 83307 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 9114
   martial = 6
   diplomacy = 5
@@ -8820,7 +8828,7 @@
   }
 }
 83309 = {
-  name = "TN9N"  # Jordan
+  name = "¨U9N"  # Jordan
   dynasty = 9114
   martial = 6
   diplomacy = 5
@@ -8837,7 +8845,7 @@
   }
 }
 83310 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 9114
   martial = 4
   diplomacy = 5
@@ -8888,7 +8896,7 @@
   }
 }
 83313 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 9114
   martial = 4
   diplomacy = 5
@@ -8925,7 +8933,7 @@
   }
 }
 83315 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 9114
   martial = 5
   diplomacy = 5
@@ -8959,7 +8967,7 @@
   }
 }
 83317 = {
-  name = "'kNÖQS"  # Odinel
+  name = "PkNgQS"  # Odinel
   dynasty = 9114
   martial = 5
   diplomacy = 5
@@ -9007,7 +9015,7 @@
   }
 }
 83320 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 9114
   martial = 7
   diplomacy = 5
@@ -9024,7 +9032,7 @@
   }
 }
 83321 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 9114
   religion = "catholic"
   culture = "english"
@@ -9050,7 +9058,7 @@
   }
 }
 83375 = {
-  name = "'kØe>Oyr"  # Osbert
+  name = "PkØe>Oyr"  # Osbert
   dynasty = 4040
   martial = 4
   diplomacy = 7
@@ -9069,7 +9077,7 @@
   }
 }
 83376 = {
-  name = "–ceYÙTS∑V"  # Theobald
+  name = "–cgYÙTS∑V"  # Theobald
   dynasty = 4040
   martial = 6
   diplomacy = 7
@@ -9088,7 +9096,7 @@
   }
 }
 83377 = {
-  name = "–ceYÙTS∑V"  # Theobald
+  name = "–cgYÙTS∑V"  # Theobald
   dynasty = 4040
   martial = 6
   diplomacy = 4
@@ -9106,7 +9114,7 @@
   }
 }
 83378 = {
-  name = "–ceYÙTS∑V"  # Theobald
+  name = "–cgYÙTS∑V"  # Theobald
   dynasty = 4040
   martial = 5
   diplomacy = 6
@@ -9124,7 +9132,7 @@
   }
 }
 83379 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 4040
   martial = 5
   diplomacy = 4
@@ -9142,7 +9150,7 @@
   }
 }
 83380 = {
-  name = "≥R&OØe"  # Lawrence
+  name = "ﬁR+PØe"  # Lawrence
   dynasty = 4040
   martial = 5
   diplomacy = 4
@@ -9161,7 +9169,7 @@
   }
 }
 83381 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 4040
   martial = 5
   diplomacy = 4
@@ -9194,7 +9202,7 @@
   }
 }
 155243 = {
-  name = "?ñ<hÆYN"  # Agnes
+  name = "?ñ<hÆYr}"  # Agnes
   female = yes
   dynasty = 714
   religion = "catholic"
@@ -9314,7 +9322,7 @@
   }
 }
 155258 = {
-  name = "Ãëb∑V"  # Rigaud
+  name = "·àb∑V"  # Rigaud
   religion = "catholic"
   culture = "english"
   1270.4.1 = {
@@ -9351,7 +9359,7 @@
   }
 }
 161366 = {
-  name = "pgVÃë"  # Geoffrey
+  name = "ëPV·à"  # Geoffrey
   dynasty = 344
   religion = "catholic"
   culture = "english"
@@ -9378,7 +9386,7 @@
   }
 }
 161369 = {
-  name = "O≤Y"  # Ida
+  name = "%Y≤Y"  # Ida
   female = yes
   dynasty = 20050
   religion = "catholic"
@@ -9449,7 +9457,7 @@
   }
 }
 161331 = {
-  name = "–ceYÙTS∑V"  # Theobald
+  name = "–cgYÙTS∑V"  # Theobald
   religion = "catholic"
   culture = "english"
   trait = "mastermind_theologian"
@@ -9461,7 +9469,7 @@
   }
 }
 161332 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 9500
   martial = 4
   diplomacy = 8
@@ -9490,7 +9498,7 @@
   }
 }
 161334 = {
-  name = "çú∑V)n"  # Baldwin
+  name = "ëõ∑V´n"  # Baldwin
   religion = "catholic"
   culture = "english"
   trait = "mastermind_theologian"
@@ -9538,7 +9546,7 @@
   }
 }
 161338 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   religion = "catholic"
   culture = "english"
   trait = "mastermind_theologian"
@@ -9562,7 +9570,7 @@
   }
 }
 161340 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   religion = "catholic"
   culture = "english"
   trait = "mastermind_theologian"
@@ -9629,7 +9637,7 @@
   }
 }
 204059 = {
-  name = "eYY"  # Odo
+  name = "gYY"  # Odo
   dynasty = 101905
   martial = 7
   diplomacy = 5
@@ -9683,7 +9691,7 @@
   }
 }
 161434 = {
-  name = "OéÉçS"  # Isabelle
+  name = "%YéÉùåS"  # Isabelle
   female = yes
   dynasty = 5061
   religion = "catholic"
@@ -9715,7 +9723,7 @@
   }
 }
 161436 = {
-  name = "?ñs|N"  # Amice
+  name = "?ñs|r}"  # Amice
   female = yes
   dynasty = 5065
   religion = "catholic"
@@ -9730,7 +9738,7 @@
   }
 }
 161437 = {
-  name = "»TáÖN"  # Hawise
+  name = "»TáÖr}"  # Hawise
   female = yes
   dynasty = 5065
   religion = "catholic"
@@ -9745,7 +9753,7 @@
   }
 }
 161438 = {
-  name = "OéÉçS"  # Isabelle
+  name = "%YéÉùåS"  # Isabelle
   female = yes
   dynasty = 5065
   religion = "catholic"
@@ -9791,7 +9799,7 @@
   }
 }
 161441 = {
-  name = "W˝l"  # Rohese
+  name = "Ö§o"  # Rohese
   female = yes
   dynasty = 364
   religion = "catholic"
@@ -9805,7 +9813,7 @@
   }
 }
 161442 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 434
   religion = "catholic"
@@ -9820,7 +9828,7 @@
   }
 }
 161443 = {
-  name = "pgVÃë"  # Geoffrey
+  name = "ëPV·à"  # Geoffrey
   dynasty = 434
   religion = "catholic"
   culture = "english"
@@ -9834,7 +9842,7 @@
   }
 }
 161444 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 434
   religion = "catholic"
@@ -9849,7 +9857,7 @@
   }
 }
 161446 = {
-  name = "!ç˙ã…b"  # Gunnora
+  name = "¢å˛ä…b"  # Gunnora
   female = yes
   dynasty = 5065
   religion = "catholic"
@@ -9878,7 +9886,7 @@
   }
 }
 161448 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 434
   religion = "catholic"
   culture = "english"
@@ -9918,7 +9926,7 @@
   }
 }
 161454 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 4041
   religion = "catholic"
   culture = "english"
@@ -9931,7 +9939,7 @@
   }
 }
 161455 = {
-  name = "pg…bS∑V"  # Gerald
+  name = "ëP…bS∑V"  # Gerald
   dynasty = 4041
   religion = "catholic"
   culture = "english"
@@ -10005,7 +10013,7 @@
   }
 }
 161602 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 5061
   religion = "catholic"
@@ -10020,7 +10028,7 @@
   }
 }
 161603 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 385
   religion = "catholic"
   culture = "english"
@@ -10037,7 +10045,7 @@
   }
 }
 161605 = {
-  name = "…bLNS"  # Raoul
+  name = "…bœpS"  # Raoul
   dynasty = 385
   religion = "catholic"
   culture = "english"
@@ -10054,7 +10062,7 @@
   }
 }
 161606 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 385
   religion = "catholic"
   culture = "english"
@@ -10071,7 +10079,7 @@
   }
 }
 161607 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 359
   religion = "catholic"
@@ -10085,7 +10093,7 @@
   }
 }
 161608 = {
-  name = "…bLNS"  # Raoul
+  name = "…bœpS"  # Raoul
   dynasty = 385
   religion = "catholic"
   culture = "english"
@@ -10098,7 +10106,7 @@
   }
 }
 161609 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 385
   religion = "catholic"
   culture = "english"
@@ -10124,7 +10132,7 @@
   }
 }
 161611 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 4001
   religion = "catholic"
   culture = "english"
@@ -10143,7 +10151,7 @@
   }
 }
 161612 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 352
   religion = "catholic"
@@ -10188,7 +10196,7 @@
   }
 }
 161616 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 4001
   religion = "catholic"
   culture = "english"
@@ -10219,7 +10227,7 @@
   }
 }
 161618 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4001
   religion = "catholic"
   culture = "english"
@@ -10233,7 +10241,7 @@
   }
 }
 161619 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4001
   religion = "catholic"
   culture = "english"
@@ -10259,7 +10267,7 @@
   }
 }
 161621 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 350
   religion = "catholic"
@@ -10273,7 +10281,7 @@
   }
 }
 161622 = {
-  name = "õsÇÑSæè"  # Mathilda
+  name = "jtÇÑSTê"  # Mathilda
   female = yes
   dynasty = 350
   religion = "catholic"
@@ -10287,7 +10295,7 @@
   }
 }
 161623 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 350
   religion = "catholic"
@@ -10315,7 +10323,7 @@
   }
 }
 161625 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 359
   religion = "catholic"
@@ -10330,7 +10338,7 @@
   }
 }
 161626 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 352
   religion = "catholic"
@@ -10390,7 +10398,7 @@
   }
 }
 161630 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 4001
   religion = "catholic"
   culture = "english"
@@ -10405,7 +10413,7 @@
   }
 }
 161631 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 4001
   religion = "catholic"
   culture = "english"
@@ -10431,7 +10439,7 @@
   }
 }
 161633 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 4001
   religion = "catholic"
@@ -10446,7 +10454,7 @@
   }
 }
 161634 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 365
   religion = "catholic"
   culture = "english"
@@ -10503,7 +10511,7 @@
   }
 }
 161638 = {
-  name = "iOWÖQS"  # Perronelle
+  name = "iOÖgQS"  # Perronelle
   female = yes
   dynasty = 101709
   religion = "catholic"
@@ -10517,7 +10525,7 @@
   }
 }
 161640 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 4001
   religion = "catholic"
   culture = "english"
@@ -10535,7 +10543,7 @@
   }
 }
 161641 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   religion = "catholic"
   culture = "english"
@@ -10561,7 +10569,7 @@
   }
 }
 161643 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 4001
   religion = "catholic"
   culture = "english"
@@ -10574,7 +10582,7 @@
   }
 }
 161644 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 4001
   religion = "catholic"
   culture = "english"
@@ -10588,7 +10596,7 @@
   }
 }
 161645 = {
-  name = "pgVÃë"  # Geoffrey
+  name = "ëPV·à"  # Geoffrey
   dynasty = 4001
   religion = "catholic"
   culture = "english"
@@ -10616,7 +10624,7 @@
   }
 }
 161647 = {
-  name = "ÔQnt3t"  # Katherine
+  name = "ÒQnt3t"  # Katherine
   female = yes
   dynasty = 4001
   religion = "catholic"
@@ -10631,7 +10639,7 @@
   }
 }
 161648 = {
-  name = "?ñ<hÆYN"  # Agnes
+  name = "?ñ<hÆYr}"  # Agnes
   female = yes
   dynasty = 4001
   religion = "catholic"
@@ -10646,7 +10654,7 @@
   }
 }
 161649 = {
-  name = "‘k?ñyrLNØe"  # Beatrice
+  name = "‘k?ñyrœpØe"  # Beatrice
   female = yes
   dynasty = 4001
   religion = "catholic"
@@ -10661,7 +10669,7 @@
   }
 }
 161650 = {
-  name = "÷vO"  # Guy
+  name = "ÀÑ%Y"  # Guy
   dynasty = 102008
   religion = "catholic"
   culture = "english"
@@ -10703,7 +10711,7 @@
   }
 }
 161653 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 4001
   religion = "catholic"
@@ -10761,7 +10769,7 @@
   }
 }
 161662 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 102008
   religion = "catholic"
@@ -10776,7 +10784,7 @@
   }
 }
 161663 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 102008
   religion = "catholic"
@@ -10832,7 +10840,7 @@
   }
 }
 161667 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 4002
   religion = "catholic"
@@ -10879,7 +10887,7 @@
   }
 }
 161670 = {
-  name = "OéÉçS"  # Isabelle
+  name = "%YéÉùåS"  # Isabelle
   female = yes
   dynasty = 4002
   religion = "catholic"
@@ -10894,7 +10902,7 @@
   }
 }
 161671 = {
-  name = "OLNéÉåv"  # Elizabeth
+  name = "%YœpéÉåv"  # Elizabeth
   female = yes
   dynasty = 4002
   religion = "catholic"
@@ -10909,7 +10917,7 @@
   }
 }
 161672 = {
-  name = "1r∑VNS"  # Edward
+  name = "a∑VÔÉ"  # Edward
   dynasty = 4002
   religion = "catholic"
   culture = "english"
@@ -11037,7 +11045,7 @@
   }
 }
 161681 = {
-  name = "O1tSæè"  # Isolda
+  name = "%Y1tSTê"  # Isolda
   female = yes
   dynasty = 4001
   religion = "catholic"
@@ -11094,7 +11102,7 @@
   }
 }
 161685 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 4023
   religion = "catholic"
@@ -11138,7 +11146,7 @@
   }
 }
 161688 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 4001
   religion = "catholic"
@@ -11181,7 +11189,7 @@
   }
 }
 161691 = {
-  name = "eYæè"  # Auda
+  name = "gYTê"  # Auda
   female = yes
   dynasty = 540
   religion = "catholic"
@@ -11209,7 +11217,7 @@
   }
 }
 161693 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 540
   religion = "catholic"
   culture = "english"
@@ -11285,7 +11293,7 @@
   }
 }
 183211 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 4035
   religion = "catholic"
@@ -11300,7 +11308,7 @@
   }
 }
 183212 = {
-  name = "õs<hLN"  # Margery
+  name = "jt<hœp"  # Margery
   female = yes
   dynasty = 4035
   religion = "catholic"
@@ -11315,7 +11323,7 @@
   }
 }
 183213 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4035
   religion = "catholic"
   culture = "english"
@@ -11329,7 +11337,7 @@
   }
 }
 183214 = {
-  name = "eY1t"  # Otho
+  name = "gY1t"  # Otho
   dynasty = 4035
   religion = "catholic"
   culture = "english"
@@ -11372,7 +11380,7 @@
   }
 }
 183217 = {
-  name = "çÇ&O"  # Alan
+  name = "çÇ+P"  # Alan
   dynasty = 4035
   religion = "catholic"
   culture = "english"
@@ -11387,7 +11395,7 @@
   }
 }
 183218 = {
-  name = "OLNéÉåv"  # Elizabeth
+  name = "%YœpéÉåv"  # Elizabeth
   female = yes
   dynasty = 4035
   religion = "catholic"
@@ -11403,7 +11411,7 @@
   }
 }
 183219 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 4035
   religion = "catholic"
@@ -11433,7 +11441,7 @@
   }
 }
 183221 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 4035
   religion = "catholic"
@@ -11448,7 +11456,7 @@
   }
 }
 183222 = {
-  name = "OéÉç…b"  # Isabella
+  name = "%YéÉùå…b"  # Isabella
   female = yes
   dynasty = 4035
   religion = "catholic"
@@ -11479,7 +11487,7 @@
   }
 }
 183030 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 106
   religion = "catholic"
@@ -11573,7 +11581,7 @@
   }
 }
 183204 = {
-  name = "»èKQS"  # Michael
+  name = "ÅêKQS"  # Michael
   dynasty = 1042610
   religion = "catholic"
   culture = "english"
@@ -11601,7 +11609,7 @@
   }
 }
 183206 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 1042610
   religion = "catholic"
@@ -11616,7 +11624,7 @@
   }
 }
 183207 = {
-  name = "^pQ*t"  # Blanche
+  name = "^-Ü*t"  # Blanche
   female = yes
   dynasty = 1042610
   religion = "catholic"
@@ -11631,7 +11639,7 @@
   }
 }
 183208 = {
-  name = "ÔQnt3t"  # Katherine
+  name = "ÒQnt3t"  # Katherine
   female = yes
   religion = "catholic"
   culture = "english"
@@ -11734,7 +11742,7 @@
   }
 }
 183074 = {
-  name = "õsLN"  # Mary
+  name = "jtœp"  # Mary
   female = yes
   dynasty = 106
   religion = "catholic"
@@ -11765,7 +11773,7 @@
   }
 }
 180056 = {
-  name = "OéÉç…b"  # Isabella
+  name = "%YéÉùå…b"  # Isabella
   female = yes
   dynasty = 4001
   religion = "catholic"
@@ -11794,7 +11802,7 @@
   }
 }
 180051 = {
-  name = "õsLN"  # Mary
+  name = "jtœp"  # Mary
   female = yes
   dynasty = 101899
   religion = "catholic"
@@ -11824,7 +11832,7 @@
   }
 }
 180053 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 101899
   religion = "catholic"
@@ -11839,7 +11847,7 @@
   }
 }
 180054 = {
-  name = "ÔQnt3t"  # Katherine
+  name = "ÒQnt3t"  # Katherine
   female = yes
   dynasty = 101899
   religion = "catholic"
@@ -11854,7 +11862,7 @@
   }
 }
 180055 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 101899
   religion = "catholic"
@@ -11883,7 +11891,7 @@
   }
 }
 180057 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 101899
   religion = "catholic"
@@ -11898,7 +11906,7 @@
   }
 }
 180196 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 101899
   religion = "catholic"
@@ -11913,7 +11921,7 @@
   }
 }
 180197 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 101899
   religion = "catholic"
@@ -11943,7 +11951,7 @@
   }
 }
 180710 = {
-  name = "TN9N"  # Jordan
+  name = "¨U9N"  # Jordan
   dynasty = 3134
   religion = "catholic"
   culture = "breton"
@@ -11957,7 +11965,7 @@
   }
 }
 180711 = {
-  name = "TN9N"  # Jordan
+  name = "¨U9N"  # Jordan
   dynasty = 3134
   religion = "catholic"
   culture = "breton"
@@ -11970,7 +11978,7 @@
   }
 }
 180712 = {
-  name = "çÇ&O"  # Alan
+  name = "çÇ+P"  # Alan
   dynasty = 3134
   religion = "catholic"
   culture = "english"
@@ -11983,7 +11991,7 @@
   }
 }
 180713 = {
-  name = "TN9N"  # Jordan
+  name = "¨U9N"  # Jordan
   dynasty = 3134
   religion = "catholic"
   culture = "english"
@@ -11996,7 +12004,7 @@
   }
 }
 180714 = {
-  name = "eY)RV"  # Olive
+  name = "gY)RV"  # Olive
   female = yes
   dynasty = 3134
   religion = "catholic"
@@ -12010,7 +12018,7 @@
   }
 }
 180715 = {
-  name = "1rLNâöN"  # Alicia
+  name = "aœpâûN"  # Alicia
   female = yes
   dynasty = 3134
   religion = "catholic"
@@ -12222,7 +12230,7 @@
   }
 }
 453502 = {
-  name = "OLNéÉåv"  # Elizabeth
+  name = "%YœpéÉåv"  # Elizabeth
   female = yes
   dynasty = 4034
   martial = 5
@@ -12242,7 +12250,7 @@
   }
 }
 454573 = {
-  name = "OéÉçS"  # Isabelle
+  name = "%YéÉùåS"  # Isabelle
   dynasty = 4002
   female = yes
   martial = 5
@@ -12263,7 +12271,7 @@
   }
 }
 183075 = {
-  name = "1r∑VNS"  # Edward
+  name = "a∑VÔÉ"  # Edward
   dynasty = 106
   religion = "catholic"
   culture = "english"
@@ -12358,7 +12366,7 @@
   }
 }
 183081 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 4000
   religion = "catholic"
   culture = "english"
@@ -12374,7 +12382,7 @@
   }
 }
 183082 = {
-  name = "Wpg"  # Roger
+  name = "ÖëP"  # Roger
   dynasty = 4000
   religion = "catholic"
   culture = "english"
@@ -12407,7 +12415,7 @@
   }
 }
 183084 = {
-  name = "√WâÉ˙ã"  # Eleanor
+  name = "√WâÉ˛ä"  # Eleanor
   female = yes
   dynasty = 4000
   religion = "catholic"
@@ -12424,7 +12432,7 @@
   }
 }
 183085 = {
-  name = "OéÉçS"  # Isabel
+  name = "%YéÉùåS"  # Isabel
   female = yes
   dynasty = 4000
   religion = "catholic"
@@ -12458,7 +12466,7 @@
   }
 }
 183087 = {
-  name = "3SÚÉs|Z"  # Euphemia
+  name = "3SÚÉs|mZ"  # Euphemia
   female = yes
   religion = "catholic"
   culture = "english"
@@ -12472,7 +12480,7 @@
   }
 }
 183088 = {
-  name = "<t"  # Joan
+  name = " t"  # Joan
   female = yes
   dynasty = 4004
   religion = "catholic"
@@ -12489,7 +12497,7 @@
   }
 }
 183089 = {
-  name = "?ñ≥uØeTXÉZ"  # Anastasia
+  name = "?ñ≥uØeTXÉmZ"  # Anastasia
   female = yes
   dynasty = 4004
   religion = "catholic"
@@ -12506,7 +12514,7 @@
   }
 }
 183090 = {
-  name = "W>Oyr"  # Robert
+  name = "Ö>Oyr"  # Robert
   dynasty = 4004
   religion = "catholic"
   culture = "english"
@@ -12522,7 +12530,7 @@
   }
 }
 183091 = {
-  name = "O≤Y"  # Ida
+  name = "%Y≤Y"  # Ida
   female = yes
   dynasty = 4004
   religion = "catholic"
@@ -12559,7 +12567,7 @@
   }
 }
 183093 = {
-  name = "3SÚÉs|Z"  # Euphemia
+  name = "3SÚÉs|mZ"  # Euphemia
   female = yes
   dynasty = 4004
   religion = "catholic"
@@ -12577,7 +12585,7 @@
   }
 }
 183094 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   dynasty = 4004
   religion = "catholic"
@@ -12594,7 +12602,7 @@
   }
 }
 183095 = {
-  name = "öNÜSqS'Y"  # Alexander
+  name = "ûNwkqS'Y"  # Alexander
   dynasty = 4004
   religion = "catholic"
   culture = "english"
@@ -12626,7 +12634,7 @@
   }
 }
 183097 = {
-  name = "õsLN"  # Mary
+  name = "jtœp"  # Mary
   female = yes
   dynasty = 4004
   religion = "catholic"
@@ -12659,7 +12667,7 @@
   }
 }
 183099 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 4004
   religion = "catholic"
@@ -12676,7 +12684,7 @@
   }
 }
 183100 = {
-  name = "XblöØe"  # Thomas
+  name = "Xb¨ôØe"  # Thomas
   dynasty = 4004
   religion = "catholic"
   culture = "english"
@@ -12709,7 +12717,7 @@
   }
 }
 183102 = {
-  name = "1rLNN"  # Alice
+  name = "aœpr}"  # Alice
   female = yes
   religion = "catholic"
   culture = "english"
@@ -12739,7 +12747,7 @@
   }
 }
 183104 = {
-  name = "õs<hLNyr"  # Margaret
+  name = "jt<hœpyr"  # Margaret
   female = yes
   dynasty = 4004
   religion = "catholic"
@@ -12756,7 +12764,7 @@
   }
 }
 183105 = {
-  name = "ÔQnt3t"  # Catherine
+  name = "ÒQnt3t"  # Catherine
   female = yes
   dynasty = 4004
   religion = "catholic"

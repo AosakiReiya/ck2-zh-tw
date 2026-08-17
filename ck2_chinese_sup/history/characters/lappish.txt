@@ -1,5 +1,5 @@
 144625 = {
-  name = "eYSYyr"  # Orddot
+  name = "gYSYyr"  # Orddot
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -87,7 +87,7 @@
   }
 }
 228009 = {
-  name = "çOÙu"  # Baeivi
+  name = "ùå%YÙu"  # Baeivi
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -100,7 +100,7 @@
   }
 }
 28009 = {
-  name = "çOÙu"  # Baeivi
+  name = "ùå%YÙu"  # Baeivi
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -113,7 +113,7 @@
   }
 }
 486000 = {
-  name = "çOÙu"  # BÊivi
+  name = "ùå%YÙu"  # BÊivi
   dynasty = 100279
   martial = 6
   diplomacy = 5
@@ -131,7 +131,7 @@
   }
 }
 486010 = {
-  name = "œÇ≥u"  # Sunna
+  name = "Ü≥u"  # Sunna
   dynasty = 100386
   religion = "finnish_pagan"
   culture = "lappish"
@@ -144,7 +144,7 @@
   }
 }
 143128 = {
-  name = "çOÙu"  # Baeivi
+  name = "ùå%YÙu"  # Baeivi
   dynasty = 100386
   religion = "finnish_pagan"
   culture = "lappish"
@@ -184,7 +184,8 @@
   }
 }
 167726 = {
-  name = "çÇ±Éyr"  # ¡llet
+  name = "çÇ
+Ñyr"  # ¡llet
   female = yes
   religion = "finnish_pagan"
   culture = lappish
@@ -196,7 +197,8 @@
   }
 }
 167727 = {
-  name = "?ñ…bÁe—y(Ñ"  # Arrajuoksa
+  name = "?ñ…b
+Ç—y©Ö"  # Arrajuoksa
   dynasty = 1043301
   religion = "finnish_pagan"
   culture = "lappish"
@@ -236,7 +238,7 @@
   }
 }
 170146 = {
-  name = "çOÙu"  # Baeivi
+  name = "ùå%YÙu"  # Baeivi
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -249,7 +251,7 @@
   }
 }
 170147 = {
-  name = "6wâR(Ñ"  # Jeansa
+  name = "6wâR©Ö"  # Jeansa
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -262,7 +264,7 @@
   }
 }
 170148 = {
-  name = "eYSYyr"  # Orddot
+  name = "gYSYyr"  # Orddot
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -275,7 +277,7 @@
   }
 }
 170149 = {
-  name = "çOÙu"  # Baeivi
+  name = "ùå%YÙu"  # Baeivi
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -288,7 +290,7 @@
   }
 }
 170150 = {
-  name = "6wâR(Ñ"  # Jeansa
+  name = "6wâR©Ö"  # Jeansa
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -301,7 +303,7 @@
   }
 }
 186001 = {
-  name = "?ñõs´É"  # ¡mmot
+  name = "?ñjt´É"  # ¡mmot
   dynasty = 837
   religion = "finnish_pagan"
   culture = "lappish"
@@ -337,7 +339,7 @@
   }
 }
 194026 = {
-  name = "çÇbS"  # ¡ilu
+  name = "çÇÁv"  # ¡ilu
   dynasty = 1045004
   religion = finnish_pagan
   culture = lappish
@@ -373,7 +375,7 @@
   }
 }
 170333 = {
-  name = "’k¶NZ"  # Baeivi
+  name = "bu¶NZ"  # Baeivi
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -385,7 +387,7 @@
   }
 }
 170334 = {
-  name = "id»Tì^"  # Mohkku
+  name = "id»T´^"  # Mohkku
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -398,7 +400,7 @@
   }
 }
 170335 = {
-  name = "eYYyr"  # Orddot
+  name = "gYYyr"  # Orddot
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -411,7 +413,7 @@
   }
 }
 170336 = {
-  name = "6wâR(Ñ"  # Jeansa
+  name = "6wâR©Ö"  # Jeansa
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -424,7 +426,7 @@
   }
 }
 170337 = {
-  name = "´É»Tì^"  # Mohkku
+  name = "´É»T´^"  # Mohkku
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
@@ -437,7 +439,7 @@
   }
 }
 260549 = {
-  name = "çÇbS"  # ¡ilu
+  name = "çÇÁv"  # ¡ilu
   dynasty = 1062227
   religion = finnish_pagan
   culture = lappish
@@ -449,7 +451,7 @@
   }
 }
 260551 = {
-  name = "æè+Y!ç"  # D·vgon
+  name = "Tê+Y¢å"  # D·vgon
   dynasty = 1062229
   religion = finnish_pagan
   culture = lappish
@@ -461,7 +463,7 @@
   }
 }
 260552 = {
-  name = "˜ñöNõs"  # Leamm·
+  name = "˜ñûNjt"  # Leamm·
   dynasty = 1062230
   religion = finnish_pagan
   culture = lappish

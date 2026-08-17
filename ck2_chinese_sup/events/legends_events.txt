@@ -431,7 +431,7 @@ narrative_event = {
       duration = 365
     }
     create_character = {
-      name = "W¾R"  # Robin
+      name = "…¾R"  # Robin
       random_traits = no
       dynasty = random
       female = no
@@ -451,7 +451,7 @@ narrative_event = {
       save_event_target_as = marion_robin
     }
     create_character = {
-      name = "›sLN‰R"  # Marion
+      name = "jtÏp‰R"  # Marion
       random_traits = no
       dynasty = random
       female = yes
@@ -1073,7 +1073,7 @@ narrative_event = {
       duration = 365
     }
     create_character = {
-      name = "W¾R"  # Robin
+      name = "…¾R"  # Robin
       random_traits = no
       dynasty = random
       female = no
@@ -1093,7 +1093,7 @@ narrative_event = {
       save_event_target_as = marion_robin
     }
     create_character = {
-      name = "›sLN‰R"  # Marion
+      name = "jtÏp‰R"  # Marion
       random_traits = no
       dynasty = random
       female = yes
@@ -1192,7 +1192,7 @@ narrative_event = {
       duration = 365
     }
     create_character = {
-      name = "W¾R"  # Robin
+      name = "…¾R"  # Robin
       random_traits = no
       dynasty = random
       female = no
@@ -1212,7 +1212,7 @@ narrative_event = {
       save_event_target_as = marion_robin
     }
     create_character = {
-      name = "›sLN‰R"  # Marion
+      name = "jtÏp‰R"  # Marion
       random_traits = no
       dynasty = random
       female = yes

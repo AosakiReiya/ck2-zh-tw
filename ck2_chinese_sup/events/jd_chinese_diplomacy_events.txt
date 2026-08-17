@@ -6968,14 +6968,14 @@ character_event = {
                 60 = {}
                 20 = {
                   add_trait = clubfooted
-                  set_name = "4T"  # Wu
+                  set_name = "3T"  # Wu
                 }
                 20 = {
                   trigger = {
                     has_dlc = Reapers
                   }
                   add_trait = one_legged
-                  set_name = "4T"  # Wu
+                  set_name = "3T"  # Wu
                 }
               }
             }

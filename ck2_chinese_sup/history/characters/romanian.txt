@@ -1,5 +1,5 @@
 220001 = {
-  name = "Ùu1åØe…b+Y"  # Viseslav
+  name = "Ùu\ãØe…b+Y"  # Viseslav
   dynasty = 100463
   martial = 5
   diplomacy = 6
@@ -102,7 +102,7 @@
   }
 }
 475410 = {
-  name = "(ÑØe"  # Sas
+  name = "©ÖØe"  # Sas
   dynasty = 100541
   martial = 8
   diplomacy = 7
@@ -120,7 +120,7 @@
   }
 }
 475550 = {
-  name = "ÙT(Ñ…b^"  # Basarab
+  name = "ÙT©Ö…b^"  # Basarab
   dynasty = 764
   martial = 4
   diplomacy = 7
@@ -145,7 +145,7 @@
   }
 }
 475552 = {
-  name = "yreYY…b"  # Teodora
+  name = "yrgYY…b"  # Teodora
   female = yes
   dynasty = 764
   martial = 8
@@ -166,7 +166,7 @@
   }
 }
 475553 = {
-  name = "<S‰S…b6w öNÜSqS∑VÅú"  # Nicolaie Alexandru
+  name = "<S‰S…b6w ûNwkqS∑Voõ"  # Nicolaie Alexandru
   dynasty = 764
   martial = 6
   diplomacy = 4
@@ -190,7 +190,8 @@
   }
 }
 475555 = {
-  name = "V±Éì^"  # Vlaicu
+  name = "V
+Ñ´^"  # Vlaicu
   dynasty = 764
   martial = 4
   diplomacy = 7
@@ -250,7 +251,7 @@
   }
 }
 34800 = {
-  name = ")RyrÉlO"  # Litvoy
+  name = ")RyrÉl%Y"  # Litvoy
   dynasty = 7311
   religion = "orthodox"
   culture = "romanian"
@@ -276,7 +277,7 @@
   }
 }
 475554 = {
-  name = "õsLNöN"  # Maria
+  name = "jtœpûN"  # Maria
   female = yes
   martial = 7
   diplomacy = 6
@@ -293,7 +294,7 @@
   }
 }
 20639 = {
-  name = "(ÑØe"  # Sas
+  name = "©ÖØe"  # Sas
   dynasty = 100516
   martial = 6
   diplomacy = 4
@@ -341,7 +342,7 @@
   }
 }
 34804 = {
-  name = "OS„NO"  # Ildey
+  name = "%YS„N%Y"  # Ildey
   dynasty = 100516
   religion = "orthodox"
   culture = "romanian"
@@ -427,7 +428,7 @@
   }
 }
 34805 = {
-  name = "—y‘köNKQ"  # Kobyak
+  name = "—y‘kûNKQ"  # Kobyak
   dynasty = 100515
   religion = "orthodox"
   culture = "romanian"
@@ -469,7 +470,7 @@
   }
 }
 34822 = {
-  name = "ì^ÙT(ÑS"  # Kubasar
+  name = "´^ÙT©ÖS"  # Kubasar
   dynasty = 100515
   religion = "orthodox"
   culture = "romanian"
@@ -483,7 +484,7 @@
   }
 }
 34823 = {
-  name = "s|1å…b+Y"  # Miselav
+  name = "s|\ã…b+Y"  # Miselav
   dynasty = 100515
   religion = "orthodox"
   culture = "romanian"
@@ -497,7 +498,7 @@
   }
 }
 168286 = {
-  name = "öN˙ã¿N"  # Janos
+  name = "ûN˛ä¿N"  # Janos
   dynasty = 9580
   religion = "orthodox"
   culture = "romanian"
@@ -509,7 +510,7 @@
   }
 }
 248665 = {
-  name = "æès|âR"  # Damian
+  name = "Tês|âR"  # Damian
   dynasty = 9580
   religion = "orthodox"
   culture = "romanian"
@@ -522,7 +523,7 @@
   }
 }
 248667 = {
-  name = "?ñôü"  # Aron
+  name = "?ñçü"  # Aron
   dynasty = 9580
   religion = "orthodox"
   culture = "romanian"
@@ -561,7 +562,7 @@
   }
 }
 248670 = {
-  name = "«ëiO¿N"  # Tepes
+  name = "°ciO¿N"  # Tepes
   dynasty = 9580
   religion = "orthodox"
   culture = "romanian"
@@ -575,7 +576,7 @@
   }
 }
 248671 = {
-  name = "s|»TOS"  # Mihail
+  name = "s|»T%YS"  # Mihail
   dynasty = 9580
   religion = "orthodox"
   culture = "romanian"
@@ -617,7 +618,7 @@
   }
 }
 248673 = {
-  name = "Êt&ON"  # Valentin
+  name = "Êt+PN"  # Valentin
   dynasty = 9580
   religion = "orthodox"
   culture = "romanian"
@@ -638,7 +639,7 @@
   }
   1171.1.1 = {
     dynasty = 1061044
-    name = "<heYS˙W"  # Gheorghe
+    name = "<hgYS˙W"  # Gheorghe
     culture = romanian
     religion = orthodox
     add_trait = sympathy_pagans
@@ -648,7 +649,7 @@
   }
 }
 248675 = {
-  name = ",g˝l&OÙT∆Y"  # Bezerenbam
+  name = ",g§o+PÙT∆Y"  # Bezerenbam
   dynasty = 1061044
   culture = romanian
   religion = orthodox
@@ -662,7 +663,7 @@
   }
 }
 248676 = {
-  name = "Óh^X≥R"  # Senselau
+  name = "Óh^XﬁR"  # Senselau
   dynasty = 1061044
   culture = romanian
   religion = orthodox
@@ -690,7 +691,8 @@
   }
 }
 248678 = {
-  name = "Êtâ±É"  # Vasile
+  name = "Êtâ
+Ñ"  # Vasile
   dynasty = 1061044
   culture = romanian
   religion = orthodox
@@ -704,7 +706,7 @@
   }
 }
 248679 = {
-  name = "1t—yÖhÃëeYØe"  # Thocomerius
+  name = "1t—yÖhÃëgYØe"  # Thocomerius
   dynasty = 1061043
   culture = romanian
   religion = orthodox
@@ -769,7 +771,7 @@
   }
 }
 248684 = {
-  name = "´ÉO^X"  # Moise
+  name = "´É%Y^X"  # Moise
   dynasty = 1061042
   culture = romanian
   religion = orthodox
@@ -794,7 +796,7 @@
   }
 }
 248686 = {
-  name = "˛VYS"  # Tudor
+  name = "WYS"  # Tudor
   dynasty = 1061041
   culture = romanian
   religion = orthodox
@@ -807,7 +809,7 @@
   }
 }
 248687 = {
-  name = "…bYN"  # Radovan
+  name = "…bY,Ñ"  # Radovan
   dynasty = 1061042
   culture = romanian
   religion = orthodox
@@ -832,7 +834,7 @@
   }
 }
 260691 = {
-  name = "V…b<SeY"  # Franjo
+  name = "V…b<SgY"  # Franjo
   dynasty = 1062317
   religion = orthodox
   culture = romanian
@@ -844,7 +846,7 @@
   }
 }
 260692 = {
-  name = "löóg"  # Marin
+  name = "¨ôóg"  # Marin
   dynasty = 1062318
   religion = orthodox
   culture = romanian
@@ -886,7 +888,7 @@
   }
 }
 261397 = {
-  name = "?ñkç˛V∆Y"  # Ahtum
+  name = "?ñkçW∆Y"  # Ahtum
   dynasty = 1069077
   religion = orthodox
   culture = romanian

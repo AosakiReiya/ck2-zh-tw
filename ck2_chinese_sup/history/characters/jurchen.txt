@@ -1,6 +1,6 @@
 217729 = {
   dynasty = 1051153
-  name = "¾RÌ‘µ”"  # Helibo
+  name = "¾Ráˆ="  # Helibo
   religion = taoist
   culture = jurchen
   1039.1.1 = {
@@ -32,7 +32,7 @@
 }
 217731 = {
   dynasty = 1051153
-  name = "4T^NpN"  # Wuqimai
+  name = "3T^N·Œ"  # Wuqimai
   religion = taoist
   culture = jurchen
   father = 217729
@@ -83,7 +83,7 @@
 }
 215599 = {
   dynasty = 1051153
-  name = "—Rr^"  # Zonggan
+  name = "—Ry^"  # Zonggan
   religion = taoist
   culture = jurchen
   father = 217730
@@ -128,7 +128,7 @@
 }
 217735 = {
   dynasty = 1051153
-  name = "LN„y"  # Wulu
+  name = "Ïpy"  # Wulu
   religion = taoist
   culture = jurchen
   father = 215597
@@ -161,7 +161,7 @@
 }
 217736 = {
   dynasty = 1051153
-  name = "»ž¾j„"  # Madage
+  name = "»žTj„"  # Madage
   religion = taoist
   culture = jurchen
   father = 215598
@@ -179,7 +179,7 @@
 }
 217737 = {
   dynasty = 1051153
-  name = "8lNm"  # Yongji
+  name = "8lßo"  # Yongji
   religion = taoist
   culture = jurchen
   father = 217735
@@ -197,7 +197,7 @@
 }
 217738 = {
   dynasty = 1051153
-  name = ">Tyweˆ"  # Wudubu
+  name = ">TywÜˆ"  # Wudubu
   religion = taoist
   culture = jurchen
   father = 215598
@@ -205,7 +205,7 @@
     birth = yes
   }
   1213.9.22 = {
-    name = "²R—R"  # Xuanzong
+    name = "ÁR—R"  # Xuanzong
   }
   1224.1.14 = {
     death = {
@@ -263,7 +263,7 @@
 }
 244009 = {
   dynasty = 1051184
-  name = ">Tyweˆ"  # Wudubu
+  name = ">TywÜˆ"  # Wudubu
   religion = taoist
   culture = jurchen
   1150.1.1 = {

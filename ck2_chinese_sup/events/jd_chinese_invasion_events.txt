@@ -3585,7 +3585,7 @@ character_event = {
           set_name = "VóVy"  # Jingzu
         }
         1 = {
-          set_name = ">fVy"  # Xianzu
+          set_name = "oòVy"  # Xianzu
         }
         1 = {
           set_name = "»pVy"  # Liezu
@@ -3618,7 +3618,7 @@ character_event = {
                 }
               }
             }
-            set_name = "Kfg"  # Jin Empire
+            set_name = "Ifg"  # Jin Empire
             set_title_flag = china_name_Jin
           }
           1 = {
@@ -3640,7 +3640,7 @@ character_event = {
                 }
               }
             }
-            set_name = "Püg"  # Qi Empire
+            set_name = "Jüg"  # Qi Empire
             set_title_flag = china_name_Qi
           }
           1 = {
@@ -3662,7 +3662,7 @@ character_event = {
                 }
               }
             }
-            set_name = "Ilg"  # Han Empire
+            set_name = ""og"  # Han Empire
             set_title_flag = china_name_Han
           }
           1 = {
@@ -3695,7 +3695,7 @@ character_event = {
                 }
               }
             }
-            set_name = "uçg"  # Zhao Empire
+            set_name = "ôçg"  # Zhao Empire
             set_title_flag = china_name_Zhao
           }
           1 = {
@@ -3816,7 +3816,7 @@ character_event = {
                 }
               }
             }
-            set_name = "4Tg"  # Wu Empire
+            set_name = "3Tg"  # Wu Empire
             set_title_flag = china_name_Wu
           }
           1 = {
@@ -3860,7 +3860,7 @@ character_event = {
                 }
               }
             }
-            set_name = "zòg"  # Shun Empire
+            set_name = "òg"  # Shun Empire
             set_title_flag = china_name_Shun
           }
         }
@@ -4039,7 +4039,7 @@ character_event = {
             }
           }
         }
-        set_name = "¶îóR"  # Qinzong
+        set_name = "=kóR"  # Qinzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Qinzong
         }
@@ -4137,7 +4137,7 @@ character_event = {
             }
           }
         }
-        set_name = "≤RóR"  # Xuanzong
+        set_name = "¡RóR"  # Xuanzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Xuanzong
         }
@@ -4333,7 +4333,7 @@ character_event = {
             }
           }
         }
-        set_name = ">fóR"  # Xianzong
+        set_name = "oòóR"  # Xianzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Xianzong
         }
@@ -4529,7 +4529,7 @@ character_event = {
             }
           }
         }
-        set_name = "tQóR"  # Xingzong
+        set_name = "ÇóR"  # Xingzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Xingzong
         }
@@ -4557,7 +4557,7 @@ character_event = {
             }
           }
         }
-        set_name = "Ñ^óR"  # Zhuangzong
+        set_name = "äÉóR"  # Zhuangzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Zhuangzong
         }
@@ -4641,7 +4641,7 @@ character_event = {
             }
           }
         }
-        set_name = "zòóR"  # Shunzong
+        set_name = "òóR"  # Shunzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Shunzong
         }
@@ -4655,7 +4655,7 @@ character_event = {
             }
           }
         }
-        set_name = "(çóR"  # Zhizong
+        set_name = "ÍåóR"  # Zhizong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Zhizong
         }
@@ -4669,7 +4669,7 @@ character_event = {
             }
           }
         }
-        set_name = "RóR"  # Chuangzong
+        set_name = "uRóR"  # Chuangzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Chuangzong
         }
@@ -4737,19 +4737,19 @@ character_event = {
             set_name = "U"  # Tang
           }
           china_name_Jin = {
-            set_name = "Kf"  # Jin
+            set_name = "If"  # Jin
           }
           china_name_Wei = {
             set_name = "Oõ"  # Wei
           }
           china_name_Qi = {
-            set_name = "Pü"  # Qi
+            set_name = "Jü"  # Qi
           }
           china_name_Zhou = {
             set_name = "hT"  # Zhou
           }
           china_name_Han = {
-            set_name = "Il"  # Han
+            set_name = ""o"  # Han
           }
           china_name_Qin = {
             set_name = "Êy"  # Qin
@@ -4758,7 +4758,7 @@ character_event = {
             set_name = "’q"  # Yan
           }
           china_name_Zhao = {
-            set_name = "uç"  # Zhao
+            set_name = "ôç"  # Zhao
           }
           china_name_Liao = {
             set_name = "Ãè"  # Liao
@@ -4791,7 +4791,7 @@ character_event = {
             set_name = "á"  # Shu
           }
           china_name_Wu = {
-            set_name = "4T"  # Wu
+            set_name = "3T"  # Wu
           }
           china_name_Chu = {
             set_name = "Zi"  # Chu
@@ -4803,7 +4803,7 @@ character_event = {
             set_name = "∑k"  # Yin
           }
           china_name_Shun = {
-            set_name = "zò"  # Shun
+            set_name = "ò"  # Shun
           }
         }
         if = {
@@ -4862,19 +4862,19 @@ character_event = {
             set_name = "U"  # Tang
           }
           china_name_Jin = {
-            set_name = "Kf"  # Jin
+            set_name = "If"  # Jin
           }
           china_name_Wei = {
             set_name = "Oõ"  # Wei
           }
           china_name_Qi = {
-            set_name = "Pü"  # Qi
+            set_name = "Jü"  # Qi
           }
           china_name_Zhou = {
             set_name = "hT"  # Zhou
           }
           china_name_Han = {
-            set_name = "Il"  # Han
+            set_name = ""o"  # Han
           }
           china_name_Qin = {
             set_name = "Êy"  # Qin
@@ -4883,7 +4883,7 @@ character_event = {
             set_name = "’q"  # Yan
           }
           china_name_Zhao = {
-            set_name = "uç"  # Zhao
+            set_name = "ôç"  # Zhao
           }
           china_name_Liao = {
             set_name = "Ãè"  # Liao
@@ -4916,7 +4916,7 @@ character_event = {
             set_name = "á"  # Shu
           }
           china_name_Wu = {
-            set_name = "4T"  # Wu
+            set_name = "3T"  # Wu
           }
           china_name_Chu = {
             set_name = "Zi"  # Chu
@@ -4928,7 +4928,7 @@ character_event = {
             set_name = "∑k"  # Yin
           }
           china_name_Shun = {
-            set_name = "zò"  # Shun
+            set_name = "ò"  # Shun
           }
         }
         if = {
@@ -4995,19 +4995,19 @@ character_event = {
             set_name = "Ug"  # Tang Empire
           }
           china_name_Jin = {
-            set_name = "Kfg"  # Jin Empire
+            set_name = "Ifg"  # Jin Empire
           }
           china_name_Wei = {
             set_name = "Oõg"  # Wei Empire
           }
           china_name_Qi = {
-            set_name = "Püg"  # Qi Empire
+            set_name = "Jüg"  # Qi Empire
           }
           china_name_Zhou = {
             set_name = "hTg"  # Zhou Empire
           }
           china_name_Han = {
-            set_name = "Ilg"  # Han Empire
+            set_name = ""og"  # Han Empire
           }
           china_name_Qin = {
             set_name = "Êyg"  # Qin Empire
@@ -5016,7 +5016,7 @@ character_event = {
             set_name = "’qg"  # Yan Empire
           }
           china_name_Zhao = {
-            set_name = "uçg"  # Zhao Empire
+            set_name = "ôçg"  # Zhao Empire
           }
           china_name_Liao = {
             set_name = "Ãèg"  # Liao Empire
@@ -5049,7 +5049,7 @@ character_event = {
             set_name = "ág"  # Shu Empire
           }
           china_name_Wu = {
-            set_name = "4Tg"  # Wu Empire
+            set_name = "3Tg"  # Wu Empire
           }
           china_name_Chu = {
             set_name = "Zig"  # Chu Empire
@@ -5061,7 +5061,7 @@ character_event = {
             set_name = "∑kg"  # Yin Empire
           }
           china_name_Shun = {
-            set_name = "zòg"  # Shun Empire
+            set_name = "òg"  # Shun Empire
           }
         }
         trigger_switch = {
@@ -5101,19 +5101,19 @@ character_event = {
             set_name = "Ug"  # Tang Empire
           }
           china_name_Jin = {
-            set_name = "Kfg"  # Jin Empire
+            set_name = "Ifg"  # Jin Empire
           }
           china_name_Wei = {
             set_name = "Oõg"  # Wei Empire
           }
           china_name_Qi = {
-            set_name = "Püg"  # Qi Empire
+            set_name = "Jüg"  # Qi Empire
           }
           china_name_Zhou = {
             set_name = "hTg"  # Zhou Empire
           }
           china_name_Han = {
-            set_name = "Ilg"  # Han Empire
+            set_name = ""og"  # Han Empire
           }
           china_name_Qin = {
             set_name = "Êyg"  # Qin Empire
@@ -5122,7 +5122,7 @@ character_event = {
             set_name = "’qg"  # Yan Empire
           }
           china_name_Zhao = {
-            set_name = "uçg"  # Zhao Empire
+            set_name = "ôçg"  # Zhao Empire
           }
           china_name_Liao = {
             set_name = "Ãèg"  # Liao Empire
@@ -5155,7 +5155,7 @@ character_event = {
             set_name = "ág"  # Shu Empire
           }
           china_name_Wu = {
-            set_name = "4Tg"  # Wu Empire
+            set_name = "3Tg"  # Wu Empire
           }
           china_name_Chu = {
             set_name = "Zig"  # Chu Empire
@@ -5167,7 +5167,7 @@ character_event = {
             set_name = "∑kg"  # Yin Empire
           }
           china_name_Shun = {
-            set_name = "zòg"  # Shun Empire
+            set_name = "òg"  # Shun Empire
           }
         }
         trigger_switch = {

@@ -127,7 +127,7 @@ decisions = {
                     }
                   }
                 }
-                set_name = "Kf"  # Jin Empire
+                set_name = "If"  # Jin Empire
                 set_title_flag = china_name_Jin
               }
               1 = {
@@ -149,7 +149,7 @@ decisions = {
                     }
                   }
                 }
-                set_name = "PŸ"  # Qi Empire
+                set_name = "JŸ"  # Qi Empire
                 set_title_flag = china_name_Qi
               }
               1 = {
@@ -171,7 +171,7 @@ decisions = {
                     }
                   }
                 }
-                set_name = "Il "  # Han Empire
+                set_name = ""o "  # Han Empire
                 set_title_flag = china_name_Han
               }
               1 = {
@@ -204,7 +204,7 @@ decisions = {
                     }
                   }
                 }
-                set_name = "u"  # Zhao Empire
+                set_name = "™"  # Zhao Empire
                 set_title_flag = china_name_Zhao
               }
               1 = {
@@ -325,7 +325,7 @@ decisions = {
                     }
                   }
                 }
-                set_name = "4T"  # Wu Empire
+                set_name = "3T"  # Wu Empire
                 set_title_flag = china_name_Wu
               }
               1 = {
@@ -369,7 +369,7 @@ decisions = {
                     }
                   }
                 }
-                set_name = "z˜"  # Shun Empire
+                set_name = "˜"  # Shun Empire
                 set_title_flag = china_name_Shun
               }
             }
@@ -414,7 +414,7 @@ decisions = {
               set_name = "V—Vy"  # Jingzu
             }
             1 = {
-              set_name = ">fVy"  # Xianzu
+              set_name = "o˜Vy"  # Xianzu
             }
             1 = {
               set_name = "ÈpVy"  # Liezu
