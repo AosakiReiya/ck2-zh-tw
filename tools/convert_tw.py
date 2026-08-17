@@ -342,17 +342,16 @@ def convert_file(path: Path, glossary: Glossary, dry_run: bool, stats: dict):
         if not dry_run and out != data:
             path.write_bytes(out)
         return int(out != data)
-    # escape 格式 csv
-    text, prefixes, raw_latin = decode_escape(data)
-    converted, prefixes, raw_latin = convert_text(text, prefixes, raw_latin, glossary, phrase=True)
-    out = encode_escape(converted, prefixes, raw_latin)
+    # escape 格式 csv:byte 級 1:1(與語法檔相同)——片語級會改變行內字數,
+    # 可能讓 CK2 的 csv 行超限而整檔拒載(實測:簡體原廠正常、片語級繁體全 key)
+    converted = convert_bytes_inplace(data)
     stats["files"] += 1
-    stats["chars"] += sum(1 for ch in text if "\u4e00" <= ch <= "\u9fff")
+    stats["chars"] += sum(1 for ch in data if 0x80 <= ch < 0xFF)
     if dry_run:
-        return int(out != data)
-    if out != data:
-        path.write_bytes(out)
-    return int(out != data)
+        return int(converted != data)
+    if converted != data:
+        path.write_bytes(converted)
+    return int(converted != data)
 
 
 def main():

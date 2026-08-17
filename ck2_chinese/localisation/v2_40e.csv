@@ -27,7 +27,7 @@ prisoner_to_oubilette_desc;S§Y[Root.GetTitledFirstName]§!Tb20WbrgQgñm
 prisoner_to_dungeon;I0R0Wbr;;;;;;;;;;;;x
 prisoner_to_dungeon_desc;Šb§Y[Root.GetTitledFirstName]§!I0R0Wbr„v®U“•áˆÿ(W²[Root.GetSubjectPronoun]!qÕl%fÑÿ„ýwÁo—VENN›N0;;;;;;;;;;;;x
 prisoner_to_suite;ßŽy;;;;;;;;;;;;x
-prisoner_to_suite_desc;Šb§Y[Root.GetTitledFirstName]§!Iûy0R[ˆuQŠbˆR„vWY“•-N0gÐcGSÑ„v_j‡sÿFO[Root.GetSubjectPronoun]qggÐc‰Bl&NNïSåNÁo—VˆVEN0;;;;;;;;;;;;x
+prisoner_to_suite_desc;Šb§Y[Root.GetTitledFirstName]§!Iûy0R[ˆuQŠbˆR„vWY“•-N0gÐcGSÑ„v~^‡sÿFO[Root.GetSubjectPronoun]qggÐc‰Bl&NNïSåNÁo—VˆVEN0;;;;;;;;;;;;x
 MODIFIER_ADDED_NO_END;§Y$WHERE$§!rs—V†N0§Y$WHAT$§!0ÿÁd	gåNNHeœgÿ\n$EFFECT$\n\n;;;;;;;;;;;;x
 NOMAD_LAND_OVERRUN;§YèÏe4ngW0W§!;;;;;;;;;;;;x
 NOMAD_LAND_OVERRUN_DESC;ïSWlÁd	gW0W„v`…vQÖNèÏe0ÖNÅV0˜³NúQ§Y$NUM$§!JXW0Wÿ&TGRïSýwb—èþs	gèÏe„vÛS‚Nÿuób—è!k¶uèÏew‹NÿåNfŠWrsÖS(WJNAmèÏe-N„vckSV0WMO&&;;;;;;;;;;;;x
@@ -44,7 +44,7 @@ ABSORB_CLAN_INTERACTION_LONG_DESC;TSèÏe&Nqgo˜NP×S1kÎ„vLˆ©
 FORM_BLOOD_OATH_INTERACTION_DESC;Oˆ“ŠïSåN“‹§Y[Recipient.Clan.GetName]§!èÏeb©`OXšR„vßvËSÿêS‰Ù–¹eßu»lwÍN6q(WN0FOo˜ÿ`OÅPýwÁd	gNPvQÖNèÏekO©`O„vÓuÜbDQV&&;;;;;;;;;;;;x
 FORM_BLOOD_OATH_INTERACTION_LONG_DESC;Oˆ“ŠïSåN“‹æSNèÏeb©`OXšR„vßvËSÿêS‰Ù–¹eßu»lwÍN6q(WN0FOo˜ÿ`OÅPýwÁd	gNPvQÖNèÏekO©`O„vÓuÜbDQV&&;;;;;;;;;;;;x
 adopt_faith_desc;`OïSåN9eÛc[Root.Clan.GetName]èÏe„váOðN0[Root.Religion.GetName]—RYeºx	gvQ*QÞž&&;;;;;;;;;;;;x
-GOV_PRESTIGE_LAW_CHANGE_DESC;Õl‹Vo˜N±‚»ŒZg9eŠ‹„vÿw^—N•bhy;;;;;;;;;;;;x
+GOV_PRESTIGE_LAW_CHANGE_DESC;Õl‹Vo˜N±‚»ŒZg9eŠ‹„vÿw^—N•bhy;;;;;;;;;;;;x
 LAW_NORMAL_CHANGE_PIETY_COST;(W$GOV$?eÔšNÿ—‰±‚»Œ$PIETY$$PIETYNAME$†O9eŠ‹˜0WÕl;;;;;;;;;;;;x
 LAW_DE_JURE_CHANGE_PIETY_COST;(W$GOV$?eÔšNÿ—‰±‚»Œ$PIETY$$PIETYNAME$†O9eŠ‹‹s
 kÕl;;;;;;;;;;;;x
@@ -81,7 +81,7 @@ HOLYSITE_UNBUILT;§Y$SITENAME$§!„v2W0WISNP^y¿k0W¶N;;;;;;;;;;;;x
 CALL_ALLY_BLOOD_BROTHERS;\n§YàV©`Oo˜ÓuÜbDQVÿÖNP!qÕlÒbÝu0§!;;;;;;;;;;;;x
 INTERACTION_CALL_TO_WAR_HAS_VALID_TARGET;ÅV0˜	gNIWïSåNìS3U§Y[Recipient.GetTitledFirstName]§!†OÃS R„v0b-r;;;;;;;;;;;;x
 SUZERAIN_RELATIONSHIP;§Y$SUZERAIN$§!o˜§Y$TRIBUTARY$§!„v—RJN0;;;;;;;;;;;;x
-MERC_RIVAL_REASON;\n§Y[GetBestName]§!êS‰ŒT`Oo˜ÇNueÜ•ÂO1Sqggÿf`OHeŒT0;;;;;;;;;;;;x
+MERC_RIVAL_REASON;\n§Y[GetBestName]§!êS‰ŒT`Oo˜ÇNueÜ•û|1Sqggÿf`OHeŒT0;;;;;;;;;;;;x
 MERC_FRIEND_REASON;\n§Y[GetBestName]§!(W`OŒT[GetPossPronoun]gËSÿ$CHAR$§!V0b„vBfPo˜qggÿf`OHeŒT„v0;;;;;;;;;;;;x
 NOMAD_UNUSED_MANPOWER_MODIFIER;*g(uºN›R;;;;;;;;;;;;x
 CURRENT_POPULATION;SVMRºNãS;;;;;;;;;;;;x
