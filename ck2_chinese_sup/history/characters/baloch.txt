@@ -1,0 +1,211 @@
+6899 = {
+  name = "ÙTkç…b∆Y"  # Bahram
+  dynasty = 858
+  religion = sunni
+  culture = baloch
+  835.1.1 = {
+    birth = yes
+  }
+  890.1.1 = {
+    death = yes
+  }
+}
+6910 = {
+  name = "’lWKQ"  # Ferux
+  dynasty = 859
+  religion = sunni
+  culture = baloch
+  830.1.1 = {
+    birth = yes
+  }
+  880.1.1 = {
+    death = yes
+  }
+}
+178018 = {
+  name = "Nb»TKQ"  # Zahak
+  dynasty = 1041118
+  religion = "sunni"
+  culture = "baloch"
+  842.1.1 = {
+    birth = "842.1.1"
+  }
+  888.1.1 = {
+    death = "884.1.1"
+  }
+}
+188544 = {
+  name = "õs?ñ9N"  # Ma'dan
+  dynasty = 1042102
+  religion = "sunni"
+  culture = "baloch"
+  980.1.1 = {
+    birth = yes
+  }
+  1025.1.1 = {
+    death = yes
+  }
+}
+188545 = {
+  name = "ÂNíd"  # Isa
+  dynasty = 1042102
+  religion = "sunni"
+  culture = "baloch"
+  father = 188544
+  1000.1.1 = {
+    birth = yes
+  }
+  1031.1.1 = {
+    death = yes
+  }
+}
+188546 = {
+  name = "ØOjç‡V"  # Husayn
+  dynasty = 1042102
+  religion = "sunni"
+  culture = "baloch"
+  father = 188544
+  1005.1.1 = {
+    birth = yes
+  }
+  1068.1.1 = {
+    death = yes
+  }
+}
+188547 = {
+  name = "9ç…byQ"  # Feraz
+  dynasty = 1042102
+  religion = "sunni"
+  culture = "baloch"
+  father = 188546
+  1034.1.1 = {
+    birth = yes
+  }
+  1090.1.1 = {
+    death = yes
+  }
+}
+188548 = {
+  name = "≥uÙu∑V"  # Naveed
+  dynasty = 1042102
+  religion = "sunni"
+  culture = "baloch"
+  father = 188547
+  1060.1.1 = {
+    birth = yes
+  }
+  1105.1.1 = {
+    death = yes
+  }
+}
+188549 = {
+  name = "√WkçÖh∑V"  # Ehmed
+  dynasty = 1042102
+  religion = "sunni"
+  culture = "baloch"
+  father = 188548
+  1082.1.1 = {
+    birth = yes
+  }
+  1130.1.1 = {
+    death = yes
+  }
+}
+188550 = {
+  name = "s|Øeyr’l"  # Mistefa
+  dynasty = 1042102
+  religion = "sunni"
+  culture = "baloch"
+  father = 188549
+  1109.1.1 = {
+    birth = yes
+  }
+  1150.1.1 = {
+    death = yes
+  }
+}
+188661 = {
+  name = "ÃVæèæè∑V"  # Xwedadad
+  dynasty = 1042134
+  religion = "zoroastrian"
+  culture = "baloch"
+  725.1.1 = {
+    birth = yes
+  }
+  790.1.1 = {
+    death = yes
+  }
+}
+188662 = {
+  name = "ÔQì^(ÑåT"  # Keyxusrew
+  dynasty = 1042135
+  religion = "zoroastrian"
+  culture = "baloch"
+  738.1.1 = {
+    birth = yes
+  }
+  795.1.1 = {
+    death = yes
+  }
+}
+188663 = {
+  name = "9çNb∑V"  # Ferzad
+  dynasty = 1042136
+  religion = "zoroastrian"
+  culture = "baloch"
+  744.1.1 = {
+    birth = yes
+  }
+  803.1.1 = {
+    death = yes
+  }
+}
+188679 = {
+  name = "TXkçõsØenf"  # Tahmasp
+  dynasty = 1042146
+  religion = "zoroastrian"
+  culture = "baloch"
+  740.1.1 = {
+    birth = yes
+  }
+  795.1.1 = {
+    death = yes
+  }
+}
+261110 = {
+  name = "»TöNyr"  # Hayaat
+  dynasty = 1062543
+  religion = sunni
+  culture = baloch
+  891.1.1 = {
+    birth = yes
+  }
+  942.1.1 = {
+    death = yes
+  }
+}
+261113 = {
+  name = "ÖhpQ"  # Meraan
+  dynasty = 1062545
+  religion = kharijite
+  culture = baloch
+  905.1.1 = {
+    birth = yes
+  }
+  941.1.1 = {
+    death = yes
+  }
+}
+261114 = {
+  name = "O(Ñ"  # Isa
+  dynasty = 1062545
+  religion = kharijite
+  culture = baloch
+  father = 261113
+  926.1.1 = {
+    birth = yes
+  }
+  979.1.1 = {
+    death = yes
+  }
+}

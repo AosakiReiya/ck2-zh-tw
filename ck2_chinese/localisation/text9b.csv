@@ -1,0 +1,22 @@
+### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC61152;PãS¾|^y1Y8^Šb`OsQ¼bweg„vMRDd?ew(W«R÷^-NòTNQwQ	gqVÍT›R0°eDd?ewÊ‘>e†N`O0;;;;;;;;;;;;x
+EVTOPTA61152;*YZf†N0;;;;;;;;;;;;x
+EVTOPTB61152;SÃVÿhQNLuÿbeg†Nÿ;;;;;;;;;;;;x
+EVTDESC61219;`ObŸR+c%†NùRKbIYÖSDd?e0WMO„vOşVÿïSåNçuíuOIY[Root.Liege.GetTitledFirstName]†N0;;;;;;;;;;;;x
+EVTDESC61245;[From.GetTitledFirstName]Òbİu¥c×S`O„vcbÿ[From.GetSheHe]w>f*N¡lÍy„væa+Yÿ;;;;;;;;;;;;x
+EVTOPTA61245;æa+YÿÆwS<›ÿ;;;;;;;;;;;;x
+EVTDESC61246;<wÁ‰1àegÿ[From.GetTitledFirstName]³QšRSDd?e„vMOn©‹Ùu`O0;;;;;;;;;;;;x
+EVTOPTA61246;ÙˆV¹Rf0;;;;;;;;;;;;x
+EVTDESC61226;ùRKb„vœœOˆ(W0Wb—AmÌmÿ`ORP`—(WQRN˜Ul.Ù>fIWíw‚fwÀoÈp„vb—eÿNÇ²*NïS`„v1ˆ'°s(WckMSOŞœ3O0W´(W`O„v¹ÿïS`0W2cNbOw0Üw)R^SN`Oÿ;;;;;;;;;;;;x
+EVTDESC61225;ùRKb„vœœOˆ(W0Wb—AmÌmÿ`ORP`—(WQRN˜Ul0Ù>fIWíw‚fwÀoÈp„vb—eÿNÇ²*NïS`„v1ˆ'gÈuØ>f(W`O„v¹Šk»S†N0;;;;;;;;;;;;x
+EVTDESC61212;[Root.Regent.GetFirstName](u[Root.Regent.GetHerHis]S–™àràr0WIRÇegÿCS¶”NÑSKNE–ÿ`Oi–›N¡l	g²V0kSuQÅ²QÛegÿ6Rg†N`O„vDd?ew0[Root.Regent.GetSheHe]SğXëSOwÿ0`O`HNØNŠkÿÿ0;;;;;;;;;;;;x
+EVTTOOLTIP61213;«ˆsQeQ0Wbr0;;;;;;;;;;;;x
+YEARLY_INCOME_LESS_THAN;t^6eeQSN;;;;;;;;;;;;x
+YEARLY_INCOME_GREATER_THAN;t^6eeQYN;;;;;;;;;;;;x
+DE_JURE_LIEGE_CHANGED_NONE_SETUP;R0W4YTˆ„vÕlt†˜JN9eØS†N;;;;;;;;;;;;x
+DE_JURE_LIEGE_CHANGED_NONE_LOG;ÏuÇ§Y$NEW_LIEGE$§!•¾§Y$YEARS$§!t^„vßu»lÿ§Y$TITLE$§!°s(WòTbINvQÕlt†˜W0;;;;;;;;;;;;x
+TITLE_CANNOT_USURP_REL_HEADS;NıwárIY—RYe†˜–ˆ„v4YTˆ;;;;;;;;;;;;x
+INTERACTION_REQUIRES_NOT_IN_REVOLT;§Y[Actor.GetTitledFirstName]§!N(WÛSqN;;;;;;;;;;;;x
+INTERACTION_REQUIRES_TP_IS_NOT_LIEGE;§Y[Actor.GetTitledFirstName]§!N>f§Y[ThirdPartyCharacter.GetTitledFirstName]§!„vSã;;;;;;;;;;;;x
+BROKEN_SAVEGAME;§RXRchncOW§!;;;;;;;;;;;;x

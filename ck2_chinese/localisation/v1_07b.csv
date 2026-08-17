@@ -1,0 +1,97 @@
+### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+FACTION_LEADER;>mû|†˜üRºN;;;;;;;;;;;;x
+FACTION_MEMBER;>mû|bXT;;;;;;;;;;;;x
+opinion_defeated_major_revolt;‰|xÍ‘‰ÍSÛS;;;;;;;;;;;;x
+opinion_spared_after_revolt;ÌRU`ÛSqN;;;;;;;;;;;;x
+opinion_divine_blood_marriage;2WZZ;;;;;;;;;;;;x
+opinion_non_divine_marriage;µNnZZûY;;;;;;;;;;;;x
+action_uncover_plots;ÆRŒ;;;;;;;;;;;;x
+miaphysite;úWcwT'`>m;;;;;;;;;;;;x
+monothelite;úWcwN×V>m;;;;;;;;;;;;x
+d_miaphysite;úWcwT'`>mYe¶^;;;;;;;;;;;;x
+d_miaphysite_adj;ÑynfyrYe—R;;;;;;;;;;;;x
+COPTIC_POPE;ÑynfyrYe—R;;;;;;;;;;;;x
+INTERACTION_CANNOT_REVOKE_LAST_TEMPLE_OFF_REL_HEAD;NıwÎN`O„v—RYe†˜–ˆeRIY>UNN*N^y¿k0W¶N0;;;;;;;;;;;;x
+d_monophysite;úWcwN'`>mYe¶^;;;;;;;;;;;;x
+d_monophysite_adj;úWcwN'`>mYe¶^;;;;;;;;;;;;x
+MONOPHYSITE_POPE;úWcwN'`>mYe—R;;;;;;;;;;;;x
+d_nestorian;N¹egr–™Ye¶^;;;;;;;;;;;;x
+d_nestorian_adj;N¹egr–™Ye¶^;;;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST;N¹egr–™;;;;;;;;;;;;x
+d_monothelite;úWcwN×V>mgr–™Ye¶^;;;;;;;;;;;;x
+d_monothelite_adj;úWcwN×V>mgr–™Ye¶^;;;;;;;;;;;;x
+MONOTHELITE_PATRIARCH;úWcwN×V>mgr–™;;;;;;;;;;;;x
+INTERACTION_TITLE_NOT_CONTESTED;å‹4YTˆN>fûNUOÛLˆ-Nb‰N„vîvh;;;;;;;;;;;;x
+AND_TRIGGER_STARTS;ÅVŠ˜án³åNNOb	gagöN;;;;;;;;;;;;x
+WAR_INVALID_LOG;$WAR$àeÓuœg0WÈubk†N$REASON$;;;;;;;;;;;;x
+WAR_INVALID_CHARACTER_UNLANDED;\nÿ$CHARACTER$ØSIN¡l	g†˜0W	ÿ;;;;;;;;;;;;x
+WAR_INVALID_LIEGE_HIERARCHY;\nÿ$CHARACTER$„vTãsQû|ØSS	ÿ;;;;;;;;;;;;x
+REL_PENTARCHS_NON_ORTHODOX_DESC;”N'Ygr–™şf>fúWcwYeO„vgR”NTgr–™0ÖNìN(WTêäSwYeIS…Q«INêJNgr–™„vCgZÍN(W$RELIGION$YeO…Qè×S0R³‹ïS0;;;;;;;;;;;;x
+PENTARCH_DESC;îvMR¡l	g$RELIGION$„v§Y$TITLE$§!JNYe;;;;;;;;;;;;x
+HEAD_NOT_PENTARCH_DESC;$REL_HEAD$îvMR¡l	g§Y$TITLE$§!4YTˆ;;;;;;;;;;;;x
+LEAVE_FACTION_DIPLO_IMMUNE;êS‰gTRròTÏuÑSúQ1SNıw»yVÿ;;;;;;;;;;;;x
+IS_DIPLO_IMMUNE;N×SLeùR†˜JN„vLˆ¨R„vqVÍT;;;;;;;;;;;;x
+IS_NOT_DIPLO_IMMUNE;×S0RLeùR†˜JN„vLˆ¨R„vqVÍT;;;;;;;;;;;;x
+INTERACTION_NO_HOSTILE_ACTIONS_VS_DIPLO_IMMUNE;§Y[Recipient.GetTitledFirstName]§!îvMRN×SLeùR†˜JN„vLˆ¨R„vqVÍT;;;;;;;;;;;;x
+NO_FACTIONS_POSSIBLE_NOW;§R(WÙµköeô•¡l	gûNUOko(W>mû|0§!;;;;;;;;;;;;x
+INTERACTION_CANNOT_JOIN_ENEMIES;Nıw ReQbìNSVMRLeºN„vb‰N;;;;;;;;;;;;x
+AIREASON_IS_MY_REGENT;§Y[GetTitledFirstName]§!>fb„vDd?e;;;;;;;;;;;;x
+EVTDESC45000;bìNckIN„v‹NNòTÏu—V0RT0W^Ûl„v>ecÿ[From.GetTitledFirstName]‰SVÃV†N&&;;;;;;;;;;;;x
+EVTDESC45001;'Y¡wÛS›QŒT•bIgw•b`—(W[From.Capital.GetName]„vNàV„vÛS’V[From.GetTitledFirstName]†Nÿ;;;;;;;;;;;;x
+EVTOPTA45001;ŠbÖNìNhQèÿb»S‚UÃykÿ;;;;;;;;;;;;x
+EVTDESC45002;cíuÛLˆ„v…QbO—VwuQŒTTÍyIgOJNINwN­eT[Root.Capital.GetName]ZwÆ–ÿ;;;;;;;;;;;;x
+EVTDESC45003;1u•bIgwŒTàVÚ‹wuQÄub„vLNTKNO(W[From.Capital.GetName]„v[From.GetTitledName]„v†˜üRNNbìNkObÿ;;;;;;;;;;;;x
+EVTOPTA45003;¥cNegbTÿsYºNŒTiRPRÿ;;;;;;;;;;;;x
+EVTDESC8037;O'Y„v[Root.GetTitledFirstName]ÿbŒTN³IV›R„vàVãòTÏuTíPMOw[From.Liege.GetTitledName]ÑSúQ†NgTRrÿ÷‹Bl`Oßu»l[From.SupportedClaimantTitle.GetName]0lybìNŒYĞÿ\n\ndkôÿ\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA8037;ÙïSıwOˆV¾–w&&;;;;;;;;;;;;x
+EVTDESC20369;b„v†˜JNÿ[FromFrom.GetTitledName]³QšRN’Qi–Ào|`ÖN„vSãìNwb³‹P%„vc¶c0ÙïSıw—‰±‚9N¹pöeô•eg©‹[FromFrom.GetHerHis]Zg—VåNb`Yÿv^Nb&^ŞV†Nb6e4„vZ>k0\n\n`O&ŒQS„vô•ŒJ`¡rÿ\n[From.GetTitledName];;;;;;;;;;;;x
+EVTTOOLTIP2484;Ù*NiRPR—‰N*NÑv³bw0;;;;;;;;;;;;x
+EVTOPTD4140;bìNnx>f‰RÉbObŒcác„vÿbìNSÅVRVNÖN;;;;;;;;;;;;x
+blinded_death;1YfVw„vv^ÑSÇu;;;;;;;;;;;;x
+successful_sally;2–¡Vè–—V0R§G10.0%§!ëXl0\n2–¡Vè–×S0R§R2.5%§!nc1Y0\n§GLeºNÿ§!ÛJeè–×S0R§R5.0%§!nc1Y0;;;;;;;;;;;;x
+successful_sally_attacker;ÛJeè–×S0R§R5.0%§!nc1Y0\n§GLeºNÿ§!2–¡Vè–—V0R§G10.0%§!ëXl0\n2–¡Vè–×S0R§R2.5%§!nc1Y0;;;;;;;;;;;;x
+failed_sally;2–¡Vè–—V0R§R-10.0%§!ëXl0\n2–¡Vè–×S0R§R5.0%§!nc1Y0\n§GLeºNÿ§!ÛJeè–×S0R§R2.5%§!nc1Y0;;;;;;;;;;;;x
+siege_treachery;2–¡Vè–—V0R§R-10.0%§!ëXl0;;;;;;;;;;;;x
+siege_disease;§GLeºNÿ§!ÛJeè–×S0R§R5.0%§!nc1Y0;;;;;;;;;;;;x
+siege_raiders;§GLeºNÿ§!ÛJeè–×S0R§R1.0%§!nc1Y0;;;;;;;;;;;;x
+siege_execute;§GLeºNÿ§!2–¡Vè–—V0R§G10.0%§!ëXl0;;;;;;;;;;;;x
+siege_hunger;§GLeºNÿ§!ÛJeè–×S0R§R5.0%§!nc1Y0;;;;;;;;;;;;x
+siege_trader;§GLeºNÿ§!2–¡Vè–—V0R§G10.0%§!ëXl0;;;;;;;;;;;;x
+siege_miracle;ÛJeè–×S0R§R90.0%§!nc1Y0\nÛJeè–—V0R§R-90.0%§!ëXl0\n§GLeºNÿ§!2–¡Vè–—V0R§G100.0%§!ëXl0;;;;;;;;;;;;x
+siege_personal_charge;2–¡Vè–—V0R§R-10.0%§!ëXl0;;;;;;;;;;;;x
+siege_assault;2–¡Vè–—V0R§R-20.0%§!ëXl0\n2–¡Vè–6e0R§R20.0%§!nc1Y0\n§GLeºNÿ§!ÛJeè–×S0R§R10.0%§!nc1Y0;;;;;;;;;;;;x
+siege_hide;2–¡Vè–—V0R§R-5.0%§!ëXl0\n2–¡Vè–×S0R§R5.0%§!nc1Y0\n§GLeºNÿ§!ÛJeè–×S0R§R15.0%§!nc1Y0;;;;;;;;;;;;x
+INTERACTION_REQUIRES_BOTH_OF_AGE;§Y$ACTOR_PERSON$§!ŒT§Y$RECIPIENT_PERSON$§!ı	góS§Y$YEARS$§!S;;;;;;;;;;;;x
+EVTOPTA62039;ZP—VŒYÿqS<ÿ;;;;;;;;;;;;x
+EVTNAME62011;GYùÿ;;;;;;;;;;;;x
+EVTNAME62041;p¾–ÿ;;;;;;;;;;;;x
+EVTOPTA62034;ÖNìNOINdkØNúQãN÷N„vÿ;;;;;;;;;;;;x
+EVTOPTA62041;Ù>f`HNÑSu„vÿ;;;;;;;;;;;;x
+EVTNAME62044;LeºNJeûQ;;;;;;;;;;;;x
+EVTDESC62044;ôVJebìN‰^X„vúWcwYec%c˜R²Nê&^–²QT†NbìN„vÎW™XÿÖN¯uÂr0W²Q•©‹bìNÇRbe„vkSëXT†NN'YÊ`ÿ;;;;;;;;;;;;x
+EVTOPTA62044;¯uPRÿ;;;;;;;;;;;;x
+EVTDESC62045;LeºNùRbìN„v‰^XÑS¨R†N'YÄ‰!j²Q•ÿbìN„v›Q–ùRdkëkàeÆQYÿ;;;;;;;;;;;;x
+EVTOPTA62045;ÆQY2–¡Vÿ;;;;;;;;;;;;x
+CB_NAME_IMPERIAL;[Title.GetBaseName]„v^ıVQVg;;;;;;;;;;;;x
+WAR_NAME_IMPERIAL;$ORDER$ $FIRST_ADJ$QVg$OTHER_TITLE$;;;;;;;;;;;;x
+imperial_reconquest_desc;ÅVŠ˜IYŞVWlš^ıV1N1Y„v†˜Wÿ§Y$CLAIMANT$§!ïSåN(uÙ*N²Rbt1uIYŞVOb	g§Y$TITLE$§!ÕltƒôV…Q„v«ˆ§Y$TARGET$§!c	g„v4YTˆ0;;;;;;;;;;;;x
+COUNTS_AS_PURPLE_BORN;uN+t³R;;;;;;;;;;;;x
+AIREASON_IS_MY_PARENT;>fb„v6rÍk;;;;;;;;;;;;x
+FLANK_DOES_NOT_HAVE_LEADER;dkï›Q–¡l	gc%cw;;;;;;;;;;;;x
+FLANK_HAS_LEADER;dkï›Q–	gc%cw;;;;;;;;;;;;x
+CANNOT_BUY_RET_OCCUPIED;\n`OàeÕlÄuú^ÑkS›Qÿ`O¡l	g¶c6RûNUON*N`O†˜0W…Q„v0W¶N0;;;;;;;;;;;;x
+duke_russian;'YlQ;;;;;;;;;;;;x
+duke_female_russian;sY'YlQ;;;;;;;;;;;;x
+duchy_of_russian;'YlQıV;;;;;;;;;;;;x
+king_iranian;™l?–;;;;;;;;;;;;x
+kingdom_of_iranian;™l?–ıV;;;;;;;;;;;;x
+emperor_female_greek;ôT^XLNƒ;;;;;;;;;;;;x
+EVTTOOLTIP94066;`OªR›RîO.`O„v±‚íV0;;;;;;;;;;;;x
+MediterraneanPortraitsDLC;0W-NwmºNir–wÏP;;;;;;;;;;;;x
+SongsOfByzantiumDLC;Üb`S­^KN‚˜;;;;;;;;;;;;x
+ByzantineUnitsDLC;Üb`S­^USMOeˆNS;;;;;;;;;;;;x
+CK2CoA2DLC;¶RÏeşvÌVS II;;;;;;;;;;;;x
+ALL_DIRECT_DE_JURE_VASSAL_TITLES;Ob	gôv^SÕltSã4YTˆ;;;;;;;;;;;;x
+WAR_INVALID_CB_TRIGGER;\nÿ²Rbt1uNQ	gHe	ÿ;;;;;;;;;;;;x
+AfricanPortraitsDLC;^—2m–wÏPS;;;;;;;;;;;;x

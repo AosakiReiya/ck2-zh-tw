@@ -1,0 +1,16 @@
+title = c_osterbotten
+max_settlements = 3
+b_vaasa = tribal
+culture = finnish
+religion = finnish_pagan
+terrain = forest
+1158.1.1 = {
+  name = "NZSÕn"  # Österbotten
+}
+1250.1.1 = {
+  religion = catholic
+  b_vaasa = castle
+}
+1337.1.1 = {
+  b_kristinestad = city
+}

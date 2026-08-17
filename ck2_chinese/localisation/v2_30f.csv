@@ -1,0 +1,49 @@
+### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+RCLK_TO_SELECT;§G¹pûQ/ŸhóS.•ÛLˆ	éb§!;;;;;;;;;;;;x
+vassal_sacrifice_decision;zrrr;;;;;;;;;;;;x
+vassal_sacrifice_decision_named;.smy[Root.GetFirstName];;;;;;;;;;;;x
+break_up_with_lover_named;N[Root.GetFirstName]RKb;;;;;;;;;;;;x
+seduce_decision_named;şRV[Root.GetFirstName];;;;;;;;;;;;x
+decision_spy_on_named;ÑvÆ‰[Root.GetFirstName];;;;;;;;;;;;x
+decision_break_free_named;ÎNÑvñrÌ‘ã‰Qe[Root.GetFirstName];;;;;;;;;;;;x
+invite_to_party_named;÷‹[Root.GetFirstName]t´R;;;;;;;;;;;;x
+duel_decision_named;N[Root.GetFirstName]³Q—e;;;;;;;;;;;;x
+legitimize_bastard;ÁyuPRTÕlS;;;;;;;;;;;;x
+legitimize_bastard_named;O[Root.GetTitledFirstName]bINTÕlPRsY;;;;;;;;;;;;x
+convince_to_straighten_up_named;Rô‹[Root.GetTitledFirstName]>ckOweg;;;;;;;;;;;;x
+send_child_into_hiding;–Ï…weg;;;;;;;;;;;;x
+send_child_into_hiding_named;S[Root.GetFirstName]–Ï…weg;;;;;;;;;;;;x
+take_child_out_of_hiding;Í‘Á‰)Yåe;;;;;;;;;;;;x
+take_child_out_of_hiding_named;O[Root.GetFirstName]Í‘Á‰)Yåe;;;;;;;;;;;;x
+send_spouse_into_hiding;–Ï…weg;;;;;;;;;;;;x
+send_spouse_into_hiding_named;S[Root.GetFirstName]–Ï…weg;;;;;;;;;;;;x
+take_spouse_out_of_hiding;Í‘Á‰)Yåe;;;;;;;;;;;;x
+take_spouse_out_of_hiding_named;O[Root.GetFirstName]Í‘Á‰)Yåe;;;;;;;;;;;;x
+EVENT_SPAWNED;‹NöNub;;;;;;;;;;;;x
+known_sodomite_pagan;Ôg1V„v7uÅ`ºN;;;;;;;;;;;;x
+comfort_of_lover;Å`ºN„v‰Rpa;;;;;;;;;;;;x
+desc_comfort_of_lover;[GetFirstName](WÅ`ºN„v`-N—V0R‰RpaÿOvQ‚föeFd1†N[GetPossPronoun]EQán‰N5T„vZZûY„vğVpb0;;;;;;;;;;;;x
+thrill_of_lover;y­eKN1r„vÀoÅ`;;;;;;;;;;;;x
+opinion_dishonorable_duel;ëkàecƒ‰ŠïSŠ„v³Q—e;;;;;;;;;;;;x
+desc_thrill_of_lover;[GetFirstName]ÇNÅ`ºN[GetPossPronoun]ZPN›NÀoÅ`KN‹NegÎN‰N5TN­e„vZZûY-N·ƒ—V‚föe„vã‰10;;;;;;;;;;;;x
+CIW_GOTOLOCATION_DEL;ÉbÑ>fIyÒ‰r‚(W0WşVN„vMOn0;;;;;;;;;;;;x
+CIW_GOTOCHARREL_DEL;ågwvQÖNÒ‰r‚ùR,gÒ‰r‚„vŒYa0;;;;;;;;;;;;x
+CAN_CALL_VASSALS_TO_WAR;bìNOb	g„vSã;;;;;;;;;;;;x
+IS_NOT_A_FOE_OF;N>fvQÇNLeÿ;;;;;;;;;;;;x
+IS_A_FOE_OF;>fvQÇNLeÿ;;;;;;;;;;;;x
+nick_the_scholar;fRw;;;;;;;;;;;;x
+nick_the_strange;*`Vw;;;;;;;;;;;;x
+nick_the_black;Ñ—fKNºN;;;;;;;;;;;;x
+WayOfLifeDLC;uJmKNS;;;;;;;;;;;;x
+IberianUnitPackDLC;OÔk)RšNUSMOS;;;;;;;;;;;;x
+IberianPortraitsDLC;OÔk)RšN–wÏPS;;;;;;;;;;;;x
+tut_0a_7b;ĞcIyÿ`OïSåNóS.•¹pûQÒ‰r‚4YÏPegSbVå‹Ò‰r‚„vY³NÜƒUS0;;;;;;;;;;;;x
+tut_4a_4;kOINVËYÿóS.•¹pûQ`O„vT6rVÍkDQVÿ?–ntS>O5rlšFzS0`OOÑS°sÖNúQ°s(W¶RÏeLub—„v•^ïzæT¶OÿMONø‹Tˆ²N^SKN–™0(`O(WÙÌ‘w0R„v4YÏPêS>fN*N‹OPRÿv^N>fãNhˆRE–N„v>O5r0);;;;;;;;;;;;x
+tut_4a_5;(WæT¶OÿbìNïSåNw0RïSgbLˆY³NLˆ¨R„vÜƒUS0(WóS¶O`OSïSåNîOckY³N	ébÿv^NïSåNw0R`O„vY³N	ébO/b`7h„vÓuœg0¹pûQNNekåNçuíu0;;;;;;;;;;;;x
+tut_6a_12;°s(W>fwck²Rb„vöeJR†N0²HN(WdkQ!k¹pûQWS›S0óS.•¹pûQ4YÏPåNSbVY³NÜƒUS0;;;;;;;;;;;;x
+tut_4c_9;ñm`ŸqQ†åNÇ‘ÖSgŒY„v‰bébÿN‰ØV°‹ZZûYùRaŒOb^S„v¶RÏeÊSvQ4YTˆùR`OZg<P—V1Y„vqVÍT0SV`OZPŒY³QšRTÿóS.•¹pûQyY„v4YÏPåNçuíu0;;;;;;;;;;;;x
+ca_culture_moors_2;idS‘šuQ%„;;;;;;;;;;;;x
+ca_culture_moors_3;idS‘šuQ%„;;;;;;;;;;;;x
+ca_culture_moors_4;idS‘šuQ%„;;;;;;;;;;;;x
+TRIBAL_TAX_MODIFIER;èL„z;;;;;;;;;;;;x

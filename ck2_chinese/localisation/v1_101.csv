@@ -1,0 +1,49 @@
+### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+NAME_W_NICK;$TITLE$ $NAME$0$NICK$0;;;;;;;;;;;;x
+VASSAL_RETRACTION_LOG;$TOP_LIEGE$òT6eŞV†N$OLD_LIEGE$„vSã$VASSAL$;;;;;;;;;;;;x
+opinion_retracted_my_vassal;6eŞVb„vSã;;;;;;;;;;;;x
+opinion_retracted_my_de_jure_vassal;6eŞVb„vÕltSã;;;;;;;;;;;;x
+opinion_retracted_a_vassal;6eŞVNTSã;;;;;;;;;;;;x
+opinion_retracted_a_de_jure_vassal;6eŞVNTÕltSã;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_TITLE;6eŞVSã;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_DESC;ÎN§Y[Recipient.GetBestName]§!²Ì‘6eŞVNTSã0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_LONG_DESC;`OïSåN6eŞV`ON*Nôv^SSã„vSã0ÖNìNOùRdka0RN¦`ÿyr+R>fSV«ˆ6eŞV„vSã>fÖNìN„vÕltSã„vöeP0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_0;	éb‰ÎN§Y[Recipient.GetTitledFirstName]§!²Ì‘6eŞV„vSã0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_1;©‹§Y[ThirdPartyCharacter.GetBestName]§!bIN`O„vôv^SSã0§Y[Recipient.GetTitledFirstName]§!ùR`O„vŒYaOM–NO§R$OPINION$§!0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2;YN	g§Y$CROWN_TITLE$§!„v‹sCgCgZÿbìN„vSãàeÕlÒbİu0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2B;àVIN§Y[Recipient.GetTitledFirstName]§!>f*NÛS’VÿObåNbìN„vSãNOÍSùR0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2C;àVIN§Y[Recipient.GetTitledFirstName]§!>f*NVYe’VÿêS	gáOğN§Y[Recipient.Religion.GetName]§!„vSãOÍSùRÿ§R$OPINION$§!	ÿ0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2D;ÙHNZPOİÌwSú^QY¦uÿv^OO`OvQÖN„vSã1Ygÿ§R$OPINION$§!	ÿ0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2N;Ù>fùRSú^Õl„vİÌwÿSOO`O„v^—8ngrSãa0RN¦`ÿ§R$OPINION$§!	ÿ0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2E;bìN„v^ıVLˆ?eSO6RïS©‹bìN6eŞVSãwNVw5Ïe„vÍSùR0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_ACCEPT_SETUP;SãòT6eŞV;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§WòTS§Y[ThirdPartyCharacter.GetBestName]§W„vSã0WMOÎN§Y[Recipient.GetBestName]§WYlûyp0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_LETTER;bìNòTÏu³QšR6eŞV[ThirdPartyCharacter.GetBestName]„v4YTˆ0Òbİu¥c×SSVÑSb‰N0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_DECLINE_SETUP;6eŞVSãmÒb;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§!Òbİu	c§Y[Actor.GetBestName]§!„v‰Bl6eŞVSã§Y[ThirdPartyCharacter.GetBestName]§!0;;;;;;;;;;;;x
+EVTDESC274;b„v†˜JNÿb¥c×S¨`6eŞVb„vSã[Root.GetBestName]„v³QšRÿLS¡rÙO©‹b²`ÛuNR0;;;;;;;;;;;;x
+EVTDESC275;`OùRNSú^QY¦u„vÌwVNïS¥c×SÿbNÜ`NbnN‰MckSb„vSãÿ;;;;;;;;;;;;x
+CANNOT_DESTROY_GAVELKIND_TITLE;Nıw(WGWRçubÕlN•Ák4YTˆ;;;;;;;;;;;;x
+INTERACTION_REQUIRES_PIETY;§Y[Actor.GetTitledFirstName]§!ïSåNÅb§Y$COST$§![Player.Religion.GetPietyName];;;;;;;;;;;;x
+INTERACTION_REQUIRES_MONEY;§Y[Actor.GetTitledFirstName]§!ïSåN>eØN §Y$COST$§W¤;;;;;;;;;;;;x
+INTERACTION_REQUIRES_PRESTIGE;§Y[Actor.GetTitledFirstName]§!ïSåNb×S§Y$COST$§!¹pZg„vnc1Y;;;;;;;;;;;;x
+CelticUnitPackDLC;ïQSyrUSMOS;;;;;;;;;;;;x
+CelticPortraitsDLC;ïQSyr–wÏP;;;;;;;;;;;;x
+broken_spirit;a×Vˆm‰l;;;;;;;;;;;;x
+opinion_subjugated_other_rel;VgvQÖN—RYe;;;;;;;;;;;;x
+d_meath_adj_irish;TXpQ;;;;;;;;;;;;x
+d_ghanan_band; R³u'Y–;;;;;;;;;;;;x
+d_ghanan_band_adj; R³u'Y–;;;;;;;;;;;;x
+AIREASON_CONSORT_CLAIMANT;>f²Rğyw;;;;;;;;;;;;x
+hellenic_pagan;^JY^yYe;;;;;;;;;;;;x
+hellenic_pagan_DESC;^JY^yYeáOIY1g‡^yr0lšS¯e0¨XN)R0ôu³u¯e0ÆR…mætŒTôu¯eTXIrASŒNJN^y0ƒRÑSnNäS^Jÿv^4O–šN†SqS'Y'Y^ŒTWlš^ıV„vVgbIN†N0W-NwmNLu„vJN‰—RYeÿôv0RúWcwYeTw0;;;;;;;;;;;;x
+GOD_JUPITER;1g‡^yr;;;;;;;;;;;;x
+GOD_MERCURY;¨XN)R;;;;;;;;;;;;x
+GOD_MARS;lšS¯e;;;;;;;;;;;;x
+GOD_VENUS;ôu³u¯e;;;;;;;;;;;;x
+GOD_MINERVA;ÆR…mæt;;;;;;;;;;;;x
+GOD_VESTA;ôu¯eTX;;;;;;;;;;;;x
+pagan_DESC;	gòSåNegÿ'k2mŒT-NNıŞ‹u†NàepeN^SNšN>OÉbU—RYe„vVYeáOğN0;;;;;;;;;;;;x
+d_aztec_reformed;?–yQyrKQYeâV;;;;;;;;;;;;x
+job_spiritual_pagan;myøS;;;;;;;;;;;;x

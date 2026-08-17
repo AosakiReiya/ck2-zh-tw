@@ -1,0 +1,39 @@
+### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+enatic;sY'`;;;;;;;;;;;;x
+enatic_desc;êS	gsY'`ýwçub4YTˆ0;;;;;;;;;;;;x
+enatic_cognatic;sY'`OHQ;;;;;;;;;;;;x
+enatic_cognatic_desc;7u'`ÅN(W¡l	gTÕlsY'`ïSåNçub„vÅ`µQNMbO—V0RçubCg0;;;;;;;;;;;;x
+enatic_succession;sY'`;;;;;;;;;;;;x
+enatic_succession_desc;êS	gsY'`ïSåNçub4YTˆ0;;;;;;;;;;;;x
+enatic_cognatic_succession;sY'`OHQ;;;;;;;;;;;;x
+enatic_cognatic_succession_desc;7u'`ÅN(W¡l	gTÕlsY'`ïSåNçub„vÅ`µQNMbO—V0RçubCg0;;;;;;;;;;;;x
+TRIGGER_ROOT;Root;;;;;;;;;;;;x
+TRIGGER_PREV;Prev;;;;;;;;;;;;x
+TRIGGER_FROMFROM;FromFrom;;;;;;;;;;;;x
+HAS_NOT_CALLED_CRUSADE;Ø¡l	gck(WÛLˆ„v$RELIGION$ $CRUSADE_NAME$;;;;;;;;;;;;x
+HAS_CALLED_CRUSADE;	gNIWck(WÛLˆ„v$RELIGION$ $CRUSADE_NAME$;;;;;;;;;;;;x
+LIEGE_PRESTIGE_BUILDING;†˜JNZgÿ§G+$VALUE$§!;;;;;;;;;;;;x
+TEMPLE_HOLDING_PIETY;†˜0WN„v§Y$NUM$§!^y¿kÿ§G+$VALUE$§!;;;;;;;;;;;;x
+EVTDESC_TOG_3400;gÑÿ3N*N^yØy„vsKbÜb¿‹bÿJTÉ‹bb”^å‹N[From.GetFirstName]b²ŒŒÔkàeÐvÿ«Ž‚Y>e»yu„v»YPRTŠ^0ÖNìNØJTÉ‹bÿb„v»YPROINbu*N?QPRÿwNdkPRSegÅVINÄ–Mb'YeuKNJN0zfwìNJTÉ‹bÿ²3NMOsKbýw„˜åw*gegÿwN¾|T›ÕlÿàVdkb”^å‹YuaÖNìN„vÝ‹0;;;;;;;;;;;;x
+EVTOPTA_TOG_3400;b”^å‹NyYTŠ^0;;;;;;;;;;;;x
+EVTOPTB_TOG_3400;bÒbÝuNb²4ljr,‚NK–„v»YPRTŠ^0;;;;;;;;;;;;x
+EVTOPTC_TOG_3400;²3N*NsºNêS>f3N*N„UŽNÊ†Ñ`a+Ya‡Y„v¯uPRÿ;;;;;;;;;;;;x
+EVTDESC_TOG_3401;`O„vãlbŸR›kOg†N²êSIN³RaNÌ‘ÿ3O³RºNku„vŠq0°s(WãlìN”^å‹INŠqKNB›>NLˆTINsŠq'YO„v†^lyêNVÿàVINŠq(WbìN„vuJm-N	gOwÍ‘‰„vaŒVaIN0•ÇÙ!kêNV1S*YNfzf†N0;;;;;;;;;;;;x
+EVTOPTA_TOG_3401;SV6qÿ©‹bìNg…VƒRýw	gN*NŒY„vegNÿlNbºNkuàe³R„vîh—g¨Rir'Tÿ;;;;;;;;;;;;x
+EVTOPTB_TOG_3401;ÎTOTÿ*YïSÜ`†Nÿbàe‡fîvywdk!kÛvOÿ;;;;;;;;;;;;x
+EVTOPTC_TOG_3401;Šq®vˆV<P±”ÿbìNOVS†NƒRÿ;;;;;;;;;;;;x
+EVTOPTD_TOG_3401;(W´ROTÿbOŠbŠq„v4Y…˜&^0R2W—g0;;;;;;;;;;;;x
+EVTDESC_TOG_3402;NåeHSTÿ`OúQYérsÿN•Š˜wwpNMReg0ÖN«ŽOwrf„vÅeºN—e÷rÿÌR¹L^nÖv†NÖNNêS<wjw0T`Oî•PKNTÿÖN&Œm`	g<y0W‰BlNÒ‰og‡‡0KNTÿÖNJTÉ‹`Oÿ(W²¹N*N«ˆSgWØV„v¯g•NÌ‘ÿËWÏ…Owán•N„vÄžÑ‘0ÖNŠrOwØ˜6qw»S0`OtSJ`aÉ‰NÖN<OþføvÆ‹0;;;;;;;;;;;;x
+EVTOPTA_TOG_3402;`OJTÉ‹`O„vãlìNÿ²MO+oekwºNN>f+RºNÿck>fJN^yeYNÿ;;;;;;;;;;;;x
+odin_option_a;`Olb­—Ãlšÿ»S¢cûR^yKNRÏ…01uŽN`O‘š—V*YëVÿ–Lˆ„vsKbN—VN(WTb—ýv0;;;;;;;;;;;;x
+EVTOPTB_TOG_3402;`O„vãlZWáO²MO+oekwºNINO^yKN6rÿ`OtSnå‚Tû•0;;;;;;;;;;;;x
+odin_option_b;`Oçuíuérs0;;;;;;;;;;;;x
+EVTOPTC_TOG_3402;`O¥e2`O„vãlìNÿàVINÖNìNßz6qOøváOø‹^y„v/Oô‹0;;;;;;;;;;;;x
+odin_option_c;ÕkßzÖNìNIN`OZPÇÀNHNÿ;;;;;;;;;;;;x
+MONTHLY_PRESTIGE_TO_LIEGE;†˜JNÏkgZgØSSÿ§G+$VALUE$§!\n;;;;;;;;;;;;x
+MONTHLY_PIETY_TO_LIEGE;†˜JNg¦^$PIETYNAME$T†Ú‹ÿ§G+$VALUE$§!\n;;;;;;;;;;;;x
+NO_LIEGEPRESTIGE;Ù*NSãNOÙu`O&^egûNUOZg0\n	g›Nú^QrýwÙuú^Qråb	gwŒTåb	gw„v†˜JN&^egZg;;;;;;;;;;;;x
+NO_LIEGEPIETY;Ù*NSãNOÙu`O&^egûNUO$PIETYNAME$T†Ú‹0\n	g›Nú^QrýwÙuú^Qråb	gwŒTåb	gw„v†˜JN&^eg$PIETYNAME$T†Ú‹0;;;;;;;;;;;;x
+LIEGE_PRESTIGE_SELF;ôv^Sú^Qr&^eg„vZg¹pÿ§G+$VALUE$§!;;;;;;;;;;;;x
+EVTOPTA62910_CUSTOM;§ROb	gUSôT!–qS	Nè„v>O5rýO1N1Y0§!\nOb	g(WÕltN^SŽNSYr)R„v>O5rýØSbSYr)R‡eS0\n;;;;;;;;;;;;x

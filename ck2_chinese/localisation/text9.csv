@@ -1,0 +1,95 @@
+### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_connacht_adj;∑^˙ãyr;;;;;;;;;;;;x
+d_leinster_adj;&OØeyr;;;;;;;;;;;;x
+d_munster_adj;íÇØeyr;;;;;;;;;;;;x
+d_ulster_adj;?ñSØeyr;;;;;;;;;;;;x
+d_argyll_adj;?ñ÷vS;;;;;;;;;;;;x
+d_lothian_adj;m!ïâR;;;;;;;;;;;;x
+d_galloway_adj;†RmÊó;;;;;;;;;;;;x
+d_northumberland_adj;˙ãÓh>OpQ;;;;;;;;;;;;x
+d_gelre_adj;wmS˜ñ;;;;;;;;;;;;x
+d_ryazan_adj;Åh^ç;;;;;;;;;;;;x
+d_bulgar_adj;›O†RS;;;;;;;;;;;;x
+d_mazandaran_adj;lö^ç∑VpQ;;;;;;;;;;;;x
+d_moray_adj;löÃë;;;;;;;;;;;;x
+d_meath_adj;s|Øe;;;;;;;;;;;;x
+d_deheubarth_adj;∑VkçÙTØe;;;;;;;;;;;;x
+d_brunswick_adj;^&O^tKQ;;;;;;;;;;;;x
+d_dauphine_adj;YÚÉÖQ;;;;;;;;;;;;x
+d_constantine_adj;TÎXfWN;;;;;;;;;;;;x
+d_abbasid_adj;?ñ‘bØe;;;;;;;;;;;;x
+d_balearic_adj;ÙT)R?ñÃë;;;;;;;;;;;;x
+d_bergen_adj;QSS9h;;;;;;;;;;;;x
+d_bordeaux_adj;‚lSY;;;;;;;;;;;;x
+d_gilan_adj;	TpQ;;;;;;;;;;;;x
+FE_CREATE_GAME;R˙^8nb;;;;;;;;;;;;x
+HOST_DESC;R˙^N*N8nbÂNøO©ãvQ÷N∫N˝wY†ReQÂã8nb\n(W8nbR˙^ÂNTˇ`OSN˝w9eÿSVOSˆeÙïbw˚ã÷SvQ÷NXRch;;;;;;;;;;;;x
+DEATH_BY_MURDER_NO_KILLER;äkéNåOg;;;;;;;;;;;;x
+DEATH_EXECUTION_NO_KILLER;´àY≥QÜN;;;;;;;;;;;;x
+DEATH_DUNGEON_NO_KILLER;äkéNÒr-N;;;;;;;;;;;;x
+DEATH_DUEL_NO_KILLER;(W*N∫N≥Qóe-N´àOg;;;;;;;;;;;;x
+EVTOPTB3335;[Root.Liege.GetTitledFirstName]O°lãNÑv;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_title;^gw0R[This.GetFullName]´ààcàNŸuNMO∞eÑvﬂuªlw;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_desc;JR1V [This.Holder.GetTitledName]ÑvõRœë˙WOxˇê«èRrR[This.Holder.GetHerHis]∂NNv^àcàN[This.GetFullName]Ÿu[This.Holder.GetHerHis]vQ-NN*NS„Å0;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_decision;[Root.GetPlot];;;;;;;;;;;;x
+plot_weaken_fellow_vassal_decision_desc;ê«èT [Root.PlotTarget.GetTitledName]NæègTêRrˇäb∆RåÿN¯ãLà®R0;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_decision_liege;˚RBl[Root.TopLiege.GetTitledFirstName]Ñv>ec0;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_decision_liege_desc;T [Root.TopLiege.GetTitledFirstName]ôQNS·Oˇ˚RBl[Root.TopLiege.GetHerHim]Ñv>ecÂNRrR [Root.PlotTarget.GetTitledName]ÑvÜòW0ÇYúg[Root.TopLiege.GetTitle]N>ecŸèyò∆RåˇÉR1SàVÔS˝w´àƒl2ó0R´R˜^ÖQ&&;;;;;;;;;;;;x
+EVTDESC7500;bÑv[Root.GetTitle]ˇSÏbb(WÖQÑv∏ãY‡VûRÑvS„Å˝ê≥ãIN [From.PlotTarget.GetTitledName]+e÷SÜN‹è‹èÖç«è[From.PlotTarget.GetHerHis]0WMOÑvCgõRåTÜò0W0ÇYúg®`˝wÀSåY0W˙^Æã[From.PlotTarget.GetHerHim]äb[From.PlotTargetTitle.GetFullName]Ñv4YTàlè©ãŸu÷NÑvS„Å0≤ê1SçQåYN«èÜNˇbÏNShQ√VhQaÑv>ec`O0\n\ndkÙÅˇ\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7500;N*N<PóV^çlbÑv!PÆã0;;;;;;;;;;;;x
+EVTOPTB7500;bSNO¬SNŸèIW∆Rå0;;;;;;;;;;;;x
+EVTTOOLTIP7500;[Root.TopLiege.GetTitledFirstName]6e0RNS·O0;;;;;;;;;;;;x
+EVTDESC7501;bÏN˝ê˘R [Root.PlotTarget.GetTitledName]Ñv®Å¿w-NÑvûRõRa0R≈bÁV0INÜN˝V∂RÑvâRÅRˇbÏNî^ÂãÀzJRTw˚|[Root.PlotTarget.GetHerHim]ˇÂNûR∞s`OÑv°ãR0\n\ndkÙÅˇ\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7501;ôYÅgÜNˇ;;;;;;;;;;;;x
+EVTTOOLTIP7501;óV0R`OÑvØwöRTrY0;;;;;;;;;;;;x
+EVTDESC7502;+RZP*NªPPRˇ[Root.GetFirstName]ˇbN^gw0R˝V∂R1uéN∆Rå·ã°ãw>eªy4xéx0∞s(WŸubkPbkŸèIW4ñåˇ&TRb—Sìä`OSOINdkTî`ˇ\n\ndkÙÅˇ\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7502;bfåvÜN0;;;;;;;;;;;;x
+EVTTOOLTIP7502;óV0R`OÑv&TöRTrY0;;;;;;;;;;;;x
+EVTDESC7504;b≤N1rÑv[Root.GetTitle]ˇ^g`O´éSOeP∑^0–g*N>m˚|ck(W¨P√Ob«ë÷SLà®Rb`Y˝VÖQÜòJNÑvûRõRGWaàˇbÏN≥ãIN`OgåY˝wÍÅ?aS[From.PlotTargetTitle]lè©ãŸu`OÑvN*NS„Å.bÏNnx·O`OO^çTŸè*Na¡â.\n\ndkÙÅˇ\n[From.Liege.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7504;^ó8^åY0;;;;;;;;;;;;x
+EVTOPTB7504;÷N>fN>fØuÜNˇ;;;;;;;;;;;;x
+EVTTOOLTIP7504;[Root.PlotTarget.GetTitledName]ŒN[Root.Liege.GetTitle]≤êÃë6e0RN˝N2ó®öÑvgTêRr0;;;;;;;;;;;;x
+EVTDESC7505;[From.PlotTarget.GetTitledFirstName]ˇ`OÚTœuqS SÜNb˝VÆVôYÑvõRœës^aà0INÜNOb	g∫NÑv)R vˇ˜ã>eV˘R[From.PlotTargetTitle.GetFullName]Ñv∂c6RˇäbÉR≥NŸu`OÑvN*NS„Åˇ&TRbåTbÑvT⁄PSÂNfkõRæèbT7hÑvHeúg0\n\ndkÙÅˇ\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7505;b°l¿NHN	êÈb0;;;;;;;;;;;;x
+EVTOPTB7505;Û`nN+RÛ`ˇ;;;;;;;;;;;;x
+EVTOPTC7505;1uéN°l	gTêÑvS„Åˇ`OÍÅÒTSóV0RŸè*N4YTà0;;;;;;;;;;;;x
+EVTTOOLTIP7505;[Root.PlotTarget.GetTitledName]6e0RNS·O0;;;;;;;;;;;;x
+EVTDESC7506;sSøObbeØwöRbSNÙvíTÇöllTˇÛÅäkπeOˇÔSINÜNåTs^ˇbÿè>fNóVN•c◊S`OÑvÅâBl0\n\ndkÙÅˇ\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7506;ôYÅgÜN0;;;;;;;;;;;;x
+EVTDESC7507;‘kwçT[Root.PlotTargetTitle.GetFullName]ïbMñˇbÙf?aaˇbwçfkhV0ÇYúg`OåT`OÑvSO4OÏN˝wüwç«Rlegbó˘RbˇbOàVPNaäb`OÏNOg0RN*N˝êNiRˇ>elö«èeg'Tˇ\n\ndkÙÅˇ\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7507;`OOIN`OŸèju›ãTî`Ñvˇb≤N1rÑv[From.GetTitle]0;;;;;;;;;;;;x
+EVTOPTB7507;nN∏ãbNî^ÂãíQiñNb&&;;;;;;;;;;;;x
+EVTTOOLTIP7507;“b›u•c◊SgTêRr0;;;;;;;;;;;;x
+EVTDESC7508;bÑvÜòJNˇ`Oäbb®cTN*NVæñÑvÉX0WˇFOÇYúg`Oa…â0RŸè>fgsOÑvLà®RπeHhˇ≤êHN1SÇY`OOb?a'T0bS≥N˙QŸè*N4YTà0\n\ndkÙÅˇ\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7508;àVåY0;;;;;;;;;;;;x
+EVTOPTA7509;Ÿè≤PbaÑv∂ROˇ;;;;;;;;;;;;x
+EVTDESC7510;[Root.Liege.GetTitle]büR©ãüSegÑvÜòJN©ãMO0∞s(Wˇ1u[Root.PlotTarget.GetTitledFirstName]ﬂuªl[Root.PlotTargetTitle.GetFullName]0;;;;;;;;;;;;x
+EVTOPTA7510;àVåY0;;;;;;;;;;;;x
+EVTDESC7511;[Root.PlotTarget.GetTitledFirstName]“b›uÜN[Root.Liege.GetTitle]©ã˙Q[Root.PlotTargetTitle.GetFullName]4YTàÑvTtÅâBlˇFOŸèÛÅS©ã`OÑvÜòJN	gÜN(W*gegeRIYŸè*N4YTàÑv®RIg0>f6qˇ∞s(W`OSÍS˝w•c◊SŸè*NâRíc0;;;;;;;;;;;;x
+EVTOPTA7511;1SŸè7h'T0;;;;;;;;;;;;x
+EVTDESC7515;ê«è5çœeÏNÿy∆RÑv4ñåˇ[From.GetTitledName]´àÎè˙Q©ã[From.GetHerHis]vQ-NN*NlQ˝V0œu«è≥ãwwQÜˇ˝VÖQÑvÜòJNÏNg»uæã’læèbNÙÅˇ≥ãIN`O>fŸè*N4YTàg‡eµOeu'`ÑvP	ê∫N0m`úU`Oˇ[From.GetTitle]0;;;;;;;;;;;;x
+EVTOPTA7515;åYãN≈`J`>f—Su(W?aaIrÖVÑv∫N´éN0;;;;;;;;;;;;x
+EVTDESC7517;[From.GetTitledName]°l	gTêÑvS„Å˝w•c◊SŸè*N4YTàˇObÂNÉRS´ààcàNŸu`Oˇ1u`O≥QöRÇYUOYn0;;;;;;;;;;;;x
+PLOT_TOOLTIP_WEAKEN_VASSAL;[This.Holder.GetTitledName]NçQ>f[This.GetFullName]4YTàÑvc	gw0;;;;;;;;;;;;x
+CB_NAME_WEAKEN_VASSAL;≤Ry[Title.GetName];;;;;;;;;;;;x
+VASSAL_TRANSFER_SETUP;S„Å´àlèS;;;;;;;;;;;;x
+VASSAL_TRANSFER_LOG;$OLD_LIEGE$lèS$VASSAL$Ÿu$NEW_LIEGE$;;;;;;;;;;;;x
+WAR_NAME_WEAKEN_VASSAL;vbc$OTHER_TITLE$∞eﬂuªlwbâN;;;;;;;;;;;;x
+TRIGGER_ATTACKER;JNÅâ€èJeπe;;;;;;;;;;;;x
+TRIGGER_MOST_PART_ATTACKER;!ç.sg'YÑv€èJew;;;;;;;;;;;;x
+TRIGGER_DEFENDER;JNÅâ2ñ°Vπe;;;;;;;;;;;;x
+TRIGGER_MOST_PART_DEFENDER;!ç.sg'YÑv2ñ°Vw;;;;;;;;;;;;x
+CHAR_IS_NOT;“ârÇN>f;;;;;;;;;;;;x
+CHAR_IS;“ârÇ>f;;;;;;;;;;;;x
+CHAR_EXISTS;“ârÇXR(W;;;;;;;;;;;;x
+THREAT_NOT_DE_JURE_LIEGE;N>f’ltS„Å;;;;;;;;;;;;x
+THREAT_INFIDEL;VYeíV;;;;;;;;;;;;x
+THREAT_FOREIGNER;Y˝V∫N;;;;;;;;;;;;x
+THREAT_LOW_LEVIES;ÅVÏSuQwLS;;;;;;;;;;;;x
+THREAT_OTHER_INDEP_WARS;ÏrÀz€SqN;;;;;;;;;;;;x
+force_converting;IVÎè9eóR;;;;;;;;;;;;x
+EVTTOOLTIP3336;N˝wAQ∏ãŸè7hÁuÌuNªSÜNˇb≈VäòJT…ã[This.GetTitledFirstName][This.GetHerHis]LàIN	gYNç2ç˚Nˇ;;;;;;;;;;;;x
+SongsOfAlbionDLC;?ñS‘ki`KNLk;;;;;;;;;;;;x
+SongsOfFaithDLC;·ONKNLk;;;;;;;;;;;;x
+SongsOfTheHolyLandDLC;2W0WKNLk;;;;;;;;;;;;x

@@ -1,0 +1,247 @@
+### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_JD_10020;NVËYb¡l	g,T0RûNUOsQN [adventurous_spirit.GetTitledFirstName]„vˆmo`ÿbåNIN[adventurous_spirit.GetHerHis]RVNÇ>f«ˆ¨cß†N0äNºNW¾a0Wÿ‚YÊNbckVÎN [the_protector_general.GetTitledName]²Ì‘—V0R†N[adventurous_spirit.GetHerHis]Šk¯‹0;;;;;;;;;;;;x
+china_physician_cd;§Y>mcNTJSu§!;;;;;;;;;;;;x
+china_physician_cd_desc;`OòTÏuT-NıV>múQNTJSu†Nÿ`ONıwQ>mc†N0;;;;;;;;;;;;x
+temple_barony_of_taoist;SÂ‰;;;;;;;;;;;;x
+kow_tow_travels_death;(WMRV-NNS^ıV„vÅe-N;;;;;;;;;;;;x
+EVT_DESC_JD_60314;[From.Offmap.Ruler.GetChineseComplimentAdjective][From.Offmap.Ruler.GetTitle]„v[From.GetTitle]T[Root.PrimaryTitle.GetFullName]„v[Root.GetTitle]ôáO0\n\n`Oœ†N[From.Offmap.Ruler.GetLongChineseEmperorName]„v‡vi`0bìNåwS[FromFrom.GetChineseCharacterRole][FromFrom.GetTitledName]„vŠk>f1u`ONKb/b0N‰åNIN[From.Offmap.Ruler.GetTitle]OŠv™dk‹N0;;;;;;;;;;;;x
+hostages_random_imprisonment_tt;`OS–Ig.Ucîvh„vNT§YÑ²N§!0;;;;;;;;;;;;x
+NOT_PACIFIED_BY_LIEGE_DATELESS;*g«ˆ†˜JN‰BlIV6RŒTs^;;;;;;;;;;;;x
+RULES_ACHIEVEMENT_REQUIRE_NO_RULER_DESIGNER;NïSO(u§YÒ‰r‚¾‹¡‹hV§!;;;;;;;;;;;;x
+IRONMAN_MODE_RULER_DESIGNER_DESC;òT>T(uÒ‰r‚¾‹¡‹hVÿb1SNïS(u0;;;;;;;;;;;;x
+REQUIREMENTS_HEADER;§Y‰Bl§!ÿ;;;;;;;;;;;;x
+TRADE_ROUTE_GLOBAL_VALUE_CHANGED;YèàV/tOÙ*N8fï¿u„v8f÷N<P9eØS$VALUE|+0%$0;;;;;;;;;;;;x
+chinese_grace_become_tributary_desc;T§Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§!hˆ°s`O„vàVÚ‹0;;;;;;;;;;;;x
+chinese_grace_become_tributary_effect_TT;åN §R50% 6eeQ§!0§R30% è–eˆXT‡s§!åNÊS§R[GetChineseOffmapTributaryPrestigeCost]§!INãN÷Nÿ·ƒ—V§GÏkg 2 ¹p‡vi`§!åNÊS§G(W«ˆJeûQöeïSVìS-NıV›QâV§!„vıw›R0\nÙ›NHeœgcíu0R§Yå‹gãNùR-NıVßu»l„vÈuÓu§!ÿbwÿÇb‰N0³Q®‹	ÿ§Y—V0RìrËz§!TÖSˆm0\n;;;;;;;;;;;;x
+ENDGAME_TEXT_INDIAN;`OˆvO†NN¹e—RYeÿFO>f¡l	g0pS¦^W–0b0¶x‰sKN™Ÿ0ibUSSÿàVdkNAQ¸‹çuíu8nb0\n;;;;;;;;;;;;x
+you_will_game_over_tt;§R`ONıwåNÙ*N—RYeÛLˆ8nbÿ&TROüRô8nbÓungÿ§!\n;;;;;;;;;;;;x
+is_not_one_eyed_handed_legged_disfigured_or_mangled_tt;¡l	g§Yìr<w§!ÿ§YìrÂ§!ÿ§Yìr§!ÿ§YÁk¹R§!ÿb§YOˆ‰w!jÊ|§!yr(\n;;;;;;;;;;;;x
+is_not_maimed_or_infirm_tt;¡l	g§Y‹kŸ^§!b§YSO1VYÅu§!yr(\n;;;;;;;;;;;;x
+is_not_wounded_severely_injured_tt;¡l	g§Y×S3O§!b§Y«×SÍ‘3O§!yr(\n;;;;;;;;;;;;x
+EVTTOOLTIP100201;`OT`O„vgËSûRBl.^©RåNĞcØšQR>gbıw\n;;;;;;;;;;;;x
+String_personality_old_and_wistful;±‚	gÍ‘VåeÿºNQàeSt^;;;;;;;;;;;;x
+String_personality_young_cynics;9h,g¡lÕlŒTÙ.^ÂPw4Y¨‹º‹?e»l;;;;;;;;;;;;x
+String_personality_same_society;kOIN[This.Society.GetName]„vNXTÿbìN	g¸‹YåTkO‰ZP;;;;;;;;;;;;x
+String_personality_focus_war;bìNùRb‰NNVreu	gOwqQT„vıBl;;;;;;;;;;;;x
+String_personality_focus_hunting;SbsŒT7bYJm¨R„vIRÀo;;;;;;;;;;;;x
+String_personality_focus_seduction;ºNuæ‚íwÿıBlwck„v2kgO&^egËk¸^n‘u„vœU¦`NIRÀo;;;;;;;;;;;;x
+String_personality_focus_intrigue;«R÷^KN-N4–‘NÆR^ÿĞgMOıVYY³N˜R„vAmŠ8TVOwºNìN„vèla;;;;;;;;;;;;x
+String_personality_focus_carousing;Ob	g(Wg¦^ú”/V„vÛv´RNïSıwÑSu„v‹NÅ`;;;;;;;;;;;;x
+String_personality_focus_family;Oˆ„v÷N<PŒT¶RÏe„vÍ‘‰'`;;;;;;;;;;;;x
+String_personality_focus_theology;ûÑ‹2W‡e„v„VÿåNÊSáOğN²äNºN	a¦`„vNb—;;;;;;;;;;;;x
+String_personality_focus_scholarship;ºNŠ|„vŒYGYÃVÿåNÊSNöeùR[Root.Religion.GetHighGodName]„v‚iõV„v©º‹;;;;;;;;;;;;x
+String_personality_focus_rulership;	göePªR›R»SS`O„vIg„gŒTºNllQs^ùR…V>fT›RN¨‹ŒY„v;;;;;;;;;;;;x
+String_personality_focus_business;N*NĞkOo‚ŒYIg„g„v•üuYBgÿåNÊSÔY>m„vbçT;;;;;;;;;;;;x
+String_personality_same_culture;[Root.Culture.GetName]‡eSŒT<yêN„vÆug+g‚‚;;;;;;;;;;;;x
+String_personality_same_religion;[Root.Religion.GetName]áOğNÿåNÊSbìNœU1r„v^×‹;;;;;;;;;;;;x
+String_personality_landscape;[Root.PrimaryTitle.GetName]„vÎ˜ofÿ3SvQ>f(W[Root.Capital.GetName]D–Ñ;;;;;;;;;;;;x
+String_personality_artifacts;o®N„vçe©sa?QÿåNÊSÏ…(WR“^-N„vSp™ÁT;;;;;;;;;;;;x
+b_trinabad;^)R²ËO–;;;;;;;;;;;;x
+b_dusajabad;ßƒZ–ËO–;;;;;;;;;;;;x
+b_ragnagar;W–²ícW;;;;;;;;;;;;x
+b_skanderabad;^Xú^¥TWËO–;;;;;;;;;;;;x
+b_ake;?–KQ;;;;;;;;;;;;x
+b_shagkol;™l<h–ÒR;;;;;;;;;;;;x
+b_zhezgir;pgkR	TS;;;;;;;;;;;;x
+b_traguladar;yrÉbäSÉb¾S;;;;;;;;;;;;x
+b_krossa;KQW(„;;;;;;;;;;;;x
+b_mosa;«ƒ(„;;;;;;;;;;;;x
+b_kidako;úW¾Ñy;;;;;;;;;;;;x
+b_eskako;ÃW¯eaSÑy;;;;;;;;;;;;x
+b_sinnele;›…mR;;;;;;;;;;;;x
+b_kanbale;NWôTR;;;;;;;;;;;;x
+b_shihak;^ÈTKQ;;;;;;;;;;;;x
+b_shilif;^)R+Y;;;;;;;;;;;;x
+b_ketino;KQ‚„ú‹;;;;;;;;;;;;x
+b_alchach;?–Sp`GY;;;;;;;;;;;;x
+b_manzhar;üfNbS;;;;;;;;;;;;x
+b_ayzhar;‚NbS;;;;;;;;;;;;x
+b_kusma;“^¯elš;;;;;;;;;;;;x
+b_kipgaj;úWnf RO;;;;;;;;;;;;x
+b_gerghas;<hS R¯e;;;;;;;;;;;;x
+b_sarel;(„÷–S;;;;;;;;;;;;x
+b_ichga;O^ R;;;;;;;;;;;;x
+b_wadane;æt¾…Q;;;;;;;;;;;;x
+b_kaliki;aS)RúW;;;;;;;;;;;;x
+b_gag; R<h;;;;;;;;;;;;x
+b_aziz;?–PŸyQ;;;;;;;;;;;;x
+b_aruz;?–œyQ;;;;;;;;;;;;x
+b_uros;LNW¯e;;;;;;;;;;;;x
+b_ulsut;LNSÏ‚yr;;;;;;;;;;;;x
+b_mamshim;lšÆY^ÆY;;;;;;;;;;;;x
+b_esut;ÃWÏ‚yr;;;;;;;;;;;;x
+b_urlyki;LNS÷–úW;;;;;;;;;;;;x
+b_dralyk;·VÉb÷–KQ;;;;;;;;;;;;x
+b_mankal;üfaSS;;;;;;;;;;;;x
+b_jutasu;àsTXÏ‚;;;;;;;;;;;;x
+b_opak;eY^KQ;;;;;;;;;;;;x
+b_tenul;wcªRS;;;;;;;;;;;;x
+b_offerdal;eYV¾S;;;;;;;;;;;;x
+b_gene;6w…Q;;;;;;;;;;;;x
+b_brunflo;^&OVbS;;;;;;;;;;;;x
+b_borgvattnet;ZSÌ‘ætyr·‹;;;;;;;;;;;;x
+b_ulvkalla;LNS+Y1ŒÉb;;;;;;;;;;;;x
+b_vemdalen;æ—ÆY¾&O;;;;;;;;;;;;x
+b_ljusnedal;3S¯e…Q¾S;;;;;;;;;;;;x
+b_lillhardal;Swm¾S;;;;;;;;;;;;x
+b_ymanda;Oüf¾;;;;;;;;;;;;x
+b_langi;pQ	T;;;;;;;;;;;;x
+b_afgilai;?–+Y	T±ƒ;;;;;;;;;;;;x
+b_amandawar;?–üf¾ætS;;;;;;;;;;;;x
+b_obora;eYZSÉb;;;;;;;;;;;;x
+b_tora;XbÉb;;;;;;;;;;;;x
+b_mangalam;’‚ RÉbÆY;;;;;;;;;;;;x
+b_abetam;?–TXÆY;;;;;;;;;;;;x
+b_yrgo;OSb;;;;;;;;;;;;x
+b_halogo;ÈTmb;;;;;;;;;;;;x
+b_wagulo;ætäSm;;;;;;;;;;;;x
+b_zenande;ılWS·V;;;;;;;;;;;;x
+b_aleksandr;šN†SqS'Y;;;;;;;;;;;;x
+b_vugimsk;fk	TÆY¯eKQ;;;;;;;;;;;;x
+b_imaslavl;Olš¯eÉb+YS;;;;;;;;;;;;x
+b_kankol;NWÑyS;;;;;;;;;;;;x
+b_illyoml;OÖ^ÆYS;;;;;;;;;;;;x
+b_mashinki;lš3uúW;;;;;;;;;;;;x
+b_paskaki;^¯eaSúW;;;;;;;;;;;;x
+b_novomory;ú‹ƒl«ƒ÷–;;;;;;;;;;;;x
+b_kirou;úWœ;;;;;;;;;;;;x
+PROV1581;Y^ûN;;;;;;;;;;;;x
+c_dobrzynska_adj;Y^ûN;;;;;;;;;;;;x
+PROV1582;1ŒÉbyQ;;;;;;;;;;;;x
+c_sieradzka_adj;1ŒÉbyQ;;;;;;;;;;;;x
+PROV1583;ƒlÆYNb;;;;;;;;;;;;x
+c_lomzynska_adj;ƒlÆYNb;;;;;;;;;;;;x
+PROV1584;¯eÕnåeßR;;;;;;;;;;;;x
+c_stezycka_adj;¯eÕnåeßR;;;;;;;;;;;;x
+PROV1585;bS^—g;;;;;;;;;;;;x
+c_lubelska_adj;bS^—g;;;;;;;;;;;;x
+PROV1586;ôu†–;;;;;;;;;;;;x
+c_wielunska_adj;ôu†–;;;;;;;;;;;;x
+PROV435;VW(ƒæt+Y;;;;;;;;;;;;x
+c_upper_silesia_adj;VW(ƒæt+Y;;;;;;;;;;;;x
+PROV433;N‰Ì‘‰šN;;;;;;;;;;;;x
+c_opole_adj;N‰Ì‘‰šN;;;;;;;;;;;;x
+PROV429;³uKQƒl;;;;;;;;;;;;x
+c_gnieznienskie_adj;³uKQƒl;;;;;;;;;;;;x
+PROV528;b¯e‚„R;;;;;;;;;;;;x
+c_sieradzko-leczyckie_adj;b¯e‚„R;;;;;;;;;;;;x
+PROV530;)R+Y;;;;;;;;;;;;x
+c_czersk_adj;)R+Y;;;;;;;;;;;;x
+b_wyszogrod;ôuÍu<hœ·V;;;;;;;;;;;;x
+b_zacroczym;NbKQWGYÆY;;;;;;;;;;;;x
+b_rozan;œ6q;;;;;;;;;;;;x
+b_szrensk;ÀN&O¯eKQ;;;;;;;;;;;;x
+b_liw;)R+Y;;;;;;;;;;;;x
+b_wegrow;‡e<hœ+Y;;;;;;;;;;;;x
+b_legionowo;±ƒ	TeYú‹ƒl;;;;;;;;;;;;x
+b_lochow;ƒláw+Y;;;;;;;;;;;;x
+b_tluszoz;yrfkÀNGY;;;;;;;;;;;;x
+b_radzymin;ÉbNmf;;;;;;;;;;;;x
+b_wizna;ôuyQ³u;;;;;;;;;;;;x
+b_swieck;^)n(ƒKQ;;;;;;;;;;;;x
+b_nur;ªRS;;;;;;;;;;;;x
+b_radzilow;ÉbNmfk+Y;;;;;;;;;;;;x
+b_lowicz;ƒlôuGY;;;;;;;;;;;;x
+b_gostynin;b¯e‚„R;;;;;;;;;;;;x
+b_rawska;Ébæt;;;;;;;;;;;;x
+b_nadodra;³uY·VÉb;;;;;;;;;;;;x
+b_kamien;aS;;;;;;;;;;;;x
+b_kcynia;KQPŸ<SšN;;;;;;;;;;;;x
+b_pila;®væt;;;;;;;;;;;;x
+b_lubiewo;bS+Rƒl;;;;;;;;;;;;x
+b_podgaje;âl·V R6w;;;;;;;;;;;;x
+b_bialaziema;ÔkšNætpglš;;;;;;;;;;;;x
+b_oborniki;eYZSS<SúW;;;;;;;;;;;;x
+b_czarnkow;p`i`“^+Y;;;;;;;;;;;;x
+b_koscian;Ñy^IV;;;;;;;;;;;;x
+b_miedzyrzecz;NmípGY;;;;;;;;;;;;x
+b_walcz;ætLNGY;;;;;;;;;;;;x
+b_wschowa;V¯e—æt;;;;;;;;;;;;x
+b_sroda;^W¾;;;;;;;;;;;;x
+b_kolo;Ñyƒl;;;;;;;;;;;;x
+b_kozmin;ÑyOf;;;;;;;;;;;;x
+b_nowogrod;ú‹ƒl<hœ·V;;;;;;;;;;;;x
+b_swiebozin;^ôuZS%m;;;;;;;;;;;;x
+b_bytomodrz;eY—V³lTuÔkXbÆY;;;;;;;;;;;;x
+b_lubliniec;bS^)R…m(ƒ;;;;;;;;;;;;x
+b_rybnik;Ì‘^<SKQ;;;;;;;;;;;;x
+b_siewerz;1Œôuåe;;;;;;;;;;;;x
+b_zywiec;åeôu(ƒ;;;;;;;;;;;;x
+b_bielsko;+RS¯eÑy;;;;;;;;;;;;x
+b_pszczyna;nfÀNGY³u;;;;;;;;;;;;x
+b_zator;NbXbS;;;;;;;;;;;;x
+b_wieliczka;ôu)RGYaS;;;;;;;;;;;;x
+b_bochnia;ZSk<SšN;;;;;;;;;;;;x
+b_olsztyn;eYSÀNN;;;;;;;;;;;;x
+b_pilzno;®vSyQú‹;;;;;;;;;;;;x
+b_mielec;…h±ƒ(ƒ;;;;;;;;;;;;x
+b_biecz;+RGY;;;;;;;;;;;;x
+b_olescnica;OLNNb;;;;;;;;;;;;x
+b_wislica;ôu^)RßR;;;;;;;;;;;;x
+b_opoczno;eYâlGYú‹;;;;;;;;;;;;x
+b_opatow;eY^şV+Y;;;;;;;;;;;;x
+b_urzedow;LNûNkg+Y;;;;;;;;;;;;x
+b_goraj;bÉbO;;;;;;;;;;;;x
+b_zamosc;Nb«ƒ^GY;;;;;;;;;;;;x
+b_podwieprza;‡eGY³u;;;;;;;;;;;;x
+b_nadwisla;NaSPŸs|åe;;;;;;;;;;;;x
+b_stezyca;¯eÕnåeßR;;;;;;;;;;;;x
+b_lukow;fk“^+Y;;;;;;;;;;;;x
+b_kock;Ñy(ƒKQ;;;;;;;;;;;;x
+b_ryki;÷–úW;;;;;;;;;;;;x
+b_deblin;Šv^—g;;;;;;;;;;;;x
+b_radzyn;Ébşf;;;;;;;;;;;;x
+b_stoczeklukowski;fk“^+Y0WIS¯eXbRKQ;;;;;;;;;;;;x
+b_bygdoszcz;Ôk—VåTÀN;;;;;;;;;;;;x
+b_leczyca;‡eGYßR;;;;;;;;;;;;x
+b_klodawa;KQƒl¾æt;;;;;;;;;;;;x
+b_nieszawa;…m™læt;;;;;;;;;;;;x
+b_dobrzyn;Y^ûN;;;;;;;;;;;;x
+b_wloclawek;eY¯eyrWôuğl;;;;;;;;;;;;x
+b_lipno;)Rnfú‹;;;;;;;;;;;;x
+b_rypin;÷–s^;;;;;;;;;;;;x
+b_skepe;¯e¯wiO;;;;;;;;;;;;x
+b_michalowo;s|ÈTƒlƒl;;;;;;;;;;;;x
+b_kikot;úW“^LN;;;;;;;;;;;;x
+b_wielun;ôu†–;;;;;;;;;;;;x
+b_grabow;<hÉb^+Y;;;;;;;;;;;;x
+b_ostrzeszow;eY¯eR‚+Y;;;;;;;;;;;;x
+b_wierzchlas;ôuåekÉb¯e;;;;;;;;;;;;x
+b_osjakow;eYY“^+Y;;;;;;;;;;;;x
+b_ostrowek;eY¯eyrœæ—KQ;;;;;;;;;;;;x
+b_czarnozyly;p`Sú‹åeôu;;;;;;;;;;;;x
+b_przedborz;nfíp·V^åe;;;;;;;;;;;;x
+b_szadek;™lãNKQ;;;;;;;;;;;;x
+b_turek;şV÷–KQ;;;;;;;;;;;;x
+b_rozprza;WyQnf™l;;;;;;;;;;;;x
+b_goniadz;b<SÁyQ;;;;;;;;;;;;x
+b_rajgrod;ÉbO<hœ·V;;;;;;;;;;;;x
+b_krasnystaw;KQÉb¯e…Q¯eTX+Y;;;;;;;;;;;;x
+b_parwa;^Sæt;;;;;;;;;;;;x
+b_sulecia;Ï‚&Op`;;;;;;;;;;;;x
+PROV1587;şV+Y;;;;;;;;;;;;x
+PROV1588;ú‹OlšSKQ;;;;;;;;;;;;x
+PROV1589;<hS)R(ƒ;;;;;;;;;;;;x
+b_santok;QhXbKQ;;;;;;;;;;;;x
+b_driesen;·VÌ‘îh;;;;;;;;;;;;x
+b_bernstein;>Oi`¯efW;;;;;;;;;;;;x
+b_tempelburg;iOS!X;;;;;;;;;;;;x
+b_drawa;·VÉbæt;;;;;;;;;;;;x
+b_corlin;<h—g;;;;;;;;;;;;x
+b_gerwin;<h)n;;;;;;;;;;;;x
+b_puck;nf(ƒKQ;;;;;;;;;;;;x
+b_lebork;&O!X;;;;;;;;;;;;x
+b_lupawa;fk^æt;;;;;;;;;;;;x
+b_lebe;±ƒ;;;;;;;;;;;;x
+b_carbero;aSSW;;;;;;;;;;;;x
+b_swolow;¯eƒlƒl+Y;;;;;;;;;;;;x
+b_parchowy;^S—ôu;;;;;;;;;;;;x
+b_lebusa;±ƒ^(„;;;;;;;;;;;;x
+b_dobrilugk;Y>ObS<h;;;;;;;;;;;;x
+b_herrhut;ÑSi`áwyr;;;;;;;;;;;;x
+b_spremberg;Ìenf&O<h;;;;;;;;;;;;x
+b_ylustiaberg;ObSÌe‚„šN<h;;;;;;;;;;;;x
+b_priebus;nfÌ‘^¯e;;;;;;;;;;;;x
+b_bischolow;ÔkÍum+Y;;;;;;;;;;;;x
+b_schivelbein;-^æ—SÜbàV;;;;;;;;;;;;x

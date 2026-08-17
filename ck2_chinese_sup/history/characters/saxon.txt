@@ -1,0 +1,7832 @@
+98 = {
+  name = "1r∑V†R"  # Eadgar
+  dynasty = 100072
+  martial = 2
+  diplomacy = 10
+  intrigue = 10
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "honest"
+  trait = "grey_eminence"
+  father = 102
+  943.8.7 = {
+    birth = yes
+  }
+  975.7.8 = {
+    death = yes
+  }
+}
+99 = {
+  name = "1r∑VNS"  # Eadward
+  dynasty = 100072
+  martial = 6
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "saxon"
+  trait = "martial_cleric"
+  father = 98
+  962.1.1 = {
+    birth = yes
+  }
+  978.1.1 = {
+    give_nickname = nick_the_martyr
+  }
+  978.3.18 = {
+    death = yes
+  }
+}
+100 = {
+  name = "1r∑VNS"  # Eadward
+  dynasty = 100072
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "honest"
+  trait = "tough_soldier"
+  father = 7627
+  874.1.1 = {
+    birth = "874.1.1"
+  }
+  920.1.1 = {
+    give_nickname = nick_the_old
+  }
+  924.7.17 = {
+    death = "924.7.17"
+  }
+}
+101 = {
+  name = "1rÍèâZ"  # Edithia
+  female = yes
+  dynasty = 100072
+  martial = 6
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "envious"
+  trait = "fortune_builder"
+  father = 100
+  910.1.1 = {
+    birth = "910.1.1"
+  }
+  946.1.26 = {
+    death = "946.1.26"
+  }
+}
+102 = {
+  name = "1r∑VôÑ"  # Eadmund
+  dynasty = 100072
+  martial = 9
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "saxon"
+  trait = "honest"
+  trait = "tough_soldier"
+  father = 100
+  922.1.1 = {
+    birth = "922.1.1"
+  }
+  946.1.1 = {
+    give_nickname = nick_the_magnificent
+  }
+  946.5.26 = {
+    death = "946.5.26"
+  }
+}
+105 = {
+  name = "?ñS+Y	TôÇ"  # ∆lfgifu
+  female = yes
+  dynasty = 100052
+  martial = 8
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "flamboyant_schemer"
+  963.1.1 = {
+    birth = yes
+  }
+  1002.1.9 = {
+    death = {
+      death_reason = death_childbirth
+    }
+  }
+}
+106 = {
+  name = "√W^XS˜ñ∑V"  # ∆thelrÊd
+  dynasty = 100072
+  martial = 7
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "skilled_tactician"
+  father = 98
+  968.1.1 = {
+    birth = "968.1.1"
+  }
+  985.1.1 = {
+    add_spouse = 105
+  }
+  1002.3.1 = {
+    add_spouse = 259
+  }
+  1016.1.1 = {
+    give_nickname = nick_the_unready
+  }
+  1016.4.23 = {
+    death = "1016.4.23"
+  }
+}
+107 = {
+  name = "1rS∑VESN"  # Ealdgyth
+  female = yes
+  martial = 5
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "amateurish_plotter"
+  969.1.2 = {
+    birth = "969.1.2"
+  }
+  1016.1.11 = {
+    death = "1016.1.11"
+  }
+}
+108 = {
+  name = "1r∑VôÑ"  # Eadmund
+  dynasty = 100072
+  martial = 4
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "saxon"
+  trait = "amateurish_plotter"
+  father = 106
+  mother = 105
+  988.1.1 = {
+    birth = "988.1.1"
+  }
+  1016.1.1 = {
+    give_nickname = nick_the_ironside
+  }
+  1016.11.30 = {
+    death = "1016.11.30"
+  }
+}
+110 = {
+  name = "1r∑VNS"  # Eadward
+  dynasty = 100072
+  martial = 8
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "saxon"
+  trait = "slothful"
+  trait = "charitable"
+  trait = "skilled_tactician"
+  father = 108
+  1016.1.1 = {
+    birth = "1016.1.1"
+  }
+  1036.1.2 = {
+    add_spouse = 41101
+  }
+  1057.8.30 = {
+    death = "1057.8.30"
+  }
+}
+111 = {
+  name = "b∑V)n"  # Godwine
+  dynasty = 756
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "saxon"
+  trait = "thrifty_clerk"
+  father = 122
+  mother = 131
+  1049.1.1 = {
+    birth = "1049.1.1"
+  }
+  1066.10.14 = {
+    employer = 922
+  }
+  1095.1.1 = {
+    death = "1095.1.1"
+  }
+}
+112 = {
+  name = "1r∑V†R"  # Eadgar
+  dynasty = 100072
+  martial = 6
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "tough_soldier"
+  trait = "brave"
+  trait = "diligent"
+  trait = "gregarious"
+  trait = "kind"
+  father = 110
+  mother = 41101
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1057.8.30 = {
+    add_claim = k_england
+  }
+  1066.1.5 = {
+    employer = 122
+    trait = "hunter"
+  }
+  1066.10.14 = {
+    employer = 5644
+  }
+  1068.1.1 = {
+    employer = 984
+  }
+  1098.1.1 = {
+    employer = 1742
+  }
+  1126.1.1 = {
+    death = "1126.1.1"
+  }
+}
+113 = {
+  name = "õs<hLNyr"  # Margaret
+  female = yes
+  dynasty = 100072
+  martial = 4
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 4
+  religion = "catholic"
+  culture = "saxon"
+  trait = "cynical"
+  trait = "martial_cleric"
+  father = 110
+  mother = 41101
+  1045.1.1 = {
+    birth = "1045.1.1"
+  }
+  1057.8.30 = {
+    add_claim = k_england
+  }
+  1066.1.5 = {
+    employer = 122
+  }
+  1066.10.14 = {
+    employer = 5644
+  }
+  1068.1.1 = {
+    employer = 984
+  }
+  1093.11.16 = {
+    death = "1093.11.16"
+  }
+}
+114 = {
+  name = "1r∑VNS"  # Eadward
+  dynasty = 100072
+  martial = 5
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "saxon"
+  trait = "charitable"
+  trait = "chaste"
+  trait = "charismatic_negotiator"
+  father = 106
+  mother = 259
+  1003.1.1 = {
+    birth = "1003.1.1"
+  }
+  1016.1.1 = {
+    give_nickname = nick_the_confessor
+  }
+  1046.1.1 = {
+    add_spouse = 121
+  }
+  1066.1.5 = {
+    death = "1066.1.5"
+  }
+}
+115 = {
+  name = "1r∑VôÑ"  # Eadmund
+  dynasty = 756
+  martial = 6
+  diplomacy = 3
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "saxon"
+  trait = "tough_soldier"
+  father = 122
+  mother = 131
+  1049.12.10 = {
+    birth = "1049.12.10"
+  }
+  1066.10.14 = {
+    employer = 922
+  }
+  1085.1.1 = {
+    death = "1085.1.1"
+  }
+}
+116 = {
+  name = "lö<h™RØe"  # Magnus
+  dynasty = 756
+  martial = 4
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 4
+  religion = "catholic"
+  culture = "saxon"
+  trait = "tough_soldier"
+  father = 122
+  mother = 131
+  1051.6.10 = {
+    birth = "1051.6.10"
+  }
+  1066.10.14 = {
+    employer = 922
+  }
+  1091.1.1 = {
+    death = "1091.1.1"
+  }
+}
+117 = {
+  name = "KQÃëØeÇÑZ"  # Cristina
+  female = yes
+  dynasty = 100072
+  martial = 3
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "wroth"
+  trait = "chaste"
+  trait = "martial_cleric"
+  father = 110
+  mother = 41101
+  1047.5.8 = {
+    birth = "1047.5.8"
+  }
+  1057.8.30 = {
+    add_claim = k_england
+  }
+  1066.1.5 = {
+    employer = 122
+  }
+  1066.10.14 = {
+    employer = 5644
+  }
+  1068.1.1 = {
+    employer = 984
+  }
+  1099.11.19 = {
+    death = "1099.11.19"
+  }
+}
+120 = {
+  name = "b∑V)n"  # Godwine
+  dynasty = 756
+  martial = 6
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "fortune_builder"
+  993.1.1 = {
+    birth = "993.1.1"
+  }
+  1015.1.2 = {
+    add_spouse = 101534
+  }
+  1053.4.15 = {
+    death = "1053.4.15"
+  }
+}
+121 = {
+  name = "OÍèN"  # Edith
+  female = yes
+  dynasty = 756
+  martial = 4
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "wroth"
+  trait = "martial_cleric"
+  father = 120
+  mother = 101534
+  1021.1.1 = {
+    birth = "1021.1.1"
+  }
+  1075.12.18 = {
+    death = "1075.12.18"
+  }
+}
+122 = {
+  name = "»TW∑V"  # Harold
+  dynasty = 756
+  dna = medjejoencc
+  properties = ae00e0
+  martial = 8
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "saxon"
+  trait = "arbitrary"
+  trait = "proud"
+  trait = "skilled_tactician"
+  father = 120
+  mother = 101534
+  1022.1.1 = {
+    birth = yes
+  }
+  1048.1.1 = {
+    add_spouse = 131
+  }
+  1064.1.1 = {
+    remove_spouse = 131
+  }
+  1065.6.6 = {
+    add_spouse = 123
+  }
+  1066.9.14 = {
+    raise_levies = {
+      location = 62
+      force_mult = 0.66
+    }
+    effect = {
+      spawn_unit = {
+        province = 62
+        owner = ROOT
+        troops = {
+          heavy_infantry = {
+            100
+            100
+          }
+        }
+        attrition = 1.0
+      }
+      spawn_unit = {
+        province = 62
+        owner = ROOT
+        troops = {
+          heavy_infantry = {
+            50
+            50
+          }
+        }
+        attrition = 1.0
+      }
+      spawn_unit = {
+        province = 62
+        owner = ROOT
+        troops = {
+          heavy_infantry = {
+            50
+            50
+          }
+        }
+        attrition = 1.0
+      }
+    }
+  }
+  1066.10.14 = {
+    raise_levies = {
+      dismiss = yes
+      location = 62
+      force_mult = 1.0
+    }
+    death = {
+      death_reason = death_battle
+      killer = 140
+    }
+  }
+}
+123 = {
+  name = "√WS∑V	TN"  # ∆ldgyth
+  female = yes
+  dynasty = 560
+  martial = 4
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "saxon"
+  trait = "proud"
+  trait = "gluttonous"
+  trait = "amateurish_plotter"
+  father = 5642
+  mother = 161280
+  1036.1.1 = {
+    birth = "1036.1.1"
+  }
+  1066.12.14 = {
+    death = "1066.12.14"
+  }
+}
+124 = {
+  name = "XbØeÇÑ<h"  # Tostig
+  dynasty = 756
+  martial = 8
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "lustful"
+  trait = "greedy"
+  trait = "flamboyant_schemer"
+  father = 120
+  mother = 101534
+  1025.1.1 = {
+    birth = "1025.1.1"
+  }
+  1050.1.1 = {
+    add_spouse = 363
+  }
+  1066.1.1 = {
+    employer = 102531
+    effect = {
+      give_job_title = job_marshal
+    }
+  }
+  1066.1.1 = {
+    add_claim = c_york
+    add_claim = c_westmorland
+    add_claim = c_lincoln
+    add_claim = d_northumberland
+    add_claim = d_york
+  }
+  1066.9.25 = {
+    death = "1066.9.25"
+  }
+}
+125 = {
+  name = "Øeì^)R"  # Skuli
+  dynasty = 756
+  martial = 8
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "saxon"
+  trait = "patient"
+  trait = "thrifty_clerk"
+  father = 124
+  mother = 363
+  1052.1.2 = {
+    birth = "1052.1.2"
+  }
+  1066.1.1 = {
+    employer = 102531
+  }
+  1102.1.2 = {
+    death = "1102.1.2"
+  }
+}
+126 = {
+  name = "ÔQÇÑS"  # Ketil
+  dynasty = 756
+  martial = 6
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "hunchback"
+  trait = "thrifty_clerk"
+  father = 124
+  mother = 363
+  1054.1.2 = {
+    birth = "1054.1.2"
+  }
+  1066.1.1 = {
+    employer = 102531
+  }
+  1104.1.2 = {
+    death = "1104.1.2"
+  }
+}
+127 = {
+  name = "ES(Ñ"  # Gytha
+  female = yes
+  dynasty = 756
+  martial = 4
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "saxon"
+  trait = "martial_cleric"
+  father = 122
+  mother = 131
+  1053.1.2 = {
+    birth = "1053.1.2"
+  }
+  1098.1.2 = {
+    death = "1098.1.2"
+  }
+}
+128 = {
+  name = "Øe)n"  # Sveyn
+  dynasty = 756
+  martial = 8
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "saxon"
+  trait = "arbitrary"
+  trait = "tough_soldier"
+  father = 120
+  mother = 101534
+  1023.1.1 = {
+    birth = yes
+  }
+  1052.9.29 = {
+    death = "1052.9.29"
+  }
+}
+129 = {
+  name = "!ç^S∑V"  # Gunhild
+  female = yes
+  dynasty = 756
+  martial = 6
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "saxon"
+  trait = "martial_cleric"
+  father = 122
+  mother = 131
+  1055.1.2 = {
+    birth = "1055.1.2"
+  }
+  1097.1.2 = {
+    death = "1097.1.2"
+  }
+}
+130 = {
+  name = ")ReY+Yáe"  # Leofwine
+  dynasty = 756
+  martial = 6
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "thrifty_clerk"
+  father = 120
+  mother = 101534
+  1038.1.1 = {
+    birth = "1038.1.1"
+  }
+  1066.10.14 = {
+    death = "1066.10.14"
+  }
+}
+131 = {
+  name = "√WS∑V	TN"  # ∆ldgyth
+  female = yes
+  dynasty = 363
+  martial = 4
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "fair"
+  trait = "fortune_builder"
+  1025.6.6 = {
+    birth = "1025.6.6"
+  }
+  1086.1.2 = {
+    death = "1086.1.2"
+  }
+}
+132 = {
+  name = "	TSØe"  # Gyrth
+  dynasty = 756
+  martial = 9
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "saxon"
+  trait = "patient"
+  trait = "brave"
+  trait = "honest"
+  trait = "skilled_tactician"
+  father = 120
+  mother = 101534
+  1032.1.1 = {
+    birth = "1032.1.1"
+  }
+  1050.1.1 = {
+    trait = "hunter"
+  }
+  1066.10.14 = {
+    death = "1066.10.14"
+  }
+}
+135 = {
+  name = "√WS∑V	TN"  # ∆ldgyth
+  female = yes
+  dynasty = 753
+  martial = 7
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "saxon"
+  trait = "cynical"
+  trait = "fortune_builder"
+  996.1.2 = {
+    birth = "996.1.2"
+  }
+  1015.1.7 = {
+    death = "1015.1.7"
+  }
+}
+186 = {
+  name = "ÊtS^XeY+Y"  # Waltheof
+  dynasty = 744
+  martial = 5
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "saxon"
+  trait = "brave"
+  trait = "flamboyant_schemer"
+  955.1.2 = {
+    birth = "955.1.2"
+  }
+  1001.1.2 = {
+    death = "1001.1.2"
+  }
+}
+188 = {
+  name = "LNkçyr˜ñ∑V"  # Uhtred
+  dynasty = 744
+  martial = 7
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "flamboyant_schemer"
+  father = 186
+  974.1.1 = {
+    birth = "974.1.1"
+  }
+  990.1.1 = {
+    add_spouse = 161263
+  }
+  1010.1.1 = {
+    add_spouse = 161261
+  }
+  1016.1.1 = {
+    death = "1016.1.1"
+  }
+}
+189 = {
+  name = "1rS∑VESN"  # Ealdgyth
+  female = yes
+  dynasty = 744
+  martial = 6
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "saxon"
+  trait = "scholarly_theologian"
+  father = 188
+  mother = 161261
+  1015.1.1 = {
+    birth = "1015.1.1"
+  }
+  1065.1.1 = {
+    death = "1065.1.1"
+  }
+}
+190 = {
+  name = "√WY+Y"  # Eadulf
+  dynasty = 744
+  martial = 4
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "saxon"
+  trait = "honest"
+  trait = "just"
+  trait = "zealous"
+  trait = "amateurish_plotter"
+  father = 188
+  mother = 161263
+  992.1.1 = {
+    birth = "992.1.1"
+  }
+  1041.1.1 = {
+    death = "1041.1.1"
+  }
+}
+191 = {
+  name = "eY1t+Y"  # Osulf
+  dynasty = 744
+  martial = 7
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "saxon"
+  trait = "temperate"
+  trait = "wroth"
+  trait = "amateurish_plotter"
+  father = 190
+  1032.1.1 = {
+    birth = "1032.1.1"
+  }
+  1069.1.1 = {
+    death = "1069.1.1"
+  }
+}
+192 = {
+  name = "1r∑V˜ñ∑V"  # Ealdred
+  dynasty = 744
+  martial = 5
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "underhanded_rogue"
+  father = 188
+  mother = 161263
+  991.1.1 = {
+    birth = "991.1.1"
+  }
+  1039.1.1 = {
+    death = "1039.1.1"
+  }
+}
+193 = {
+  name = "√WSôÇçÖ∑V"  # ∆lflÊd
+  female = yes
+  dynasty = 744
+  martial = 6
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "charismatic_negotiator"
+  father = 192
+  1023.1.1 = {
+    birth = "1023.1.1"
+  }
+  1055.1.1 = {
+    death = "1055.1.1"
+  }
+}
+196 = {
+  name = "ØeÉl∑V"  # Siward
+  dynasty = 745
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "brave"
+  trait = "tough_soldier"
+  1010.1.2 = {
+    birth = "1010.1.2"
+  }
+  1046.1.2 = {
+    add_spouse = 193
+  }
+  1055.1.2 = {
+    death = "1055.1.2"
+  }
+}
+198 = {
+  name = "ÊtS^XeY+Y"  # Waltheof
+  dynasty = 745
+  martial = 4
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "deceitful"
+  trait = "underhanded_rogue"
+  trait = "wroth"
+  father = 196
+  mother = 193
+  1050.1.2 = {
+    birth = "1050.1.2"
+  }
+  1070.1.1 = {
+    add_spouse = 317
+  }
+  1076.1.1 = {
+    death = "1076.1.1"
+  }
+}
+199 = {
+  name = "´É∑V"  # Maud
+  female = yes
+  dynasty = 745
+  martial = 6
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "saxon"
+  trait = "zealous"
+  trait = "martial_cleric"
+  father = 198
+  mother = 317
+  1074.1.1 = {
+    birth = "1074.1.1"
+  }
+  1130.4.23 = {
+    death = "1130.4.23"
+  }
+}
+131601 = {
+  name = "√W∑VN"  # ∆thelwine
+  dynasty = 100056
+  martial = 4
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "humble"
+  trait = "scholarly_theologian"
+  1025.1.1 = {
+    birth = "1025.1.1"
+  }
+  1072.1.1 = {
+    death = "1072.1.1"
+  }
+}
+41002 = {
+  name = "»TW∑V"  # Harold
+  dynasty = 756
+  martial = 6
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "twin"
+  father = 122
+  mother = 123
+  1066.11.8 = {
+    birth = "1066.11.8"
+    employer = 102532
+  }
+  1069.4.28 = {
+    employer = 102534
+  }
+  1093.1.1 = {
+    employer = 102577
+  }
+  1094.6.6 = {
+    employer = 202511
+  }
+  1112.4.16 = {
+    death = "1112.4.16"
+  }
+}
+41003 = {
+  name = "LNS+Y"  # Ulf
+  dynasty = 756
+  martial = 4
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "twin"
+  father = 122
+  mother = 123
+  1066.11.8 = {
+    birth = "1066.11.8"
+    employer = 140
+  }
+  1087.9.9 = {
+    employer = 142
+  }
+  1103.6.3 = {
+    death = "1103.6.3"
+  }
+}
+511 = {
+  name = "√WS	TZ"  # Elgiva
+  female = yes
+  dynasty = 100072
+  martial = 3
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 9
+  religion = "catholic"
+  culture = "saxon"
+  trait = "scholarly_theologian"
+  father = 100
+  922.1.2 = {
+    birth = "922.1.2"
+  }
+  976.1.2 = {
+    death = "976.1.2"
+  }
+}
+5604 = {
+  name = "ØeÇÑr^∑V"  # Stigand
+  dynasty = 565
+  martial = 4
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 5
+  religion = "catholic"
+  culture = "saxon"
+  trait = "mastermind_theologian"
+  995.1.1 = {
+    birth = "995.1.1"
+  }
+  1072.1.1 = {
+    death = "1072.1.1"
+  }
+}
+5624 = {
+  name = "√W∑VN"  # ∆thelwine
+  martial = 7
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "saxon"
+  trait = "arbitrary"
+  trait = "hunchback"
+  trait = "scholarly_theologian"
+  1016.1.1 = {
+    birth = "1016.1.1"
+  }
+  1066.1.1 = {
+    death = "1066.1.1"
+  }
+}
+5640 = {
+  name = "NgeYVÃëKQ"  # Leofric
+  dynasty = 560
+  martial = 6
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "saxon"
+  trait = "envious"
+  trait = "humble"
+  trait = "cynical"
+  trait = "skilled_tactician"
+  968.1.1 = {
+    birth = "968.1.1"
+  }
+  1018.1.1 = {
+    add_spouse = 161279
+  }
+  1057.10.30 = {
+    death = "1057.10.30"
+  }
+}
+5642 = {
+  name = "?ñ+Y†R"  # ∆lfgar
+  dynasty = 560
+  martial = 7
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "saxon"
+  trait = "skilled_tactician"
+  father = 5640
+  mother = 161279
+  1019.1.1 = {
+    birth = "1019.1.1"
+  }
+  1036.1.1 = {
+    add_spouse = 161280
+  }
+  1062.1.1 = {
+    death = "1062.1.1"
+  }
+}
+5644 = {
+  name = "√W∑V)n"  # Eadwin
+  dynasty = 560
+  martial = 7
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "saxon"
+  trait = "greedy"
+  trait = "brave"
+  trait = "slothful"
+  trait = "charismatic_negotiator"
+  trait = "ambitious"
+  father = 5642
+  mother = 161280
+  1044.1.1 = {
+    birth = "1044.1.1"
+  }
+  1066.1.1 = {
+    trait = "hunter"
+  }
+  1071.1.1 = {
+    death = "1071.1.1"
+  }
+}
+5660 = {
+  name = "´ÉaSS"  # Morcar
+  dynasty = 560
+  martial = 8
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "saxon"
+  trait = "arbitrary"
+  trait = "brave"
+  trait = "flamboyant_schemer"
+  trait = "ambitious"
+  father = 5642
+  mother = 161280
+  1046.1.1 = {
+    birth = "1046.1.1"
+  }
+  1066.1.1 = {
+    trait = "hunter"
+  }
+  1078.1.1 = {
+    death = "1078.1.1"
+  }
+}
+6890 = {
+  name = "√WKQ<h)n"  # Ecgwyn
+  female = yes
+  religion = "catholic"
+  culture = saxon
+  828.1.1 = {
+    birth = yes
+  }
+  894.1.1 = {
+    death = yes
+  }
+}
+6891 = {
+  name = "^S<hV±É∑V"  # BurgflÊd
+  female = yes
+  religion = "catholic"
+  culture = saxon
+  845.1.1 = {
+    birth = yes
+  }
+  899.1.1 = {
+    death = yes
+  }
+}
+7387 = {
+  name = "wmKQN–cSæè"  # Hextilda
+  female = yes
+  dynasty = 745
+  religion = "catholic"
+  culture = "saxon"
+  father = 7396
+  mother = 7388
+  1129.1.1 = {
+    birth = "1129.1.1"
+  }
+  1185.1.1 = {
+    death = "1185.1.1"
+  }
+}
+7396 = {
+  name = "LNkçyr˜ñ∑V"  # Uhtred
+  dynasty = 745
+  religion = "catholic"
+  culture = "saxon"
+  father = 198
+  mother = 317
+  1073.1.1 = {
+    birth = "1073.1.1"
+  }
+  1085.1.1 = {
+    add_spouse = 7388
+  }
+  1130.1.1 = {
+    death = "1130.1.1"
+  }
+}
+7627 = {
+  name = "?ñSV˜ñ∑V"  # Alfred
+  dynasty = 100072
+  martial = 8
+  diplomacy = 9
+  intrigue = 7
+  stewardship = 8
+  learning = 6
+  religion = catholic
+  culture = saxon
+  trait = honest
+  trait = just
+  trait = gregarious
+  trait = diligent
+  trait = quick
+  trait = brilliant_strategist
+  father = 33355
+  mother = 252210
+  849.1.1 = {
+    birth = yes
+  }
+  890.1.1 = {
+    give_nickname = nick_the_great
+  }
+  899.10.26 = {
+    death = yes
+  }
+}
+7629 = {
+  name = "√WSôÇNâÉN"  # Elfthryth
+  female = yes
+  dynasty = 100072
+  martial = 3
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 9
+  religion = "catholic"
+  culture = "saxon"
+  trait = "scholarly_theologian"
+  father = 7627
+  870.1.1 = {
+    birth = "870.1.1"
+  }
+  929.6.7 = {
+    death = "929.6.7"
+  }
+}
+82001 = {
+  name = "√W∑VLN+Y"  # Eadulf
+  dynasty = 744
+  martial = 7
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "saxon"
+  father = 82002
+  1040.1.2 = {
+    birth = "1040.1.2"
+  }
+  1087.1.2 = {
+    death = "1087.1.2"
+  }
+}
+82002 = {
+  name = "<hØe^yrÃëGY"  # Gospatric
+  dynasty = 744
+  martial = 5
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "saxon"
+  father = 188
+  mother = 161263
+  1000.1.1 = {
+    birth = "1000.1.1"
+  }
+  1050.1.1 = {
+    death = "1050.1.1"
+  }
+}
+82040 = {
+  name = "OS+YØefW"  # Wulfstan
+  martial = 4
+  diplomacy = 9
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "charitable"
+  trait = "scholarly_theologian"
+  1008.1.2 = {
+    birth = "1008.1.2"
+  }
+  1095.1.20 = {
+    death = "1095.1.20"
+  }
+}
+82057 = {
+  name = "XbW∑V"  # Thorold
+  dynasty = 9112
+  martial = 6
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  1028.1.1 = {
+    birth = "1028.1.1"
+  }
+  1084.1.1 = {
+    death = "1084.1.1"
+  }
+}
+82058 = {
+  name = "2óâ"  # Lucy
+  female = yes
+  dynasty = 9112
+  martial = 5
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 9
+  religion = "catholic"
+  culture = "saxon"
+  father = 82057
+  1065.1.2 = {
+    birth = "1065.1.2"
+  }
+  1138.12.1 = {
+    death = "1138.12.1"
+  }
+}
+85013 = {
+  name = "OS+Y˙ãØe"  # Wulfnoth
+  dynasty = 756
+  martial = 6
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "amateurish_plotter"
+  father = 120
+  mother = 101534
+  1040.1.1 = {
+    birth = "1040.1.1"
+  }
+  1094.2.1 = {
+    death = "1094.2.1"
+  }
+}
+90027 = {
+  name = "√W∑VÃëKQ"  # Eadric
+  dynasty = 20022
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "wroth"
+  trait = "brave"
+  trait = "tough_soldier"
+  trait = "ambitious"
+  father = 161278
+  1038.1.1 = {
+    birth = "1038.1.1"
+  }
+  1088.1.1 = {
+    death = "1088.1.1"
+  }
+}
+90028 = {
+  name = "kçÃëÉl∑V"  # Hereward
+  dynasty = 20049
+  martial = 11
+  diplomacy = 9
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "saxon"
+  trait = "skilled_tactician"
+  trait = "deceitful"
+  trait = "proud"
+  trait = "ambitious"
+  1044.1.2 = {
+    birth = "1044.1.2"
+  }
+  1066.1.2 = {
+    add_spouse = 90029
+  }
+  1094.1.2 = {
+    death = "1094.1.2"
+  }
+}
+90029 = {
+  name = "OÍèN"  # Edith
+  female = yes
+  martial = 6
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "thrifty_clerk"
+  1046.1.2 = {
+    birth = "1046.1.2"
+  }
+  1096.1.2 = {
+    death = "1096.1.2"
+  }
+}
+90124 = {
+  name = "√W∑V	TôÇ"  # Eadgifu
+  female = yes
+  dynasty = 100072
+  martial = 3
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 9
+  religion = "catholic"
+  culture = "saxon"
+  father = 100
+  902.1.2 = {
+    birth = "902.1.2"
+  }
+  956.1.2 = {
+    death = "956.1.2"
+  }
+}
+33350 = {
+  name = "√W^XSØeU"  # ∆thelstan
+  dna = dwuqrcylhrw
+  prp = amq00b00000000000000000000000000000000
+  disallow_random_traits = yes
+  diplomacy = 9
+  martial = 8
+  intrigue = 5
+  stewardship = 6
+  learning = 5
+  trait = scholarly_theologian
+  trait = erudite
+  trait = ambitious
+  trait = chaste
+  trait = diligent
+  trait = proud
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 100
+  893.1.1 = {
+    birth = "893.1.1"
+  }
+  927.1.1 = {
+    create_bloodline = {
+      type = athelstan
+      has_dlc = "Holy Fury"
+    }
+  }
+  936.1.1 = {
+    capital = c_winchester
+  }
+  937.1.1 = {
+    capital = c_winchester
+  }
+  939.10.27 = {
+    death = "939.10.27"
+  }
+}
+33351 = {
+  name = "√WöN∑V˜ñ∑V"  # Eadred
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 100
+  923.1.1 = {
+    birth = "923.1.1"
+  }
+  955.11.23 = {
+    death = "955.11.23"
+  }
+}
+33352 = {
+  name = "1r∑VZ"  # Eadwig
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 102
+  941.1.1 = {
+    birth = "941.1.1"
+  }
+  959.1.1 = {
+    give_nickname = nick_the_fair
+  }
+  959.10.1 = {
+    death = "959.10.1"
+  }
+}
+33354 = {
+  name = "√W<h>Oyr"  # Ecgberht
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205189
+  769.1.1 = {
+    birth = "769.1.1"
+  }
+  839.1.1 = {
+    death = "839.1.1"
+    dynasty = 100072
+  }
+}
+33355 = {
+  name = "√W^XSÉl+Y"  # ∆thelwulf
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 33354
+  795.1.1 = {
+    birth = yes
+  }
+  830.1.1 = {
+    add_spouse = 252210
+  }
+  858.1.13 = {
+    death = yes
+  }
+}
+33356 = {
+  name = "√W^XSÙT∑V"  # ∆thelbald
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 33355
+  mother = 252210
+  834.1.1 = {
+    birth = yes
+  }
+  860.12.20 = {
+    death = yes
+  }
+}
+33357 = {
+  name = "Oyr>Oyr"  # ∆thelbert
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 33355
+  mother = 252210
+  836.1.1 = {
+    birth = "836.1.1"
+  }
+  865.9.1 = {
+    death = "865.9.1"
+  }
+}
+33358 = {
+  name = "√W^XS˜ñ∑V"  # ∆thelred
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 33355
+  mother = 252210
+  840.1.1 = {
+    birth = "840.1.1"
+  }
+  871.1.1 = {
+    death = "871.1.1"
+  }
+}
+129058 = {
+  name = "(Ñ∆Yçg"  # Samson
+  religion = "catholic"
+  culture = "saxon"
+  trait = "lustful"
+  1056.1.1 = {
+    birth = "1056.1.1"
+  }
+  1112.5.5 = {
+    death = "1112.5.5"
+  }
+}
+151014 = {
+  name = "?ñ˙ãS∑V"  # Arnold
+  religion = "catholic"
+  culture = "saxon"
+  trait = "trusting"
+  trait = "detached_priest"
+  1058.1.1 = {
+    birth = "1058.1.1"
+  }
+  1124.5.24 = {
+    death = "1124.5.24"
+  }
+}
+129059 = {
+  name = "–cLN+Y"  # Theulf
+  religion = "catholic"
+  culture = "saxon"
+  trait = "greedy"
+  1056.1.1 = {
+    birth = "1056.1.1"
+  }
+  1100.1.1 = {
+    culture = "english"
+  }
+  1123.10.20 = {
+    death = "1123.10.20"
+  }
+}
+32703 = {
+  name = "√W∑VôÑ"  # Edmund
+  religion = "catholic"
+  culture = "saxon"
+  trait = "martial_cleric"
+  1060.1.1 = {
+    birth = "1060.1.1"
+  }
+  1100.1.1 = {
+    culture = "english"
+  }
+  1125.1.1 = {
+    death = "1125.1.1"
+  }
+}
+161260 = {
+  name = "√WS+YN"  # ∆lfwine
+  dynasty = 490
+  religion = "catholic"
+  culture = "saxon"
+  trait = "legit_bastard"
+  trait = "chaste"
+  trait = "detached_priest"
+  father = 101513
+  1036.12.6 = {
+    birth = "1036.12.6"
+  }
+  1040.3.17 = {
+    add_claim = k_england
+  }
+  1060.1.1 = {
+    employer = 336
+  }
+  1083.7.4 = {
+    death = "1083.7.4"
+  }
+}
+161261 = {
+  name = "?ñS+Y	TôÇ"  # ∆lfgifu
+  female = yes
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 106
+  mother = 105
+  990.1.1 = {
+    birth = "990.1.1"
+  }
+  1040.1.1 = {
+    death = "1040.1.1"
+  }
+}
+161262 = {
+  name = "b∑V	TôÇ"  # Godgifu
+  female = yes
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 106
+  mother = 259
+  1004.1.1 = {
+    birth = "1004.1.1"
+  }
+  1047.1.1 = {
+    death = "1047.1.1"
+  }
+}
+161263 = {
+  name = "√WKQôÇÃëæè"  # Ecgfrida
+  female = yes
+  religion = "catholic"
+  culture = "saxon"
+  972.1.1 = {
+    birth = "972.1.1"
+  }
+  1005.1.1 = {
+    death = "1005.1.1"
+  }
+}
+161264 = {
+  name = "?ñS+Y	TôÇ"  # ∆lfgifu
+  female = yes
+  dynasty = 744
+  religion = "catholic"
+  culture = "saxon"
+  father = 188
+  mother = 161261
+  1016.1.1 = {
+    birth = "1016.1.1"
+  }
+  1065.1.1 = {
+    death = "1065.1.1"
+  }
+}
+161265 = {
+  name = "1r∑V†R"  # ∆thelgar
+  religion = "catholic"
+  culture = "saxon"
+  1010.1.1 = {
+    birth = "1010.1.1"
+  }
+  1035.1.1 = {
+    add_spouse = 161264
+  }
+  1060.1.1 = {
+    death = "1060.1.1"
+  }
+}
+161266 = {
+  name = "ØeÉl∑V"  # Siward
+  dynasty = 744
+  religion = "catholic"
+  culture = "saxon"
+  father = 161265
+  mother = 161264
+  1036.1.1 = {
+    birth = "1036.1.1"
+  }
+  1087.1.1 = {
+    death = "1087.1.1"
+  }
+}
+161267 = {
+  name = "1r∑V˜ñ∑V"  # Ealdred
+  dynasty = 744
+  religion = "catholic"
+  culture = "saxon"
+  father = 161265
+  mother = 161264
+  1038.1.1 = {
+    birth = "1038.1.1"
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+161268 = {
+  name = "»TSäv"  # Halden
+  dynasty = 744
+  religion = "catholic"
+  culture = "saxon"
+  father = 190
+  1035.1.1 = {
+    birth = "1035.1.1"
+  }
+  1085.1.1 = {
+    death = "1085.1.1"
+  }
+}
+161269 = {
+  name = "√WS∑V	TN"  # ∆ldgyth
+  female = yes
+  dynasty = 744
+  religion = "catholic"
+  culture = "saxon"
+  father = 192
+  1025.1.1 = {
+    birth = "1025.1.1"
+  }
+  1075.1.1 = {
+    death = "1075.1.1"
+  }
+}
+161270 = {
+  name = "Ãë<hLN+Y"  # Ligulf
+  dynasty = 562
+  religion = "catholic"
+  culture = "saxon"
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1048.1.1 = {
+    add_spouse = 161269
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+161271 = {
+  name = "LNkçyr˜ñ∑V"  # Uhtred
+  dynasty = 562
+  religion = "catholic"
+  culture = "saxon"
+  father = 161270
+  mother = 161269
+  1049.1.1 = {
+    birth = "1049.1.1"
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+161272 = {
+  name = "´ÉaSS"  # Morcar
+  dynasty = 562
+  religion = "catholic"
+  culture = "saxon"
+  father = 161270
+  mother = 161269
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+161273 = {
+  name = "Ãë<hLN+Y"  # Ligulf
+  dynasty = 562
+  religion = "catholic"
+  culture = "saxon"
+  father = 161271
+  1066.1.1 = {
+    birth = "1066.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+161274 = {
+  name = "ES(Ñ"  # Gytha
+  female = yes
+  dynasty = 756
+  religion = "catholic"
+  culture = "saxon"
+  father = 120
+  mother = 101534
+  1031.1.1 = {
+    birth = yes
+  }
+  1082.1.1 = {
+    death = "1082.1.1"
+  }
+}
+161275 = {
+  name = "√WntSÃëKQ"  # ∆thelric
+  dynasty = 20022
+  religion = "catholic"
+  culture = "saxon"
+  960.1.1 = {
+    birth = "960.1.1"
+  }
+  1010.1.1 = {
+    death = "1010.1.1"
+  }
+}
+161276 = {
+  name = "√W∑VÃëKQ"  # Eadric
+  dynasty = 20022
+  religion = "catholic"
+  culture = "saxon"
+  father = 161275
+  980.1.1 = {
+    birth = "980.1.1"
+  }
+  1009.1.1 = {
+    add_spouse = 161277
+  }
+  1017.12.25 = {
+    death = "1017.12.25"
+  }
+}
+161277 = {
+  name = "1r?ñ∑VESN"  # Eadgyth
+  female = yes
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 106
+  mother = 105
+  992.1.1 = {
+    birth = "992.1.1"
+  }
+  1021.11.11 = {
+    death = "1021.11.11"
+  }
+}
+161278 = {
+  name = "?ñSVÃëKQ"  # ∆lfric
+  dynasty = 20022
+  religion = "catholic"
+  culture = "saxon"
+  father = 161275
+  990.1.1 = {
+    birth = "990.1.1"
+  }
+  1040.1.1 = {
+    death = "1040.1.1"
+  }
+}
+161279 = {
+  name = "b∑V	TôÇ"  # Godgifu
+  female = yes
+  religion = "catholic"
+  culture = "saxon"
+  1002.1.1 = {
+    birth = "1002.1.1"
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+161280 = {
+  name = "√WS	TôÇ"  # ∆lgifu
+  female = yes
+  religion = "catholic"
+  culture = "saxon"
+  1020.1.1 = {
+    birth = "1020.1.1"
+  }
+  1070.1.1 = {
+    death = "1070.1.1"
+  }
+}
+40420 = {
+  name = "»TW∑V"  # Harold
+  dynasty = 380
+  martial = 8
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 3
+  religion = "catholic"
+  culture = "saxon"
+  father = 40418
+  mother = 161274
+  1052.1.1 = {
+    birth = "1052.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+161451 = {
+  name = "?ñ∑VÃë(Ñ"  # Adelisa
+  female = yes
+  dynasty = 745
+  religion = "catholic"
+  culture = "saxon"
+  father = 198
+  mother = 317
+  1076.1.1 = {
+    birth = "1076.1.1"
+  }
+  1128.1.1 = {
+    death = "1128.1.1"
+  }
+}
+167002 = {
+  name = "»T∑^"  # Hacon
+  dynasty = 756
+  religion = "catholic"
+  culture = "saxon"
+  trait = "legit_bastard"
+  father = 128
+  1047.1.1 = {
+    birth = "1047.1.1"
+  }
+  1066.1.1 = {
+    add_claim = d_lancaster
+  }
+  1091.1.1 = {
+    death = "1091.1.1"
+  }
+}
+167003 = {
+  name = "?ñS+Y†R"  # ∆lfgar
+  dynasty = 756
+  religion = "catholic"
+  culture = "saxon"
+  trait = "chaste"
+  trait = "detached_priest"
+  father = 120
+  mother = 101534
+  1035.1.1 = {
+    birth = "1035.1.1"
+  }
+  1066.1.5 = {
+    employer = 91173
+  }
+  1078.1.1 = {
+    death = "1078.1.1"
+  }
+}
+167004 = {
+  name = "?ñS+Y	TôÇ"  # ∆lfgifu
+  female = yes
+  dynasty = 756
+  religion = "catholic"
+  culture = "saxon"
+  father = 120
+  mother = 101534
+  1043.1.1 = {
+    birth = "1043.1.1"
+  }
+  1065.11.1 = {
+    death = "1065.11.1"
+  }
+}
+163064 = {
+  name = "1r∑VôÑ"  # Eadmund
+  dynasty = 626
+  religion = "catholic"
+  culture = "saxon"
+  father = 205021
+  840.1.1 = {
+    birth = "840.1.1"
+  }
+  866.11.2 = {
+    raise_levies = {
+      location = 70
+      force_mult = 2.0
+    }
+  }
+  869.11.20 = {
+    death = "869.11.20"
+  }
+}
+163102 = {
+  name = "^S<h˜ñ∑V"  # Burghred
+  dynasty = 813
+  religion = "catholic"
+  culture = "saxon"
+  father = 205100
+  830.1.1 = {
+    birth = yes
+  }
+  855.1.1 = {
+    add_spouse = 168594
+  }
+  874.1.1 = {
+    death = yes
+  }
+}
+163103 = {
+  name = "√W…b"  # ∆lla
+  dynasty = 814
+  religion = "catholic"
+  culture = "saxon"
+  father = 205252
+  martial = 5
+  diplomacy = 3
+  stewardship = 3
+  intrigue = 6
+  learning = 5
+  trait = deceitful
+  trait = cruel
+  trait = arbitrary
+  trait = paranoid
+  trait = intricate_webweaver
+  824.1.1 = {
+    birth = yes
+  }
+  840.1.1 = {
+    add_spouse = 6890
+  }
+  866.11.2 = {
+    raise_levies = {
+      location = 52
+      force_mult = 2.0
+    }
+  }
+  867.3.21 = {
+    death = yes
+  }
+}
+6861 = {
+  name = "^±É≈ñ"  # BlÊja
+  female = yes
+  dynasty = 814
+  religion = "catholic"
+  culture = saxon
+  father = 163103
+  mother = 6890
+  841.1.1 = {
+    birth = yes
+  }
+  893.1.1 = {
+    death = yes
+  }
+}
+6875 = {
+  name = "?ñS+Y†R"  # ∆lfgar
+  dynasty = 814
+  religion = "catholic"
+  culture = saxon
+  father = 163103
+  mother = 6890
+  843.1.1 = {
+    birth = yes
+  }
+  866.1.1 = {
+    add_spouse = 6891
+  }
+  867.3.21 = {
+    death = yes
+  }
+}
+163120 = {
+  name = "√WSY+Y"  # Eardulf
+  religion = "catholic"
+  culture = "saxon"
+  learning = 5
+  trait = scholarly_theologian
+  829.1.1 = {
+    birth = "829.1.1"
+  }
+  900.1.1 = {
+    death = "900.1.1"
+  }
+}
+163121 = {
+  name = "eYØeN"  # Oswine
+  religion = "catholic"
+  culture = "saxon"
+  830.1.1 = {
+    birth = "830.1.1"
+  }
+  880.1.1 = {
+    death = "880.1.1"
+  }
+}
+163122 = {
+  name = "?ñS+YÉl∑V"  # ∆lfwald
+  religion = "catholic"
+  culture = "saxon"
+  833.1.1 = {
+    birth = "833.1.1"
+  }
+  880.1.1 = {
+    death = "880.1.1"
+  }
+}
+163123 = {
+  name = "(ÑKQØe…b∑V"  # SÊxrÊd
+  religion = "catholic"
+  culture = "saxon"
+  835.1.1 = {
+    birth = "835.1.1"
+  }
+  885.1.1 = {
+    death = "885.1.1"
+  }
+}
+159465 = {
+  name = "?ñSV˜ñ∑V"  # ∆lfrÊd
+  religion = "catholic"
+  culture = "saxon"
+  dynasty = 100031
+  father = 159464
+  970.1.1 = {
+    birth = "970.1.1"
+  }
+  1020.1.1 = {
+    death = "1020.1.1"
+  }
+}
+159470 = {
+  name = "b∑V)n"  # Godwine
+  religion = "catholic"
+  culture = "saxon"
+  dynasty = 100031
+  father = 159465
+  1014.1.1 = {
+    birth = "1014.1.1"
+  }
+  1070.1.1 = {
+    death = "1070.1.1"
+  }
+}
+159471 = {
+  name = "kç“Rçyr"  # Hereberht
+  religion = "catholic"
+  culture = "saxon"
+  dynasty = 100031
+  father = 159470
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1100.1.1 = {
+    death = "1100.1.1"
+  }
+}
+168594 = {
+  name = "√W∑VNÙuN"  # ∆thelswith
+  female = yes
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 33355
+  mother = 252210
+  838.1.1 = {
+    birth = yes
+  }
+  888.1.1 = {
+    death = yes
+  }
+}
+180665 = {
+  name = "ÍèLNØeƒrÍèyr"  # Deusdedit
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  600.1.1 = {
+    birth = yes
+  }
+  664.7.14 = {
+    death = yes
+  }
+}
+180667 = {
+  name = "çSyrÉl∑V"  # Berhtwald
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  650.1.1 = {
+    birth = yes
+  }
+  731.1.13 = {
+    death = yes
+  }
+}
+180668 = {
+  name = "TXyrN"  # Tatwine
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  670.1.1 = {
+    birth = yes
+  }
+  734.7.30 = {
+    death = yes
+  }
+}
+180669 = {
+  name = "˙ãyrwm∆Y"  # Nothhelm
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  675.1.1 = {
+    birth = yes
+  }
+  739.10.17 = {
+    death = yes
+  }
+}
+180670 = {
+  name = "aSØe>Oyr"  # Cuthbert
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  690.1.1 = {
+    birth = yes
+  }
+  760.10.26 = {
+    death = yes
+  }
+}
+180671 = {
+  name = "^Ãë<h)n"  # Bregowine
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  700.1.1 = {
+    birth = yes
+  }
+  765.8.1 = {
+    death = yes
+  }
+}
+180672 = {
+  name = "6wi`>Oyr"  # Jaenbert
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  715.1.1 = {
+    birth = yes
+  }
+  792.8.12 = {
+    death = yes
+  }
+}
+180673 = {
+  name = "√W∑V»T∑V"  # ∆thelhard
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  730.1.1 = {
+    birth = yes
+  }
+  805.5.12 = {
+    death = yes
+  }
+}
+180674 = {
+  name = "OS+Y˜ñ∑V"  # Wulfred
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  760.1.1 = {
+    birth = yes
+  }
+  832.3.24 = {
+    death = yes
+  }
+}
+180675 = {
+  name = "âeY˙ãØe"  # Ceolnoth
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  790.1.1 = {
+    birth = yes
+  }
+  870.2.4 = {
+    death = yes
+  }
+}
+180676 = {
+  name = "1r∑V˜ñ∑V"  # Aethelred
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  820.1.1 = {
+    birth = yes
+  }
+  888.6.30 = {
+    death = yes
+  }
+}
+180677 = {
+  name = "nf)R<hôÑ"  # Plegmund
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  856.5.30 = {
+    birth = yes
+  }
+  923.8.2 = {
+    death = yes
+  }
+}
+180678 = {
+  name = "âR^X∆Y"  # ∆thelm
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  863.4.4 = {
+    birth = yes
+  }
+  926.1.8 = {
+    death = yes
+  }
+}
+180679 = {
+  name = "OS+Ywm∆Y"  # Wulfhelm
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  870.1.1 = {
+    birth = yes
+  }
+  941.2.12 = {
+    death = yes
+  }
+}
+180681 = {
+  name = "√WS+Yâ<h"  # ∆lfsige
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  895.1.1 = {
+    birth = yes
+  }
+  959.1.1 = {
+    death = yes
+  }
+}
+180682 = {
+  name = "‹bSyrwm∆Y"  # Byrhthelm
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  910.1.1 = {
+    birth = yes
+  }
+  973.5.15 = {
+    death = yes
+  }
+}
+180683 = {
+  name = "UØefW"  # Dunstan
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  909.1.1 = {
+    birth = yes
+  }
+  988.5.19 = {
+    death = yes
+  }
+}
+180684 = {
+  name = "?ñ∑V†R"  # ∆thelgar
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  915.1.1 = {
+    birth = yes
+  }
+  990.2.13 = {
+    death = yes
+  }
+}
+180685 = {
+  name = "â<hÃëKQ"  # Sigeric
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  930.1.1 = {
+    birth = yes
+  }
+  994.10.28 = {
+    death = yes
+  }
+}
+180686 = {
+  name = "?ñSVÃëKQ"  # ∆lfric
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  940.1.1 = {
+    birth = yes
+  }
+  1005.11.16 = {
+    death = yes
+  }
+}
+180687 = {
+  name = "√W+YwmØe"  # Aelfheath
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  954.1.1 = {
+    birth = yes
+  }
+  1012.4.19 = {
+    death = yes
+  }
+}
+180688 = {
+  name = "egŒò"  # Lyfing
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  949.1.1 = {
+    birth = yes
+  }
+  1020.6.12 = {
+    death = yes
+  }
+}
+168608 = {
+  name = "çÇ˝l˙ãØe"  # Aethelnoth
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  975.1.1 = {
+    birth = yes
+  }
+  1038.10.30 = {
+    death = yes
+  }
+}
+180690 = {
+  name = "√W∑Vâ<h"  # Eadsige
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  995.1.1 = {
+    birth = yes
+  }
+  1050.10.29 = {
+    death = yes
+  }
+}
+205025 = {
+  name = "Zyr	TSØe"  # Wihtgils
+  dynasty = 1047001
+  religion = "norse_pagan"
+  culture = "saxon"
+  400.1.1 = {
+    birth = "400.1.1"
+  }
+  440.1.1 = {
+    death = "440.1.1"
+  }
+}
+205026 = {
+  name = "®N	TØeyr"  # Hengest
+  dynasty = 1047001
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205025
+  425.1.1 = {
+    birth = "425.1.1"
+  }
+  500.1.1 = {
+    death = "500.1.1"
+  }
+}
+205027 = {
+  name = "ó(Ñ"  # Horsa
+  dynasty = 1047001
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205025
+  426.1.1 = {
+    birth = "426.1.1"
+  }
+  500.1.1 = {
+    death = "500.1.1"
+  }
+}
+205028 = {
+  name = "eYSØeKQ"  # Oisc
+  dynasty = 1047001
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205026
+  450.1.1 = {
+    birth = "450.1.1"
+  }
+  516.1.1 = {
+    death = "516.1.1"
+  }
+}
+205029 = {
+  name = "eYKQTX"  # Octa
+  dynasty = 1047001
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205028
+  480.1.1 = {
+    birth = "480.1.1"
+  }
+  540.1.1 = {
+    death = "540.1.1"
+  }
+}
+205030 = {
+  name = "çÇeYËïÃëKQ"  # Eormenric
+  dynasty = 1047001
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205029
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  590.1.1 = {
+    death = "590.1.1"
+  }
+}
+205031 = {
+  name = "√W^XS>Oyr"  # ∆thelberht
+  dynasty = 1047001
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205030
+  560.1.1 = {
+    birth = "560.1.1"
+  }
+  600.1.1 = {
+    religion = "catholic"
+  }
+  616.2.24 = {
+    death = "616.2.24"
+  }
+}
+205032 = {
+  name = "1r∑VÙT∑V"  # Eadbald
+  dynasty = 1047001
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205031
+  590.1.1 = {
+    birth = "590.1.1"
+  }
+  620.1.1 = {
+    religion = "catholic"
+  }
+  640.1.1 = {
+    death = "640.1.1"
+  }
+}
+205033 = {
+  name = "√W^XSÊtS∑V"  # ∆thelwald
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205031
+  591.1.1 = {
+    birth = "591.1.1"
+  }
+  640.1.28 = {
+    death = yes
+  }
+}
+205034 = {
+  name = "√W∑V>Okç"  # ∆thelburh
+  female = yes
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205031
+  592.1.1 = {
+    birth = "592.1.1"
+  }
+  620.1.1 = {
+    add_spouse = 205198
+  }
+  640.1.1 = {
+    death = "640.1.1"
+  }
+}
+205035 = {
+  name = "çÇeYËï˜ñ∑V"  # Eormenred
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205032
+  610.1.1 = {
+    birth = "610.1.1"
+  }
+  665.1.1 = {
+    death = "665.1.1"
+  }
+}
+205036 = {
+  name = "çÇeYÓh>Oyr"  # Eorcenberht
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205032
+  612.1.1 = {
+    birth = "612.1.1"
+  }
+  664.6.14 = {
+    death = "664.6.14"
+  }
+}
+205037 = {
+  name = "√W^XS>Oyr"  # ∆thelberht
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205035
+  630.1.1 = {
+    birth = "630.1.1"
+  }
+  669.1.1 = {
+    death = "669.1.1"
+  }
+}
+205038 = {
+  name = "√W^XS˜ñ∑V"  # ∆thelred
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205035
+  632.1.1 = {
+    birth = "632.1.1"
+  }
+  669.1.1 = {
+    death = "669.1.1"
+  }
+}
+205039 = {
+  name = "√W<h>Oyr"  # Ecgberht
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205036
+  630.1.1 = {
+    birth = "630.1.1"
+  }
+  673.1.1 = {
+    death = "673.1.1"
+  }
+}
+205040 = {
+  name = "W^X“R"  # Hlothere
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205036
+  635.1.1 = {
+    birth = "635.1.1"
+  }
+  685.1.1 = {
+    death = "685.1.1"
+  }
+}
+205041 = {
+  name = "√W∑VÃëKQ"  # Eadric
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205039
+  650.1.1 = {
+    birth = "650.1.1"
+  }
+  686.8.1 = {
+    death = "686.8.1"
+  }
+}
+205042 = {
+  name = "eYØeN"  # Oswine
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205038
+  661.1.1 = {
+    birth = "661.1.1"
+  }
+  690.1.1 = {
+    death = "690.1.1"
+  }
+}
+205043 = {
+  name = "Zyr…b∑V"  # WihtrÊd
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205039
+  655.1.1 = {
+    birth = "655.1.1"
+  }
+  725.4.23 = {
+    death = "725.4.23"
+  }
+}
+205044 = {
+  name = "√W^XS>Oyr"  # ∆thelberht
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205043
+  685.1.1 = {
+    birth = "685.1.1"
+  }
+  762.1.1 = {
+    death = "762.1.1"
+  }
+}
+205045 = {
+  name = "√W∑V>Oyr"  # Eadberht
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205043
+  680.1.1 = {
+    birth = "680.1.1"
+  }
+  748.1.1 = {
+    death = "748.1.1"
+  }
+}
+205046 = {
+  name = "?ñSVÃëKQ"  # ∆lfric
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205043
+  679.1.1 = {
+    birth = "679.1.1"
+  }
+  725.1.1 = {
+    death = "725.1.1"
+  }
+}
+205047 = {
+  name = "√W∑VLN+Y"  # Eardwulf
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205045
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  762.1.1 = {
+    death = "762.1.1"
+  }
+}
+205048 = {
+  name = "√WöN∑VçSkçyr"  # Eadberht
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205044
+  710.1.1 = {
+    birth = "710.1.1"
+  }
+  765.1.1 = {
+    death = "765.1.1"
+  }
+}
+205049 = {
+  name = "√W<h>Oyr"  # Ecgberht
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205048
+  735.1.1 = {
+    birth = "735.1.1"
+  }
+  779.1.1 = {
+    death = "779.1.1"
+  }
+}
+205050 = {
+  name = "√W∑V>Oyr"  # Eadberht
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205049
+  755.1.1 = {
+    birth = "755.1.1"
+  }
+  798.1.1 = {
+    death = "798.1.1"
+  }
+}
+205000 = {
+  name = "Oõ»T"  # Wehha
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  500.1.1 = {
+    birth = "500.1.1"
+  }
+  571.1.1 = {
+    death = "571.1.1"
+  }
+}
+205001 = {
+  name = "fk’l"  # Wuffa
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205000
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  578.1.1 = {
+    death = "578.1.1"
+  }
+}
+205002 = {
+  name = "lÇÑ…b"  # Tytila
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205001
+  550.1.1 = {
+    birth = "550.1.1"
+  }
+  616.1.1 = {
+    death = "616.1.1"
+  }
+}
+205003 = {
+  name = "…b∑VÉl∑V"  # RÊdwald
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205002
+  570.1.1 = {
+    birth = "570.1.1"
+  }
+  627.1.1 = {
+    death = "627.1.1"
+  }
+}
+205004 = {
+  name = "çÇeYÉl∑V"  # Eorpwald
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205002
+  590.1.1 = {
+    birth = "590.1.1"
+  }
+  630.1.1 = {
+    death = "630.1.1"
+    religion = "catholic"
+  }
+}
+205005 = {
+  name = "â<h>Oyr"  # Sigeberht
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205002
+  591.1.1 = {
+    birth = "591.1.1"
+  }
+  634.1.1 = {
+    death = "634.1.1"
+  }
+}
+205006 = {
+  name = "√W<S"  # Eni
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205002
+  571.1.1 = {
+    birth = "571.1.1"
+  }
+  627.1.1 = {
+    death = "627.1.1"
+  }
+}
+205007 = {
+  name = "âRZ"  # Anna
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205006
+  590.1.1 = {
+    birth = "590.1.1"
+  }
+  654.1.1 = {
+    death = "654.1.1"
+  }
+}
+205008 = {
+  name = "√W∑V^S"  # ∆thelhere
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205006
+  592.1.1 = {
+    birth = "592.1.1"
+  }
+  655.11.15 = {
+    death = "655.11.15"
+  }
+}
+205009 = {
+  name = "√WyrSÉl∑V"  # ∆thelwold
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205006
+  595.1.1 = {
+    birth = "595.1.1"
+  }
+  664.1.1 = {
+    death = "664.1.1"
+  }
+}
+205010 = {
+  name = "√WntSÃëKQ"  # ∆thelric
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205006
+  600.1.1 = {
+    birth = "600.1.1"
+  }
+  636.1.1 = {
+    death = "636.1.1"
+  }
+}
+205011 = {
+  name = "√W∑VLN+Y"  # Ealdwulf
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205010
+  635.1.1 = {
+    birth = "635.1.1"
+  }
+  713.1.1 = {
+    death = "713.1.1"
+  }
+}
+205012 = {
+  name = "√W∑VÉl∑V"  # Ealdwald
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205011
+  675.1.1 = {
+    birth = "675.1.1"
+  }
+  749.1.1 = {
+    death = "749.1.1"
+  }
+}
+205013 = {
+  name = "∂xf≥u"  # Beonna
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205012
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  760.1.1 = {
+    death = "760.1.1"
+  }
+}
+205014 = {
+  name = "√W^XS>Oyr"  # ∆thelberht
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205012
+  702.1.1 = {
+    birth = "702.1.1"
+  }
+  761.1.1 = {
+    death = "761.1.1"
+  }
+}
+205015 = {
+  name = "√W^XS˜ñ∑V"  # ∆thelred
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205013
+  725.1.1 = {
+    birth = "725.1.1"
+  }
+  779.1.1 = {
+    death = "779.1.1"
+  }
+}
+205016 = {
+  name = "√W^XS>Oyr"  # ∆thelberht
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205015
+  750.1.1 = {
+    birth = "750.1.1"
+  }
+  794.1.1 = {
+    death = "794.1.1"
+  }
+}
+205017 = {
+  name = "√WntSÃëKQ"  # ∆thelric
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205014
+  725.1.1 = {
+    birth = "725.1.1"
+  }
+  780.1.1 = {
+    death = "780.1.1"
+  }
+}
+205018 = {
+  name = "√W∑VÉl∑V"  # Ealdwald
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205017
+  751.1.1 = {
+    birth = "751.1.1"
+  }
+  800.1.1 = {
+    death = "800.1.1"
+  }
+}
+205019 = {
+  name = "√W^XS˜ñ∑V"  # ∆thelred
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205018
+  769.1.1 = {
+    birth = "769.1.1"
+  }
+  820.1.1 = {
+    death = "820.1.1"
+  }
+}
+205020 = {
+  name = "√W^XSØeU"  # ∆thelstan
+  dynasty = 626
+  religion = "catholic"
+  culture = "saxon"
+  father = 205019
+  790.1.1 = {
+    birth = "790.1.1"
+  }
+  845.1.1 = {
+    death = "845.1.1"
+  }
+}
+205021 = {
+  name = "√W∑VZS∑V"  # ∆thelweard
+  dynasty = 626
+  religion = "catholic"
+  culture = "saxon"
+  father = 205020
+  810.1.1 = {
+    birth = "810.1.1"
+  }
+  854.1.1 = {
+    death = "854.1.1"
+  }
+}
+205022 = {
+  name = "‘keYyrÃëGY"  # Beorhtric
+  dynasty = 626
+  religion = "catholic"
+  culture = "saxon"
+  father = 205020
+  811.1.1 = {
+    birth = "811.1.1"
+  }
+  870.1.1 = {
+    death = "870.1.1"
+  }
+}
+205023 = {
+  name = "eYØeÊtS∑V"  # Oswald
+  dynasty = 626
+  religion = "catholic"
+  culture = "saxon"
+  father = 205021
+  841.1.1 = {
+    birth = "841.1.1"
+  }
+  875.1.1 = {
+    death = "875.1.1"
+  }
+}
+205024 = {
+  name = "√W^XS˜ñ∑V"  # ∆thelred
+  dynasty = 626
+  religion = "catholic"
+  culture = "saxon"
+  father = 205023
+  860.1.1 = {
+    birth = "860.1.1"
+  }
+  879.1.1 = {
+    death = "879.1.1"
+  }
+}
+205051 = {
+  name = "çÇeYid"  # Eomer
+  religion = "norse_pagan"
+  culture = "saxon"
+  455.1.1 = {
+    birth = "455.1.1"
+  }
+  527.1.1 = {
+    death = "527.1.1"
+  }
+}
+205052 = {
+  name = "çÇntS"  # Icel
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205051
+  480.1.1 = {
+    birth = "480.1.1"
+  }
+  536.1.1 = {
+    death = "536.1.1"
+  }
+}
+205053 = {
+  name = "—yÖQÙT"  # Cnebba
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205052
+  500.1.1 = {
+    birth = "500.1.1"
+  }
+  554.1.1 = {
+    death = "554.1.1"
+  }
+}
+205054 = {
+  name = "âÖQÉl∑V"  # Cynewald
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205053
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  584.1.1 = {
+    death = "584.1.1"
+  }
+}
+205055 = {
+  name = "KQÃëeYæè"  # Creoda
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205054
+  540.1.1 = {
+    birth = "540.1.1"
+  }
+  593.1.1 = {
+    death = "593.1.1"
+  }
+}
+205056 = {
+  name = ">mÙT"  # Pybba
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205055
+  560.1.1 = {
+    birth = "560.1.1"
+  }
+  626.1.1 = {
+    death = "626.1.1"
+  }
+}
+205057 = {
+  name = "mVæè"  # Penda
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205056
+  trait = zealous
+  600.1.1 = {
+    birth = "600.1.1"
+  }
+  655.11.15 = {
+    death = "655.11.15"
+  }
+}
+205058 = {
+  name = "çÇeYÊt"  # Eowa
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205056
+  601.1.1 = {
+    birth = "601.1.1"
+  }
+  642.8.5 = {
+    death = "642.8.5"
+  }
+}
+205059 = {
+  name = "—yi`Él"  # Coenwalh
+  dynasty = 1047003
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205056
+  602.1.1 = {
+    birth = "602.1.1"
+  }
+  644.1.1 = {
+    death = "644.1.1"
+  }
+}
+205060 = {
+  name = "Ævæè"  # Peada
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205057
+  630.1.1 = {
+    birth = yes
+  }
+  655.11.15 = {
+    add_spouse = 252176
+    religion = "catholic"
+  }
+  656.4.17 = {
+    death = yes
+  }
+}
+205061 = {
+  name = "fk+Y^S"  # Wulfhere
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205057
+  640.1.1 = {
+    birth = "640.1.1"
+  }
+  655.11.15 = {
+    religion = "catholic"
+  }
+  675.1.1 = {
+    death = "675.1.1"
+  }
+}
+205062 = {
+  name = "√W^XS˜ñ∑V"  # ∆thelred
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205057
+  645.1.1 = {
+    birth = "645.1.1"
+  }
+  655.11.15 = {
+    religion = "catholic"
+  }
+  704.1.1 = {
+    death = "704.1.1"
+  }
+}
+205063 = {
+  name = "—yi`˜ñ∑V"  # Coenred
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205061
+  670.1.1 = {
+    birth = "670.1.1"
+  }
+  716.1.1 = {
+    death = "716.1.1"
+  }
+}
+205064 = {
+  name = "âeY˜ñ∑V"  # Ceolred
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205062
+  671.1.1 = {
+    birth = "671.1.1"
+  }
+  716.6.1 = {
+    death = "716.6.1"
+  }
+}
+205065 = {
+  name = "âeYÉl∑V"  # Ceolwald
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205062
+  671.1.1 = {
+    birth = "671.1.1"
+  }
+  716.12.1 = {
+    death = "716.12.1"
+  }
+}
+205066 = {
+  name = "?ñSÙueY"  # Alweo
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205058
+  641.1.1 = {
+    birth = "641.1.1"
+  }
+  700.1.1 = {
+    death = "700.1.1"
+  }
+}
+205067 = {
+  name = "√WntSÙT∑V"  # ∆thelbald
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205066
+  680.1.1 = {
+    birth = "680.1.1"
+  }
+  757.1.1 = {
+    death = "757.1.1"
+  }
+}
+205068 = {
+  name = "»T∑V>Oyr"  # Heardberht
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205066
+  685.1.1 = {
+    birth = "685.1.1"
+  }
+  760.1.1 = {
+    death = "760.1.1"
+  }
+}
+205069 = {
+  name = "eYØe´É∑V"  # Osmod
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205058
+  642.1.1 = {
+    birth = "642.1.1"
+  }
+  700.1.1 = {
+    death = "700.1.1"
+  }
+}
+205070 = {
+  name = "çÇi`fk+Y"  # Eanwulf
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205069
+  670.1.1 = {
+    birth = "670.1.1"
+  }
+  735.1.1 = {
+    death = "735.1.1"
+  }
+}
+205071 = {
+  name = "fVÃëØe"  # Thingfrith
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205070
+  705.1.1 = {
+    birth = "705.1.1"
+  }
+  761.1.1 = {
+    death = "761.1.1"
+  }
+}
+205072 = {
+  name = "eY’l"  # Offa
+  dna = zmawnwppcak
+  properties = hi0cgd000000000000
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205071
+  730.1.1 = {
+    birth = "730.1.1"
+  }
+  760.1.1 = {
+    add_spouse = 205074
+  }
+  796.7.29 = {
+    death = "796.7.29"
+  }
+}
+205073 = {
+  name = "√WKQVÃëØe"  # Ecgfrith
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205072
+  mother = 205074
+  760.1.1 = {
+    birth = "760.1.1"
+  }
+  796.12.17 = {
+    death = "796.12.17"
+  }
+}
+205074 = {
+  name = "^<SNâÉN"  # Cynethryth
+  dynasty = 1047003
+  female = yes
+  religion = "catholic"
+  culture = "saxon"
+  father = 205104
+  744.1.1 = {
+    birth = "744.1.1"
+  }
+  760.1.1 = {
+    add_spouse = 205072
+  }
+  799.1.1 = {
+    death = "799.1.1"
+  }
+}
+205075 = {
+  name = "√W∑V>Okç"  # Eadburh
+  female = yes
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205072
+  mother = 205074
+  761.1.1 = {
+    birth = "761.1.1"
+  }
+  802.1.1 = {
+    death = "802.1.1"
+  }
+}
+205076 = {
+  name = "çÇSôÇ±É∑V"  # ∆lfflÊd
+  female = yes
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205072
+  mother = 205074
+  762.1.1 = {
+    birth = "762.1.1"
+  }
+  805.1.1 = {
+    death = "805.1.1"
+  }
+}
+205077 = {
+  name = "√Wnt>Okç"  # ∆thelburh
+  female = yes
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205072
+  mother = 205074
+  763.1.1 = {
+    birth = "763.1.1"
+  }
+  805.1.1 = {
+    death = "805.1.1"
+  }
+}
+205078 = {
+  name = "√WntNÙuN"  # ∆thelswith
+  female = yes
+  dynasty = 1047002
+  religion = "catholic"
+  culture = "saxon"
+  father = 205072
+  mother = 205074
+  765.1.1 = {
+    birth = yes
+  }
+  805.1.1 = {
+    death = yes
+  }
+}
+205079 = {
+  name = "Z<h±É+Y"  # Wiglaf
+  dynasty = 1047004
+  religion = "catholic"
+  culture = "saxon"
+  father = 205063
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  755.1.1 = {
+    death = "755.1.1"
+  }
+}
+205081 = {
+  name = "Z<h»T∑V"  # Wigheard
+  dynasty = 1047004
+  religion = "catholic"
+  culture = "saxon"
+  father = 205079
+  722.1.1 = {
+    birth = "722.1.1"
+  }
+  790.1.1 = {
+    death = "790.1.1"
+  }
+}
+205082 = {
+  name = "Z<h9çØe"  # Wigferth
+  dynasty = 1047004
+  religion = "catholic"
+  culture = "saxon"
+  father = 205081
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  795.1.1 = {
+    death = "795.1.1"
+  }
+}
+205083 = {
+  name = "Z<h>Oyr"  # Wigberht
+  dynasty = 1047004
+  religion = "catholic"
+  culture = "saxon"
+  father = 205082
+  760.1.1 = {
+    birth = "760.1.1"
+  }
+  820.1.1 = {
+    death = "820.1.1"
+  }
+}
+205084 = {
+  name = "Z<h±É+Y"  # Wiglaf
+  dynasty = 1047004
+  religion = "catholic"
+  culture = "saxon"
+  father = 205083
+  780.1.1 = {
+    birth = "780.1.1"
+  }
+  839.1.1 = {
+    death = "839.1.1"
+  }
+}
+205085 = {
+  name = "Z<hôÑ∑V"  # Wigmund
+  dynasty = 1047004
+  religion = "catholic"
+  culture = "saxon"
+  father = 205084
+  796.1.1 = {
+    birth = "796.1.1"
+  }
+  840.1.1 = {
+    death = "840.1.1"
+  }
+}
+205086 = {
+  name = "âeYfk+Y"  # Coelwulf
+  dynasty = 1047004
+  religion = "catholic"
+  culture = "saxon"
+  father = 205085
+  812.1.1 = {
+    birth = "812.1.1"
+  }
+  840.1.1 = {
+    death = "840.1.1"
+  }
+}
+194041 = {
+  name = "Z<hØefW"  # Wigstan
+  dynasty = 1047004
+  religion = "catholic"
+  culture = "saxon"
+  father = 205085
+  813.1.1 = {
+    birth = "813.1.1"
+  }
+  840.6.1 = {
+    death = "840.6.1"
+  }
+}
+205087 = {
+  name = "NgeYVÃëKQ"  # Leofric
+  dynasty = 1047004
+  religion = "catholic"
+  culture = "saxon"
+  father = 205085
+  815.1.1 = {
+    birth = "815.1.1"
+  }
+  870.1.1 = {
+    death = "870.1.1"
+  }
+}
+205088 = {
+  name = "√W^XS˜ñ∑V"  # ∆thelred
+  dynasty = 1047004
+  religion = "catholic"
+  culture = "saxon"
+  father = 205087
+  850.1.1 = {
+    birth = yes
+  }
+  886.1.1 = {
+    add_spouse = 252377
+  }
+  911.1.1 = {
+    death = yes
+  }
+}
+205080 = {
+  name = "‘keYN"  # Beornwine
+  dynasty = 1047005
+  religion = "catholic"
+  culture = "saxon"
+  father = 205063
+  701.1.1 = {
+    birth = "701.1.1"
+  }
+  760.1.1 = {
+    death = "760.1.1"
+  }
+}
+205089 = {
+  name = "‘keY˜ñ∑V"  # Beornred
+  dynasty = 1047005
+  religion = "catholic"
+  culture = "saxon"
+  father = 205080
+  720.1.1 = {
+    birth = "720.1.1"
+  }
+  769.1.1 = {
+    death = "769.1.1"
+  }
+}
+205090 = {
+  name = "‘keY˙ãØe"  # Beornnoth
+  dynasty = 1047005
+  religion = "catholic"
+  culture = "saxon"
+  father = 205089
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  787.1.1 = {
+    death = "787.1.1"
+  }
+}
+205091 = {
+  name = "‘keYÙu∑V"  # Beorhtweald
+  dynasty = 1047005
+  religion = "catholic"
+  culture = "saxon"
+  father = 205090
+  760.1.1 = {
+    birth = "760.1.1"
+  }
+  799.1.1 = {
+    death = "799.1.1"
+  }
+}
+205092 = {
+  name = "çeYfk+Y"  # Beornwulf
+  dynasty = 1047005
+  religion = "catholic"
+  culture = "saxon"
+  father = 205091
+  782.1.1 = {
+    birth = "782.1.1"
+  }
+  826.1.1 = {
+    death = "826.1.1"
+  }
+}
+205093 = {
+  name = "çeYN"  # Beorhtwine
+  dynasty = 1047005
+  religion = "catholic"
+  culture = "saxon"
+  father = 205092
+  800.1.1 = {
+    birth = "800.1.1"
+  }
+  840.1.1 = {
+    death = "840.1.1"
+  }
+}
+205094 = {
+  name = "çeYfk+Y"  # Beorhtwulf
+  dynasty = 1047005
+  religion = "catholic"
+  culture = "saxon"
+  father = 205093
+  820.1.1 = {
+    birth = "820.1.1"
+  }
+  852.1.1 = {
+    death = "852.1.1"
+  }
+}
+205095 = {
+  name = "çeYSkçyr+YÃëØe"  # Beorhtfrith
+  dynasty = 1047005
+  religion = "catholic"
+  culture = "saxon"
+  father = 205094
+  850.1.1 = {
+    birth = "850.1.1"
+  }
+  901.1.1 = {
+    death = "901.1.1"
+  }
+}
+205096 = {
+  name = "‘keYyrÃëKQ"  # Beorhtric
+  dynasty = 1047005
+  religion = "catholic"
+  culture = "saxon"
+  father = 205094
+  851.1.1 = {
+    birth = "851.1.1"
+  }
+  905.1.1 = {
+    death = "905.1.1"
+  }
+}
+205097 = {
+  name = "‘keYôÑ∑V"  # Beornmund
+  dynasty = 813
+  religion = "catholic"
+  culture = "saxon"
+  father = 205090
+  762.1.1 = {
+    birth = "762.1.1"
+  }
+  805.1.1 = {
+    death = "805.1.1"
+  }
+}
+205098 = {
+  name = "çeYfk+Y"  # Beorhtwulf
+  dynasty = 813
+  religion = "catholic"
+  culture = "saxon"
+  father = 205097
+  780.1.1 = {
+    birth = "780.1.1"
+  }
+  825.1.1 = {
+    death = "825.1.1"
+  }
+}
+205099 = {
+  name = "‘keYN"  # Beornwine
+  dynasty = 813
+  religion = "catholic"
+  culture = "saxon"
+  father = 205098
+  796.1.1 = {
+    birth = "796.1.1"
+  }
+  845.1.1 = {
+    death = "845.1.1"
+  }
+}
+205100 = {
+  name = "‘keY˜ñ∑V"  # Beornred
+  dynasty = 813
+  religion = "catholic"
+  culture = "saxon"
+  father = 205099
+  812.1.1 = {
+    birth = "812.1.1"
+  }
+  860.1.1 = {
+    death = "860.1.1"
+  }
+}
+205101 = {
+  name = "*X∑VÉl"  # Cundwalh
+  dynasty = 1047003
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205059
+  630.1.1 = {
+    birth = "630.1.1"
+  }
+  687.1.1 = {
+    death = "687.1.1"
+  }
+}
+205102 = {
+  name = "*XyrN"  # Centwine
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205101
+  659.1.1 = {
+    birth = "659.1.1"
+  }
+  693.1.1 = {
+    death = "693.1.1"
+  }
+}
+205103 = {
+  name = "-^i`)ReY"  # Cynreow
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205102
+  680.1.1 = {
+    birth = "680.1.1"
+  }
+  745.1.1 = {
+    death = "745.1.1"
+  }
+}
+205104 = {
+  name = "ÙT(Ñ"  # Bassa
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205103
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  767.1.1 = {
+    death = "767.1.1"
+  }
+}
+205105 = {
+  name = "ì^yr>Oyr"  # Cuthberht
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205104
+  720.1.1 = {
+    birth = "720.1.1"
+  }
+  790.1.1 = {
+    death = "790.1.1"
+  }
+}
+205106 = {
+  name = "ì^yr˜ñ∑V"  # Cuthred
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205104
+  722.1.1 = {
+    birth = "722.1.1"
+  }
+  795.1.1 = {
+    death = "795.1.1"
+  }
+}
+205107 = {
+  name = "—yi`fk+Y"  # Coenwulf
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205105
+  765.1.1 = {
+    birth = "765.1.1"
+  }
+  821.1.1 = {
+    death = "821.1.1"
+  }
+}
+205108 = {
+  name = "—ySfk+Y"  # Coelwulf
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205105
+  769.1.1 = {
+    birth = "769.1.1"
+  }
+  823.1.1 = {
+    death = "823.1.1"
+  }
+}
+205109 = {
+  name = "-^i`wm∆Y"  # Cynehelm
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205107
+  785.1.1 = {
+    birth = "785.1.1"
+  }
+  812.1.1 = {
+    death = "812.1.1"
+  }
+}
+205110 = {
+  name = "*XyrN"  # Centwine
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205107
+  805.1.1 = {
+    birth = "805.1.1"
+  }
+  869.1.1 = {
+    death = "869.1.1"
+  }
+}
+205111 = {
+  name = "ì^yr>Oyr"  # Cuthberht
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205108
+  790.1.1 = {
+    birth = "790.1.1"
+  }
+  852.1.1 = {
+    death = "852.1.1"
+  }
+}
+205112 = {
+  name = "âeYfk+Y"  # Ceolwulf
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205111
+  820.1.1 = {
+    birth = "820.1.1"
+  }
+  879.1.1 = {
+    death = "879.1.1"
+  }
+}
+190565 = {
+  name = "ÅúÅúØe"  # Lullus
+  religion = "catholic"
+  culture = "saxon"
+  710.1.1 = {
+    birth = yes
+  }
+  769.1.1 = {
+    capital = c_mainz
+  }
+  786.10.16 = {
+    death = yes
+  }
+}
+205141 = {
+  name = "äVSÍèKQ"  # Cerdic
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252190
+  460.1.1 = {
+    birth = yes
+  }
+  534.1.1 = {
+    death = yes
+  }
+}
+205142 = {
+  name = "-^i`ÃëKQ"  # Cynric
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205141
+  480.1.1 = {
+    birth = "480.1.1"
+  }
+  560.1.1 = {
+    death = "560.1.1"
+  }
+}
+205143 = {
+  name = "âeYóg"  # Ceawlin
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205142
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  591.1.1 = {
+    death = "591.1.1"
+  }
+}
+205144 = {
+  name = "ì^(Ñ"  # Cutha
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205142
+  525.1.1 = {
+    birth = "525.1.1"
+  }
+  590.1.1 = {
+    death = "590.1.1"
+  }
+}
+205145 = {
+  name = "âeY"  # Ceol
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205144
+  550.1.1 = {
+    birth = "550.1.1"
+  }
+  597.1.1 = {
+    death = "597.1.1"
+  }
+}
+205146 = {
+  name = "âeYfk+Y"  # Ceolwulf
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205144
+  555.1.1 = {
+    birth = yes
+  }
+  611.1.1 = {
+    death = yes
+  }
+}
+205147 = {
+  name = "â<S	TSØe"  # Cynegils
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205145
+  575.1.1 = {
+    birth = "575.1.1"
+  }
+  643.1.1 = {
+    death = "643.1.1"
+  }
+}
+205148 = {
+  name = "-^i`Él"  # Coenwalh
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205147
+  595.1.1 = {
+    birth = "595.1.1"
+  }
+  674.1.1 = {
+    death = yes
+  }
+}
+205149 = {
+  name = "âKQwm∆Y"  # Cwichelm
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205147
+  600.1.1 = {
+    birth = "600.1.1"
+  }
+  636.1.1 = {
+    death = "636.1.1"
+  }
+}
+205150 = {
+  name = "ì^yr˜ñ∑V"  # Cuthred
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205149
+  620.1.1 = {
+    birth = "620.1.1"
+  }
+  680.1.1 = {
+    death = "680.1.1"
+  }
+}
+205151 = {
+  name = "*XyrN"  # Centwine
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205147
+  610.1.1 = {
+    birth = "610.1.1"
+  }
+  686.1.1 = {
+    death = "686.1.1"
+  }
+}
+205152 = {
+  name = "ì^yr	TSØe"  # Cuthgils
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205146
+  586.1.1 = {
+    birth = "586.1.1"
+  }
+  645.1.1 = {
+    death = "645.1.1"
+  }
+}
+205153 = {
+  name = "—yi`9çØe"  # Coenferth
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205152
+  602.1.1 = {
+    birth = "602.1.1"
+  }
+  656.1.1 = {
+    death = "656.1.1"
+  }
+}
+205154 = {
+  name = "*XèyØe"  # Cenfus
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205153
+  618.1.1 = {
+    birth = "618.1.1"
+  }
+  666.1.1 = {
+    death = "666.1.1"
+  }
+}
+205155 = {
+  name = "√WØe—yáe"  # ∆scwine
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205154
+  634.1.1 = {
+    birth = "634.1.1"
+  }
+  685.1.1 = {
+    death = "685.1.1"
+  }
+}
+205156 = {
+  name = "ì^yrN"  # Cuthwine
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205143
+  550.1.1 = {
+    birth = "550.1.1"
+  }
+  592.1.1 = {
+    death = "592.1.1"
+  }
+}
+205157 = {
+  name = "^æè"  # Cedda
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205156
+  590.1.1 = {
+    birth = "590.1.1"
+  }
+  652.1.1 = {
+    death = "652.1.1"
+  }
+}
+205158 = {
+  name = "ì^TX"  # Cutha
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205156
+  592.1.1 = {
+    birth = "592.1.1"
+  }
+  655.1.1 = {
+    death = "655.1.1"
+  }
+}
+205159 = {
+  name = "—yi`>Oyr"  # Coenberht
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205157
+  610.1.1 = {
+    birth = "610.1.1"
+  }
+  661.1.1 = {
+    death = "661.1.1"
+  }
+}
+205160 = {
+  name = "FzS"  # Mul
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205159
+  626.1.1 = {
+    birth = "626.1.1"
+  }
+  687.1.1 = {
+    death = "687.1.1"
+  }
+}
+205161 = {
+  name = "ÔQ∑VÊt…b"  # CÊdwalla
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205159
+  630.1.1 = {
+    birth = "630.1.1"
+  }
+  688.1.1 = {
+    death = "688.1.1"
+  }
+}
+205162 = {
+  name = "âeYÉl∑V"  # Ceolwald
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205158
+  620.1.1 = {
+    birth = "620.1.1"
+  }
+  675.1.1 = {
+    death = "675.1.1"
+  }
+}
+205163 = {
+  name = "—yi`˜ñ∑V"  # Coenred
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205162
+  637.1.1 = {
+    birth = "637.1.1"
+  }
+  685.1.1 = {
+    death = "685.1.1"
+  }
+}
+205164 = {
+  name = "O<S"  # Ine
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205162
+  655.1.1 = {
+    birth = "655.1.1"
+  }
+  726.1.1 = {
+    death = "726.1.1"
+  }
+}
+205165 = {
+  name = "ÒÇ	TS∑V"  # Ingild
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205162
+  650.1.1 = {
+    birth = "650.1.1"
+  }
+  718.1.1 = {
+    death = "718.1.1"
+  }
+}
+205166 = {
+  name = "KQÃëeYæè"  # Creoda
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205141
+  485.1.1 = {
+    birth = "485.1.1"
+  }
+  532.1.1 = {
+    death = "532.1.1"
+  }
+}
+205167 = {
+  name = "-^i`ÃëKQ"  # Cynric
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205166
+  510.1.1 = {
+    birth = "510.1.1"
+  }
+  566.1.1 = {
+    death = "566.1.1"
+  }
+}
+205168 = {
+  name = "ì^yr˜ñ∑V"  # Cuthred
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205167
+  530.1.1 = {
+    birth = "530.1.1"
+  }
+  585.1.1 = {
+    death = "585.1.1"
+  }
+}
+205169 = {
+  name = "jçÃufk+Y"  # Cynewulf
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205168
+  550.1.1 = {
+    birth = "550.1.1"
+  }
+  600.1.1 = {
+    death = "600.1.1"
+  }
+}
+205170 = {
+  name = "-^i`»T∑V"  # Cyneheard
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205169
+  568.1.1 = {
+    birth = "568.1.1"
+  }
+  620.1.1 = {
+    death = "620.1.1"
+  }
+}
+205171 = {
+  name = "√Wnt»T∑V"  # ∆thelheard
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205170
+  590.1.1 = {
+    birth = "590.1.1"
+  }
+  650.1.1 = {
+    death = "650.1.1"
+  }
+}
+205172 = {
+  name = "â<h>Oyr"  # Sigeberht
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205171
+  610.1.1 = {
+    birth = "610.1.1"
+  }
+  655.1.1 = {
+    death = "655.1.1"
+  }
+}
+205173 = {
+  name = "‘keYyrÃëKQ"  # Beorhtric
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205172
+  650.1.1 = {
+    birth = "650.1.1"
+  }
+  700.1.1 = {
+    death = "700.1.1"
+  }
+}
+205174 = {
+  name = "-^i`Él∑V"  # Cynewald
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205171
+  610.1.1 = {
+    birth = "610.1.1"
+  }
+  655.1.1 = {
+    death = "655.1.1"
+  }
+}
+205175 = {
+  name = "-^i`»T∑V"  # Coenheard
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205174
+  640.1.1 = {
+    birth = "640.1.1"
+  }
+  685.1.1 = {
+    death = "685.1.1"
+  }
+}
+205176 = {
+  name = "â<h»T∑V"  # Sigeheard
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205175
+  670.1.1 = {
+    birth = "670.1.1"
+  }
+  715.1.1 = {
+    death = "715.1.1"
+  }
+}
+205177 = {
+  name = "â<h>Oyr"  # Sigeberht
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205176
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  757.1.1 = {
+    death = "757.1.1"
+  }
+}
+205178 = {
+  name = "-^i`»T∑V"  # Cyneheard
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205176
+  705.1.1 = {
+    birth = "705.1.1"
+  }
+  786.1.1 = {
+    death = "786.1.1"
+  }
+}
+205179 = {
+  name = "çeYfk+Y"  # Beorhtwulf
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205173
+  685.1.1 = {
+    birth = "685.1.1"
+  }
+  730.1.1 = {
+    death = "730.1.1"
+  }
+}
+205180 = {
+  name = "jçÃufk+Y"  # Cynewulf
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205179
+  720.1.1 = {
+    birth = "720.1.1"
+  }
+  796.1.1 = {
+    death = "796.1.1"
+  }
+}
+205181 = {
+  name = "‘keYyrÃëKQ"  # Beorhtric
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205180
+  750.1.1 = {
+    birth = "750.1.1"
+  }
+  802.1.1 = {
+    death = "802.1.1"
+  }
+}
+205182 = {
+  name = "-^i`ÃëKQ"  # Cynric
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205171
+  641.1.1 = {
+    birth = "641.1.1"
+  }
+  685.1.1 = {
+    death = "685.1.1"
+  }
+}
+205183 = {
+  name = "√W^XS˜ñ∑V"  # ∆thelred
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205182
+  665.1.1 = {
+    birth = "665.1.1"
+  }
+  725.1.1 = {
+    death = "725.1.1"
+  }
+}
+205184 = {
+  name = "√Wnt»T∑V"  # ∆thelheard
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205183
+  686.1.1 = {
+    birth = "686.1.1"
+  }
+  740.1.1 = {
+    death = "740.1.1"
+  }
+}
+205185 = {
+  name = "ì^yr˜ñ∑V"  # Cuthred
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205183
+  690.1.1 = {
+    birth = yes
+  }
+  756.1.1 = {
+    death = yes
+  }
+}
+205186 = {
+  name = "-^i`ÃëKQ"  # Cynric
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205185
+  720.1.1 = {
+    birth = "720.1.1"
+  }
+  748.1.1 = {
+    death = "748.1.1"
+  }
+}
+205187 = {
+  name = "çÇeY^"  # Eoppa
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205165
+  706.1.1 = {
+    birth = "706.1.1"
+  }
+  758.1.1 = {
+    death = "758.1.1"
+  }
+}
+205188 = {
+  name = "1r’l"  # Eafa
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205187
+  mother = 205191
+  730.1.1 = {
+    birth = "730.1.1"
+  }
+  760.1.1 = {
+    death = "760.1.1"
+  }
+}
+205189 = {
+  name = "OSôÑ∑V"  # Ealhmund
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205188
+  750.1.1 = {
+    birth = "750.1.1"
+  }
+  784.1.1 = {
+    death = "784.1.1"
+  }
+}
+205190 = {
+  name = "√W∑V>Okç"  # Eadburh
+  female = yes
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205049
+  753.1.1 = {
+    birth = yes
+  }
+  779.1.1 = {
+    death = "779.1.1"
+  }
+}
+205191 = {
+  name = "^KQØe>Okç"  # Seaxburh
+  female = yes
+  dynasty = 1047001
+  religion = "catholic"
+  culture = "saxon"
+  father = 205045
+  706.1.1 = {
+    birth = "706.1.1"
+  }
+  762.1.1 = {
+    death = "762.1.1"
+  }
+}
+205113 = {
+  name = "eYØe^S"  # Oshere
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205130
+  mother = 205137
+  600.1.1 = {
+    birth = "600.1.1"
+  }
+  650.1.1 = {
+    death = "650.1.1"
+  }
+}
+205114 = {
+  name = "çÇi`^S"  # Eanhere
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205113
+  mother = 205138
+  628.1.1 = {
+    birth = "628.1.1"
+  }
+  675.1.1 = {
+    death = "675.1.1"
+  }
+}
+205115 = {
+  name = "çÇi`VÃëØe"  # Eanfrith
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205113
+  mother = 205138
+  627.1.1 = {
+    birth = "627.1.1"
+  }
+  674.1.1 = {
+    death = "674.1.1"
+  }
+}
+205116 = {
+  name = "√WôÇ"  # Eafe
+  female = yes
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205115
+  650.1.1 = {
+    birth = "650.1.1"
+  }
+  700.1.1 = {
+    death = "700.1.1"
+  }
+}
+205117 = {
+  name = "eYØeÃëKQ"  # Osric
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205114
+  645.1.1 = {
+    birth = "645.1.1"
+  }
+  679.1.1 = {
+    death = "679.1.1"
+  }
+}
+205118 = {
+  name = "eYØe^S"  # Oshere
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205114
+  651.1.1 = {
+    birth = "651.1.1"
+  }
+  704.1.1 = {
+    death = "704.1.1"
+  }
+}
+205119 = {
+  name = "eYØeÊtS∑V"  # Oswald
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205114
+  652.1.1 = {
+    birth = "652.1.1"
+  }
+  690.1.1 = {
+    death = "690.1.1"
+  }
+}
+205120 = {
+  name = "√Wnt»T∑V"  # ∆thelheard
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205118
+  mother = 205133
+  680.1.1 = {
+    birth = "680.1.1"
+  }
+  710.1.1 = {
+    death = "710.1.1"
+  }
+}
+205121 = {
+  name = "√WntZS∑V"  # ∆thelweard
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205118
+  mother = 205133
+  681.1.1 = {
+    birth = "681.1.1"
+  }
+  710.1.1 = {
+    death = "710.1.1"
+  }
+}
+205122 = {
+  name = "√WntSÃëKQ"  # ∆thelric
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205118
+  mother = 205133
+  682.1.1 = {
+    birth = "682.1.1"
+  }
+  730.1.1 = {
+    death = "730.1.1"
+  }
+}
+205123 = {
+  name = "eYØe˜ñ∑V"  # Osred
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205118
+  mother = 205133
+  685.1.1 = {
+    birth = "685.1.1"
+  }
+  740.1.1 = {
+    death = "740.1.1"
+  }
+}
+205124 = {
+  name = "ÒÇ	TS∑V"  # Ingeld
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205122
+  mother = 205134
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  756.1.1 = {
+    death = "756.1.1"
+  }
+}
+205125 = {
+  name = "√WntôÑ∑V"  # ∆thelmund
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205124
+  mother = 205131
+  730.1.1 = {
+    birth = "730.1.1"
+  }
+  802.1.1 = {
+    death = "802.1.1"
+  }
+}
+205126 = {
+  name = "√WntSÃëKQ"  # ∆thelric
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205125
+  760.1.1 = {
+    birth = "760.1.1"
+  }
+  804.1.1 = {
+    death = "804.1.1"
+  }
+}
+205127 = {
+  name = "çÇi`>Oyr"  # Eanberht
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205123
+  mother = 205132
+  715.1.1 = {
+    birth = "715.1.1"
+  }
+  759.1.1 = {
+    death = "759.1.1"
+  }
+}
+205128 = {
+  name = "LNkçyr˜ñ∑V"  # Uhtred
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205123
+  mother = 205132
+  716.1.1 = {
+    birth = "716.1.1"
+  }
+  777.1.1 = {
+    death = "777.1.1"
+  }
+}
+205129 = {
+  name = "1r∑V˜ñ∑V"  # Ealdred
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205123
+  mother = 205132
+  717.1.1 = {
+    birth = "717.1.1"
+  }
+  780.1.1 = {
+    death = "780.1.1"
+  }
+}
+205130 = {
+  name = "eYØe´É∑V"  # Osmod
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205139
+  mother = 159751
+  560.1.1 = {
+    birth = "560.1.1"
+  }
+  630.1.1 = {
+    death = "630.1.1"
+  }
+}
+205131 = {
+  name = "-^i`yrÃëN"  # Cynetryth
+  female = yes
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205103
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  767.1.1 = {
+    death = "767.1.1"
+  }
+}
+205132 = {
+  name = "OS+YyrÃëN"  # Wulfthryth
+  female = yes
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205102
+  689.1.1 = {
+    birth = "689.1.1"
+  }
+  754.1.1 = {
+    death = "754.1.1"
+  }
+}
+205133 = {
+  name = "^XNâÉN"  # SÊthryth
+  female = yes
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205101
+  659.1.1 = {
+    birth = "659.1.1"
+  }
+  715.1.1 = {
+    death = "715.1.1"
+  }
+}
+205134 = {
+  name = "(ÑZSkç"  # SÊburh
+  female = yes
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205102
+  684.1.1 = {
+    birth = "684.1.1"
+  }
+  745.1.1 = {
+    death = "745.1.1"
+  }
+}
+205135 = {
+  name = "√Wnt´É∑V"  # ∆thelmod
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205117
+  mother = 205136
+  667.1.1 = {
+    birth = "667.1.1"
+  }
+  733.1.1 = {
+    death = "733.1.1"
+  }
+}
+205136 = {
+  name = "HSÖQ^Skç"  # Cyneburh
+  female = yes
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205101
+  650.1.1 = {
+    birth = "650.1.1"
+  }
+  715.1.1 = {
+    death = "715.1.1"
+  }
+}
+205139 = {
+  name = "eYØeÊtS∑V"  # Oswald
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  530.1.1 = {
+    birth = "530.1.1"
+  }
+  570.1.1 = {
+    death = "570.1.1"
+  }
+}
+194094 = {
+  name = "eY’l"  # Offa
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  460.1.1 = {
+    birth = "460.1.1"
+  }
+  527.1.1 = {
+    death = "527.1.1"
+  }
+}
+194095 = {
+  name = "√WØeKQáe"  # ∆scwine
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194094
+  490.1.1 = {
+    birth = "490.1.1"
+  }
+  587.1.1 = {
+    death = "587.1.1"
+  }
+}
+194096 = {
+  name = "Øe±Éæè"  # Sledda
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194095
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  604.1.1 = {
+    death = "604.1.1"
+  }
+}
+194097 = {
+  name = "(ÑZSyr"  # SÊberht
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 194096
+  550.1.1 = {
+    birth = yes
+  }
+  616.1.1 = {
+    death = yes
+  }
+}
+194098 = {
+  name = "(ÑKQØe˜ñ∑V"  # SÊxred
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194097
+  570.1.1 = {
+    birth = yes
+  }
+  617.1.1 = {
+    death = yes
+  }
+}
+194099 = {
+  name = "(ÑÉl∑V"  # SÊward
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194097
+  575.1.1 = {
+    birth = yes
+  }
+  617.1.1 = {
+    death = yes
+  }
+}
+194100 = {
+  name = "â<h>Oyr"  # Sigeberht
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194099
+  592.1.1 = {
+    birth = yes
+  }
+  653.1.1 = {
+    death = yes
+  }
+}
+194101 = {
+  name = "â<h>Oyr"  # Sigeberht
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 194100
+  608.1.1 = {
+    birth = yes
+  }
+  660.1.1 = {
+    death = yes
+    give_nickname = nick_the_good
+  }
+}
+194102 = {
+  name = "ØeÙuØe—ûS∆Y"  # Swithhelm
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 194101
+  624.1.1 = {
+    birth = yes
+  }
+  664.1.1 = {
+    death = yes
+  }
+}
+194103 = {
+  name = "â<h^S"  # Sighere
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194102
+  640.1.1 = {
+    birth = yes
+  }
+  683.1.1 = {
+    death = yes
+  }
+}
+205256 = {
+  name = "^X‘k"  # Sebbi
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 194102
+  642.1.1 = {
+    birth = yes
+  }
+  694.1.1 = {
+    death = yes
+  }
+}
+205257 = {
+  name = "â<h»T∑V"  # Sigeheard
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205256
+  660.1.1 = {
+    birth = "660.1.1"
+  }
+  708.1.1 = {
+    death = "708.1.1"
+  }
+}
+205258 = {
+  name = "ØeÊtV˜ñ∑V"  # SwÊfred
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205256
+  655.1.1 = {
+    birth = "655.1.1"
+  }
+  708.1.1 = {
+    death = "708.1.1"
+  }
+}
+205259 = {
+  name = "eY’l"  # Offa
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205257
+  676.1.1 = {
+    birth = "676.1.1"
+  }
+  709.1.1 = {
+    death = "709.1.1"
+  }
+}
+205260 = {
+  name = "^X‘k"  # Sebbi
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205257
+  677.1.1 = {
+    birth = "677.1.1"
+  }
+  708.1.1 = {
+    death = "708.1.1"
+  }
+}
+205261 = {
+  name = "â<h˜ñ∑V"  # Sigered
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205258
+  675.1.1 = {
+    birth = "675.1.1"
+  }
+  708.1.1 = {
+    death = "708.1.1"
+  }
+}
+205262 = {
+  name = "^XS˜ñ∑V"  # SÊlred
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205261
+  691.1.1 = {
+    birth = "691.1.1"
+  }
+  746.1.1 = {
+    death = "746.1.1"
+  }
+}
+205263 = {
+  name = "ØeÙuØe˜ñ∑V"  # Swithred
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205260
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  758.1.1 = {
+    death = "758.1.1"
+  }
+}
+205264 = {
+  name = "^XS˜ñ∑V"  # SÊlred
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205262
+  725.1.1 = {
+    birth = "725.1.1"
+  }
+  800.1.1 = {
+    death = "800.1.1"
+  }
+}
+205265 = {
+  name = "â<hÃëKQ"  # Sigeric
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205264
+  745.1.1 = {
+    birth = "745.1.1"
+  }
+  830.1.1 = {
+    death = "830.1.1"
+  }
+}
+205266 = {
+  name = "â<h˜ñ∑V"  # Sigered
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205265
+  765.1.1 = {
+    birth = "765.1.1"
+  }
+  835.1.1 = {
+    death = "835.1.1"
+  }
+}
+205192 = {
+  name = "ˆSêe"  # Yffe
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252168
+  500.1.1 = {
+    birth = yes
+  }
+  559.1.1 = {
+    death = yes
+  }
+}
+205193 = {
+  name = "√W…b"  # ∆lla
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205192
+  540.1.1 = {
+    birth = "540.1.1"
+  }
+  588.1.1 = {
+    death = "588.1.1"
+  }
+}
+205194 = {
+  name = "√WSVÃëKQ"  # ∆lfric
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205192
+  545.1.1 = {
+    birth = "545.1.1"
+  }
+  589.1.1 = {
+    death = "589.1.1"
+  }
+}
+205195 = {
+  name = "eYØeÃëKQ"  # Osric
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205194
+  565.1.1 = {
+    birth = "565.1.1"
+  }
+  634.1.1 = {
+    death = "634.1.1"
+  }
+}
+205196 = {
+  name = "eYØeN"  # Oswine
+  dynasty = 1047009
+  religion = "catholic"
+  culture = "saxon"
+  father = 205195
+  585.1.1 = {
+    birth = "585.1.1"
+  }
+  651.1.1 = {
+    death = "651.1.1"
+  }
+}
+205197 = {
+  name = "√WntSÃëKQ"  # ∆thelric
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205193
+  580.1.1 = {
+    birth = "580.1.1"
+  }
+  604.1.1 = {
+    death = "604.1.1"
+  }
+}
+205198 = {
+  name = "1r∑VN"  # Eadwine
+  dynasty = 1047009
+  religion = "catholic"
+  culture = "saxon"
+  father = 205193
+  585.1.1 = {
+    birth = "585.1.1"
+  }
+  620.1.1 = {
+    add_spouse = 205034
+  }
+  633.10.12 = {
+    death = "633.10.12"
+  }
+}
+205199 = {
+  name = "ÒÇ<hÙu"  # Ingvi
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  433.1.1 = {
+    birth = "433.1.1"
+  }
+  490.1.1 = {
+    death = "490.1.1"
+  }
+}
+205200 = {
+  name = "√W(Ñ"  # Esa
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205199
+  456.1.1 = {
+    birth = "456.1.1"
+  }
+  510.1.1 = {
+    death = "510.1.1"
+  }
+}
+205201 = {
+  name = "çÇ'k^"  # Eoppa
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205200
+  486.1.1 = {
+    birth = "486.1.1"
+  }
+  547.1.1 = {
+    death = "547.1.1"
+  }
+}
+205202 = {
+  name = "O≤Y"  # Ida
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205201
+  505.1.1 = {
+    birth = "505.1.1"
+  }
+  559.1.1 = {
+    death = "559.1.1"
+  }
+}
+205203 = {
+  name = "<h…b^"  # Glappa
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205202
+  521.1.1 = {
+    birth = "521.1.1"
+  }
+  560.1.1 = {
+    death = "560.1.1"
+  }
+}
+205204 = {
+  name = "?ñæè"  # Adda
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205202
+  522.1.1 = {
+    birth = "522.1.1"
+  }
+  568.1.1 = {
+    death = "568.1.1"
+  }
+}
+205205 = {
+  name = "√WntSÃëKQ"  # ∆thelric
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205202
+  527.1.1 = {
+    birth = "527.1.1"
+  }
+  572.1.1 = {
+    death = "572.1.1"
+  }
+}
+205206 = {
+  name = "–ceY∑VÃëKQ"  # Theodric
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205202
+  528.1.1 = {
+    birth = "528.1.1"
+  }
+  579.1.1 = {
+    death = "579.1.1"
+  }
+}
+205207 = {
+  name = "VÃëœÇÉl∑V"  # Frithuwald
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205202
+  532.1.1 = {
+    birth = "532.1.1"
+  }
+  585.1.1 = {
+    death = "585.1.1"
+  }
+}
+205208 = {
+  name = "·w(Ñ"  # Hussa
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205202
+  535.1.1 = {
+    birth = "535.1.1"
+  }
+  592.1.1 = {
+    death = "592.1.1"
+  }
+}
+205209 = {
+  name = "√W^XSèyÃëØe"  # ∆thelfrith
+  dynasty = 1047010
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205205
+  555.1.1 = {
+    birth = "555.1.1"
+  }
+  590.1.1 = {
+    add_spouse = 205210
+  }
+  616.1.1 = {
+    death = "616.1.1"
+  }
+}
+205210 = {
+  name = "?ñÂg"  # Acha
+  female = yes
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205193
+  570.1.1 = {
+    birth = "570.1.1"
+  }
+  590.1.1 = {
+    add_spouse = 205209
+  }
+  634.1.1 = {
+    death = "634.1.1"
+  }
+}
+205211 = {
+  name = "çÇi`VÃëØe"  # Eanfrith
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 205209
+  mother = 205210
+  590.1.1 = {
+    birth = "590.1.1"
+  }
+  617.1.1 = {
+    add_spouse = 166558
+  }
+  634.1.1 = {
+    death = "634.1.1"
+  }
+}
+205212 = {
+  name = "eYØeÊtS∑V"  # Oswald
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 205209
+  mother = 205210
+  604.1.1 = {
+    birth = "604.1.1"
+  }
+  642.8.5 = {
+    death = "642.8.5"
+  }
+}
+205213 = {
+  name = "eYØeLN"  # Oswiu
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 205209
+  mother = 205210
+  612.1.1 = {
+    birth = yes
+  }
+  629.1.1 = {
+    add_spouse = 252216
+  }
+  642.1.1 = {
+    add_spouse = 205214
+  }
+  670.2.15 = {
+    death = yes
+  }
+}
+205214 = {
+  name = "çÇi`V±É∑V"  # EanflÊd
+  female = yes
+  dynasty = 1047009
+  religion = "catholic"
+  culture = "saxon"
+  father = 205198
+  mother = 205034
+  626.4.19 = {
+    birth = "626.4.19"
+  }
+  642.1.1 = {
+    add_spouse = 205213
+  }
+  686.1.1 = {
+    death = "686.1.1"
+  }
+}
+205215 = {
+  name = "eYKQ<h"  # Ocg
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205202
+  536.1.1 = {
+    birth = "536.1.1"
+  }
+  600.1.1 = {
+    death = "600.1.1"
+  }
+}
+205216 = {
+  name = "?ñS4b∆Y"  # Aldhelm
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205215
+  571.1.1 = {
+    birth = "571.1.1"
+  }
+  630.1.1 = {
+    death = "630.1.1"
+  }
+}
+205217 = {
+  name = "√WKQLN+Y"  # Ecgwulf
+  dynasty = 1047008
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205216
+  595.1.1 = {
+    birth = "595.1.1"
+  }
+  660.1.1 = {
+    death = "660.1.1"
+  }
+}
+205218 = {
+  name = ")ReYÉl∑V"  # Leodwald
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205217
+  621.1.1 = {
+    birth = "621.1.1"
+  }
+  690.1.1 = {
+    death = "690.1.1"
+  }
+}
+205219 = {
+  name = "ì^yrN"  # Cuthwine
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205218
+  654.1.1 = {
+    birth = "654.1.1"
+  }
+  715.1.1 = {
+    death = "715.1.1"
+  }
+}
+205220 = {
+  name = "≈ñTX"  # Eata
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205218
+  655.1.1 = {
+    birth = "655.1.1"
+  }
+  713.1.1 = {
+    death = "713.1.1"
+  }
+}
+205221 = {
+  name = "—yi`˜ñ∑V"  # Coenred
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205219
+  690.1.1 = {
+    birth = "690.1.1"
+  }
+  718.1.1 = {
+    death = "718.1.1"
+  }
+}
+205222 = {
+  name = "âeYfk+Y"  # Ceolwulf
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205219
+  695.1.1 = {
+    birth = "695.1.1"
+  }
+  765.1.1 = {
+    death = "765.1.1"
+  }
+}
+205223 = {
+  name = "√W<h>Oyr"  # Ecgberht
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205220
+  685.1.1 = {
+    birth = "685.1.1"
+  }
+  766.11.19 = {
+    death = "766.11.19"
+  }
+}
+205224 = {
+  name = "√W∑V>Oyr"  # Eadberht
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205220
+  690.1.1 = {
+    birth = "690.1.1"
+  }
+  768.8.20 = {
+    death = "768.8.20"
+  }
+}
+205225 = {
+  name = "eYØefk+Y"  # Oswulf
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205224
+  720.1.1 = {
+    birth = "720.1.1"
+  }
+  759.7.24 = {
+    death = "759.7.24"
+  }
+}
+205226 = {
+  name = "eYØeLN+Y"  # Oswine
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205224
+  725.1.1 = {
+    birth = "725.1.1"
+  }
+  761.8.1 = {
+    death = "761.8.1"
+  }
+}
+205227 = {
+  name = "eYN	TôÇ"  # Osgifu
+  female = yes
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205224
+  730.1.1 = {
+    birth = "730.1.1"
+  }
+  750.1.1 = {
+    add_spouse = 205237
+  }
+  790.1.1 = {
+    death = "790.1.1"
+  }
+}
+194104 = {
+  name = "√WS+YÉl∑V"  # ∆lfwald
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205225
+  745.1.1 = {
+    birth = "745.1.1"
+  }
+  788.9.23 = {
+    death = "788.9.23"
+  }
+}
+205228 = {
+  name = "eYØeÙT∑V"  # Osbald
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205226
+  750.1.1 = {
+    birth = "750.1.1"
+  }
+  799.1.1 = {
+    death = "799.1.1"
+  }
+}
+205229 = {
+  name = "√WS+Y"  # ∆lf
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205228
+  766.1.1 = {
+    birth = "766.1.1"
+  }
+  791.1.1 = {
+    death = "791.1.1"
+  }
+}
+205230 = {
+  name = "√WS+Yáe"  # ∆lfwine
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205228
+  767.1.1 = {
+    birth = "767.1.1"
+  }
+  791.1.1 = {
+    death = "791.1.1"
+  }
+}
+205231 = {
+  name = ">Oi`"  # Bearn
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205228
+  765.1.1 = {
+    birth = "765.1.1"
+  }
+  780.1.1 = {
+    death = "780.1.1"
+  }
+}
+205232 = {
+  name = "√W∑VÃëKQ"  # Eadric
+  dynasty = 1047023
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205202
+  537.1.1 = {
+    birth = "537.1.1"
+  }
+  600.1.1 = {
+    death = "600.1.1"
+  }
+}
+205233 = {
+  name = "^±ÉKQ¸f"  # BlÊcman
+  dynasty = 1047023
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205232
+  570.1.1 = {
+    birth = "570.1.1"
+  }
+  640.1.1 = {
+    death = "640.1.1"
+  }
+}
+205234 = {
+  name = ">O’l"  # Bofa
+  dynasty = 1047023
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205233
+  610.1.1 = {
+    birth = "610.1.1"
+  }
+  690.1.1 = {
+    death = "690.1.1"
+  }
+}
+205235 = {
+  name = "çeYó∆Y"  # Beornholm
+  dynasty = 1047023
+  religion = "catholic"
+  culture = "saxon"
+  father = 205234
+  650.1.1 = {
+    birth = "650.1.1"
+  }
+  733.1.1 = {
+    death = "733.1.1"
+  }
+}
+205236 = {
+  name = "çÇi`N"  # Eanwine
+  dynasty = 1047023
+  religion = "catholic"
+  culture = "saxon"
+  father = 205235
+  690.1.1 = {
+    birth = "690.1.1"
+  }
+  767.1.1 = {
+    death = "767.1.1"
+  }
+}
+205237 = {
+  name = "√WS˜ñ∑V"  # Ealhred
+  dynasty = 1047023
+  religion = "catholic"
+  culture = "saxon"
+  father = 205236
+  725.1.1 = {
+    birth = "725.1.1"
+  }
+  750.1.1 = {
+    add_spouse = 205227
+  }
+  774.1.1 = {
+    death = "774.1.1"
+  }
+}
+205238 = {
+  name = "eYØe˜ñ∑V"  # Osred
+  dynasty = 1047023
+  religion = "catholic"
+  culture = "saxon"
+  father = 205237
+  mother = 205227
+  750.1.1 = {
+    birth = "750.1.1"
+  }
+  792.1.1 = {
+    death = "792.1.1"
+  }
+}
+205239 = {
+  name = "√WSôÑ∑V"  # Ealhmund
+  dynasty = 1047023
+  religion = "catholic"
+  culture = "saxon"
+  father = 205237
+  mother = 205227
+  751.1.1 = {
+    birth = "751.1.1"
+  }
+  800.1.1 = {
+    death = "800.1.1"
+  }
+}
+205240 = {
+  name = "√W∑VLN+Y"  # Eadwulf
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  631.1.1 = {
+    birth = "631.1.1"
+  }
+  705.3.1 = {
+    death = "705.3.1"
+  }
+}
+205241 = {
+  name = "çÇi`N"  # Eanwine
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205240
+  665.1.1 = {
+    birth = "665.1.1"
+  }
+  740.1.1 = {
+    death = "740.1.1"
+  }
+}
+205242 = {
+  name = "idS"  # Moll
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205240
+  680.1.1 = {
+    birth = "680.1.1"
+  }
+  743.1.1 = {
+    death = "743.1.1"
+  }
+}
+205243 = {
+  name = "√W^XSÊtS∑V"  # ∆thelwald
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205242
+  730.1.1 = {
+    birth = "730.1.1"
+  }
+  765.10.30 = {
+    death = "765.10.30"
+  }
+}
+205244 = {
+  name = "√W^XS˜ñ∑V"  # ∆thelred
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205243
+  762.1.1 = {
+    birth = "762.1.1"
+  }
+  796.4.18 = {
+    death = "796.4.18"
+  }
+}
+205245 = {
+  name = "ÑS∑Vfk+Y"  # Eardwulf
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205241
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  741.1.1 = {
+    death = "741.1.1"
+  }
+}
+205246 = {
+  name = "ÑS∑Vfk+Y"  # Eardwulf
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205245
+  730.1.1 = {
+    birth = yes
+  }
+  810.1.1 = {
+    death = yes
+  }
+}
+205247 = {
+  name = "çÇi`˜ñ∑V"  # Eanred
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205246
+  760.1.1 = {
+    birth = "760.1.1"
+  }
+  850.1.1 = {
+    death = "850.1.1"
+  }
+}
+205248 = {
+  name = "eYØefk+Y"  # Oswulf
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205246
+  761.1.1 = {
+    birth = "761.1.1"
+  }
+  840.1.1 = {
+    death = "840.1.1"
+  }
+}
+205249 = {
+  name = "çÇi`N"  # Eanwine
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205245
+  735.1.1 = {
+    birth = "735.1.1"
+  }
+  805.1.1 = {
+    death = "805.1.1"
+  }
+}
+205250 = {
+  name = "eYØeÊtS∑V"  # Oswald
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205245
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  805.1.1 = {
+    death = "805.1.1"
+  }
+}
+205251 = {
+  name = "ÑS∑Vfk+Y"  # Eardwulf
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205249
+  770.1.1 = {
+    birth = "770.1.1"
+  }
+  835.1.1 = {
+    death = "835.1.1"
+  }
+}
+205252 = {
+  name = "eYØefk+Y"  # Oswulf
+  dynasty = 814
+  religion = "catholic"
+  culture = "saxon"
+  father = 205250
+  775.1.1 = {
+    birth = "775.1.1"
+  }
+  836.1.1 = {
+    death = "836.1.1"
+  }
+}
+205253 = {
+  name = "eYØe‚lyr"  # Osberht
+  dynasty = 814
+  religion = "catholic"
+  culture = "saxon"
+  father = 205252
+  805.1.1 = {
+    birth = "805.1.1"
+  }
+  866.1.1 = {
+    death = "866.1.1"
+  }
+}
+205254 = {
+  name = "…b∑Vfk+Y"  # RÊdwulf
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205251
+  800.1.1 = {
+    birth = "800.1.1"
+  }
+  844.1.1 = {
+    death = "844.1.1"
+  }
+}
+205255 = {
+  name = "√W^XS˜ñ∑V"  # ∆thelred
+  dynasty = 1047022
+  religion = "catholic"
+  culture = "saxon"
+  father = 205247
+  800.1.1 = {
+    birth = "800.1.1"
+  }
+  860.1.1 = {
+    death = "860.1.1"
+  }
+}
+205267 = {
+  name = "^Wæè"  # Brorda
+  dynasty = 1047013
+  religion = "catholic"
+  culture = "saxon"
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  835.1.1 = {
+    death = "835.1.1"
+  }
+}
+205268 = {
+  name = "eYØeôÑ∑V"  # Osmund
+  dynasty = 1047017
+  religion = "catholic"
+  culture = "saxon"
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  835.1.1 = {
+    death = "835.1.1"
+  }
+}
+214037 = {
+  name = "?ñS∑V+YÃëØe"  # Aldfrith
+  dynasty = 214019
+  religion = "catholic"
+  culture = "saxon"
+  father = 214038
+  730.1.1 = {
+    birth = yes
+  }
+  796.1.1 = {
+    death = yes
+  }
+}
+214038 = {
+  name = "OTX"  # Eatta
+  dynasty = 214019
+  religion = "catholic"
+  culture = "saxon"
+  father = 214039
+  700.1.1 = {
+    birth = yes
+  }
+  765.1.1 = {
+    death = yes
+  }
+}
+214039 = {
+  name = "çÇi`VÃëØe"  # Eanfrith
+  dynasty = 214019
+  religion = "catholic"
+  culture = "saxon"
+  father = 214040
+  675.1.1 = {
+    birth = yes
+  }
+  740.1.1 = {
+    death = yes
+  }
+}
+214040 = {
+  name = "‘kØe—ynf"  # Biscop
+  dynasty = 214019
+  religion = "catholic"
+  culture = "saxon"
+  father = 214041
+  650.1.1 = {
+    birth = yes
+  }
+  700.1.1 = {
+    death = yes
+  }
+}
+214041 = {
+  name = "çæè"  # Beda
+  dynasty = 214019
+  religion = "catholic"
+  culture = "saxon"
+  father = 214042
+  625.1.1 = {
+    birth = yes
+  }
+  675.1.1 = {
+    death = yes
+  }
+}
+214042 = {
+  name = "^…baS"  # BlÊcca
+  dynasty = 214019
+  religion = "norse_pagan"
+  culture = "saxon"
+  600.1.1 = {
+    birth = yes
+  }
+  629.1.1 = {
+    religion = "catholic"
+  }
+  650.1.1 = {
+    death = yes
+  }
+}
+214035 = {
+  name = "âeYfk+Y"  # Ceolwulf
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  725.1.1 = {
+    birth = yes
+  }
+  796.1.1 = {
+    death = yes
+  }
+}
+214036 = {
+  name = "1r∑VÙT∑V"  # Eadbald
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  810.1.1 = {
+    birth = yes
+  }
+  869.1.1 = {
+    death = yes
+  }
+}
+214033 = {
+  name = "`^»T"  # Wigheah
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  709.1.1 = {
+    birth = yes
+  }
+  776.1.1 = {
+    death = yes
+  }
+}
+214034 = {
+  name = "ØeÊóØefk+Y"  # Swithwulf
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  825.1.1 = {
+    birth = yes
+  }
+  882.1.1 = {
+    death = yes
+  }
+}
+214031 = {
+  name = "ì^ØeVÃëØe"  # Cuthfrith
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  715.1.1 = {
+    birth = yes
+  }
+  769.6.1 = {
+    death = yes
+  }
+}
+214032 = {
+  name = "fk+Y^<h"  # Wulfsige
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  820.1.1 = {
+    birth = yes
+  }
+  868.1.1 = {
+    death = yes
+  }
+}
+188915 = {
+  name = "√WntS>Oyr"  # ∆thelbert
+  religion = "catholic"
+  culture = "saxon"
+  learning = 12
+  trait = erudite
+  trait = scholarly_theologian
+  715.1.1 = {
+    birth = yes
+  }
+  780.11.8 = {
+    death = yes
+  }
+}
+188916 = {
+  name = "fk+Y^S"  # Wulfhere
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  820.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+188917 = {
+  name = "1r∑V˜ñ∑V"  # Ealdred
+  religion = "catholic"
+  culture = "saxon"
+  learning = 7
+  diplomacy = 8
+  martial = 5
+  trait = erudite
+  1000.1.1 = {
+    birth = yes
+  }
+  1069.9.11 = {
+    death = yes
+  }
+}
+188918 = {
+  name = "?ñSf"  # Alcuin
+  religion = "catholic"
+  culture = "saxon"
+  learning = 13
+  trait = erudite
+  trait = scholar
+  trait = mastermind_theologian
+  735.1.1 = {
+    birth = yes
+  }
+  767.1.1 = {
+    employer = 188915
+  }
+  804.5.19 = {
+    death = yes
+  }
+}
+188919 = {
+  name = "—ûkçÊtSyr"  # Herewald
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  700.1.1 = {
+    birth = yes
+  }
+  770.1.1 = {
+    death = yes
+  }
+}
+214030 = {
+  name = "»TôÑyr"  # Heahmund
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  830.1.1 = {
+    birth = yes
+  }
+  871.3.22 = {
+    death = yes
+  }
+}
+214044 = {
+  name = "ÍèeY…b+Y"  # Deorlaf
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  825.1.1 = {
+    birth = yes
+  }
+  886.1.1 = {
+    death = yes
+  }
+}
+214045 = {
+  name = "jçÃufk+Y"  # Cynewulf
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  709.1.1 = {
+    birth = yes
+  }
+  783.1.1 = {
+    death = yes
+  }
+}
+214046 = {
+  name = "eYØeÊtS∑V"  # Oswald
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  719.1.1 = {
+    birth = yes
+  }
+  776.1.1 = {
+    death = yes
+  }
+}
+214047 = {
+  name = "√WntSÃëKQ"  # ∆thelric
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  1020.1.1 = {
+    birth = yes
+  }
+  1076.1.1 = {
+    death = yes
+  }
+}
+214048 = {
+  name = "ÍèeY…b"  # Diora
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  722.1.1 = {
+    birth = yes
+  }
+  783.1.1 = {
+    death = yes
+  }
+}
+214049 = {
+  name = "ì^Øefk+Y"  # Cuthwulf
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  820.1.1 = {
+    birth = yes
+  }
+  874.1.1 = {
+    death = yes
+  }
+}
+214050 = {
+  name = "ØeÉl∑V"  # Siward
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  1021.1.1 = {
+    birth = yes
+  }
+  1075.1.1 = {
+    death = yes
+  }
+}
+252053 = {
+  name = "ZSVÃë∑V"  # Wilfrid
+  religion = "catholic"
+  culture = "saxon"
+  trait = "chaste"
+  trait = "diligent"
+  trait = "mastermind_theologian"
+  633.1.1 = {
+    birth = yes
+  }
+  709.1.1 = {
+    death = yes
+  }
+}
+252054 = {
+  name = "√WöNTX"  # Eata
+  religion = "catholic"
+  culture = "saxon"
+  trait = "chaste"
+  trait = "diligent"
+  trait = "mastermind_theologian"
+  635.1.1 = {
+    birth = yes
+  }
+  686.10.26 = {
+    death = yes
+  }
+}
+252055 = {
+  name = "aSØe>Oyr"  # Cuthbert
+  religion = "catholic"
+  culture = "saxon"
+  trait = "chaste"
+  trait = "diligent"
+  trait = "mastermind_theologian"
+  634.1.1 = {
+    birth = yes
+  }
+  687.3.20 = {
+    death = yes
+  }
+}
+252056 = {
+  name = "√W∑V>Oyr"  # Eadberht
+  religion = "catholic"
+  culture = "saxon"
+  trait = "chaste"
+  trait = "diligent"
+  trait = "mastermind_theologian"
+  640.1.1 = {
+    birth = yes
+  }
+  698.5.6 = {
+    death = yes
+  }
+}
+252057 = {
+  name = "1r∑VVÃëØe"  # Eadfrith
+  religion = "catholic"
+  culture = "saxon"
+  trait = "chaste"
+  trait = "diligent"
+  trait = "mastermind_theologian"
+  656.1.1 = {
+    birth = yes
+  }
+  721.1.1 = {
+    death = yes
+  }
+}
+252058 = {
+  name = "√WyrSÉl∑V"  # ∆thelwold
+  religion = "catholic"
+  culture = "saxon"
+  trait = "chaste"
+  trait = "diligent"
+  trait = "mastermind_theologian"
+  684.1.1 = {
+    birth = yes
+  }
+  740.1.1 = {
+    death = yes
+  }
+}
+252059 = {
+  name = "^<hÙTS∑V"  # Higbald
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  744.1.1 = {
+    birth = yes
+  }
+  803.5.23 = {
+    death = yes
+  }
+}
+252060 = {
+  name = "√W<h>Oyr"  # Egbert
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  777.1.1 = {
+    birth = yes
+  }
+  821.1.1 = {
+    death = yes
+  }
+}
+252061 = {
+  name = "—ûöNØe+Y˜ñ∑V"  # Heathwred
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  782.1.1 = {
+    birth = yes
+  }
+  830.1.1 = {
+    death = yes
+  }
+}
+252062 = {
+  name = "√WKQ<h˜ñ∑V"  # Ecgred
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  780.1.1 = {
+    birth = yes
+  }
+  845.1.1 = {
+    death = yes
+  }
+}
+252063 = {
+  name = "√WâR>Oyr"  # Eanbert
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  797.1.1 = {
+    birth = yes
+  }
+  854.1.1 = {
+    death = yes
+  }
+}
+252064 = {
+  name = "ì^^XöNS∑V"  # Cutheard
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  856.1.1 = {
+    birth = yes
+  }
+  915.1.1 = {
+    death = yes
+  }
+}
+252065 = {
+  name = "ÇÑS˜ñ∑V"  # Tilred
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  879.1.1 = {
+    birth = yes
+  }
+  925.1.1 = {
+    death = yes
+  }
+}
+252066 = {
+  name = "Z<h˜ñ∑V"  # Wigred
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  883.1.1 = {
+    birth = yes
+  }
+  942.1.1 = {
+    death = yes
+  }
+}
+252067 = {
+  name = "LNyr˜ñ∑V"  # Uchtred
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  880.1.1 = {
+    birth = yes
+  }
+  944.1.1 = {
+    death = yes
+  }
+}
+252068 = {
+  name = "^XKQØe—ûS∆Y"  # Sexhelm
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  892.1.1 = {
+    birth = yes
+  }
+  948.1.1 = {
+    death = yes
+  }
+}
+252069 = {
+  name = "?ñS∑V˜ñ∑V"  # Aldred
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  906.1.1 = {
+    birth = yes
+  }
+  968.1.1 = {
+    death = yes
+  }
+}
+252070 = {
+  name = "√WS+Yâ6w"  # ∆lfsige
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  926.1.1 = {
+    birth = yes
+  }
+  990.1.1 = {
+    death = yes
+  }
+}
+252071 = {
+  name = "?ñS∑V*m"  # Aldhun
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  961.1.1 = {
+    birth = yes
+  }
+  1018.1.1 = {
+    death = yes
+  }
+}
+252072 = {
+  name = "√W∑VôÑ"  # Edmund
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  978.1.1 = {
+    birth = yes
+  }
+  1041.1.1 = {
+    death = yes
+  }
+}
+252073 = {
+  name = "√WöN∑V˜ñ∑V"  # Eadred
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  983.1.1 = {
+    birth = yes
+  }
+  1042.1.1 = {
+    death = yes
+  }
+}
+252074 = {
+  name = "√W^XSÃëKQ"  # ∆thelric
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  1013.1.1 = {
+    birth = yes
+  }
+  1072.10.15 = {
+    death = yes
+  }
+}
+252168 = {
+  name = "LNØe+Y˜ñ"  # Usfrey
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252169
+  482.1.1 = {
+    birth = yes
+  }
+  525.1.1 = {
+    death = yes
+  }
+}
+252169 = {
+  name = "ZSOSØe"  # Wilgils
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252170
+  464.1.1 = {
+    birth = yes
+  }
+  511.1.1 = {
+    death = yes
+  }
+}
+252170 = {
+  name = "ÊóØel’l±ÉöN"  # Westerfalea
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252171
+  440.1.1 = {
+    birth = yes
+  }
+  489.1.1 = {
+    death = yes
+  }
+}
+252171 = {
+  name = "^XÖhS"  # Soemel
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252172
+  422.1.1 = {
+    birth = yes
+  }
+  471.1.1 = {
+    death = yes
+  }
+}
+252172 = {
+  name = "^XO6wS"  # Saefugel
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252173
+  404.1.1 = {
+    birth = yes
+  }
+  452.1.1 = {
+    death = yes
+  }
+}
+252173 = {
+  name = "^XÙTS∑V"  # Saebald
+  dynasty = 1047009
+  religion = "norse_pagan"
+  culture = "saxon"
+  386.1.1 = {
+    birth = yes
+  }
+  438.1.1 = {
+    death = yes
+  }
+}
+252174 = {
+  name = "√W^XSÊtS∑V"  # Rthelwald
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 205212
+  625.1.1 = {
+    birth = yes
+  }
+  655.1.1 = {
+    death = yes
+  }
+}
+252175 = {
+  name = "?ñSkç+YÃëØe"  # Alhfrith
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 205213
+  mother = 252216
+  630.1.1 = {
+    birth = yes
+  }
+  655.1.1 = {
+    add_spouse = 252177
+  }
+  664.1.1 = {
+    death = yes
+  }
+}
+252176 = {
+  name = "?ñSkç+Y±É∑V"  # Alhflaed
+  female = yes
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 205213
+  mother = 252216
+  636.1.1 = {
+    birth = yes
+  }
+  670.1.1 = {
+    death = yes
+  }
+}
+252177 = {
+  name = "HSÖQ^Skç"  # Cyneburh
+  female = yes
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205057
+  637.1.1 = {
+    birth = yes
+  }
+  655.11.15 = {
+    religion = "catholic"
+  }
+  680.9.15 = {
+    death = yes
+  }
+}
+252178 = {
+  name = "HSÖQØeZ(Ñ"  # Cyneswitha
+  female = yes
+  dynasty = 1047002
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205057
+  640.1.1 = {
+    birth = yes
+  }
+  655.11.15 = {
+    religion = "catholic"
+  }
+  676.1.1 = {
+    death = yes
+  }
+}
+252179 = {
+  name = "çÇ<hVÃëØe"  # Ecgfrith
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 205213
+  mother = 205214
+  645.1.1 = {
+    birth = yes
+  }
+  661.1.1 = {
+    add_spouse = 252180
+  }
+  685.5.20 = {
+    death = yes
+  }
+}
+252180 = {
+  name = "√W^XS∑VLNæè"  # ∆thelthryth
+  female = yes
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205007
+  636.1.1 = {
+    birth = yes
+  }
+  679.6.23 = {
+    death = yes
+  }
+}
+252181 = {
+  name = "√WS+YÙuÖQ"  # ∆lfwine
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 205213
+  mother = 205214
+  661.1.1 = {
+    birth = yes
+  }
+  679.1.1 = {
+    death = yes
+  }
+}
+252182 = {
+  name = "?ñS∑V+YÃëØe"  # Aldfrith
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 205213
+  665.1.1 = {
+    birth = yes
+  }
+  686.1.1 = {
+    add_spouse = 252183
+  }
+  704.12.14 = {
+    death = yes
+  }
+}
+252183 = {
+  name = "ì^N^Skç"  # Cuthburh
+  female = yes
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205162
+  trait = chaste
+  670.1.1 = {
+    birth = yes
+  }
+  718.1.1 = {
+    death = yes
+  }
+}
+252184 = {
+  name = "eYØeÃëKQ"  # Osric
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 252175
+  mother = 252177
+  660.1.1 = {
+    birth = yes
+  }
+  729.5.9 = {
+    death = yes
+  }
+}
+252185 = {
+  name = "eYØe˜ñ∑V"  # Osred
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 252182
+  mother = 252183
+  696.1.1 = {
+    birth = yes
+  }
+  716.1.1 = {
+    death = yes
+  }
+}
+252186 = {
+  name = "eYéÉZ"  # Osana
+  female = yes
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 252182
+  mother = 252183
+  trait = chaste
+  698.1.1 = {
+    birth = yes
+  }
+  750.1.1 = {
+    death = yes
+  }
+}
+252187 = {
+  name = "eY’l"  # Offa
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 252182
+  mother = 252183
+  trait = chaste
+  700.1.1 = {
+    birth = yes
+  }
+  750.1.1 = {
+    death = yes
+  }
+}
+252188 = {
+  name = "√WS+YÊtS∑V"  # ∆lfwald
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 194104
+  765.1.1 = {
+    birth = yes
+  }
+  808.1.1 = {
+    death = yes
+  }
+}
+252189 = {
+  name = "˜ñ∑VOS+Y"  # Raedwulf
+  dynasty = 1047010
+  religion = "catholic"
+  culture = "saxon"
+  father = 252188
+  798.1.1 = {
+    birth = yes
+  }
+  858.1.1 = {
+    death = yes
+  }
+}
+252190 = {
+  name = "√W±É(Ñ"  # Elesa
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  440.1.1 = {
+    birth = yes
+  }
+  515.1.1 = {
+    death = yes
+  }
+}
+252191 = {
+  name = "√WöNÊó"  # Eafe
+  female = yes
+  dynasty = 1047006
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252190
+  465.1.1 = {
+    birth = yes
+  }
+  503.1.1 = {
+    death = yes
+  }
+}
+252192 = {
+  name = "6wZSS+Y"  # Gebolf
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  460.1.1 = {
+    birth = yes
+  }
+  483.1.1 = {
+    add_spouse = 252191
+  }
+  512.1.1 = {
+    death = yes
+  }
+}
+252193 = {
+  name = "Ùukçyr†RS"  # Wihtgar
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252192
+  mother = 252191
+  485.1.1 = {
+    birth = yes
+  }
+  544.1.1 = {
+    death = yes
+  }
+}
+252194 = {
+  name = "Øe˛V+Y"  # Stuf
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252192
+  mother = 252191
+  488.1.1 = {
+    birth = yes
+  }
+  548.1.1 = {
+    death = yes
+  }
+}
+252195 = {
+  name = "ØeÙuØe—ûS∆Y"  # Swithhelm
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252193
+  506.1.1 = {
+    birth = yes
+  }
+  557.1.1 = {
+    death = yes
+  }
+}
+252196 = {
+  name = "eYØe…bKQ"  # Oslac
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252195
+  534.1.1 = {
+    birth = yes
+  }
+  584.1.1 = {
+    death = yes
+  }
+}
+252197 = {
+  name = "OS+Y"  # Wulf
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252196
+  562.1.1 = {
+    birth = yes
+  }
+  611.1.1 = {
+    death = yes
+  }
+}
+252198 = {
+  name = "—û˜ñ†RS"  # Heregar
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252197
+  588.1.1 = {
+    birth = yes
+  }
+  644.1.1 = {
+    death = yes
+  }
+}
+252199 = {
+  name = "√WöN∑VçSkçyr"  # Eadberht
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252198
+  605.1.1 = {
+    birth = yes
+  }
+  665.1.1 = {
+    death = yes
+  }
+}
+252200 = {
+  name = "eYœÇS+Y"  # Osulf
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252199
+  624.1.1 = {
+    birth = yes
+  }
+  674.1.1 = {
+    death = yes
+  }
+}
+252201 = {
+  name = "?ñSÊtS∑V"  # Arwald
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252200
+  642.1.1 = {
+    birth = yes
+  }
+  686.1.1 = {
+    death = yes
+  }
+}
+252202 = {
+  name = "eYØeÊtS∑V"  # Oswald
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252201
+  660.1.1 = {
+    birth = yes
+  }
+  686.1.1 = {
+    religion = "catholic"
+  }
+  686.6.1 = {
+    death = yes
+  }
+}
+252203 = {
+  name = "√WöN∑V˜ñ∑V"  # Eadred
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252201
+  662.1.1 = {
+    birth = yes
+  }
+  686.1.1 = {
+    religion = "catholic"
+  }
+  686.6.1 = {
+    death = yes
+  }
+}
+252204 = {
+  name = "?ñSÙuÖQ"  # Arwine
+  dynasty = 105926
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 252202
+  680.1.1 = {
+    birth = yes
+  }
+  686.1.1 = {
+    religion = "catholic"
+  }
+  747.1.1 = {
+    death = yes
+  }
+}
+252205 = {
+  name = "Ùukç^X˜ñ"  # Wihthere
+  dynasty = 105926
+  religion = "catholic"
+  culture = "saxon"
+  father = 252204
+  705.1.1 = {
+    birth = yes
+  }
+  761.1.1 = {
+    death = yes
+  }
+}
+252206 = {
+  name = "√W^XSÊtS∑V"  # ∆thelwald
+  dynasty = 105926
+  religion = "catholic"
+  culture = "saxon"
+  father = 252205
+  733.1.1 = {
+    birth = yes
+  }
+  779.1.1 = {
+    death = yes
+  }
+}
+252207 = {
+  name = "?ñSOS+Y"  # Arwulf
+  dynasty = 105926
+  religion = "catholic"
+  culture = "saxon"
+  father = 252206
+  757.1.1 = {
+    birth = yes
+  }
+  803.1.1 = {
+    death = yes
+  }
+}
+252208 = {
+  name = "Ùukçyr†RS"  # Wihtgar
+  dynasty = 105926
+  religion = "catholic"
+  culture = "saxon"
+  father = 252207
+  775.1.1 = {
+    birth = yes
+  }
+  819.1.1 = {
+    death = yes
+  }
+}
+252209 = {
+  name = "eYØe…bKQ"  # Oslac
+  dynasty = 105926
+  religion = "catholic"
+  culture = "saxon"
+  father = 252208
+  800.1.1 = {
+    birth = yes
+  }
+  856.1.1 = {
+    death = yes
+  }
+}
+252210 = {
+  name = "eYN^Skç"  # Osburh
+  female = yes
+  dynasty = 105926
+  religion = "catholic"
+  culture = "saxon"
+  father = 252209
+  810.1.1 = {
+    birth = yes
+  }
+  856.1.1 = {
+    death = yes
+  }
+}
+252211 = {
+  name = "√W^XSØeU"  # ∆thelstan
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 33355
+  mother = 252210
+  832.1.1 = {
+    birth = yes
+  }
+  852.1.1 = {
+    death = yes
+  }
+}
+252250 = {
+  name = "çeYSi`—ûØe"  # Beornheth
+  dynasty = 105931
+  religion = "catholic"
+  culture = "saxon"
+  635.1.1 = {
+    birth = yes
+  }
+  685.1.1 = {
+    death = yes
+  }
+}
+252251 = {
+  name = "çeYSkçyr˜ñ∑V"  # Beorhtred
+  dynasty = 105931
+  religion = "catholic"
+  culture = "saxon"
+  father = 252250
+  653.1.1 = {
+    birth = yes
+  }
+  698.1.1 = {
+    death = yes
+  }
+}
+252252 = {
+  name = "çeYSkçyr+YÃëØe"  # Beorhtfrith
+  dynasty = 105931
+  religion = "catholic"
+  culture = "saxon"
+  father = 252251
+  670.1.1 = {
+    birth = yes
+  }
+  711.1.1 = {
+    death = yes
+  }
+}
+252377 = {
+  name = "√W^XS+YçÖ∑V"  # ∆thelflaed
+  female = yes
+  dynasty = 100072
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 9
+  religion = "catholic"
+  culture = "saxon"
+  trait = "scholarly_theologian"
+  father = 7627
+  870.1.1 = {
+    birth = yes
+  }
+  918.6.12 = {
+    death = yes
+  }
+}
+252378 = {
+  name = "√W^XSO+Y"  # ∆thelgifu
+  female = yes
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  trait = "scholarly_theologian"
+  father = 7627
+  875.1.1 = {
+    birth = yes
+  }
+  921.1.1 = {
+    death = yes
+  }
+}
+252379 = {
+  name = "√W^XSÊóöNS∑V"  # ∆thelweard
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  trait = "scholarly_theologian"
+  father = 7627
+  876.1.1 = {
+    birth = yes
+  }
+  922.10.16 = {
+    death = yes
+  }
+}
+252380 = {
+  name = "√WS+Y)n"  # ∆lfwynn
+  dynasty = 1047004
+  female = yes
+  religion = "catholic"
+  culture = "saxon"
+  father = 205088
+  mother = 252377
+  888.1.1 = {
+    birth = yes
+  }
+  919.1.1 = {
+    add_claim = d_hereford
+  }
+  950.1.1 = {
+    death = yes
+  }
+}
+260524 = {
+  name = "NWèyØe"  # Cenfus
+  dynasty = 1062208
+  religion = catholic
+  culture = saxon
+  901.1.1 = {
+    birth = yes
+  }
+  968.1.1 = {
+    death = yes
+  }
+}
+260525 = {
+  name = "çeYSkçyr˙ãØe"  # Beorhtnoth
+  dynasty = 1062209
+  religion = catholic
+  culture = saxon
+  895.1.1 = {
+    birth = yes
+  }
+  941.1.1 = {
+    death = yes
+  }
+}
+260526 = {
+  name = "√W^XSèyÃëØe"  # ∆thelfrith
+  dynasty = 1062210
+  religion = catholic
+  culture = saxon
+  846.1.1 = {
+    birth = yes
+  }
+  904.1.1 = {
+    death = yes
+  }
+}
+260527 = {
+  name = "√W^XSØefW"  # ∆thelstan
+  dynasty = 1062210
+  religion = catholic
+  culture = saxon
+  father = 260526
+  mother = 260529
+  885.1.1 = {
+    birth = yes
+  }
+  961.1.1 = {
+    death = yes
+  }
+}
+260528 = {
+  name = "√WSVØefW"  # ∆lfstan
+  dynasty = 1062210
+  religion = catholic
+  culture = saxon
+  father = 260526
+  mother = 260529
+  886.1.1 = {
+    birth = yes
+  }
+  958.1.1 = {
+    death = yes
+  }
+}
+260529 = {
+  name = "√W^XS	TN"  # ∆thelgyth
+  female = yes
+  dynasty = 100072
+  religion = catholic
+  culture = saxon
+  father = 33355
+  mother = 252210
+  852.1.1 = {
+    birth = yes
+  }
+  915.1.1 = {
+    death = yes
+  }
+}
+260530 = {
+  name = "√W^XSÊtS∑V"  # ∆thelwald
+  dynasty = 1062210
+  religion = catholic
+  culture = saxon
+  father = 260526
+  mother = 260529
+  888.1.1 = {
+    birth = yes
+  }
+  946.1.1 = {
+    death = yes
+  }
+}
+260531 = {
+  name = "√W∑VÃëKQ"  # Eadric
+  dynasty = 1062210
+  religion = catholic
+  culture = saxon
+  father = 260526
+  mother = 260529
+  890.1.1 = {
+    birth = yes
+  }
+  952.1.1 = {
+    death = yes
+  }
+}
+260534 = {
+  name = "fk+Y†R"  # Wulfgar
+  dynasty = 1062213
+  religion = catholic
+  culture = saxon
+  911.1.1 = {
+    birth = yes
+  }
+  934.1.1 = {
+    add_spouse = 260535
+  }
+  945.1.1 = {
+    death = yes
+  }
+}
+260535 = {
+  name = "√WÚÉ"  # Aeffe
+  female = yes
+  dynasty = 1062214
+  religion = catholic
+  culture = saxon
+  914.1.1 = {
+    birth = yes
+  }
+  938.1.1 = {
+    death = yes
+  }
+}
+260536 = {
+  name = "?ñSnfÓOØe"  # Alpsius
+  dynasty = 1062215
+  religion = catholic
+  culture = saxon
+  889.1.1 = {
+    birth = yes
+  }
+  943.1.1 = {
+    death = yes
+  }
+}
+260537 = {
+  name = "√WØeyrôÑ∑V"  # Eastmund
+  dynasty = 1062216
+  religion = catholic
+  culture = saxon
+  905.1.1 = {
+    birth = yes
+  }
+  974.1.1 = {
+    death = yes
+  }
+}
+260538 = {
+  name = "√WSVÃëKQ"  # ∆lfric
+  dynasty = 1062217
+  religion = catholic
+  culture = saxon
+  908.1.1 = {
+    birth = yes
+  }
+  953.1.1 = {
+    death = yes
+  }
+}
+260539 = {
+  name = "eYœÇèyS+Y"  # Oswfulf
+  dynasty = 744
+  religion = catholic
+  culture = saxon
+  903.1.1 = {
+    birth = yes
+  }
+  959.1.1 = {
+    death = yes
+  }
+}
+260540 = {
+  name = "ÙTS^X˜ñ"  # Balthere
+  dynasty = 1062219
+  religion = catholic
+  culture = saxon
+  913.1.1 = {
+    birth = yes
+  }
+  964.1.1 = {
+    death = yes
+  }
+}
+260541 = {
+  name = "^X>Oyr"  # SÊbert
+  dynasty = 1062220
+  religion = catholic
+  culture = saxon
+  904.1.1 = {
+    birth = yes
+  }
+  948.1.1 = {
+    death = yes
+  }
+}
+260542 = {
+  name = "±É‡VóS∑V"  # Reinhold
+  dynasty = 1062221
+  religion = catholic
+  culture = saxon
+  899.1.1 = {
+    birth = yes
+  }
+  938.1.1 = {
+    death = yes
+  }
+}
+261390 = {
+  name = "√W∑V^S∑V"  # Eadhild
+  female = yes
+  dynasty = 100072
+  religion = catholic
+  culture = saxon
+  father = 100
+  904.1.1 = {
+    birth = yes
+  }
+  937.1.1 = {
+    death = yes
+  }
+}

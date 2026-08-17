@@ -1,0 +1,49 @@
+### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC60010;O'Y„v[Root.GetTitledName]ŒT[Root.GetHerHis]SãìNˆvO†N[catholic.GetName]áOðNÿ;;;;;;;;;;;;x
+EVTDESC60011;O'Y„v[Root.GetTitledName]ŒT[Root.GetHerHis]SãìNˆvO†NNckYeÿ;;;;;;;;;;;;x
+EVTDESC60012;O'Y„v[Root.GetTitledName]ŒT[Root.GetHerHis]SãìNˆvO†N<S>mÿ;;;;;;;;;;;;x
+EVTDESC60013;O'Y„v[Root.GetTitledName]ŒT[Root.GetHerHis]SãìNˆvO†NÀNöS>mÿ;;;;;;;;;;;;x
+MONTHLY_PROJECTED_COST;„˜¡‹Ïkg±‚9ÿ§Y$COST$§!;;;;;;;;;;;;x
+YEARLY_PROJECTED_COST;„˜¡‹Ïkt^±‚9ÿ§Y$COST$§!;;;;;;;;;;;;x
+PER_MONTH;§Y$VAL$§!/Ïkg;;;;;;;;;;;;x
+AIREASON_KINGDOMS_DONT_ACCEPT_VASSALAGE;bïS>fýV‹sÿ;;;;;;;;;;;;x
+ACCEPT;¥c×S;;;;;;;;;;;;x
+DECLINE;ÒbÝu;;;;;;;;;;;;x
+HAS_LESS_RAISED_TROOP_DAYS;›Q–¨RXTSŽN§Y$DAYS$§!)Y\n;;;;;;;;;;;;x
+HAS_MORE_RAISED_TROOP_DAYS;›Q–¨RXTóS§Y$DAYS$§!)Y\n;;;;;;;;;;;;x
+SET_RAISED_TROOP_OPINION;§Y$ACTIVE$§!JeûQ§Y$PASSIVE$§!„vŒÆ–VìSuQŒYaé`ZgP–¾‹IN §Y$MUCH$§!0\n;;;;;;;;;;;;x
+CONTESTED_TITLE;‰NIY„v4YTˆÿ$TITLE$;;;;;;;;;;;;x
+THREAT_REASON_HATRED;NOŒYa;;;;;;;;;;;;x
+THREAT_REASON_LOVE;ØšŒYa;;;;;;;;;;;;x
+THREAT_REASON_CB;²Rbt1u;;;;;;;;;;;;x
+THREAT_REASON_PRETENDER;Ê‰Î‰w;;;;;;;;;;;;x
+THREAT_REASON_CLAIMANT;²RðyCg;;;;;;;;;;;;x
+THREAT_REASON_DISTANCE;Ý»y;;;;;;;;;;;;x
+THREAT_LIEGE_CULTURE;T‡eS;;;;;;;;;;;;x
+THREAT_LIEGE_RELIGION;T—RYe;;;;;;;;;;;;x
+THREAT_LIEGE_DEJURELIEGE;Õlt†˜JN;;;;;;;;;;;;x
+INGAME_STORE;8nb…QFU—^;;;;;;;;;;;;x
+tut_3c_6;YBS!kÕl‹V;;;;;;;;;;;;x
+tut_3c_7;SV`OSbVÕl‹V—zãSÿ`OïSåNwÁ‰^RTX<SlQýV„vÕl‹V01uŽN^RTX<S>fÕlpQ‰‹sýVÕltN„vNèRÿàVdkÕlpQ‰‹sýV„v‹sCgÕlnNOqVÍT0R`O0¹pûQN¹eóS¶O„vþvÌVågwæ‹ÆuÅ`µQ0;;;;;;;;;;;;x
+tut_3c_8;YBS!kÕl‹VII;;;;;;;;;;;;x
+tut_3c_9;ÙÌ‘>fIy†NÕlýVùR^RTX<SÕl‹V„vqVÍT0(Wv˜èïSåNw0RÕlýVO(u„vçubÕlÿ•^è-N.YR>f‹sCgÕl0¹pûQçuíuåNÓungÙNèR0;;;;;;;;;;;;x
+REINFORCE_TOOLTIP;N*NgSÛbßR$NUM$TëXuQ;;;;;;;;;;;;x
+TECH_GROWTH_PROG_SETUP;ôv–†˜0WÑSUSÅ`µQ;;;;;;;;;;;;x
+TECH_GROWTH_PROG_LOG;$TECH$(W$PROV$„vÑSUS4ls^žX R0R§Y$PROG$§!;;;;;;;;;;;;x
+TECH_GROWTH_REALM_SETUP;ýV¶RÑSUS4ls^;;;;;;;;;;;;x
+TECH_GROWTH_REALM_LOG;$TECH$(W$PROV$„vÑSUS4ls^žX R0R§Y$LEVEL$§!;;;;;;;;;;;;x
+TECH_GROWTH_PROG_REALM_SETUP;ýV¶RÑSUSÅ`µQ;;;;;;;;;;;;x
+TECH_GROWTH_PROG_REALM_LOG;$TECH$(W$PROV$„vÑSUSÅ`µQžX R0R§Y$PROG$§!;;;;;;;;;;;;x
+LOADING_TIP_0;0ôv–†˜0W0>fc*NºNåb	g„vÎW!X0ÎW^ŒT^y¿k;;;;;;;;;;;;x
+LOADING_TIP_49;ÔNÆuÀhåg`O»YPR„vyr(;;;;;;;;;;;;x
+EVTDESC3340;SVNMOËS„U„v÷^ãTbhˆIyleaöebîT¹p¬T0R†NêñT„v‚4Y0ÖN³‹INba0RN¦`ÿ6qTðVÑ`„v»yV†N0;;;;;;;;;;;;x
+EVTOPTA3340;bsbïSýw1Y»S†NÖN„vSle&&;;;;;;;;;;;;x
+alert_dejure_claim_instant;§Y`OïSåN1tÖSÕltlQýV„v²Rðy§!;;;;;;;;;;;;x
+alert_dejure_claim_delayed;`OïSåN1tÖSåNN„vÕltlQýV„v²Rðyÿ$LIST$;;;;;;;;;;;;x
+PRESSABLE_CLAIM;$CLAIMANT$ùR$COUNTY$„vTt²Rðy;;;;;;;;;;;;x
+OPT_draw_trees;2nÓgh(g;;;;;;;;;;;;x
+OPT_draw_rivers;2nÓg³lAm;;;;;;;;;;;;x
+OPT_draw_citysprawl;2nÓgÎW^IS;;;;;;;;;;;;x
+tut_4c_11;ZZûYHeœg;;;;;;;;;;;;x
+OPT_legacy_shaders;çe>fIy!jV;;;;;;;;;;;;x

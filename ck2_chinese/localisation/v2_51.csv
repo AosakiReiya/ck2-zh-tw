@@ -1,0 +1,96 @@
+### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+TOOLTIP_DISALLOW_TRUE_COGNATIC;NAQ¸‹7usYs^IrçubÕl\n;;;;;;;;;;;;x
+TOOLTIP_ALLOW_TRUE_COGNATIC;AQ¸‹7usYs^IrçubÕl\n;;;;;;;;;;;;x
+opinion_powerful_vassal_not_voter;ó`‰bIN…Q–bXT;;;;;;;;;;;;x
+REQUEST_SUPPORT_INTERACTION_TITLE;‰Bl…Q–>ec;;;;;;;;;;;;x
+ASK_TO_DECLARE_WAR_INTERACTION_TITLE;‰Bl1tÖS²Rðy;;;;;;;;;;;;x
+change_council_job_desc;‚Yœg`OÉ‰—V§Y[Root.GetTitledName]§!ôfÜwûNæSNýN…Q–„våTkOÿ`OïSåNŠb[Root.GetHerHis]°sÊNåTkONæSN*NºN³Nbc0;;;;;;;;;;;;x
+IS_AFFECTED_BY_AN_ACTIVE_REALM_PEACE;YŽNhQƒXŒTs^„vqVÍT;;;;;;;;;;;;x
+IS_NOT_AFFECTED_BY_AN_ACTIVE_REALM_PEACE;NYŽNhQƒXŒTs^„vqVÍT;;;;;;;;;;;;x
+horse_death;áwù•;;;;;;;;;;;;x
+AIREASON_EXPANDING_HORDE;ÙVŽNVgNLuÿw`O1S>fNN*Nîvhÿ;;;;;;;;;;;;x
+HAS_LIEGE_ENFORCED_PEACE;$LIEGE|Y$òTgbLˆIV6RŒTs^0;;;;;;;;;;;;x
+HAS_LIEGE_ENFORCED_PEACE_NOT;$LIEGE|Y$S*ggbLˆIV6RŒTs^0;;;;;;;;;;;;x
+WILL_LIEGE_ENFORCE_PEACE;$LIEGE|Y$SOIV6RŒTs^0;;;;;;;;;;;;x
+WILL_LIEGE_ENFORCE_PEACE_NOT;$LIEGE|Y$NOgbLˆIV6RŒTs^0;;;;;;;;;;;;x
+INTERACTION_TYRANNY_AGAINST_COUNCIL;§RN…Q–„va×VøvÝÌwSO«ˆÆ‰INNÍy´fTLˆINÿ§!;;;;;;;;;;;;x
+FORCE_JOIN_FACTION_INTERACTION_TITLE;÷‹Bl ReQ>mû|;;;;;;;;;;;;x
+FORCE_JOIN_FACTION_INTERACTION_DESC;(uN*N§YºNÅ`§!IVë§Y[Recipient.GetTitledFirstName]§! ReQ`O„v>mû|0;;;;;;;;;;;;x
+FORCE_JOIN_FACTION_INTERACTION_LONG_DESC;`OïSåN(u§YºNÅ`§!IVë§Y[Recipient.GetTitledFirstName]§! ReQ`OObú^Ëz„v>mû|0;;;;;;;;;;;;x
+FORCE_JOIN_FACTION_INTERACTION_LETTER;\nIN†NPØb„vºNÅ`ÿb‰Bl`O ReQbObú^Ëz„v>mû|0;;;;;;;;;;;;x
+FORCE_JOIN_FACTION_INTERACTION_LETTER_GET;\n ReQb„v>mû|;;;;;;;;;;;;x
+FORCE_JOIN_FACTION_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!(uºNÅ`IVë§Y[Recipient.GetBestName]§! ReQÖNìNOb	g>mû|0;;;;;;;;;;;;x
+CAN_JOIN_FACTION;$RECIPIENT|Y$ïSåN ReQ$FACTION|Y$;;;;;;;;;;;;x
+CAN_JOIN_ONE_FACTION;$RECIPIENT|Y$ïSåN ReQóSN*N`O„v>mû|;;;;;;;;;;;;x
+NOT_DISSUADED_FROM_FACTIONS;$RECIPIENT|Y$òTÏuN«ˆybk ReQ>mû|†N;;;;;;;;;;;;x
+JOIN_FACTION;§Y ReQ>mû|§!;;;;;;;;;;;;x
+IS_DE_FACTO_LIEGE;>f‹NžR†˜JN;;;;;;;;;;;;x
+LEAVE_FACTION_COERCED;Nýw»yV>mû|àVIN`O>f«ˆZ< ReQ„v;;;;;;;;;;;;x
+INVITE_FAVOR_MARRIED;$RECIPIENT|Y$ÅVŠ˜>f*gZZ;;;;;;;;;;;;x
+INVITE_FAVOR_LIEGE_RELATIVE;$RECIPIENT|Y$Nýw>f$LIEGE|Y$„vÑ²N;;;;;;;;;;;;x
+INVITE_FAVOR_JOB;$RECIPIENT|Y$Nýwåb	g…Q–LwMO;;;;;;;;;;;;x
+AIREASON_LIEGE_HATE;Ûuh`ÖNìN„v†˜JN§Y[GetTitledName]§!;;;;;;;;;;;;x
+ASK_REALM_PEACE_INTERACTION_TITLE;÷‹BlhQƒXŒTs^;;;;;;;;;;;;x
+ASK_REALM_PEACE_INTERACTION_DESC;(uN*N§YºNÅ`§!÷‹Bl`O„v†˜JNgbLˆ§YhQƒXŒTs^§!0;;;;;;;;;;;;x
+ASK_REALM_PEACE_INTERACTION_LONG_DESC;`OïSåN(u§YºNÅ`§!IVë§Y[Recipient.GetTitledFirstName]§!gbLˆ§YhQƒXŒTs^§!0;;;;;;;;;;;;x
+ASK_REALM_PEACE_INTERACTION_LETTER;\nIN†NPØb„vºNÅ`ÿb‰Bl`OgbLˆhQƒXŒTs^0;;;;;;;;;;;;x
+ASK_REALM_PEACE_INTERACTION_LETTER_GET;\ngbLˆhQƒXŒTs^;;;;;;;;;;;;x
+ASK_REALM_PEACE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!(uºNÅ`IVë§Y[Recipient.GetBestName]§!gbLˆ§YhQƒXŒTs^§!0;;;;;;;;;;;;x
+ASK_COUNCIL_POSITION_INTERACTION_TITLE;1t‰…Q–LwMO;;;;;;;;;;;;x
+ASK_COUNCIL_POSITION_INTERACTION_DESC;(uN*N§YºNÅ`§!T`O„v†˜JN1t‰N*N§Y…Q–§!LwMO0;;;;;;;;;;;;x
+ASK_COUNCIL_POSITION_INTERACTION_LONG_DESC;`OïSåN(u§YºNÅ`§!IVë§Y[Recipient.GetTitledFirstName]§!(W§Y…Q–§!-NˆcˆN`OLwMO0;;;;;;;;;;;;x
+ASK_COUNCIL_POSITION_INTERACTION_LETTER;\nIN†NPØb„vºNÅ`ÿb‰Bl`OˆcˆNbN*N”^—V„v…Q–LwMO0;;;;;;;;;;;;x
+ASK_COUNCIL_POSITION_INTERACTION_LETTER_GET;\nkOIN`O/kbºNÅ`„vÞV¥bÿˆcˆNbN*N`O…Q–-N„vLwMO0;;;;;;;;;;;;x
+ASK_COUNCIL_POSITION_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!O(u§Y[Recipient.GetBestName]§!/k„vºNÅ`—V0R†N$POSITION|Y$LwMO$FIRED$;;;;;;;;;;;;x
+COUNCIL_POSITION_FIRED;ÿNdkTöe$FIRED|Y$«ˆã‰Ç–0;;;;;;;;;;;;x
+coerced_into_council_position;«ˆëˆcˆN†N…Q–-^MO;;;;;;;;;;;;x
+DEMAND_POSITION_MUST_HAVE_POSITIONS;$RECIPIENT|Y$ÅVŠ˜	g$ACTOR|Y$ïSåNÜwûN„v§Y…Q–§!LwMO;;;;;;;;;;;;x
+DEMAND_POSITION_CAN_HOLD_POSITION;$ACTOR|Y$ïSåNÅbûN$RECIPIENT|Y$„v$POSITION|Y$;;;;;;;;;;;;x
+DEMAND_POSITION_MUST_CHOOSE_POSITION;$ACTOR|Y$ÅVŠ˜	ébN*N§Y…Q–§!LwMOeg÷‹Bl$RECIPIENT|Y$;;;;;;;;;;;;x
+EVTDESC527;[This.GetTitledFirstName]àeÆ‰ºNÅ`N/kÿÒbÝu†N[From.GetTitledFirstName](W…Q–-NÅbûN[Title.GetName]„v÷‹Bl0;;;;;;;;;;;;x
+EVTDESC528;[From.GetTitledFirstName](u†N[This.GetTitledFirstName]/kN„vºNÅ`[From.GetObjectPronoun]IVëhQƒXŒTs^0;;;;;;;;;;;;x
+EVTDESC529;[This.GetTitledFirstName]àeÆ‰ºNÅ`ÿÒbÝu†N[From.GetTitledFirstName]IVëhQƒXŒTs^„v÷‹Bl0;;;;;;;;;;;;x
+EVTDESC530;[From.GetTitledFirstName](u†N[This.GetTitledFirstName]/kN„vºNÅ`[From.GetObjectPronoun]IVë[This.GetTitledFirstName] ReQÖNìN„v>mû|0;;;;;;;;;;;;x
+EVTDESC531;[This.GetTitledFirstName]àeÆ‰ºNÅ`N/kÿÒbÝu†N[From.GetTitledFirstName] ReQ[Actor.GetTitledFirstName]„v>mû|0;;;;;;;;;;;;x
+HAS_FACTION_TO_JOIN;$ACTOR|Y$ck(W†˜üRóSN*N§Y>mû|§!;;;;;;;;;;;;x
+CAN_ENFORCE_PEACE;ïSåNgbLˆ§YhQƒXŒTs^§!;;;;;;;;;;;;x
+TOOLTIP_SoA_5357;Ù*N	y˜ïS(u>fàVIN`O„v§Yr‚2k§!ŒT§Y3aNÉZ×O§!yr(åNÊS`OØš…„v§YÆRŒ§!\n0;;;;;;;;;;;;x
+AIREASON_IS_A_THREAT;>f*NZÁw;;;;;;;;;;;;x
+stutter_desc;dkºNãSTÿ%NÍ‘qVÍTNÖNºN³NAm„výw›R0;;;;;;;;;;;;x
+EVTDESC1690;Irb•'Y†NÿbObINggúQr‚„vßu»lwÿ;;;;;;;;;;;;x
+council_war_off_custom;…Q–bXTïSåNê1u ReQ>mû|\n;;;;;;;;;;;;x
+council_war_on_custom;…Q–bXTêS	gSVYŽN§RNán§!¶r`öeMbýw ReQ>mû|\n8ngrŒTèL„?eSO„v…Q–bXT–öeïSåN ReQ>mû|;;;;;;;;;;;;x
+CROWN_LAW_CHANGE_TIMEOUT;§R…Q–gÑÒbÝu†NsQŽN‹sCgÕl„v9ei—0N!kÐc®‹9ei—„vöeô•IN $DATE$§!;;;;;;;;;;;;x
+ALLOW_MATRILINEAL_MARRIAGE_ON;AQ¸‹eQXZZûY\n;;;;;;;;;;;;x
+ALLOW_MATRILINEAL_MARRIAGE_OFF;NAQ¸‹eQXZZûY\n;;;;;;;;;;;;x
+LANDED_TITLE_BEING_CREATED;$TITLE$òT«ˆRú^;;;;;;;;;;;;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_DESC;§Y[Actor.GetBestName]§!N§Y[Recipient.GetBestName]§!r¢‹’NNµO¯rag¦u0;;;;;;;;;;;;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_LONG_DESC;‚Yœg`OìN„v¶RÏeKNô•„vsQû|³YÆRRÿ`O1SïSåNNvQÐc®‹’NNµO¯rOS®‹0;;;;;;;;;;;;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_LETTER;bÐc®‹N`Or¢‹’NNµO¯rag¦u0;;;;;;;;;;;;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_LETTER_GET;bìNegr¢‹’NNµO¯rOS®‹'T0;;;;;;;;;;;;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_REQ;§Y[Actor.GetBestName]§!ïSåNŒT§Y[Recipient.GetBestName]§!r¢‹’NNµO¯rag¦u;;;;;;;;;;;;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_REJECTED_REQ;§Y[Recipient.GetBestName]§!gÑ¡l	gÒbÝuN§Y[Actor.GetBestName]§!r¢‹’NNµO¯rOS®‹;;;;;;;;;;;;x
+EVTDESC524;bÿ[From.GetBestName]ÿ¥c×S`OsQŽN’NNµO¯rag¦u„vú^®‹ÿ;;;;;;;;;;;;x
+EVTDESC525;bÿ[From.GetBestName]ÿˆVW¾aN—VNÒbÝu`OsQŽN’NNµO¯rag¦u„vú^®‹ÿ;;;;;;;;;;;;x
+EVTOPTA524;fzf„v	éb0;;;;;;;;;;;;x
+EVTOPTA525;[GetFromRootInsult](W¡‹RÀNHNÿ;;;;;;;;;;;;x
+COUNCILOR_LAW_CHANGE_ON_LIEGE_REALM_NOTIFICATION;$COUNCILOR$³QšR(W$TITLE$6RšR$LAW$Õl;;;;;;;;;;;;x
+VOTE_AS_FAVOR_OWNER_SETUP;kOINºNÅ`IPJN(WÕl‹VîO9eN•bhyÿv^ØnºNÅ`;;;;;;;;;;;;x
+COUNCILOR_LAW_CHANGE_IN_LIEGE_REALM_SETUP;…Q–bXT)R(uºNÅ`(W†˜JNƒX…QÑSw†NÕl‹VîO9e;;;;;;;;;;;;x
+COUNCILOR_LAW_CHANGE_IN_LIEGE_REALM_LOG;àVINÐ(uºNÅ`ÿ$COUNCILOR|Y$IVë`OùR$TITLE|Y$…Q„v$LAW|Y$ÕlgbLˆ•bhy0;;;;;;;;;;;;x
+ALLIANCE_BROKEN_SETUP;SVTwßv4xÂˆöe;;;;;;;;;;;;x
+ALLIANCE_BROKEN_LOG;$CHAR$N$ALLY$KNô•„vTwßvòTÏuaƒ6qàeXR;;;;;;;;;;;;x
+VOTE_AS_REQUESTOR_LOG;1uŽN$REQUESTOR$÷‹Bl>ecÿ$CHARACTER|Y$ùR$LAW|Y$•b†N$VOTE$;;;;;;;;;;;;x
+VOTE_AS_REQUESTOR_SETUP;kOIN÷‹Blw(WÕl‹VîO9eN•bhyv^÷‹Bl>ec;;;;;;;;;;;;x
+ConclaveDLC;¡VMRO®‹;;;;;;;;;;;;x
+UNDECIDED;*g³QšR„v;;;;;;;;;;;;x
+LOWER_RELATIVE_POWER_WITH_ALLIES; RNßvýV„v›Q–Ä‰!jSŽN$OTHER|Y$NvQßvýV„v$VAL|Y%$;;;;;;;;;;;;x
+HIGHER_RELATIVE_POWER_WITH_ALLIES; RNßvýV„v›Q–Ä‰!jóS	g$OTHER|Y$NvQßvýV„v$VAL|Y%$;;;;;;;;;;;;x
+FAVOR_INVITE;IV6RTaeQ«R÷^„vÐcHh;;;;;;;;;;;;x
+FAVOR_JOIN_WAR;IVëTab‰NìS3U;;;;;;;;;;;;x
+FAVOR_EMBARGO;IVëTa‰BlyÐ„vÐcHh;;;;;;;;;;;;x
+FAVOR_JOIN_FACTION;IVëÐgºN ReQ`O†˜üR„v>mû|;;;;;;;;;;;;x
+FAVOR_COUNCIL_POSITION;IVë`O„v†˜JNˆcˆN`O…Q–-^MO;;;;;;;;;;;;x
+FAVOR_PREVENT_ENFORCE_PEACE;J–bkbIVë`O„v†˜JNžRLˆhQƒXŒTs^;;;;;;;;;;;;x
+CALL_IN_FAVOR_INTERACTION_TITLE;÷‹Bl…Q–>ec;;;;;;;;;;;;x

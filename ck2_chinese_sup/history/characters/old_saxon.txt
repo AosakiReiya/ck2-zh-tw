@@ -1,0 +1,290 @@
+190455 = {
+  name = "‰eY·VÌ‘KQ"  # Theoderic
+  dynasty = 1044105
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  720.1.1 = {
+    birth = yes
+  }
+  781.1.1 = {
+    death = yes
+  }
+}
+190456 = {
+  name = "O›KQüf"  # Wichimann
+  dynasty = 1044105
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  father = 190455
+  741.1.1 = {
+    birth = yes
+  }
+  781.1.1 = {
+    death = yes
+  }
+}
+190457 = {
+  name = "^œú‹"  # Bruno
+  dynasty = 669
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  750.1.1 = {
+    birth = yes
+  }
+  803.1.1 = {
+    death = yes
+  }
+}
+190458 = {
+  name = "ÃWKQ>Oyr"  # Ekbert
+  dynasty = 669
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  father = 190457
+  769.1.1 = {
+    birth = yes
+  }
+  801.1.1 = {
+    add_spouse = 190448
+  }
+  836.1.1 = {
+    death = yes
+  }
+}
+190459 = {
+  name = "æt—g"  # Warin
+  dynasty = 669
+  religion = "catholic"
+  culture = "old_saxon"
+  father = 190458
+  mother = 190448
+  802.1.1 = {
+    birth = yes
+  }
+  856.9.20 = {
+    death = yes
+  }
+}
+190460 = {
+  name = "ógYS+Y"  # Liudolf
+  dynasty = 669
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  father = 190457
+  789.1.1 = {
+    birth = yes
+  }
+  805.1.1 = {
+    add_spouse = 190469
+  }
+  851.6.27 = {
+    death = yes
+  }
+}
+190461 = {
+  name = "ZSƒl"  # Bovo
+  dynasty = 669
+  religion = "catholic"
+  culture = "old_saxon"
+  father = 190457
+  801.1.1 = {
+    birth = yes
+  }
+  850.1.1 = {
+    death = yes
+  }
+}
+190462 = {
+  name = "Ôk†–<h"  # Billung
+  dynasty = 656
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  721.1.1 = {
+    birth = yes
+  }
+  771.1.1 = {
+    death = yes
+  }
+}
+190463 = {
+  name = "?–…h†–"  # Amelung
+  dynasty = 656
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  father = 190462
+  741.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+190464 = {
+  name = ",g<Syr"  # Bennit
+  dynasty = 656
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  father = 190463
+  759.1.1 = {
+    birth = yes
+  }
+  814.1.1 = {
+    death = yes
+  }
+}
+190465 = {
+  name = "ÃWú‹"  # Enno
+  dynasty = 656
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  father = 190463
+  768.1.1 = {
+    birth = yes
+  }
+  828.1.1 = {
+    death = yes
+  }
+}
+190466 = {
+  name = "mTXS"  # Lothar
+  dynasty = 661
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  742.1.1 = {
+    birth = yes
+  }
+  791.1.1 = {
+    death = yes
+  }
+}
+190467 = {
+  name = "LNY"  # Udo
+  dynasty = 661
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  father = 190466
+  768.1.1 = {
+    birth = yes
+  }
+  837.1.1 = {
+    death = yes
+  }
+}
+190468 = {
+  name = "Ì‘^VÌ‘·V"  # Richfrid
+  dynasty = 1044106
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  741.1.1 = {
+    birth = yes
+  }
+  797.1.1 = {
+    death = yes
+  }
+}
+190469 = {
+  name = "Ì‘^ÃWyr"  # Richeit
+  female = yes
+  dynasty = 1044106
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  father = 190468
+  788.1.1 = {
+    birth = yes
+  }
+  829.1.1 = {
+    death = yes
+  }
+}
+190470 = {
+  name = "‚ZS"  # Abo
+  dynasty = 1044107
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  751.1.1 = {
+    birth = yes
+  }
+  811.1.1 = {
+    death = yes
+  }
+}
+190471 = {
+  name = "¯e…hê<h¯e"  # Smeldigoz
+  dynasty = 1044108
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  753.1.1 = {
+    birth = yes
+  }
+  810.1.1 = {
+    death = yes
+  }
+}
+190472 = {
+  name = "ÁN"  # Unwan
+  dynasty = 1044109
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  749.1.1 = {
+    birth = yes
+  }
+  769.1.1 = {
+    add_spouse = 190476
+  }
+  789.1.1 = {
+    death = yes
+  }
+}
+190473 = {
+  name = ">O³u·V"  # Bernard
+  dynasty = 1044109
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  father = 190472
+  mother = 190476
+  769.1.1 = {
+    birth = yes
+  }
+  823.1.1 = {
+    death = yes
+  }
+}
+190474 = {
+  name = "wm1t"  # Hesso
+  dynasty = 1044110
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  737.1.1 = {
+    birth = yes
+  }
+  804.1.1 = {
+    death = yes
+  }
+}
+190475 = {
+  name = "wm1t"  # Hesso
+  dynasty = 1044110
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  father = 190474
+  768.1.1 = {
+    birth = yes
+  }
+  846.1.1 = {
+    death = yes
+  }
+}
+190476 = {
+  name = "	T^XÉb"  # Gisela
+  female = yes
+  dynasty = 1044110
+  religion = "norse_pagan"
+  culture = "old_saxon"
+  father = 190474
+  753.1.1 = {
+    birth = yes
+  }
+  840.1.1 = {
+    death = yes
+  }
+}

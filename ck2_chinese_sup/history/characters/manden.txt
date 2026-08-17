@@ -1,0 +1,1076 @@
+161011 = {
+  name = "Éb^ÉbşVS aSÉbÔk"  # Lahilatoul Kalabi
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 251120
+  1045.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = "1100.1.1"
+  }
+}
+161012 = {
+  name = "aSÉbÔk ï‚ôT"  # Kalabi Bomba
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161011
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+161013 = {
+  name = "lšlšê aS<S"  # Mamadi Kani
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161012
+  1090.1.1 = {
+    birth = "1090.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+161014 = {
+  name = "ôTlšÌ‘ TXbú‹ØšÑy—g"  # Bamari Tagnogokelin
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161013
+  1110.1.1 = {
+    birth = "1110.1.1"
+  }
+  1160.1.1 = {
+    death = "1160.1.1"
+  }
+}
+161015 = {
+  name = "ÆYôTÌ‘ HY…Q"  # M'Bali Nene
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161014
+  1130.1.1 = {
+    birth = "1130.1.1"
+  }
+  1180.1.1 = {
+    death = "1180.1.1"
+  }
+}
+161016 = {
+  name = "m"  # Bello
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161015
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1190.1.1 = {
+    death = "1190.1.1"
+  }
+}
+161017 = {
+  name = "m ôTTR"  # Bello Bakon
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161016
+  1170.1.1 = {
+    birth = "1170.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+161018 = {
+  name = "›sU TR ÕlTX"  # Maghan Kon Fatta
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161015
+  1155.1.1 = {
+    birth = "1155.1.1"
+  }
+  1176.1.1 = {
+    add_spouse = 161019
+  }
+  1206.1.1 = {
+    add_spouse = 161021
+  }
+  1211.1.1 = {
+    add_spouse = 161024
+  }
+  1218.1.1 = {
+    death = "1218.1.1"
+  }
+}
+161019 = {
+  name = "(„Ï‚›s"  # Sassouma
+  female = yes
+  dynasty = 1030003
+  religion = "sunni"
+  culture = "manden"
+  1160.1.1 = {
+    birth = "1160.1.1"
+  }
+  1218.1.1 = {
+    death = "1218.1.1"
+  }
+}
+161020 = {
+  name = "9NaSpQ şVüf"  # Dankaran Touman
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  trait = "cruel"
+  father = 161018
+  mother = 161019
+  1177.1.1 = {
+    birth = "1177.1.1"
+  }
+  1219.1.1 = {
+    death = "1219.1.1"
+  }
+}
+161021 = {
+  name = "1tb†–"  # Sogolon
+  female = yes
+  dynasty = 1030004
+  religion = "sunni"
+  culture = "manden"
+  trait = "hunchback"
+  trait = "ugly"
+  1190.1.1 = {
+    birth = "1190.1.1"
+  }
+  1250.1.1 = {
+    death = "1250.1.1"
+  }
+}
+161022 = {
+  name = "lšÌ‘->TX"  # Mari-Djata
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  trait = "clubfooted"
+  trait = "brave"
+  trait = "skilled_tactician"
+  father = 161018
+  mother = 161021
+  1217.1.1 = {
+    birth = "1217.1.1"
+  }
+  1255.1.1 = {
+    death = "1255.1.1"
+  }
+}
+161024 = {
+  name = "²üfsO"  # Namandjé
+  female = yes
+  religion = "sunni"
+  culture = "manden"
+  1195.1.1 = {
+    birth = "1195.1.1"
+  }
+  1245.1.1 = {
+    death = "1245.1.1"
+  }
+}
+161025 = {
+  name = "?–^ôTaSÌ‘"  # Abubakari
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161018
+  mother = 161024
+  1218.1.1 = {
+    birth = "1218.1.1"
+  }
+  1285.1.1 = {
+    death = "1285.1.1"
+  }
+}
+161026 = {
+  name = "ætÌ‘"  # Ouali
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161022
+  1239.1.1 = {
+    birth = "1239.1.1"
+  }
+  1270.1.1 = {
+    death = "1270.1.1"
+  }
+}
+161027 = {
+  name = "ætê"  # Ouati
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  trait = "legit_bastard"
+  father = 161022
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1274.1.1 = {
+    death = "1274.1.1"
+  }
+}
+161028 = {
+  name = "ÈT)RÕl"  # Khalifa
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  trait = "legit_bastard"
+  father = 161022
+  1241.1.1 = {
+    birth = "1241.1.1"
+  }
+  1275.1.1 = {
+    death = "1275.1.1"
+  }
+}
+161029 = {
+  name = "™läSÉb"  # Sakoura
+  dynasty = 1030005
+  religion = "sunni"
+  culture = "manden"
+  1230.1.1 = {
+    birth = "1230.1.1"
+  }
+  1300.1.1 = {
+    death = "1300.1.1"
+  }
+}
+161030 = {
+  name = "ÂsÑsNW"  # Kolonkan
+  female = yes
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161018
+  mother = 161021
+  1218.1.1 = {
+    birth = "1218.1.1"
+  }
+  1268.1.1 = {
+    death = "1268.1.1"
+  }
+}
+161031 = {
+  name = "Øš"  # Gao
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  mother = 161030
+  1248.1.1 = {
+    birth = "1248.1.1"
+  }
+  1305.1.1 = {
+    death = "1305.1.1"
+  }
+}
+161032 = {
+  name = "lšÈTƒ·V"  # Mahamoud
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161031
+  1270.1.1 = {
+    birth = "1270.1.1"
+  }
+  1310.1.1 = {
+    death = "1310.1.1"
+  }
+}
+161033 = {
+  name = "ÕlV-Éb6w"  # Faga-Laye
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161025
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1300.1.1 = {
+    death = "1300.1.1"
+  }
+}
+161034 = {
+  name = "?–^ôTaSÌ‘"  # Abubakari
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161033
+  1265.1.1 = {
+    birth = "1265.1.1"
+  }
+  1312.1.1 = {
+    death = "1312.1.1"
+  }
+}
+161035 = {
+  name = "Fz(„"  # Musa
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161033
+  1280.1.1 = {
+    birth = "1280.1.1"
+  }
+  1312.1.1 = {
+    give_nickname = nick_the_lion
+    create_bloodline = {
+      type = mansa_musa
+      has_dlc = "Holy Fury"
+    }
+  }
+  1337.1.1 = {
+    death = "1337.1.1"
+  }
+}
+161036 = {
+  name = "lš<hIl"  # Maghan
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161035
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1341.1.1 = {
+    death = "1341.1.1"
+  }
+}
+161037 = {
+  name = "Ï‚±ƒüf"  # Sulayman
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161033
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1360.1.1 = {
+    death = "1360.1.1"
+  }
+}
+161038 = {
+  name = "aS(„"  # Kassa
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161037
+  1330.1.1 = {
+    birth = "1330.1.1"
+  }
+  1360.1.1 = {
+    death = "1360.1.1"
+  }
+}
+161039 = {
+  name = "lšÌ‘->TX"  # Mari-Djata
+  dynasty = 1030002
+  religion = "sunni"
+  culture = "manden"
+  father = 161036
+  1325.1.1 = {
+    birth = "1325.1.1"
+  }
+  1374.1.1 = {
+    death = "1374.1.1"
+  }
+}
+161131 = {
+  name = "ôTØš¾"  # Bagauda
+  dynasty = 1030017
+  religion = "west_african_pagan"
+  culture = "manden"
+  1000.1.1 = {
+    birth = "1000.1.1"
+  }
+  1063.1.1 = {
+    death = "1063.1.1"
+  }
+}
+161132 = {
+  name = "ætÌ‘‰"  # Warisi
+  dynasty = 1030017
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161131
+  1040.1.1 = {
+    birth = "1040.1.1"
+  }
+  1095.1.1 = {
+    death = "1095.1.1"
+  }
+}
+161133 = {
+  name = "LOpglšÏ‚"  # Gajemasu
+  dynasty = 1030017
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161132
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1134.1.1 = {
+    death = "1134.1.1"
+  }
+}
+161134 = {
+  name = "³uætTX"  # Nawata
+  dynasty = 1030017
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161133
+  1090.1.1 = {
+    birth = "1090.1.1"
+  }
+  1136.1.1 = {
+    death = "1136.1.1"
+  }
+}
+161135 = {
+  name = "3S(„"  # Yusa
+  dynasty = 1030017
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161134
+  1120.1.1 = {
+    birth = "1120.1.1"
+  }
+  1194.1.1 = {
+    death = "1194.1.1"
+  }
+}
+161136 = {
+  name = "³uäS	T"  # Naguji
+  dynasty = 1030017
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161135
+  1170.1.1 = {
+    birth = "1170.1.1"
+  }
+  1247.1.1 = {
+    death = "1247.1.1"
+  }
+}
+161137 = {
+  name = "äS<hæt"  # Gugwa
+  dynasty = 1030017
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161136
+  1210.1.1 = {
+    birth = "1210.1.1"
+  }
+  1290.1.1 = {
+    death = "1290.1.1"
+  }
+}
+161138 = {
+  name = "‚aS³R"  # Shekarau
+  dynasty = 1030017
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161137
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1307.1.1 = {
+    death = "1307.1.1"
+  }
+}
+161139 = {
+  name = "ßRs|šN"  # Tsamiya
+  dynasty = 1030017
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161138
+  1280.1.1 = {
+    birth = "1280.1.1"
+  }
+  1343.1.1 = {
+    death = "1343.1.1"
+  }
+}
+161140 = {
+  name = "eY¯eüf Nb(gvVæt"  # Usman Zamnagawa
+  dynasty = 1030017
+  religion = "sunni"
+  culture = "manden"
+  father = 161139
+  1310.1.1 = {
+    birth = "1310.1.1"
+  }
+  1349.1.1 = {
+    death = "1349.1.1"
+  }
+}
+161141 = {
+  name = "ÄršNôT &OaW"  # Diaba Lompo
+  dynasty = 1030013
+  religion = "west_african_pagan"
+  culture = "manden"
+  1185.1.1 = {
+    birth = "1185.1.1"
+  }
+  1248.1.1 = {
+    death = "1248.1.1"
+  }
+}
+161142 = {
+  name = "¯h¾Sâl"  # Tidarpo
+  dynasty = 1030013
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161141
+  1230.1.1 = {
+    birth = "1230.1.1"
+  }
+  1292.1.1 = {
+    death = "1292.1.1"
+  }
+}
+161143 = {
+  name = ")nTX<S"  # Untani
+  dynasty = 1030013
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161142
+  1274.1.1 = {
+    birth = "1274.1.1"
+  }
+  1336.1.1 = {
+    death = "1336.1.1"
+  }
+}
+161144 = {
+  name = "ôT<SYôT"  # Banydoba
+  dynasty = 1030013
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161143
+  1310.1.1 = {
+    birth = "1310.1.1"
+  }
+  1380.1.1 = {
+    death = "1380.1.1"
+  }
+}
+161145 = {
+  name = "Õq¾NËz"  # Yendabri
+  dynasty = 1030014
+  religion = "west_african_pagan"
+  culture = "manden"
+  1040.1.1 = {
+    birth = "1040.1.1"
+  }
+  1096.1.1 = {
+    death = "1096.1.1"
+  }
+}
+161146 = {
+  name = "ÕqÔk)Rlš"  # Yembirima
+  dynasty = 1030014
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161145
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1141.1.1 = {
+    death = "1141.1.1"
+  }
+}
+161147 = {
+  name = "ôTÈTlš"  # Baghama
+  dynasty = 1030014
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161146
+  1120.1.1 = {
+    birth = "1120.1.1"
+  }
+  1170.1.1 = {
+    death = "1170.1.1"
+  }
+}
+161148 = {
+  name = "ÕqúWSlš"  # Yenkirma
+  dynasty = 1030014
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161147
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1199.1.1 = {
+    death = "1199.1.1"
+  }
+}
+161149 = {
+  name = "ÕqĞcšN^Ì‘"  # Yentiabri
+  dynasty = 1030014
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161148
+  1175.1.1 = {
+    birth = "1175.1.1"
+  }
+  1204.1.1 = {
+    death = "1204.1.1"
+  }
+}
+161150 = {
+  name = "Õq^^"  # Yempabu
+  dynasty = 1030014
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 161149
+  1195.1.1 = {
+    birth = "1195.1.1"
+  }
+  1256.1.1 = {
+    death = "1256.1.1"
+  }
+}
+183502 = {
+  name = "Ï‚ƒm"  # Soumaoro
+  dynasty = 1042632
+  religion = "west_african_pagan"
+  culture = "manden"
+  841.1.1 = {
+    birth = "841.1.1"
+  }
+  860.1.1 = {
+    capital = c_kantor
+  }
+  890.1.1 = {
+    death = "890.1.1"
+  }
+}
+183503 = {
+  name = "ÈOœÆYÕl"  # Maÿroumfa
+  dynasty = 1042633
+  religion = "west_african_pagan"
+  culture = "manden"
+  838.1.1 = {
+    birth = "838.1.1"
+  }
+  882.1.1 = {
+    death = "882.1.1"
+  }
+}
+183504 = {
+  name = "?–±ƒšNüf"  # Alayaman
+  dynasty = 1042634
+  religion = "west_african_pagan"
+  culture = "manden"
+  829.1.1 = {
+    birth = "829.1.1"
+  }
+  870.1.1 = {
+    death = "870.1.1"
+  }
+}
+183505 = {
+  name = "s|‰-O°R"  # Missi-Izé
+  dynasty = 1042635
+  religion = "west_african_pagan"
+  culture = "manden"
+  845.1.1 = {
+    birth = "845.1.1"
+  }
+  895.1.1 = {
+    death = "895.1.1"
+  }
+}
+188750 = {
+  name = "s|‰-O°R"  # Missi-Izé
+  dynasty = 1042171
+  religion = "west_african_pagan"
+  culture = "manden"
+  740.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+188751 = {
+  name = "lšÉb"  # Malla
+  dynasty = 1042172
+  religion = "west_african_pagan"
+  culture = "manden"
+  735.1.1 = {
+    birth = yes
+  }
+  795.1.1 = {
+    death = yes
+  }
+}
+188753 = {
+  name = "Ñy¾›s"  # Kodama
+  dynasty = 1042174
+  religion = "west_african_pagan"
+  culture = "manden"
+  750.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+251100 = {
+  name = "^³ulš"  # Bunama
+  dynasty = 1060018
+  religion = "west_african_pagan"
+  culture = "manden"
+  1049.1.1 = {
+    birth = yes
+  }
+  1101.1.1 = {
+    death = yes
+  }
+}
+251101 = {
+  name = "lšyŠ"  # Majan
+  dynasty = 1060018
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251100
+  1066.1.1 = {
+    birth = yes
+  }
+  1130.1.1 = {
+    death = yes
+  }
+}
+251102 = {
+  name = "^³ulš"  # Bunama
+  dynasty = 1060018
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251101
+  1093.1.1 = {
+    birth = yes
+  }
+  1156.1.1 = {
+    death = yes
+  }
+}
+251103 = {
+  name = "aSšN"  # Kaya
+  dynasty = 1060018
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251102
+  1123.1.1 = {
+    birth = yes
+  }
+  1180.1.1 = {
+    death = yes
+  }
+}
+251104 = {
+  name = "lšyŠ"  # Majan
+  dynasty = 1060018
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251103
+  1150.1.1 = {
+    birth = yes
+  }
+  1209.1.1 = {
+    death = yes
+  }
+}
+251105 = {
+  name = "aSšN"  # Kaya
+  dynasty = 1060018
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251104
+  1180.1.1 = {
+    birth = yes
+  }
+  1234.1.1 = {
+    death = yes
+  }
+}
+251106 = {
+  name = "^³ulš"  # Bunama
+  dynasty = 1060018
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251105
+  1210.1.1 = {
+    birth = yes
+  }
+  1260.1.1 = {
+    death = yes
+  }
+}
+251107 = {
+  name = "šNlš"  # Yama
+  dynasty = 1060018
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251106
+  1240.1.1 = {
+    birth = yes
+  }
+  1289.1.1 = {
+    death = yes
+  }
+}
+251108 = {
+  name = "lšyŠ"  # Majan
+  dynasty = 1060018
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251107
+  1270.1.1 = {
+    birth = yes
+  }
+  1315.1.1 = {
+    death = yes
+  }
+}
+251109 = {
+  name = "(„“^Éb"  # Sakoura
+  dynasty = 1060018
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251108
+  1300.1.1 = {
+    birth = yes
+  }
+  1366.1.1 = {
+    death = yes
+  }
+}
+251110 = {
+  name = "Éb^ÉbşVS"  # Lahilatoul
+  dynasty = 1030002
+  religion = "west_african_pagan"
+  culture = "manden"
+  748.1.1 = {
+    birth = yes
+  }
+  767.1.1 = {
+    add_spouse = 251111
+  }
+  806.1.1 = {
+    death = yes
+  }
+}
+251111 = {
+  name = "ÕlşVlšTX"  # Fatoumata
+  female = yes
+  religion = "west_african_pagan"
+  culture = "manden"
+  749.1.1 = {
+    birth = yes
+  }
+  767.1.1 = {
+    add_spouse = 251110
+  }
+  812.1.1 = {
+    death = yes
+  }
+}
+251112 = {
+  name = "ğlKQÈT6w"  # Tekhaye
+  female = yes
+  dynasty = 1030002
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251110
+  mother = 251111
+  768.1.1 = {
+    birth = yes
+  }
+  830.1.1 = {
+    death = yes
+  }
+}
+251113 = {
+  name = "ŠvôT"  # Demba
+  dynasty = 1030002
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251110
+  mother = 251111
+  769.1.1 = {
+    birth = yes
+  }
+  815.1.1 = {
+    death = yes
+  }
+}
+251114 = {
+  name = "ætTXÉb"  # Watara
+  dynasty = 1030002
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251113
+  800.1.1 = {
+    birth = yes
+  }
+  860.1.1 = {
+    death = yes
+  }
+}
+251115 = {
+  name = "ôTlšÌ‘"  # Bamari
+  dynasty = 1030002
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251114
+  835.1.1 = {
+    birth = yes
+  }
+  897.1.1 = {
+    death = yes
+  }
+}
+251116 = {
+  name = "lšlšê"  # Mamadi
+  dynasty = 1030002
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251115
+  863.1.1 = {
+    birth = yes
+  }
+  930.1.1 = {
+    death = yes
+  }
+}
+251117 = {
+  name = "ætTXÉb"  # Watara
+  dynasty = 1030002
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251116
+  899.1.1 = {
+    birth = yes
+  }
+  970.1.1 = {
+    death = yes
+  }
+}
+251118 = {
+  name = "lšlšê"  # Mamadi
+  dynasty = 1030002
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251117
+  933.1.1 = {
+    birth = yes
+  }
+  984.1.1 = {
+    death = yes
+  }
+}
+251119 = {
+  name = "lšÌ‘->TX"  # Mari-Djata
+  dynasty = 1030002
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251118
+  976.1.1 = {
+    birth = yes
+  }
+  1032.1.1 = {
+    death = yes
+  }
+}
+251120 = {
+  name = "ætTXÉb"  # Watara
+  dynasty = 1030002
+  religion = "west_african_pagan"
+  culture = "manden"
+  father = 251119
+  1015.1.1 = {
+    birth = yes
+  }
+  1064.1.1 = {
+    death = yes
+  }
+}
+260871 = {
+  name = "9NaSpQ"  # Dankaran
+  dynasty = 1062449
+  religion = west_african_pagan
+  culture = manden
+  870.1.1 = {
+    birth = yes
+  }
+  925.1.1 = {
+    death = yes
+  }
+}
+260872 = {
+  name = "?–Ì‘"  # Ali
+  dynasty = 1062449
+  religion = west_african_pagan
+  culture = manden
+  father = 260871
+  895.1.1 = {
+    birth = yes
+  }
+  938.1.1 = {
+    death = yes
+  }
+}
+260873 = {
+  name = "aS(„"  # Kassa
+  dynasty = 1062449
+  religion = west_african_pagan
+  culture = manden
+  father = 260871
+  899.1.1 = {
+    birth = yes
+  }
+  941.1.1 = {
+    death = yes
+  }
+}
+260874 = {
+  name = "üfN"  # Manding
+  dynasty = 1062450
+  religion = west_african_pagan
+  culture = manden
+  907.1.1 = {
+    birth = yes
+  }
+  965.1.1 = {
+    death = yes
+  }
+}
+260875 = {
+  name = "(„Süf"  # Salman
+  dynasty = 1062451
+  religion = west_african_pagan
+  culture = manden
+  894.1.1 = {
+    birth = yes
+  }
+  951.1.1 = {
+    death = yes
+  }
+}

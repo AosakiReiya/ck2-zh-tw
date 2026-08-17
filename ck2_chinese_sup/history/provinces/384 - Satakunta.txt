@@ -1,0 +1,18 @@
+title = c_satakunta
+max_settlements = 3
+b_liinmaa = tribal
+culture = finnish
+religion = finnish_pagan
+terrain = forest
+1158.1.1 = {
+  religion = catholic
+}
+1158.1.1 = {
+  name = "(„TXf¾"  # Satakunda
+}
+1187.1.1 = {
+  b_ulvila = city
+}
+1300.1.1 = {
+  b_liinmaa = castle
+}

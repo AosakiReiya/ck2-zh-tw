@@ -1,0 +1,25 @@
+title = c_powys
+max_settlements = 4
+b_mathrafal = castle
+b_llangollen = temple
+b_radnor = city
+culture = welsh
+religion = catholic
+terrain = mountain
+100.1.1 = {
+  name = "yr<SbS<h"  # Ternyllwg
+}
+808.1.1 = {
+  name = "âlO¯e"  # Powys
+}
+1212.1.1 = {
+  b_rhayader = castle
+}
+1227.1.1 = {
+  max_settlements = 5
+  b_montgomery = castle
+}
+1295.1.1 = {
+  remove_settlement = b_montgomery
+  max_settlements = 4
+}

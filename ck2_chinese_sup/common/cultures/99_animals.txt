@@ -1,0 +1,1541 @@
+horse_group = {
+  graphical_cultures = {
+    horsegfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  horse = {
+    graphical_cultures = {
+      horsegfx
+    }
+    color = {
+      0.3
+      0.1
+      0.1
+    }
+    male_names = {
+      "ÍïDé"  # Glitterhoof
+      "c∑V"  # Chetak
+      "^â—S…bØe"  # Bucephalus
+      "≈ew"  # Traveller
+      "lö&OÂT"  # Marengo
+      "^m´É"  # Palomo
+      "õèõè≤ê–c"  # Cincinnati
+      "—y¸fGY"  # Comanche
+      "jwfÑvIlØe"  # Clever Hans
+      "ÊópQÍè+Y"  # Veillantif
+      "ÒÇâTX˛VØe"  # Incitatus
+      "ïëe"  # Rusty
+      "√Rgyr"  # Brunte
+      "Sw4Y"  # Lilla Gubben
+      "bSaSØe"  # Lukas
+      "é∫N"  # Beauty
+      "˜ñó"  # Lightning
+      "Íï5u"  # Flash
+      "?ñπe1t"  # Alfonso
+      "?ñSTXKQØe"  # Artax
+      "—ûpgKQ"  # Blackjack
+      "Ûb˚QKb"  # Boxer
+      "9ç∑V"  # Ferd
+      "ôÇ…b"  # Furia
+      "»p0q"  # Flame
+      "gaÉö"  # The Houyhnhnm
+      "kç)n"  # Hwin
+      "PNÅ?Q"  # Merrylegs
+      "ˇb4x—N"  # Napoleon
+      "ÆvÜñ"  # Pylon
+      "≤Qïw"  # Rusher
+      "?ñW∑V"  # Arod
+      "?ñØe’lmØe"  # Asfaloth
+      "Slö‘kS"  # Bill the Pony
+      "^˜ñb"  # Brego
+      "aNÙTlO"  # Bumpkin
+      "•w•w"  # Fatty
+      "w÷wPR"  # Lumpkin
+      "kp≥ç"  # Firefoot
+      "»TœÇŒò"  # Hasufel
+      "äè≥ç"  # Lightfoot
+      "≥u»TS"  # Nahar
+      "mkçóg"  # Roheryn
+      "S3w5g"  # Sharp-ears
+      "Íñõ"  # Snowmane
+      "ÚS4bÙT"  # Stybba
+      "Só>S"  # Swish-tail
+      ")njO…b"  # Windfola
+      "gaJü"  # Wise-nose
+      "ëNùR"  # Rainbow
+      "óSØe"  # Horse
+      "å^Òr<õyö"  # Helhest
+      "^‚l"  # Hippo
+      "yrmO"  # Trojan
+      "çaSkçØeyr"  # B‰ckah‰st
+      "dç7r"  # Red
+      "büR"  # Victory
+      "WSN<hS"  # Nightingale
+      "Øeyr˜ñ+Y"  # Streiff
+      "lö–c<SKQ"  # Martinique
+      "Øe˜ñnf<SS"  # Sleipnir
+      "‚lpgKQ"  # Bojack
+      "IÉNﬁò"  # Glue-Boy
+      "-WY"  # Guido
+      "bSaSØe"  # Lukas
+      "Øe˛V˜ñ"  # Sture
+      "	T∆Y"  # Jim
+      "<hW“R"  # Grolle
+      "≤Q˚Qw"  # Dasher
+      "çöN∑V"  # Bayard
+      "^…b<h"  # Brag
+      "ÅÅ"  # Neck
+      "4lñY"  # N‰cken
+      "—yÆvöN∑V"  # Copiad
+      "6wS+Ynt’lKQØe"  # J‰rvsˆfaks
+      "ƒû—ë9Ç"  # Golden
+      "˜S“âKb"  # Hornline
+      "ÊóS≥u"  # Verner
+      "^˜ñb"  # Brego
+      "^â—S…bØe"  # Bucephalus
+      "Ys|˙ã"  # Domino
+      "ôÑÇÑ"  # Monty
+      "Íï5u"  # Bolt
+      "eYKQ˜ñ"  # Oakley
+      "4bS"  # Dale
+      "ÃëeY"  # Rio
+      "É∑V‘kSyr"  # Vanderbilt
+      "jrò"  # Newton
+      "sbIg"  # Trigger
+      "ôl)Ráe"  # Sullivan
+      "ÙT≥u‘k"  # Barnaby
+      "yrÃë"  # Terry
+      "®Nyr"  # Hunter
+      "lKQ"  # Tyke
+    }
+    female_names = {
+      "ÍïDé"  # Glitterhoof
+      "aS¿NfWaS"  # Kasztanka
+      "ÅúÃÉNÎX"  # Sergeant Reckless
+      "jëFm"  # Buttermilk
+      "GY˘èsYÎX"  # Lady Wonder
+      "jRqV"  # Silhouette
+      "é∫N"  # Beauty
+      "˜ñó"  # Lightning
+      "Íï5u"  # Flash
+      "?ñπe1t"  # Alfonso
+      "?ñSTXKQØe"  # Artax
+      "—ûpgKQ"  # Blackjack
+      "Ûb˚QKb"  # Boxer
+      "9ç∑V"  # Ferd
+      "ôÇ…b"  # Furia
+      "»p0q"  # Flame
+      "gaÉö"  # The Houyhnhnm
+      "kç)n"  # Hwin
+      "PNÅ?Q"  # Merrylegs
+      "ˇb4x—N"  # Napoleon
+      "TX?Q"  # Pylon
+      "≤Qïw"  # Rusher
+      "?ñW∑V"  # Arod
+      "?ñØe’lmØe"  # Asfaloth
+      "Slö‘kâÉ"  # Bill the Pony
+      "^˜ñb"  # Brego
+      "aNÙTlO"  # Bumpkin
+      "•w•w"  # Fatty
+      "w÷wPR"  # Lumpkin
+      "kp≥ç"  # Firefoot
+      "»TœÇŒò"  # Hasufel
+      "äè≥ç"  # Lightfoot
+      "≥u»TS"  # Nahar
+      "mkçóg"  # Roheryn
+      "S3w5g"  # Sharp-ears
+      "Íñõ"  # Snowmane
+      "ÚS4bÙT"  # Stybba
+      "Só>S"  # Swish-tail
+      ")njO…b"  # Windfola
+      "gaJü"  # Wise-nose
+      "ëNùR"  # Rainbow
+      "óSN"  # Horse
+      "å^Òr<õyö"  # Helhest
+      "^‚l"  # Hippo
+      "yrmO"  # Trojan
+      "çaSkçØeyr"  # B‰ckah‰st
+      "S¢u"  # Red
+      "ÙuY)RöN"  # Victory
+      "WSN<hS"  # Nightingale
+      "˜^<hup"  # Tingeling
+      "(ÑâÉ"  # Sallie
+      "WS‹t"  # Pumpkin
+      "ôôõèôe"  # Spice
+      "CSÃëlö"  # Chollima
+      "‰SS’lKQâ"  # Gullfaxi
+      "aS…b"  # Kara
+      "Õs‡s"  # Pearl
+      "Tõ’l"  # Magic
+      "NbWZ"  # Zarona
+      "√W‚lZ"  # Epona
+      "•eP"  # Scout
+      "¶êÆY"  # Bonney
+      "^ÃëØe"  # Paris
+      "Ymyr"  # Charlotte
+      "´ÉZ"  # Mona
+      "wmÇÑ"  # Heidi
+      "löÏY"  # Maggie
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      clan_sentiment = 10
+      mongol_opinion = 20
+    }
+    nomadic_in_alt_start = yes
+  }
+}
+cat_group = {
+  graphical_cultures = {
+    catgfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  cat = {
+    graphical_cultures = {
+      catgfx
+    }
+    color = {
+      0.1
+      0.3
+      0.1
+    }
+    male_names = {
+      "™T™T"  # Mittens
+      "€kt"  # Fluffy
+      "dl∆Y+s"  # Tom
+      "ëeπp"  # Smudge
+      "ófqV"  # Shadow
+      "	NsTøu"  # Zimm
+      "qS∆Y"  # Samm
+      "∆RØeXbVÃë"  # Misstoffelees
+      "bãV>O"  # Deuteronomy
+      "û^^Él"  # Pouncival
+      "NYPO"  # Quaxo
+      "ﬂvÂTpg)R"  # Mungojerrie
+      "´ÉNbyr"  # Mozart
+      "õèÙT"  # Simba
+      "wNÜ"  # Tiger
+      "œÇ<h…bï^"  # Socrates
+      "^X“R∆Y"  # Salem
+      "˛VbSyQ"  # Toulouse
+      "œgÃèyQ"  # Berlioz
+      "XblöØe"  # Thomas
+      "‘kSKQ"  # Birk
+      "*rPR"  # Paws
+      "ÙTâ	tØe »TmKQ ccÀÜ<õ"  # Basileus Harlocke Spoops
+      "åvŒëZ"  # Bazcat
+      "€kt"  # Furball
+      "ul"  # Angry
+      "ùONP"  # Snuggles
+      "x^–è"  # Lucky
+      "Ãucb"  # Buttons
+      "Íñt"  # Snowbell
+      "±b±b"  # Cuddles
+      "KQÅúKQqS"  # Crookshanks
+      "‘k<hÉlØeHQu"  # Mr. Bigglesworth
+      "ëeπp"  # Spot
+      "ÙuØeKQN"  # Whiskers
+      "x^–è"  # Lucky
+      "T<S"  # Juni
+      "∆TfUSPR"  # Maow
+      "∆TfUãs"  # Cat
+      "lx^"  # Coins
+      "—ûyå"  # Panther
+      "u‹Y"  # Frumpkin
+      "µUJN-^"  # Chairman
+      "µUµU"  # Meow
+      "|ú|ô"  # Floof
+      "ÕVw"  # Ninja
+      "ƒOÃë¡"  # Orion
+      "9ç)RKQØe"  # Felix
+      "–c∆Y"  # Tim
+      "WS"  # Rowl
+      ")RØeyr"  # Lister
+      "KQWKQyr"  # Crockett
+      "˝lá^∑VØe"  # Zebedeus
+      "jçIN∑V"  # Syd
+      "çS"  # Bear
+      "VõÅKb"  # Ripper
+      "´ÉÃëØe"  # Maurice
+      "pgKQ"  # Jake
+      "âSÙuØeyr"  # Sylvester
+      "‘k<h"  # Big
+      "Xb—ë"  # Talking
+      "dl∆Y+s"  # Tom
+      "?ñyr…bØe"  # Atlas
+      "1å…b+YN"  # Serafettin
+      "âôÑ"  # Simon
+      "–cS‘k(É"  # Santa
+      "*rPR"  # Paws
+      "¶ûNY"  # M'aiq
+      "áeÓhyr"  # Vincent
+      "»TóVØe"  # Hades
+      "†RÚÉ"  # FÎa
+      "GY"  # Tyki
+      "…b‘k"  # Lavi
+      "Xo"  # Pan
+      "ñw˙WÓh"  # Tjockisen
+      "≤É±Ç"  # Lotus
+      "´ÉÃëØe"  # Morris
+      "ófqV"  # Shadow
+      "eYØeaS"  # Oscar
+      "√WØe˙WS"  # Eskil
+      "ófqV"  # Shadow
+      "wëPN"  # Tommiecat
+      "ZSØe"  # Bosse
+      "…bØe"  # Lasse
+      "ÙTâS"  # Basil
+      "∆TfUA¶h"  # Zylyn
+      "›Ñ+s"  # Snooka
+      "õsyr"  # Maat
+      "ÔQ1t"  # Keso
+      "Bilibili ◊r ∑V›T∂R∑^ õÖöRå ›OYu"  # Lord-Admiral-Edward-Hawke-First-Baron-Hawke-First-Lord-of-the-Admiralty
+      "<Ss|yQ"  # Nimitz
+      "aSyQ"  # Katz
+      "¶ûm"  # Milo
+    }
+    female_names = {
+      "™Tâ"  # Missy
+      "µU™T"  # Kitty
+      "™T™T"  # Mittens
+      "‹Y‘N"  # Ginger
+      "lQJN"  # Princess
+      "Sé"  # Bella
+      "â<hõs"  # Sigma
+      "¶ûÓh"  # Mysan
+      "˛OØe¶û"  # Missan
+      "ÙuY)RöN"  # Victoria
+      "WnfpQÇÑnt"  # Rumpelteazer
+      "jÑLNyQç…b"  # Grizabella
+      "Íès|yr"  # Demeter
+      "¶êçÅú3tZ"  # Bombalurina
+      "o—û"  # Sooty
+      "œÇâ"  # Suzie
+      "vYπlaÑÑRë"  # Syllabub
+      "2óZ"  # Luna
+      "HSY"  # Midnight
+      "≥u…b"  # Nala
+      "–cS‘k(É"  # Tussan
+      "^XSõs"  # Selma
+      "^X“R∆Y"  # Salem
+      "sYlQ5r"  # Duchess
+      "õsLN"  # Marie
+      "â<hÆY"  # Signe
+      "*rPR"  # Paws
+      "ÙT^XLNéÉ »TmKQ ccÀÜ<õ"  # Basileus Harlocke Spoops
+      "åvŒëZ"  # Bazcat
+      "€kt"  # Furball
+      "ul"  # Angry
+      "ùONP"  # Snuggles
+      "x^–è"  # Lucky
+      "Ãucb"  # Buttons
+      "Íñt"  # Snowbell
+      "±b±b"  # Cuddles
+      "KQÅúKQqS"  # Crookshanks
+      "‘k<hÉlØeHQu"  # Mr. Bigglesworth
+      "ëeπp"  # Spot
+      "ÙuØeKQN"  # Whiskers
+      "x^–è"  # Lucky
+      "T<S"  # Juni
+      "∆TfUé"  # Maow
+      "+s+s"  # Cat
+      "lx^"  # Coins
+      "—ûyå"  # Panther
+      "u‹Y"  # Frumpkin
+      "cÑãNï"  # Chairman
+      "µUµU"  # Meow
+      "|ú|ô"  # Floof
+      "‚liO"  # Poppy
+      "	g^"  # Yuki
+      "™T™T"  # Mimmy
+      "ÆÖ+s"  # Stina
+      "sYÎT"  # Witch
+      "ÔQÇÑ"  # Caline
+      "∆TfUé"  # Doortje
+      " sût"  # Cwtch
+      "ÇÑZ"  # Tina
+      "ÃëV"  # River
+      "KQ)ReY"  # Cleo
+      "ÇWÛg"  # Willow
+      "KQmO"  # Chloe
+      "≠ÇN‘Çyr"  # Bastet
+      "õsôÇ„Nyr"  # Mafdet
+      "çÇLNN"  # Aeris
+      "ÁTKQõR"  # Tonks
+      "âÉ(Ñ"  # Lisa
+      "s|g"  # Myran
+      "ôôPRpQ"  # Lillkissen
+      "œñ É"  # Daisy
+      "^Xkçéyr"  # Sekhmet
+      "∞ef"  # Nova
+      "Sû?Q"  # Birdie
+      "¢uFå"  # Mynta
+      "	ÉâÉ"  # Molly
+      "0iPR"  # Tjoppan
+      "´g"  # Nyanners
+      "âwBh"  # Suki
+      "OâØe"  # Isis
+      "2óZ"  # Masika
+      "aS)RƒOiO"  # Caliope
+      "1tS-·wâRZ-OÖQØe-∑V-…b-KQÅúØe"  # Sor-Juana-InÈs-de-la-Cruz
+      "Yj"  # Mitzi
+      "v`kOgR"  # Mischief
+      "ëNÕk"  # Smilla
+      "ntçÖtY"  # Aggi
+      "ÔQ1t"  # Keso
+      "s|…b"  # Milla
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      murder_plot_power_modifier = 0.2
+      vassal_opinion = -5
+      fertility = 0.25
+    }
+  }
+}
+bear_group = {
+  graphical_cultures = {
+    beargfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  bear = {
+    graphical_cultures = {
+      beargfx
+    }
+    color = {
+      0.1
+      0.1
+      0.3
+    }
+    male_names = {
+      "äq¶ui`"  # Bjˆrn
+      "äqhgi`"  # Bj¯rn
+      "9óÛñäq"  # Torbj¯rn
+      "≥u™RKQ"  # Nanuk
+      "t(ÑØe"  # Ursus
+      "∞Qäq"  # Isbjˆrn
+      "|T˜UkT"  # Grrrowr
+      "|TkTkT"  # Grrgrrr
+      "˜UkT"  # Rawr
+      "äq∆Yjç"  # Bamse
+      "2ñkpäq"  # Smokey
+      "äq<S"  # Barnie
+      "äqupòHQu"  # Sir Bearington
+      "äq≥u^Øe"  # Bearnabus
+      "äq≥u∑V"  # Bernard
+      "Säq"  # Asabjˆrn
+      "ØeÇÑS‘k¶ui`"  # Styrbjˆrn
+      "√WØe‘k¶ui`"  # Esbjˆrn
+      "Ùu<S"  # Bˆrje
+      "‘k¶ui`"  # Bjˆrne
+      "‡ÉÑ"  # Baloo
+      "‚l‚l"  # Boo-Boo
+      "€kt"  # Fluffy
+      "Spp"  # Grizzly
+      "eY™c"  # Otso
+      "s|ôl"  # Misha
+      "TKQ"  # Trinket
+      "äq^ó^ó"  # Notabear
+      "¥fÍñÆ"  # Blizzard
+      "ÿy∆R"  # Secret
+      "÷|÷|"  # Sugar
+      "äq,gäq"  # Kumamon
+      "‚l‚l"  # Bobo
+      "ÍèØe—y"  # Disco
+      "±b±b"  # Cuddles
+      "Åú¿syr"  # Rupert
+      "Él¡î"  # Wojtek
+      "oèoèäq"  # Uszatek
+      "äq≥u∑V"  # Bearnard
+      "‘köNÖQ"  # Bjarne
+      "¶u"  # John
+      "äq*r"  # Bearclaw
+      "—yYåQ"  # Koda
+      "ïTkV"  # Gurr
+      "?ñùR"  # Nalle
+    }
+    female_names = {
+      "|T˜UkT"  # Grrrowr
+      "|TkTkT"  # Grrgrrr
+      "JUkT"  # Rawr
+      "äq∆Yjç"  # Bamse
+      "äq^XÆY"  # Ursine
+      "Íñt"  # Snowball
+      "äqO…b"  # Urszula
+      "äqupò+Y∫N"  # Lady Bearington
+      "äqZN"  # Bernardine
+      "äq≥u€ûyr"  # Bernadette
+      "€kt"  # Fluffy
+      "eY™c"  # Otso
+      "^ÅúÖhLNéÉ"  # Brummelisa
+      "äqsÇsÇ"  # Nalle-Maja
+      "^Åúõs"  # Brumma
+      "ñôpô"  # Trinket
+      "äq^ó^ó"  # Notabear
+      "¥fÍñÆ"  # Blizzard
+      "ÿy∆R"  # Secret
+      "ktLO"  # Yogi
+      "÷|÷|"  # Sugar
+      "äq,gäq"  # Kumamon
+      "‚l‚l"  # Bobo
+      "ÍèØe—y"  # Disco
+      "Spp"  # Grizzly
+      "±b±b"  # Cuddles
+      "äqZN"  # Bearnardine
+      "äq≥u€ûyr"  # Bearnadette
+      "s|éÉ"  # Misha
+      "2kÇÑ"  # Cindy
+      "ÿöPNÍè"  # Goldi
+      "?ñùR"  # Nalle
+      "õs≈ñ"  # Maja
+      "ZsO"  # Nadja
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      land_morale = 0.15
+      combat_rating = 10
+    }
+  }
+}
+hedgehog_group = {
+  graphical_cultures = {
+    hedgehoggfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  hedgehog_culture = {
+    graphical_cultures = {
+      hedgehoggfx
+    }
+    color = {
+      0.2
+      0.3
+      1.0
+    }
+    male_names = {
+      "|TÁT|TÁT"  # Hughues
+      "wm∆w"  # Echinus
+      "√WÃë™RØe"  # Erinus
+      "óR!kŒê"  # Kidnae
+      "SS"  # Micro
+      "¶û1t"  # Mesyo
+      "eY)Rf"  # Aurion
+      "†Q€k"  # Sclaterion
+      "ÃëKQØe"  # Rix
+      "SIR"  # Spike
+      "ﬂèùî"  # Pokey
+      "ÿhR∆Y"  # Quillem
+      ",s…^"  # Quilliam
+      ",supò"  # Quillington
+      "1t<SKQ"  # Sanic
+      "≥uKQÅúØe"  # Knucklys
+      "åvˆî"  # Silver
+      "pQØemyr"  # Lancelot
+      "†R…b»T∑V"  # Galahad
+      "ESÅúÎX"  # Cyrus
+      "àî´W"  # Pincushion
+      "IR,s"  # Hedgehog
+      "¥f>Ål"  # Grumpy
+      "ØÖGr"  # Crisp
+      "çgúg"  # Pinecone
+      "(Ñ∆Y"  # Sam
+      "GdGdFdFd"  # Wiggles
+      "ØeÇÑ<h"  # Stig
+      "õÖâØe"  # Xerxes
+      "ÇÑÿh∑)nIR?Q*Y*Y"  # Mr. Tiggy-Winkle
+      "âîPR"  # Nails
+      "FÉÿh"  # Thorn
+      "ógéj"  # Ringo
+      "<hW	T"  # Groogy
+      "g¢R"  # Punk
+      "jå*s"  # Hedgepig
+      "Z%N·n·n"  # August
+      "^±Éi`"  # Blaine
+      "kbW"  # Saul
+    }
+    female_names = {
+      "√WLNZ"  # Erina
+      "√WGYY<S"  # Ekidney
+      "Ng^tKQØe"  # Leerix
+      "?ñS	T…b"  # Algira
+      "kçs|"  # Hemy
+      "Ôg)R"  # Collie
+      "æèLN…b"  # Daura
+      "^…b"  # Para
+      "áeyr)RöN"  # Ventria
+      "ôl˙W…b"  # Shaquilla
+      "NagSVªû"  # Prickquille
+      "(gag"  # Splinthia
+      "<SôY"  # Nimue
+      "çÇs|"  # Amy
+      "<SKQØe"  # Nix
+      "SIR"  # Spike
+      "àî´W"  # Pincushion
+      "IR,s"  # Hedgehog
+      "¥f>Ål"  # Grumpy
+      "ﬂèùî"  # Pokey
+      "ØÖGr"  # Crisp
+      "çgúg"  # Pinecone
+      "»T)RPR"  # Sam
+      "GdGdFdFd"  # Wiggles
+      "´spt"  # Rose
+      "EûuSÛw"  # Pebbles
+      "iOÏY"  # Peggy
+      "	V	VsYÎT"  # Hogatha
+      "Ûw`i(g"  # Briar
+      "±Ç±Ç"  # Flower
+      "Öh<h"  # Meg
+      ")s¢u"  # Scarlet
+      ")n∑V…b"  # Vendela
+      "u‹Y"  # Ginger
+      "Öh≥u"  # Mena
+      "ÇÑéÉ"  # Tisha
+      "eYZ"  # Oona
+      "LNœÇ…b"  # Ursula
+      "3SÍèyr"  # Judit
+      "yru"  # Tegan
+      "3ñIQÍïÍï"  # Sunshine
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      defensive_plot_power_modifier = 0.2
+      fertility = 0.25
+    }
+    allow_looting = yes
+    seafarer = yes
+  }
+}
+duck_group = {
+  graphical_cultures = {
+    duckgfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  duck_culture = {
+    graphical_cultures = {
+      duckgfx
+    }
+    color = {
+      1.0
+      1.0
+      1.0
+    }
+    male_names = {
+      "æèÚÉ"  # Daffy
+      "VV"  # Quacker
+      "NÜKQ"  # Huck
+      "GdGdCfCf"  # Waddles
+      "Uw-û"  # Donald
+      "Ys|<SKQ"  # Dominic
+      "åv≈èÅ"  # Whitewing
+      "-ûì^Øe"  # Duckus
+      "ºl√ç-û"  # Quackmire
+      "ÀÜ4YSPR"  # Eggbert
+      "óNS∑V"  # Howard
+      "ÚSÿöªl"  # Scrooge
+      "Ã€k‘v"  # Winghelm
+      "bS∑V)n"  # Ludwing
+      "1k2kÛw"  # Gladstone
+      "ÀÜ’|"  # Cake
+      "ÃçÃçûdûd"  # Blunder
+      "-ûPR"  # Duck
+      "VV"  # Quackers
+      "ÆvÆv"  # Pippi
+      "bóbó"  # Face
+      "aÑÑ"  # Grape
+      "?ñ≥uwm∆Y"  # Anaheim
+      "VPR"  # Quackel
+      "û4V"  # Beaky
+      "˙ãNò"  # Nottington
+      "∑V˜ñKQ"  # Drake
+      "Œë-û"  # Mallard
+      "IlØe"  # Hans
+      "ÚSÿöªl"  # Scrooge
+      "—ûófKN¸"  # Darkwing
+      "âè?Q"  # Huey
+      "kg?Q"  # Dewey
+      "Ôç?Q"  # Louie
+      "ªs)RÊtS"  # Bolivar
+      "löN"  # MÂrten
+      "löS’n"  # Maarten
+      "ãsCg"  # Cornelius
+      "»TfkZS∑V"  # Havbard
+      "KQ≥u^X"  # Knase
+      "ÔQ“R"  # Kalle
+      "?ñ3wÖm"  # Arne
+      "ƒr&O"  # Dylan
+      "√Ws|)ReY"  # Emelio
+      "<h˜ñb"  # Greg
+      "›OW"  # Paul
+    }
+    female_names = {
+      "€ûâ"  # Daisy
+      "O)n"  # Irynn
+      "ÆY)R"  # Neilly
+      "û7h"  # Aves
+      "ﬁò…^fZ"  # Winghelmina
+      "∂xÑN"  # Beaktrice
+      "	ÉâÉ"  # Molly
+      "S|é+N"  # Webbygail
+      ",gÇÑZ"  # Bentina
+      "bSÍè"  # Goldie
+      "pg»èõs"  # Jemima
+      "ÀÜ’|"  # Cake
+      "ûdûdÃçÃç"  # Blunder
+      "-ûPR"  # Duck
+      "VV"  # Quackers
+      "ÆvÆv"  # Pippi
+      "8Å8Å"  # Face
+      "aÑÑ"  # Grape
+      "?ñ≥uwm∆Y"  # Anaheim
+      "Ã€k"  # Feathers
+      "ÔQ(Ñ"  # Kajsa
+      "—msY"  # Donna
+      "óS’nâöN"  # Hortensia
+      "qS¿ñ"  # Chickadee
+      "l…b"  # Tyra
+      "‰SpQ"  # Gullan
+      "eYZ"  # Oona
+      "LN^"  # Umpa
+      "OfW"  # Gittan
+      "Ñ…b"  # Lola
+      "∂x¨QÉ"  # Petunia
+      "ChPNN"  # Doris
+      "õsÇÑSæè"  # Matilda
+      "2óõè≤Y"  # Lucinda
+      "kg”Ñ…b"  # Dumbella
+      "^XSõs"  # Selma
+      "5g…b"  # Dora
+      "ÉÆY"  # Fanny
+      "*t*t"  # Kicki
+      "ÇÑÇÑ"  # Titti
+      "âR*t"  # Anki
+      "u∑V…b"  # Gandra
+      "béÉ3t"  # GÂsalin
+      "béÉ3t"  # Gosalyn
+      "?ñid<SöN"  # Ammonia
+      "PüZ"  # Zeena
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      siege_speed = 0.2
+      fertility = 0.25
+    }
+    allow_looting = yes
+    seafarer = yes
+  }
+}
+dog_group = {
+  graphical_cultures = {
+    doggfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  dog_culture = {
+    graphical_cultures = {
+      doggfx
+    }
+    color = {
+      0.4
+      0.3
+      0.0
+    }
+    male_names = {
+      "ÚÉFå"  # Fido
+      "?ñπe1t"  # Alfonso
+      "ÙTâS"  # Basil
+      "?ñS>Oyr"  # Albert
+      "√W)RØe4b"  # Alistair
+      "çÇSlö"  # Elmer
+      "	TS>Oyr"  # Gilbert
+      "√WS)n"  # Alwin
+      "^pQyr)R"  # Brantley
+      "Øw∑VÃëKQ"  # Kendrik
+      "nfjçKQ"  # Psyche
+      "«Rl"  # Pluck
+      "W˛v"  # Buckler
+      "^XPR"  # Spigot
+      "ï€w"  # Lance
+      "“Rfè"  # Lurcher
+      "àRg"  # Watch
+      "wàR"  # Keeper
+      "≈eñ"  # Brigade
+      "QRKb"  # Fencer
+      "`S+Y"  # Butcher
+      "V”bw"  # Blazer
+      "ÒÇ«R"  # Prowess
+      "ÂT/S"  # Craftsman
+      "≥bóg∫N"  # Forester
+      "çòÓï"  # Counsellor
+      "ccÀÜ<õ"  # Spoiler
+      "kçÃë"  # Hurry
+      "3a`"  # Fury
+      "ÜTÓT"  # Growler
+      "¥f®R"  # Riot
+      "±Ç±Ç"  # Bloomer
+      "Wlö"  # Rome
+      "˝u>e"  # Blossom
+      "kçœg"  # Hebe
+      "^…bÃë"  # Hilary
+      "óÃë–c"  # Jolity
+      "›Q∆âw"  # Gazer
+      "ÓvIQÍïÍï"  # Eyebright
+      "YY"  # Much
+      "fkõR"  # Force
+      "ëöuQ"  # Trooper
+      "∂U˘ï"  # Bustle
+      "·l·l"  # Bubbler
+      "LûLû"  # Rockdove
+      "PIV"  # Stubborn
+      "jljl"  # Yelp
+      "ÆvÃëÖh“R"  # Pele-mele
+      "©X?Q"  # Strongboy
+      ")Yzz"  # Sky
+      "IQng"  # Sunbeam
+      "%ïPR"  # Bodkin
+      "âl`"  # Wistful
+      "èOQ"  # Gnome
+      ">SLà"  # Tracks
+      "≤Qûd"  # Dash
+      "^±ÉKQ"  # Blake
+      "O4O"  # Buddy
+      "ÿöﬁò"  # Goofy
+      "nfÅúXb"  # Pluto
+      "OgKb"  # Killer
+      "¶ûKQØe"  # Max
+      "Øu◊r"  # Bonzo
+      "Nm—y"  # Zico
+      "¬RYó"  # Santi
+      "'t´écà"  # Cotte
+      "ãsLr"  # Ruff
+      "sbIg"  # Trigger
+      "s|<S"  # Mini
+      "Xb‘k"  # Toby
+      "Sê◊r…bØe"  # Doglas
+      "^‘N"  # Good
+      "pà‘N"  # Bad
+      "ì^N"  # Cujo
+      "ÔçfØe"  # Louis
+      "NS+YHQu"  # Mr Wuffles
+      "®X4l"  # Inky
+      "(ÑkTS"  # Saurr
+      "·l´l"  # Bubbles
+      "aSÊtØeåNN"  # Dog
+      "pç◊r"  # Doggo
+      "ófqV"  # Shadow
+      "ëeπp"  # Spot
+      "ùRç"  # Babe
+      "ëeπpupò"  # Spotington
+      "ÊóØe)R"  # Wesley
+      "˝Vãs"  # Rex
+      "nfÅúXb"  # Pluto
+      "–cs|"  # Timmi
+      "√W∑V"  # Ed
+      "øO≈ñØ`"  # Benjamin
+      "›ÑùRÛw"  # Sapphire
+      "wÉlö"  # Homer
+      "OQpû"  # Grif
+      "å^up"  # Ghost
+      "ppŒò"  # Greywind
+      "Y)Y"  # Summer
+      "€k€k◊r"  # Shaggydog
+      "ÚSwë‘k"  # Scooby
+      "∑VÅú‘k"  # Droopy
+      "Sê˙W"  # Dogge
+      "®N)R"  # Henry
+      "ÔQâ"  # Casey
+      "(Ñ∆Y"  # Sam
+      "löKQâ"  # Maxx
+      "VSáe"  # Kelvin
+      "W5r"  # Rozz
+      "√W?ñØe"  # Ajax
+      "POW"  # Zorro
+      "KQ)Rèy∑V"  # Clifford
+      "æèÃë"  # Dali
+      "%VSò"  # Milton
+      "NSu"  # Watson
+      "SOAl"  # Laddie
+      "?ñôÑÓh"  # Amundsen
+      "kç…bKQ“RØe"  # Hercules
+      "»TØwÃe∆Ryr"  # Hackenschmidt
+      "Qhçg"  # Samson
+      "(Ñs|"  # Sammy
+      "9Çï"  # Skipper
+      "aSÅú1t"  # Caruso
+      "åN◊r"  # Sub
+      "3S)RâØe"  # Ulysses
+      "ëeπp"  # Spotty
+      "4lKbï"  # Bosun
+      "„S4l"  # Slobbers
+      "¬à4V"  # Splitlip
+      "´pw"  # Swanker
+      "äV<h)n"  # Chirgwin
+      "∏Ñ<r"  # Steamer
+      "4Tﬁò"  # Wuffler
+      "s|9h"  # Myggen
+      "Ævyr"  # Petter
+      "s|éÉ"  # Mischa
+      "	N(g"  # Mikki
+    }
+    female_names = {
+      "aSËï"  # Carmen
+      "√WâÉ˙ã"  # Eleanor
+      "mZZ"  # Dolly
+      "OôÇ"  # Eve
+      "ÚÉÏY"  # Fergie
+      "úgSæè"  # Golda
+      "BhÆYáÖ?Q"  # Guinevere
+      "ÒÇÍè…b"  # Indira
+      "∆RÖmÊt"  # Minerva
+      "KS'YÙuZ"  # Octavia
+      "nfjçKQ"  # Psyche
+      "«Rl"  # Pluck
+      "W˛v"  # Buckler
+      "^XPR"  # Spigot
+      "ï€w"  # Lance
+      "“Rfè"  # Lurcher
+      "àRg"  # Watch
+      "wàR"  # Keeper
+      "≈eñ"  # Brigade
+      "QRKb"  # Fencer
+      "`S+Y"  # Butcher
+      "V”bw"  # Blazer
+      "ÒÇ«R"  # Prowess
+      "ÂT/S"  # Craftsman
+      "≥bóg∫N"  # Forester
+      "çòÓï"  # Counsellor
+      "ccÀÜ<õ"  # Spoiler
+      "kçÃë"  # Hurry
+      "3a`"  # Fury
+      "ÜTÓT"  # Growler
+      "¥f®R"  # Riot
+      "±Ç±Ç"  # Bloomer
+      "Wlö"  # Rome
+      "˝u>e"  # Blossom
+      "kçœg"  # Hebe
+      "^…bÃë"  # Hilary
+      "óÃë–c"  # Jolity
+      "›Q∆âw"  # Gazer
+      "ÓvIQÍïÍï"  # Eyebright
+      "YY"  # Much
+      "fkõR"  # Force
+      "ëöuQ"  # Trooper
+      "∂U˘ï"  # Bustle
+      "·l·l"  # Bubbler
+      "LûLû"  # Rockdove
+      "PIV"  # Stubborn
+      "jljl"  # Yelp
+      "OgKb"  # Killer
+      "ÆvÃëÖh“R"  # Pele-mele
+      ")Yzz"  # Sky
+      "IQng"  # Sunbeam
+      "%ïPR"  # Bodkin
+      "âl`"  # Wistful
+      "èOQ"  # Gnome
+      ">SLà"  # Tracks
+      "-ûéÉÆY"  # DashAnnie
+      "ØeÙuKQØe"  # Swix
+      "Sé"  # Bella
+      "ókç…b"  # Xohla
+      "±Éâ"  # Lassie
+      "±ÉOaS"  # Laika
+      "eYNZ"  # Odine
+      "®X4l"  # Inky
+      "1rLNN"  # Alice
+      "^‘N"  # Good
+      "pà‘N"  # Bad
+      "·l´l"  # Bubbles
+      "aSÊtØeåNN"  # Dog
+      "pç◊r"  # Doggo
+      "ófqV"  # Shadow
+      "ëeπp"  # Spot
+      "ùRç"  # Babe
+      "◊Çag"  # Twiggy
+      "<S˙W"  # Nikki
+      "∞ef"  # Nova
+      "≈ñÆvÎX"  # Yippie
+      "˙Wíd"  # Kisha
+      "TXáÖ"  # Tavi
+      "ÆYÙu≈ñ"  # Naevia
+      "1rLNN"  # Alice
+      "çSTX"  # Berta
+      "Ys|˙ã"  # Domino
+      "^ÜñÍè"  # Blondi
+      "Sé"  # Bella
+      "mÇÑ"  # Lottie
+      "9NÆY"  # Danny
+      "±É…b"  # Lyra
+      "5çáY"  # Lady
+      "ZÖhâÉöN"  # Nymeria
+      "POO"  # Zoe
+      "pglö"  # Jemma
+      "W<SöN"  # Ronja
+      "ÉØe"  # Maus
+      "çÉ"  # Bessie
+      "≥Ü?Q"  # Flecka
+      "ÇÑ…b"  # Tira
+      "ôÑGY"  # Menchi
+      "âÉâÉ"  # Lily
+      "1kPN"  # Gala
+      "∂xTX"  # Bitta
+      "s|Z"  # Mia
+      "±ÉOaS"  # Laika
+      "éÉÇÑ"  # Sadie
+      "œÇ"  # Sue
+      "éÉâÉ"  # Sally
+      "◊ã∫N"  # Songster
+      "4TÚÉ"  # Wuffler
+      "ÖhJü"  # Maybe
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      general_opinion = 5
+      fertility = 0.25
+    }
+  }
+}
+elephant_group = {
+  graphical_cultures = {
+    elephantgfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  elephant_culture = {
+    graphical_cultures = {
+      elephantgfx
+    }
+    color = {
+      0.8
+      0.8
+      0.8
+    }
+    male_names = {
+      "ryr"  # Doot
+      "yrgWV"  # Trumpo
+      "JüPR"  # Snoot
+      "ÆvmÎX"  # Pyyrhus
+      "˙^FåW"  # Kandula
+      "'Y*N?Q"  # Jumbo
+      "'Yaå"  # Elephant
+      "èr˝ê"  # Setu
+      "Wy–c"  # Dhriti
+      "ÙT™R"  # Bhaanu
+      "ÀçOñW"  # Bhadra
+      "Nb‡V"  # Zain
+      "ÙTÙT"  # Barbar
+      "ÏÑ^kg"  # Pompadour
+      "◊kntY"  # Booper
+      "Sﬁòaå"  # Dombo
+      "?ñ^"  # Abul
+      "?ñ‘bØe"  # Abbas
+      "nFZ"  # Hanno
+      "‡VOñW"  # Zaeem
+      "Il<S‘b"  # Hannibal
+      "ÙTS"  # Baal
+      "»TØe∑VÅúÙT"  # Hasdrubal
+      "ÙT^S"  # Babur
+      "ÙTyrS"  # Batyr
+      "‚lTKQØe"  # Pollux
+      "aSØeXb3w"  # Castor
+      "ïYrHQu"  # Mr-Tusk
+      "LOñ"  # Gaj
+      "^pQyr"  # Brant
+      "QRnmôl"  # Kamboj
+      "?ñw<S"  # Hastin
+      "LOñ‡VOñW"  # Gajendra
+      "1rWOr"  # Airawat
+      "åñ"  # Tej
+      "XbÇÑ"  # Toti
+      "6wçTW"  # Yathra
+      "†RPü"  # Ghaazi
+      "?ñn‚l"  # Chotu
+      "≥R˙^Oñ"  # Baahi
+      "—û)Y"  # Bakhsh
+      "OñnY"  # Behru
+      "yr3SØe"  # Zaki
+      "ãsCg"  # Cornelius
+      "œÇÅúØe"  # Surus
+    }
+    female_names = {
+      "ZW≥ROï^"  # Doot
+      "yrgWV"  # Trumpo
+      "JüPR"  # Snoot
+      "ÆvmÎX"  # Pyyrhus
+      "˙^FåW"  # Kandula
+      "'Y*N?Q"  # Jumbo
+      "'Yaå"  # Elephant
+      "èr˝ê"  # Setu
+      "æñ—èÕk"  # Dhriti
+      "ˆeÕk"  # Bhaanu
+      "ÀçOñW"  # Bhadra
+      "uLO"  # Zain
+      "ÙTÙT"  # Barbar
+      "ÏÑ^kg"  # Pompadour
+      "Êè®h"  # Booper
+      "Sﬁòaå"  # Dombo
+      ")Yzz"  # Celestial
+      "IlØeØw"  # Hansken
+      "¢uùRÛw"  # Ruby
+      "µhLàsY"  # Miraan
+      "(g…S"  # Moksha
+      "fw)Y"  # Dhruti
+      "°VN	g"  # Zahara
+      "Y…S"  # Yasha
+      "	TâRZ"  # Jaina
+      "kgSÊè"  # Fria
+      "(ÑÇÑ"  # Aashi
+      "O|i<S"  # Hruti
+      "µîÈT–c◊k"  # Sia
+      "æè9R"  # Daksha
+      "LNéÉØe"  # Zia
+      "-g…b"  # Xara
+      "aåJükÜ"  # Zyva
+      "–c◊k"  # Okki
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      health = 2
+      learning = 2
+      defensive_plot_power_modifier = -0.2
+      fertility = -0.25
+      combat_rating = 10
+    }
+  }
+}
+dragon_group = {
+  graphical_cultures = {
+    dragongfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  dragon_culture = {
+    graphical_cultures = {
+      dragongfx
+    }
+    color = {
+      0.6
+      0.0
+      0.0
+    }
+    male_names = {
+      "’l+Y<SS"  # Fafnir
+      "s|∑V†RS∑V"  # Midgard
+      "?ñ‚lÚÉØe"  # Apopis
+      "…b¨Q"  # Ladon
+      "—ySèUØe"  # Colchidei
+      "ÆvT"  # Piton
+      "fkO+YS"  # Vouivre
+      "∑V…bKQ"  # Drac
+      "b˜ñÖQGY"  # Gorynych
+      "Ìs˛V"  # Bantu
+      "lö™R"  # Mannu
+      "ñwÓh"  # Khozen
+      "´É˝lØe"  # Morzas
+      "˝l∆Y^XS"  # Xemcel
+      "®X1NØe"  # Medeus
+      "´ÉSÊt"  # Morva
+      "HYSØe"  # Nils
+      "ÙT»T∆Yyr"  # Bahamut
+      ")RÙufW"  # Leviathan
+      "‹z^y"  # Ryujin
+      "NmpQyr"  # Zilant
+      "3X0N"  # Typhos
+      "·lôÇ"  # Puff
+      "*PKQØe"  # Nyx
+      "IYr"  # Teethless
+      "Sﬂp"  # Smokey
+      "äk°NKN¸"  # Deathwing
+      "ÎVˆî"  # Quicksilver
+      "ppqV"  # Grey Ghost
+      "wmﬂp"  # Seasmoke
+      "™ÖÙg"  # Pyre
+      "&qW"  # Scorch
+      "ôü"  # Dragon
+      "ñY∆Ü"  # Wyrm
+      "óg∑VkÜ"  # Lindwurm
+      "˝êÊtKQ‡V"  # Dovah
+      "V…b∑V"  # Vlad
+      "Á`Æv"  # Rattleskin
+      "YOÏp"  # Ash
+      ",gr"  # Benedict
+      "W9R"  # Rakshasha
+      "∑V…b—y"  # Draco
+      "∑V‰S…b"  # Dracul
+      "∑V…bb"  # Drago
+      "’lôÇ≥u"  # Fafner
+      "√WWS"  # Errol
+      "jÑ“RY"  # Glaedr
+      "<h≥Rôü"  # Glaurung
+      "∞QNS"  # Icefyre
+      "èyÂT?Q"  # Falkor
+      "≥u	T<S"  # Nagini
+      "ÃëeY˜ñLNØe"  # Rathalos
+      "Æv+Y"  # Piff
+      "V˜ñ∑V"  # Fred
+      "3SôÑR∑V"  # Voidaltarah
+      "∑V±É<h"  # Ddraig
+      "∑V˜ñKQZSÎX"  # Drdrake
+      "·Qê"  # Morttalis
+      "Ìs<S"  # Barney
+    }
+    female_names = {
+      "–cöNõsyr"  # Tiomat
+      "˜^TX<h)RöN"  # Tintaglia
+      "aSyr…b"  # Katla
+      "∑V…bÔQZ"  # Drakaina
+      "?ñ±ÉKQNTX(Ñ"  # Gegheiss
+      "Ont…b"  # Jesasdess
+      "õèæèﬂÇ(Ñ"  # Semoth
+      "çÇGY∑VZ"  # Heirel
+      "6w¶h†RóV"  # Taynnelth
+      "ZLO"  # Naga
+      "–c˙W"  # Tiki
+      "ÍQ"  # Nagi
+      "°loÉ"  # Myrrh
+      "ÆYÆYâR"  # Ninian
+      "	T^töN…b"  # Nah
+      "*PKQN"  # Nyx
+      "IYr"  # Teethless
+      "Sﬂp"  # Smokey
+      "ÙT»T∆Yyr"  # Bahamut
+      "äk°NKN¸"  # Deathwing
+      "ÎVˆî"  # Quicksilver
+      "ppqV"  # Grey Ghost
+      "wmﬂp"  # Seasmoke
+      "·lôÇ"  # Puff
+      "™ÖÙg"  # Pyre
+      "&qW"  # Scorch
+      "ôü"  # Dragon
+      "ñY∆Ü"  # Wyrm
+      "óg∑VkÜ"  # Lindwurm
+      "˝êÊtKQ‡V"  # Dovah
+      "Øe€û…b"  # Stella
+      "W9RsY"  # Rakshesha
+      "˙ãSÉR"  # Norberta
+      "?ñfW˛V"  # Paksenarrion
+      "›Ñ?Q"  # Saphira
+      "√W˛V(Ñ"  # Aithusa
+      "wƒr)RZ"  # Cordelia
+      "ÃëeY˜ñZ"  # Rathian
+      "YZ"  # Charna
+      "ŸN˝ê"  # Xanadu
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      health = 4
+      fertility = -0.5
+      global_tax_modifier = 0.1
+      general_opinion = -10
+      combat_rating = 30
+    }
+    allow_looting = yes
+  }
+}
+panda_group = {
+  graphical_cultures = {
+    redpandagfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  red_panda = {
+    graphical_cultures = {
+      redpandagfx
+    }
+    color = {
+      1.0
+      0.3
+      0.0
+    }
+    male_names = {
+      "XoY+Y"  # Pandolf
+      "Xokg+Y"  # Pandulf
+      "^ÖP"  # Shifu
+      "÷wæè"  # Panda
+      "ÙTâS"  # Basil
+      "kp±Ç"  # Spark
+      "ÅR"  # Ning
+      ",gpgf"  # Benjamin
+      "1t6w"  # Sawyer
+      "kpoÉ"  # Ceba
+      "^^"  # Pabu
+      "ÏÑ†R"  # Ponga
+      "˘zPR"  # Bamboo
+      "aS…b"  # Kaala
+      "·l·l"  # Puffball
+      "LNôü"  # Oolong
+      "vY6É"  # Chai
+      "ÓhùR"  # Semper
+      "◊kW"  # Vira
+      "ÀeãV"  # Song
+      "ñT±Uâ|"  # Masala
+      "O…b"  # Ila
+      "”u≈ñ"  # Zeya
+      "aSSÓh"  # Carson
+      "»TW∑V"  # Harold
+      "AmfNag"  # Stellar
+      "mPR"  # Lhotse
+      "qSuÑ"  # Wasabi
+      "¬RÂR"  # Sabi
+      "x^èy"  # Khusi
+      "YROñW"  # Sundar
+      "id≥uZ"  # Manasa
+      "uU"  # Bo
+      "id^<S"  # Mohini
+      "ÔQáe"  # Kevyn
+      "‰Q"  # Phoenix
+      "?ñO"  # Avi
+      "aSTXS"  # Katar
+      "úg"  # Berry
+      "ÙTÃë"  # Barrie
+      "nf´ÉÃë"  # Pumori
+      "âR^ÅúØe"  # Ambrus
+      "?ñS>Oyr"  # Albert
+      "ØQ"  # Feng
+      "•w•w"  # Chonk
+      "bôü"  # Jackie
+      "FåJÖ"  # Nutmeg
+      "≤ÑuÑ"  # Sabal
+      "iOò"  # Peyton
+      "O±É"  # Eli
+      "^t∑V"  # Red
+      "ÙT^"  # Babu
+    }
+    female_names = {
+      "¶unt¨Ç"  # Josefin
+      "XoSê¨ÇZ"  # Pandolfina
+      "^ÖP"  # Shifu
+      "÷wæè"  # Panda
+      "œÇ sZ"  # Susana
+      "LN≤s"  # Liling
+      "ç*t"  # Betsy
+      "`	V"  # Scarlett
+      "kpoÉ"  # Ceba
+      "^^"  # Pabu
+      "ÏÑ†R"  # Ponga
+      "˘zPR"  # Bamboo
+      "aS…b"  # Kaala
+      "·l·l"  # Puffball
+      "LNôü"  # Oolong
+      "vY6É"  # Chai
+      "ÓhùR"  # Semper
+      "◊kW"  # Vira
+      "ÀeãV"  # Song
+      "1t<SZ"  # Sonya
+      "éPR"  # Miko
+      "≥uÊt"  # Nava
+      "Ha<S"  # Cini
+      "ñT±Uâ|"  # Masala
+      "^Z"  # Panna
+      "Æv≈ñ"  # Piya
+      "å"  # Satya
+      "1t<SaS"  # Sonika
+      "O…b"  # Ila
+      "”u≈ñ"  # Zeya
+      "ÍñPR"  # Yukiko
+      "õiPR"  # Hazel
+      "É∑V"  # Maude
+      "ñ6w"  # Jaya
+      "&ïuÑ"  # Wasabi
+      "¬RÂR"  # Sabi
+      "x^èy"  # Khusi
+      "YROñW"  # Sundar
+      "id≥uZ"  # Manasa
+      "âÉ’l"  # Leafa
+      "Q"  # Phoenix
+      "ç?ñyrLNKQN"  # Beatrix
+      "2óN"  # Ruth
+      "çÇáÖ"  # Avi
+      "aSTXS"  # Katar
+      "úgúg"  # Berry
+      "âôÑÆY"  # Simone
+      "NTX"  # Chota
+      "õsâÉ"  # Mali
+      "'kÂÇ…b"  # Aurora
+      "çÇ^tS"  # Eriel
+      "÷w÷w"  # Chonk
+      "¸f‚l"  # Mambo
+      "FåJÖ"  # Nutmeg
+      "≤ÑuÑ"  # Sabal
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      vassal_opinion = 5
+      land_morale = 0.05
+      fertility = -0.15
+    }
+  }
+}

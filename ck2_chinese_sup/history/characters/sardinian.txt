@@ -1,0 +1,2827 @@
+145908 = {
+  name = "bSúWšN"  # Lucia
+  dynasty = 1022322
+  religion = "catholic"
+  culture = "sardinian"
+  741.1.1 = {
+    birth = yes
+  }
+  804.1.1 = {
+    death = yes
+  }
+}
+145909 = {
+  name = "'k9s|eY"  # Euphemio
+  dynasty = 1022321
+  religion = "orthodox"
+  culture = "sardinian"
+  749.1.1 = {
+    birth = yes
+  }
+  809.1.1 = {
+    death = yes
+  }
+}
+184008 = {
+  name = " Rôu<S"  # Gavini
+  dynasty = 1042807
+  religion = "orthodox"
+  culture = "sardinian"
+  840.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+184009 = {
+  name = "mïQ"  # Loce
+  dynasty = 1042808
+  religion = "orthodox"
+  culture = "sardinian"
+  839.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+20326 = {
+  name = "eYS1tÑy÷–"  # Orsocorre
+  dynasty = 1040098
+  martial = 8
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "scholarly_theologian"
+  father = 235113
+  1030.1.1 = {
+    birth = yes
+  }
+  1049.1.1 = {
+    add_spouse = 235105
+  }
+  1089.1.1 = {
+    death = yes
+  }
+}
+144251 = {
+  name = "Ñy¯efW‚„ªR"  # Costantìnu
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 20326
+  mother = 235105
+  1050.1.1 = {
+    birth = yes
+  }
+  1065.1.1 = {
+    add_spouse = 235102
+  }
+  1102.1.1 = {
+    death = yes
+  }
+}
+144252 = {
+  name = "lšÌ‘šNªR"  # Marianu
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144251
+  mother = 235102
+  1066.1.1 = {
+    birth = yes
+  }
+  1098.1.1 = {
+    add_spouse = 235142
+  }
+  1130.1.1 = {
+    death = yes
+  }
+}
+144253 = {
+  name = "Ñy¯efW‚„ªR"  # Costantìnu
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144252
+  mother = 235142
+  1100.1.1 = {
+    birth = yes
+  }
+  1120.1.1 = {
+    add_spouse = 235011
+  }
+  1125.1.1 = {
+    add_spouse = 235231
+  }
+  1163.1.1 = {
+    death = yes
+  }
+}
+144524 = {
+  name = "›sLN‰RZ"  # Marianna
+  dynasty = 1040098
+  female = yes
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144253
+  mother = 235231
+  1130.1.1 = {
+    birth = yes
+  }
+  1170.1.1 = {
+    death = yes
+  }
+}
+71310 = {
+  name = "	TeYS	TZ"  # Giorgia
+  dynasty = 1040098
+  female = yes
+  martial = 3
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "cynical"
+  trait = "strong"
+  trait = "naive_appeaser"
+  father = 144253
+  mother = 235231
+  1132.1.1 = {
+    birth = yes
+  }
+  1180.1.1 = {
+    death = yes
+  }
+}
+180183 = {
+  name = "nf÷–PŸeYƒ"  # Preziosa
+  female = yes
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144253
+  mother = 235231
+  1133.1.1 = {
+    birth = yes
+  }
+  1193.1.1 = {
+    death = yes
+  }
+}
+20325 = {
+  name = "lšÌ‘šNªR"  # Marianu
+  dynasty = 1040103
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "envious"
+  trait = "fortune_builder"
+  father = 235136
+  mother = 235212
+  1014.1.1 = {
+    birth = yes
+  }
+  1073.1.1 = {
+    death = yes
+  }
+}
+144527 = {
+  name = "eYS1tÑy÷–"  # Orsocorre
+  dynasty = 1040103
+  religion = "catholic"
+  culture = "sardinian"
+  father = 20325
+  1030.1.1 = {
+    birth = yes
+  }
+  1045.1.1 = {
+    add_spouse = 235137
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
+144528 = {
+  name = "eYS1tÑy÷–"  # Orsocorre
+  dynasty = 1040103
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235140
+  mother = 235215
+  1062.1.1 = {
+    birth = yes
+  }
+  1077.1.1 = {
+    add_spouse = 235139
+  }
+  1122.1.1 = {
+    death = yes
+  }
+}
+144529 = {
+  name = "Ñys|TX"  # Comita
+  dynasty = 1040103
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144528
+  mother = 235139
+  1078.1.1 = {
+    birth = yes
+  }
+  1124.1.1 = {
+    death = yes
+  }
+}
+71631 = {
+  name = "ôTœ1t…Q"  # Barusone
+  dynasty = 794
+  martial = 7
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "ambitious"
+  trait = "flamboyant_schemer"
+  father = 235147
+  mother = 235150
+  1130.1.1 = {
+    birth = yes
+  }
+  1145.1.1 = {
+    add_spouse = 235194
+  }
+  1157.1.1 = {
+    remove_spouse = 235194
+  }
+  1157.1.1 = {
+    add_spouse = 71623
+  }
+  1185.1.1 = {
+    death = yes
+  }
+}
+71632 = {
+  name = "‰<S¯eiOÉb"  # Sinispella
+  dynasty = 794
+  female = yes
+  religion = "catholic"
+  culture = "sardinian"
+  father = 71631
+  mother = 235194
+  1151.1.1 = {
+    birth = yes
+  }
+  1209.1.1 = {
+    death = yes
+  }
+}
+71633 = {
+  name = "iOSkg"  # Perdu
+  dynasty = 794
+  martial = 5
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "lustful"
+  trait = "duelist"
+  trait = "misguided_warrior"
+  father = 71631
+  mother = 235194
+  1146.1.1 = {
+    birth = yes
+  }
+  1189.1.1 = {
+    add_spouse = 235203
+  }
+  1191.1.1 = {
+    remove_spouse = 235203
+  }
+  1214.1.1 = {
+    death = yes
+  }
+}
+71634 = {
+  name = "ôTœ1t…Q"  # Barusone
+  dynasty = 794
+  martial = 5
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "greedy"
+  trait = "envious"
+  trait = "intricate_webweaver"
+  father = 71633
+  mother = 235203
+  1190.1.1 = {
+    birth = yes
+  }
+  1214.6.14 = {
+    add_spouse = 144530
+  }
+  1217.4.20 = {
+    death = yes
+  }
+}
+71635 = {
+  name = "LN˜"  # Ugu
+  dynasty = 8758
+  martial = 5
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "ambitious"
+  trait = "charismatic_negotiator"
+  father = 71624
+  mother = 71632
+  1178.1.1 = {
+    birth = yes
+  }
+  1185.1.1 = {
+    dynasty = 1040106
+  }
+  1206.1.1 = {
+    add_spouse = 235018
+  }
+  1211.1.1 = {
+    death = yes
+  }
+}
+71636 = {
+  name = "iOSkg"  # Perdu
+  dynasty = 1040106
+  martial = 6
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "just"
+  trait = "charitable"
+  trait = "indulgent_wastrel"
+  father = 71635
+  mother = 235018
+  1207.1.1 = {
+    birth = yes
+  }
+  1222.1.1 = {
+    add_spouse = 71167
+  }
+  1227.1.1 = {
+    add_spouse = 235157
+  }
+  1241.1.1 = {
+    death = yes
+  }
+}
+144531 = {
+  name = "äS<hRSFz"  # Guglielmu
+  dynasty = 794
+  religion = "catholic"
+  culture = "sardinian"
+  father = 71634
+  mother = 144530
+  1216.1.1 = {
+    birth = yes
+  }
+  1254.1.1 = {
+    death = yes
+  }
+}
+144532 = {
+  name = "úWšNú‹"  # Chiano
+  dynasty = 794
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144531
+  1235.1.1 = {
+    birth = yes
+  }
+  1256.1.1 = {
+    death = yes
+  }
+}
+144533 = {
+  name = "lšÌ‘šNªR"  # Marianu
+  dynasty = 1040106
+  religion = "catholic"
+  culture = "sardinian"
+  father = 71636
+  mother = 235157
+  1228.1.1 = {
+    birth = yes
+  }
+  1297.1.1 = {
+    death = yes
+  }
+}
+144534 = {
+  name = "úWšNú‹"  # Chiano
+  dynasty = 1040106
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144533
+  trait = "lustful"
+  1248.1.1 = {
+    birth = yes
+  }
+  1266.1.1 = {
+    effect = {
+      add_lover = 235023
+    }
+  }
+  1287.1.1 = {
+    add_spouse = 180058
+  }
+  1304.3.23 = {
+    death = yes
+  }
+}
+144535 = {
+  name = "‰R·VÌ‘šN"  # Andria
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "bastard"
+  father = 144534
+  mother = 235023
+  1268.1.1 = {
+    birth = yes
+  }
+  1308.4.3 = {
+    death = yes
+  }
+}
+144536 = {
+  name = "lšÌ‘šNªR"  # Marianu
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "bastard"
+  trait = "lustful"
+  father = 144534
+  mother = 235023
+  1272.1.1 = {
+    birth = yes
+  }
+  1295.1.1 = {
+    effect = {
+      add_lover = 235161
+    }
+  }
+  1321.1.1 = {
+    death = yes
+  }
+}
+144537 = {
+  name = "LN˜"  # Ugu
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "bastard"
+  trait = "lustful"
+  father = 144536
+  mother = 235161
+  1296.1.1 = {
+    birth = yes
+  }
+  1324.1.1 = {
+    add_spouse = 235162
+  }
+  1336.1.1 = {
+    death = yes
+  }
+}
+144538 = {
+  name = "iOSkg"  # Perdu
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144537
+  mother = 235162
+  1325.1.1 = {
+    birth = yes
+  }
+  1347.1.1 = {
+    death = yes
+  }
+}
+144525 = {
+  name = "b³uYu"  # Gonariu
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235183
+  mother = 235186
+  1112.12.1 = {
+    birth = yes
+  }
+  1127.1.1 = {
+    effect = {
+      add_friend = 235188
+    }
+  }
+  1129.1.1 = {
+    add_spouse = 235032
+  }
+  1185.1.1 = {
+    death = yes
+  }
+}
+144526 = {
+  name = "iOSkg"  # Perdu
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144525
+  mother = 235032
+  1133.1.1 = {
+    birth = yes
+  }
+  1155.1.1 = {
+    add_spouse = 144524
+  }
+  1188.1.1 = {
+    death = yes
+  }
+}
+180405 = {
+  name = "1g^X^"  # Giuseppa
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144526
+  mother = 144524
+  1156.1.1 = {
+    birth = yes
+  }
+  1221.1.1 = {
+    death = yes
+  }
+}
+180413 = {
+  name = "ÃW±ƒZ"  # Elena
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235193
+  mother = 235151
+  1157.1.1 = {
+    birth = yes
+  }
+  1205.1.1 = {
+    death = yes
+  }
+}
+71146 = {
+  name = "Ñys|TX"  # Comita
+  dynasty = 1040099
+  martial = 4
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "craven"
+  trait = "cynical"
+  trait = "flamboyant_schemer"
+  father = 235193
+  mother = 235151
+  1160.1.1 = {
+    birth = yes
+  }
+  1186.1.1 = {
+    add_spouse = 71632
+  }
+  1210.1.1 = {
+    add_spouse = 213551
+  }
+  1218.1.1 = {
+    death = yes
+  }
+}
+71147 = {
+  name = "lšÌ‘šNªR"  # Marianu
+  dynasty = 1040099
+  martial = 4
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "deceitful"
+  trait = "quick"
+  trait = "fortune_builder"
+  father = 71146
+  mother = 71632
+  1188.1.1 = {
+    birth = yes
+  }
+  1206.1.1 = {
+    add_spouse = 235017
+  }
+  1233.1.1 = {
+    death = yes
+  }
+}
+71148 = {
+  name = "›sLNšN"  # Maria
+  female = yes
+  dynasty = 1040099
+  martial = 5
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "humble"
+  trait = "gregarious"
+  trait = "intricate_webweaver"
+  father = 71146
+  mother = 71632
+  1187.1.1 = {
+    birth = yes
+  }
+  1215.1.1 = {
+    death = yes
+  }
+}
+71149 = {
+  name = "	TeYS	TZ"  # Giorgia
+  female = yes
+  dynasty = 1040099
+  martial = 4
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "just"
+  trait = "kind"
+  trait = "naive_appeaser"
+  father = 71146
+  mother = 71632
+  1192.1.1 = {
+    birth = yes
+  }
+  1240.1.1 = {
+    death = yes
+  }
+}
+71152 = {
+  name = "ôTœ1t…Q"  # Barusone
+  dynasty = 1040099
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "just"
+  trait = "chaste"
+  trait = "mastermind_theologian"
+  father = 71147
+  mother = 235017
+  1210.1.1 = {
+    birth = yes
+  }
+  1236.1.1 = {
+    death = yes
+  }
+}
+71153 = {
+  name = "®YãNTX"  # Benedetta
+  female = yes
+  dynasty = 1040099
+  martial = 6
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "diligent"
+  trait = "quick"
+  trait = "martial_cleric"
+  father = 71147
+  mother = 235017
+  1219.1.1 = {
+    birth = yes
+  }
+  1288.1.1 = {
+    death = yes
+  }
+}
+71162 = {
+  name = "?–·VÉb‰Z"  # Adelàsia
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 71147
+  mother = 235017
+  1207.1.1 = {
+    birth = yes
+  }
+  1259.1.1 = {
+    death = yes
+  }
+}
+180409 = {
+  name = "Ñy¯efW‚„ªR"  # Costantìnu
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235230
+  mother = 235225
+  1141.1.1 = {
+    birth = yes
+  }
+  1155.1.1 = {
+    add_spouse = 235152
+  }
+  1160.1.1 = {
+    add_spouse = 235195
+  }
+  1173.1.1 = {
+    death = yes
+  }
+}
+180410 = {
+  name = "ôTœ1t…Q"  # Barusone
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 180409
+  mother = 235152
+  1156.1.1 = {
+    birth = yes
+  }
+  1175.1.1 = {
+    add_spouse = 180413
+  }
+  1203.1.1 = {
+    death = yes
+  }
+}
+180411 = {
+  name = "ÃW±ƒZ"  # Elena
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 180410
+  mother = 180413
+  1185.1.1 = {
+    birth = yes
+  }
+  1218.1.1 = {
+    death = yes
+  }
+}
+235091 = {
+  name = "(„bSÌ‘"  # Salluri
+  dynasty = 100326
+  religion = "orthodox"
+  culture = "sardinian"
+  790.1.1 = {
+    birth = yes
+  }
+  860.1.1 = {
+    death = yes
+  }
+}
+235092 = {
+  name = "lš‚„šN"  # Matia
+  dynasty = 100325
+  religion = "orthodox"
+  culture = "sardinian"
+  793.1.1 = {
+    birth = yes
+  }
+  862.1.1 = {
+    death = yes
+  }
+}
+235093 = {
+  name = "(„Éb	TªR"  # Saraginu
+  dynasty = 1040094
+  religion = "orthodox"
+  culture = "sardinian"
+  842.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+235094 = {
+  name = "eY¯e‚„ªR"  # Austinu
+  dynasty = 1040095
+  religion = "orthodox"
+  culture = "sardinian"
+  839.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+235095 = {
+  name = "<SbÉb"  # Nigola
+  dynasty = 1040096
+  religion = "orthodox"
+  culture = "sardinian"
+  832.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+235096 = {
+  name = "(„bS‰LN"  # Salusiu
+  dynasty = 1040097
+  religion = "orthodox"
+  culture = "sardinian"
+  885.1.1 = {
+    birth = yes
+  }
+  936.1.1 = {
+    employer = 235106
+  }
+  949.1.1 = {
+    death = yes
+  }
+}
+235097 = {
+  name = "‰R^WVy"  # Ambròsu
+  dynasty = 1040097
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235096
+  915.1.1 = {
+    birth = yes
+  }
+  976.1.1 = {
+    death = yes
+  }
+}
+262601 = {
+  name = "(„bSÌ‘"  # Salluri
+  dynasty = 1040097
+  religion = orthodox
+  culture = sardinian
+  father = 235096
+  913.1.1 = {
+    birth = yes
+  }
+  924.1.1 = {
+    employer = 235106
+  }
+  965.1.1 = {
+    death = yes
+  }
+}
+235098 = {
+  name = "åT(„Fz"  # Gòsamu
+  dynasty = 1040097
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235097
+  942.1.1 = {
+    birth = yes
+  }
+  998.1.1 = {
+    death = yes
+  }
+}
+235099 = {
+  name = "šN†SqS·Vœ"  # Alessandru
+  dynasty = 1040097
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235098
+  960.1.1 = {
+    birth = yes
+  }
+  1029.1.1 = {
+    death = yes
+  }
+}
+235100 = {
+  name = "ôT‰)R"  # Basili
+  dynasty = 1040097
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235099
+  980.1.1 = {
+    birth = yes
+  }
+  1048.1.1 = {
+    death = yes
+  }
+}
+235101 = {
+  name = "?–SüfªR"  # Armannu
+  dynasty = 1040097
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235100
+  1015.1.1 = {
+    birth = yes
+  }
+  1070.1.1 = {
+    death = yes
+  }
+}
+235102 = {
+  name = "	TeYS	TZ"  # Giorgia
+  female = yes
+  dynasty = 1040097
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235101
+  1050.1.1 = {
+    birth = yes
+  }
+  1109.1.1 = {
+    death = yes
+  }
+}
+235103 = {
+  name = "LNSşV"  # Ubertu
+  dynasty = 1040097
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235099
+  982.1.1 = {
+    birth = yes
+  }
+  1029.1.1 = {
+    death = yes
+  }
+}
+235104 = {
+  name = "lšÌ‘šNªR"  # Marianu
+  dynasty = 1040097
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235103
+  1000.1.1 = {
+    birth = yes
+  }
+  1018.1.1 = {
+    add_spouse = 235110
+  }
+  1058.1.1 = {
+    death = yes
+  }
+}
+235105 = {
+  name = "‡…Éb"  # Vera
+  female = yes
+  dynasty = 1040097
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235104
+  mother = 235110
+  1034.1.1 = {
+    birth = yes
+  }
+  1098.1.1 = {
+    death = yes
+  }
+}
+235106 = {
+  name = "XbSGYXbÌ‘LN"  # Torchitoriu
+  dynasty = 1040098
+  religion = "orthodox"
+  culture = "sardinian"
+  882.1.1 = {
+    birth = yes
+  }
+  945.1.1 = {
+    death = yes
+  }
+}
+235107 = {
+  name = "Ï‚&Ob…Q"  # Thurungone
+  dynasty = 1040098
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235106
+  920.1.1 = {
+    birth = yes
+  }
+  974.1.1 = {
+    death = yes
+  }
+}
+235108 = {
+  name = "Éb™„kg"  # Ramundu
+  dynasty = 1040098
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235107
+  947.1.1 = {
+    birth = yes
+  }
+  999.1.1 = {
+    death = yes
+  }
+}
+235109 = {
+  name = "³uSkg"  # Bernardu
+  dynasty = 1040098
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235108
+  970.1.1 = {
+    birth = yes
+  }
+  1020.1.1 = {
+    death = yes
+  }
+}
+235110 = {
+  name = "ÔkÔkšN³u"  # Bibiana
+  female = yes
+  dynasty = 1040098
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235109
+  1003.1.1 = {
+    birth = yes
+  }
+  1067.1.1 = {
+    death = yes
+  }
+}
+235111 = {
+  name = "ÃW	TVy"  # Egizu
+  dynasty = 1040098
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235107
+  953.1.1 = {
+    birth = yes
+  }
+  995.1.1 = {
+    death = yes
+  }
+}
+235112 = {
+  name = "aSœ±ƒ"  # Carule
+  dynasty = 1040098
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235111
+  988.1.1 = {
+    birth = yes
+  }
+  1019.1.1 = {
+    death = yes
+  }
+}
+235113 = {
+  name = "b³uYu"  # Gonariu
+  dynasty = 1040098
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235112
+  1012.1.1 = {
+    birth = yes
+  }
+  1050.1.1 = {
+    death = yes
+  }
+}
+235114 = {
+  name = "iO·Vœ"  # Pedru
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 20326
+  mother = 235105
+  1052.1.1 = {
+    birth = yes
+  }
+  1120.1.1 = {
+    death = yes
+  }
+}
+235115 = {
+  name = "^XÌ‘Öv"  # Serighe
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 20326
+  mother = 235105
+  1055.1.1 = {
+    birth = yes
+  }
+  1121.1.1 = {
+    death = yes
+  }
+}
+235116 = {
+  name = "eYS1tÑy÷–"  # Orsocorre
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 20326
+  mother = 235105
+  1058.1.1 = {
+    birth = yes
+  }
+  1123.1.1 = {
+    death = yes
+  }
+}
+235117 = {
+  name = "b³uYu"  # Gonariu
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 20326
+  mother = 235105
+  1061.1.1 = {
+    birth = yes
+  }
+  1125.1.1 = {
+    death = yes
+  }
+}
+235118 = {
+  name = "XbSÔkªR"  # Torbinu
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 20326
+  mother = 235105
+  trait = "gluttonous"
+  trait = "underhanded_rogue"
+  trait = "indulgent_wastrel"
+  trait = "brave"
+  trait = "inspiring_leader"
+  1065.1.1 = {
+    birth = yes
+  }
+  1130.2.13 = {
+    death = yes
+  }
+}
+235119 = {
+  name = "ÃW±ƒZ"  # Elena
+  female = yes
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144251
+  mother = 235102
+  1067.1.1 = {
+    birth = yes
+  }
+  1088.1.1 = {
+    death = yes
+  }
+}
+235120 = {
+  name = "OXbÑy÷–"  # Ittocorre
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144251
+  mother = 235102
+  1069.1.1 = {
+    birth = yes
+  }
+  1112.1.1 = {
+    death = yes
+  }
+}
+235121 = {
+  name = "‡…Éb"  # Vera
+  female = yes
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144251
+  mother = 235102
+  1072.1.1 = {
+    birth = yes
+  }
+  1126.1.1 = {
+    death = yes
+  }
+}
+235122 = {
+  name = "^XÌ‘Öv"  # Serighe
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144251
+  mother = 235102
+  1075.1.1 = {
+    birth = yes
+  }
+  1141.1.1 = {
+    death = yes
+  }
+}
+235123 = {
+  name = "eYS1tÑy÷–"  # Orsocorre
+  dynasty = 1040098
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144251
+  mother = 235102
+  1095.1.1 = {
+    birth = yes
+  }
+  1164.1.1 = {
+    death = yes
+  }
+}
+235124 = {
+  name = "?–Ôk(„şV"  # Abisatu
+  dynasty = 8691
+  religion = "orthodox"
+  culture = "sardinian"
+  884.1.1 = {
+    birth = yes
+  }
+  943.1.1 = {
+    death = yes
+  }
+}
+235125 = {
+  name = "i`Vy"  # Enzu
+  dynasty = 8691
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235124
+  903.1.1 = {
+    birth = yes
+  }
+  973.1.1 = {
+    death = yes
+  }
+}
+235126 = {
+  name = " R6wTXªR"  # Gajetànu
+  dynasty = 8691
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235125
+  932.1.1 = {
+    birth = yes
+  }
+  991.1.1 = {
+    death = yes
+  }
+}
+235127 = {
+  name = "(„kgœ"  # Sadurru
+  dynasty = 8691
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235126
+  948.1.1 = {
+    birth = yes
+  }
+  1002.1.1 = {
+    death = yes
+  }
+}
+235128 = {
+  name = "Ñys|TX"  # Comita
+  dynasty = 8691
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235127
+  964.1.1 = {
+    birth = yes
+  }
+  979.1.1 = {
+    add_spouse = 235179
+  }
+  1020.1.1 = {
+    death = yes
+  }
+}
+235129 = {
+  name = "b³uYu"  # Gonariu
+  dynasty = 1040099
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235128
+  mother = 235179
+  980.1.1 = {
+    birth = yes
+  }
+  1038.1.1 = {
+    death = yes
+  }
+}
+235130 = {
+  name = "	TeYS	TZ"  # Giorgia
+  female = yes
+  dynasty = 1040099
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235128
+  mother = 235179
+  993.1.1 = {
+    birth = yes
+  }
+  1042.1.1 = {
+    death = yes
+  }
+}
+235131 = {
+  name = "XbÑy·V"  # Tocode
+  dynasty = 1040101
+  religion = "orthodox"
+  culture = "sardinian"
+  985.1.1 = {
+    birth = yes
+  }
+  1011.1.1 = {
+    add_spouse = 235130
+  }
+  1045.1.1 = {
+    death = yes
+  }
+}
+235132 = {
+  name = "ôTœ1t…Q"  # Barusone
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235129
+  996.1.1 = {
+    birth = yes
+  }
+  1011.1.1 = {
+    add_spouse = 235134
+  }
+  1073.1.1 = {
+    death = yes
+  }
+}
+235133 = {
+  name = "ôTSkg"  # Baldu
+  dynasty = 1040102
+  religion = "orthodox"
+  culture = "sardinian"
+  975.1.1 = {
+    birth = yes
+  }
+  1031.1.1 = {
+    death = yes
+  }
+}
+235134 = {
+  name = "nf÷–PŸeYƒ"  # Preziosa
+  female = yes
+  dynasty = 1040102
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235133
+  996.1.1 = {
+    birth = yes
+  }
+  1050.1.1 = {
+    death = yes
+  }
+}
+235135 = {
+  name = "Ys|<S˜"  # Dominigu
+  dynasty = 1040102
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235133
+  1009.1.1 = {
+    birth = yes
+  }
+  1068.1.1 = {
+    death = yes
+  }
+}
+235136 = {
+  name = "šN†SqS·Vœ"  # Alessandru
+  dynasty = 1040099
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235129
+  998.1.1 = {
+    birth = yes
+  }
+  1013.1.1 = {
+    add_spouse = 235212
+  }
+  1058.1.1 = {
+    death = yes
+  }
+}
+235137 = {
+  name = "<SætTX"  # Nivata
+  female = yes
+  dynasty = 1040102
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235135
+  1029.1.1 = {
+    birth = yes
+  }
+  1103.1.1 = {
+    death = yes
+  }
+}
+235138 = {
+  name = "Ñy¯efW‚„ªR"  # Costantìnu
+  dynasty = 1040102
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235135
+  1038.1.1 = {
+    birth = yes
+  }
+  1111.1.1 = {
+    death = yes
+  }
+}
+235139 = {
+  name = "›sLNšN"  # Maria
+  female = yes
+  dynasty = 1040102
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235138
+  1061.1.1 = {
+    birth = yes
+  }
+  1123.1.1 = {
+    death = yes
+  }
+}
+235140 = {
+  name = "XbSÔkªR"  # Torbinu
+  dynasty = 1040103
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144527
+  mother = 235137
+  1046.1.1 = {
+    birth = yes
+  }
+  1061.1.1 = {
+    add_spouse = 235215
+  }
+  1110.1.1 = {
+    death = yes
+  }
+}
+235141 = {
+  name = "Ñys|TX"  # Comita
+  dynasty = 1040103
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144527
+  mother = 235137
+  1047.1.1 = {
+    birth = yes
+  }
+  1107.1.1 = {
+    death = yes
+  }
+}
+235142 = {
+  name = "nf…úWeYƒ"  # Preciosa
+  female = yes
+  dynasty = 1040103
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235140
+  mother = 235215
+  1074.1.1 = {
+    birth = yes
+  }
+  1133.1.1 = {
+    death = yes
+  }
+}
+235143 = {
+  name = "ÃW±ƒZ"  # Elena
+  female = yes
+  dynasty = 1040103
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144529
+  1094.1.1 = {
+    birth = yes
+  }
+  1155.1.1 = {
+    death = yes
+  }
+}
+235144 = {
+  name = "b³uYu"  # Gonariu
+  dynasty = 794
+  religion = "catholic"
+  culture = "sardinian"
+  1090.1.1 = {
+    birth = yes
+  }
+  1109.1.1 = {
+    add_spouse = 235143
+  }
+  1125.1.1 = {
+    death = yes
+  }
+}
+235145 = {
+  name = "Ñy¯efW‚„ªR"  # Costantìnu
+  dynasty = 794
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235144
+  mother = 235143
+  1110.1.1 = {
+    birth = yes
+  }
+  1125.1.1 = {
+    add_spouse = 235232
+  }
+  1131.1.1 = {
+    death = yes
+  }
+}
+235146 = {
+  name = "ÃW±ƒZ"  # Elena
+  female = yes
+  dynasty = 794
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235144
+  mother = 235143
+  1118.1.1 = {
+    birth = yes
+  }
+  1152.1.1 = {
+    death = yes
+  }
+}
+235147 = {
+  name = "Ñys|TX"  # Comita
+  dynasty = 794
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235145
+  mother = 235232
+  1126.1.1 = {
+    birth = yes
+  }
+  1129.1.1 = {
+    add_spouse = 235150
+  }
+  1147.1.1 = {
+    death = yes
+  }
+}
+235148 = {
+  name = "OPOÑyS"  # Izocor
+  dynasty = 1040102
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235138
+  1091.1.1 = {
+    birth = yes
+  }
+  1139.1.1 = {
+    death = yes
+  }
+}
+235149 = {
+  name = "^VÌ‘PŸLN"  # Patriziu
+  dynasty = 1040102
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235148
+  1114.1.1 = {
+    birth = yes
+  }
+  1166.1.1 = {
+    death = yes
+  }
+}
+235150 = {
+  name = "ÃW±ƒZ"  # Elena
+  female = yes
+  dynasty = 1040102
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235148
+  1122.1.1 = {
+    birth = yes
+  }
+  1158.1.1 = {
+    death = yes
+  }
+}
+235151 = {
+  name = "nf÷–PŸeYƒ"  # Preziosa
+  female = yes
+  dynasty = 1040102
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235149
+  1134.1.1 = {
+    birth = yes
+  }
+  1194.1.1 = {
+    death = yes
+  }
+}
+235152 = {
+  name = "ÃW±ƒZ"  # Elena
+  female = yes
+  dynasty = 794
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235147
+  mother = 235150
+  1131.1.1 = {
+    birth = yes
+  }
+  1159.1.1 = {
+    death = yes
+  }
+}
+235153 = {
+  name = "eYS1tÑy÷–"  # Orsocorre
+  dynasty = 794
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235145
+  mother = 235232
+  1128.1.1 = {
+    birth = yes
+  }
+  1145.1.1 = {
+    death = yes
+  }
+}
+235154 = {
+  name = "ôTœ1t…Q"  # Barusone
+  dynasty = 794
+  religion = "catholic"
+  culture = "sardinian"
+  father = 71631
+  mother = 235194
+  1148.1.1 = {
+    birth = yes
+  }
+  1189.1.1 = {
+    death = yes
+  }
+}
+235155 = {
+  name = "Ï‚ÊsZ"  # Susanna
+  dynasty = 794
+  female = yes
+  religion = "catholic"
+  culture = "sardinian"
+  father = 71631
+  mother = 71623
+  1158.1.1 = {
+    birth = yes
+  }
+  1207.1.1 = {
+    death = yes
+  }
+}
+235156 = {
+  name = "›sLNšN"  # Maria
+  female = yes
+  dynasty = 794
+  religion = "catholic"
+  culture = "sardinian"
+  father = 71634
+  mother = 144530
+  1215.1.1 = {
+    birth = yes
+  }
+  1260.1.1 = {
+    death = yes
+  }
+}
+235157 = {
+  name = "’dN<SZ"  # Sardinia
+  female = yes
+  dynasty = 1040105
+  religion = "catholic"
+  culture = "sardinian"
+  1212.1.1 = {
+    birth = yes
+  }
+  1264.1.1 = {
+    death = yes
+  }
+}
+235158 = {
+  name = "2—Z"  # Luna
+  female = yes
+  dynasty = 1040106
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144533
+  1250.1.1 = {
+    birth = yes
+  }
+  1295.1.1 = {
+    death = yes
+  }
+}
+235159 = {
+  name = "ôTœ1t…Q"  # Barusone
+  female = yes
+  dynasty = 1040106
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "bastard"
+  father = 144533
+  1255.1.1 = {
+    birth = yes
+  }
+  1300.1.1 = {
+    death = yes
+  }
+}
+235160 = {
+  name = "¦u‰RZ"  # Joanna
+  female = yes
+  dynasty = 1040106
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144533
+  1290.1.1 = {
+    birth = yes
+  }
+  1308.1.1 = {
+    death = yes
+  }
+}
+235161 = {
+  name = "^kg±ƒƒ"  # Padulesa
+  female = yes
+  dynasty = 1040100
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "lustful"
+  1277.1.1 = {
+    birth = yes
+  }
+  1314.1.1 = {
+    death = yes
+  }
+}
+235162 = {
+  name = "®YãNTX"  # Benedetta
+  female = yes
+  dynasty = 1040107
+  religion = "catholic"
+  culture = "sardinian"
+  1304.1.1 = {
+    birth = yes
+  }
+  1345.1.1 = {
+    death = yes
+  }
+}
+235163 = {
+  name = "lšÌ‘šNªR"  # Marianu
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "strong"
+  trait = "brave"
+  trait = "just"
+  father = 144537
+  mother = 235162
+  1329.1.1 = {
+    birth = yes
+  }
+  1336.1.1 = {
+    add_spouse = 72295
+  }
+  1347.1.1 = {
+    give_nickname = nick_the_great
+  }
+  1376.1.1 = {
+    death = yes
+  }
+}
+235164 = {
+  name = "ZS³u‡eşVœ"  # Bonaventuru
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144537
+  mother = 235162
+  1330.1.1 = {
+    birth = yes
+  }
+  1375.1.1 = {
+    death = yes
+  }
+}
+235165 = {
+  name = "Vg“^"  # Franku
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144537
+  mother = 235162
+  1331.1.1 = {
+    birth = yes
+  }
+  1342.1.1 = {
+    death = yes
+  }
+}
+235166 = {
+  name = "›sLNšN"  # Maria
+  female = yes
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144537
+  mother = 235162
+  1333.1.1 = {
+    birth = yes
+  }
+  1392.1.1 = {
+    death = yes
+  }
+}
+235167 = {
+  name = "Éb&OşV"  # Larentu
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  trait = "bastard"
+  father = 144537
+  1334.1.1 = {
+    birth = yes
+  }
+  1337.1.1 = {
+    remove_trait = "bastard"
+    add_trait = "legit_bastard"
+  }
+  1370.1.1 = {
+    death = yes
+  }
+}
+235168 = {
+  name = "úWšNú‹"  # Chiano
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144537
+  mother = 235162
+  1335.1.1 = {
+    birth = yes
+  }
+  1375.1.1 = {
+    death = yes
+  }
+}
+235169 = {
+  name = "<SbÉb"  # Nigola
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144537
+  mother = 235162
+  1337.1.1 = {
+    birth = yes
+  }
+  1370.1.1 = {
+    death = yes
+  }
+}
+235170 = {
+  name = "‰R	TeY±ƒƒ"  # Angiolesa
+  female = yes
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144537
+  mother = 235162
+  1340.1.1 = {
+    birth = yes
+  }
+  1387.1.1 = {
+    death = yes
+  }
+}
+235171 = {
+  name = "nf…úWeYƒ"  # Preciosa
+  female = yes
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144537
+  mother = 235162
+  1342.1.1 = {
+    birth = yes
+  }
+  1395.1.1 = {
+    death = yes
+  }
+}
+235172 = {
+  name = "LN˜"  # Ugu
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235163
+  mother = 72295
+  1342.1.1 = {
+    birth = yes
+  }
+  1383.3.3 = {
+    death = yes
+  }
+}
+235173 = {
+  name = "®YãNTX"  # Benedetta
+  female = yes
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235172
+  1364.1.1 = {
+    birth = yes
+  }
+  1402.1.1 = {
+    death = yes
+  }
+}
+235174 = {
+  name = "ÃW‰ƒšNú‹Éb"  # Elianora
+  female = yes
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235163
+  mother = 72295
+  1347.6.6 = {
+    birth = yes
+  }
+  1404.9.23 = {
+    death = yes
+  }
+}
+235175 = {
+  name = "ZyrLNúW"  # Beatrìci
+  female = yes
+  dynasty = 1040108
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235163
+  mother = 72295
+  1349.1.1 = {
+    birth = yes
+  }
+  1377.1.1 = {
+    death = yes
+  }
+}
+235176 = {
+  name = "bSÏ‚Ì‘šN"  # Lussuria
+  dynasty = 1042015
+  religion = "orthodox"
+  culture = "sardinian"
+  880.1.1 = {
+    birth = yes
+  }
+  945.1.1 = {
+    death = yes
+  }
+}
+235177 = {
+  name = "®vÌ‘bS"  # Pirillu
+  dynasty = 1042015
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235176
+  926.1.1 = {
+    birth = yes
+  }
+  969.1.1 = {
+    death = yes
+  }
+}
+235178 = {
+  name = "Ñys|TX"  # Comita
+  dynasty = 1042015
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235177
+  947.1.1 = {
+    birth = yes
+  }
+  1015.1.1 = {
+    death = yes
+  }
+}
+235179 = {
+  name = "<SætXbÉb"  # Nivatora
+  female = yes
+  dynasty = 1042015
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235178
+  962.1.1 = {
+    birth = yes
+  }
+  1025.1.1 = {
+    death = yes
+  }
+}
+235180 = {
+  name = "Ñys|TX"  # Comita
+  dynasty = 1042015
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235178
+  997.1.1 = {
+    birth = yes
+  }
+  1060.1.1 = {
+    death = yes
+  }
+}
+235181 = {
+  name = "‰R·VÌ‘šN fWaS"  # Andria Tanca
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235132
+  mother = 235134
+  1020.1.1 = {
+    birth = yes
+  }
+  1073.1.1 = {
+    death = yes
+  }
+}
+235182 = {
+  name = "lšÌ‘šNªR"  # Marianu
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235181
+  1042.1.1 = {
+    birth = yes
+  }
+  1082.1.1 = {
+    death = yes
+  }
+}
+235183 = {
+  name = "Ñy¯efW‚„ªR"  # Costantìnu
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235182
+  1067.1.1 = {
+    birth = yes
+  }
+  1085.1.1 = {
+    effect = {
+      add_friend = 235188
+    }
+  }
+  1100.1.1 = {
+    add_spouse = 235186
+  }
+  1127.1.1 = {
+    death = yes
+  }
+}
+235184 = {
+  name = "O¯eyræ—…Q"  # Istevene
+  dynasty = 1042015
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235180
+  1020.1.1 = {
+    birth = yes
+  }
+  1055.1.1 = {
+    death = yes
+  }
+}
+235185 = {
+  name = "İObS"  # Paulu
+  dynasty = 1042015
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235184
+  1050.1.1 = {
+    birth = yes
+  }
+  1109.1.1 = {
+    death = yes
+  }
+}
+235186 = {
+  name = "›sS“^ƒ"  # Marcusa
+  female = yes
+  dynasty = 1042015
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235185
+  1080.1.1 = {
+    birth = yes
+  }
+  1135.1.1 = {
+    death = yes
+  }
+}
+235187 = {
+  name = "(„STXW"  # Saltaro
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235183
+  mother = 235186
+  1114.1.1 = {
+    birth = yes
+  }
+  1150.1.1 = {
+    death = yes
+  }
+}
+235188 = {
+  name = "OXbÑy÷–"  # Ittocorre
+  dynasty = 1040109
+  religion = "catholic"
+  culture = "sardinian"
+  1070.1.1 = {
+    birth = yes
+  }
+  1142.1.1 = {
+    death = yes
+  }
+}
+235189 = {
+  name = "ôTÏ‚"  # Bassu
+  dynasty = 1040101
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235131
+  mother = 235130
+  1020.1.1 = {
+    birth = yes
+  }
+  1089.1.1 = {
+    death = yes
+  }
+}
+235190 = {
+  name = "ÑyÉbkg"  # Corràdu
+  dynasty = 1040101
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235189
+  1051.1.1 = {
+    birth = yes
+  }
+  1119.1.1 = {
+    death = yes
+  }
+}
+235191 = {
+  name = "(„STXW"  # Saltaro
+  dynasty = 1040101
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235190
+  1075.1.1 = {
+    birth = yes
+  }
+  1130.1.1 = {
+    death = yes
+  }
+}
+235192 = {
+  name = "ïfƒ"  # Luisa
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144526
+  mother = 144524
+  1160.1.1 = {
+    birth = yes
+  }
+  1163.1.1 = {
+    death = yes
+  }
+}
+235193 = {
+  name = "ôTœ1t…Q"  # Barusone
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144525
+  mother = 235032
+  1130.1.1 = {
+    birth = yes
+  }
+  1149.1.1 = {
+    add_spouse = 235151
+  }
+  1191.6.10 = {
+    death = yes
+  }
+}
+235194 = {
+  name = "iO±ƒ<hÌ‘³u"  # Pellegrina
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144525
+  mother = 235032
+  1131.1.1 = {
+    birth = yes
+  }
+  1192.1.1 = {
+    death = yes
+  }
+}
+235195 = {
+  name = "’dN<SZ"  # Sardinia
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144525
+  mother = 235032
+  1135.1.1 = {
+    birth = yes
+  }
+  1185.1.1 = {
+    death = yes
+  }
+}
+235196 = {
+  name = "OXbÑy÷–"  # Ittocorre
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144525
+  mother = 235032
+  1137.1.1 = {
+    birth = yes
+  }
+  1188.1.1 = {
+    death = yes
+  }
+}
+235197 = {
+  name = "Ñys|TX"  # Comita
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 144525
+  mother = 235032
+  1140.1.1 = {
+    birth = yes
+  }
+  1198.1.1 = {
+    death = yes
+  }
+}
+235198 = {
+  name = "Ñy¯efW‚„ªR"  # Costantìnu
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235193
+  mother = 235151
+  1150.1.1 = {
+    birth = yes
+  }
+  1170.1.1 = {
+    add_spouse = 235000
+  }
+  1175.1.1 = {
+    add_spouse = 235001
+  }
+  1198.1.1 = {
+    death = yes
+  }
+}
+235199 = {
+  name = "OXbÑy÷–"  # Ittocorre
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235193
+  mother = 235151
+  1152.1.1 = {
+    birth = yes
+  }
+  1198.1.1 = {
+    death = yes
+  }
+}
+235200 = {
+  name = "iO±ƒ<hÌ‘…Q"  # Pelegrine
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235193
+  mother = 235151
+  1155.1.1 = {
+    birth = yes
+  }
+  1190.1.1 = {
+    death = yes
+  }
+}
+235201 = {
+  name = "Ï‚ÊsZ"  # Susanna
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235193
+  mother = 235151
+  1173.1.1 = {
+    birth = yes
+  }
+  1228.1.1 = {
+    death = yes
+  }
+}
+235202 = {
+  name = "nf÷–PŸeYƒ"  # Preziosa
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 71146
+  mother = 71632
+  1190.1.1 = {
+    birth = yes
+  }
+  1222.1.1 = {
+    death = yes
+  }
+}
+235203 = {
+  name = "ÔkZ"  # Bina
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235199
+  1172.1.1 = {
+    birth = yes
+  }
+  1225.1.1 = {
+    death = yes
+  }
+}
+235204 = {
+  name = "nf÷–şV"  # Pretu
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235200
+  1175.1.1 = {
+    birth = yes
+  }
+  1228.1.1 = {
+    death = yes
+  }
+}
+235205 = {
+  name = "nf÷–PŸeYƒ"  # Preziosa
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235204
+  1208.1.1 = {
+    birth = yes
+  }
+  1231.1.1 = {
+    death = yes
+  }
+}
+235206 = {
+  name = " RbS"  # Gallu
+  dynasty = 1040104
+  religion = "orthodox"
+  culture = "sardinian"
+  881.1.1 = {
+    birth = yes
+  }
+  934.1.1 = {
+    death = yes
+  }
+}
+235207 = {
+  name = "âlSïQbS"  # Porcellu
+  dynasty = 1040104
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235206
+  913.1.1 = {
+    birth = yes
+  }
+  967.1.1 = {
+    death = yes
+  }
+}
+235208 = {
+  name = "O	TªR"  # Iginu
+  dynasty = 1040104
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235207
+  932.1.1 = {
+    birth = yes
+  }
+  993.1.1 = {
+    death = yes
+  }
+}
+235209 = {
+  name = "ôTœ1t…Q"  # Barusone
+  dynasty = 1040104
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235208
+  950.1.1 = {
+    birth = yes
+  }
+  1019.1.1 = {
+    death = yes
+  }
+}
+235210 = {
+  name = "(„STXW"  # Saltaro
+  dynasty = 1040104
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235209
+  969.1.1 = {
+    birth = yes
+  }
+  1020.1.1 = {
+    death = yes
+  }
+}
+235211 = {
+  name = "üfV÷–kg"  # Manfredu
+  dynasty = 1040104
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235210
+  988.1.1 = {
+    birth = yes
+  }
+  1040.1.1 = {
+    death = yes
+  }
+}
+235212 = {
+  name = "yr…ƒ"  # Teresa
+  female = yes
+  dynasty = 1040104
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235210
+  996.1.1 = {
+    birth = yes
+  }
+  1036.1.1 = {
+    death = yes
+  }
+}
+235213 = {
+  name = "ôTSkg"  # Baldu
+  dynasty = 1040104
+  religion = "orthodox"
+  culture = "sardinian"
+  father = 235211
+  1011.1.1 = {
+    birth = yes
+  }
+  1060.1.1 = {
+    death = yes
+  }
+}
+235214 = {
+  name = "Ñy¯efW‚„ªR"  # Costantìnu
+  dynasty = 1040104
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235213
+  1037.1.1 = {
+    birth = yes
+  }
+  1103.1.1 = {
+    death = yes
+  }
+}
+235215 = {
+  name = "‰RZ"  # Anna
+  female = yes
+  dynasty = 1040104
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235213
+  1043.1.1 = {
+    birth = yes
+  }
+  1097.1.1 = {
+    death = yes
+  }
+}
+235216 = {
+  name = "XbSGYXbÌ‘LN"  # Torchitoriu
+  dynasty = 1040104
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235214
+  1051.1.1 = {
+    birth = yes
+  }
+  1090.1.1 = {
+    add_spouse = 235220
+  }
+  1110.1.1 = {
+    death = yes
+  }
+}
+235217 = {
+  name = "VpQïQ¯eaS"  # Francesca
+  female = yes
+  dynasty = 1040104
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235214
+  1070.1.1 = {
+    birth = yes
+  }
+  1145.1.1 = {
+    death = yes
+  }
+}
+235218 = {
+  name = "(„STXW"  # Saltaro
+  dynasty = 1040104
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235216
+  1078.1.1 = {
+    birth = yes
+  }
+  1112.1.1 = {
+    death = yes
+  }
+}
+235219 = {
+  name = "Ï‚ÔkZ"  # Subia
+  female = yes
+  dynasty = 1040104
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235218
+  1093.1.1 = {
+    birth = yes
+  }
+  1144.1.1 = {
+    death = yes
+  }
+}
+235220 = {
+  name = "^kg±ƒƒ"  # Padulesa
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235182
+  1075.1.1 = {
+    birth = yes
+  }
+  1120.1.1 = {
+    death = yes
+  }
+}
+235221 = {
+  name = "OXbÑy÷–"  # Ittocorre
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235182
+  1072.1.1 = {
+    birth = yes
+  }
+  1132.1.1 = {
+    death = yes
+  }
+}
+235222 = {
+  name = "Ñy¯efW‚„ªR"  # Costantìnu
+  dynasty = 1040110
+  religion = "catholic"
+  culture = "sardinian"
+  1090.1.1 = {
+    birth = yes
+  }
+  1108.1.1 = {
+    add_spouse = 235219
+  }
+  1133.1.1 = {
+    death = yes
+  }
+}
+235223 = {
+  name = "Ñys|TX"  # Comita
+  dynasty = 1040110
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235222
+  mother = 235219
+  1109.1.1 = {
+    birth = yes
+  }
+  1124.1.1 = {
+    add_spouse = 235224
+  }
+  1146.1.1 = {
+    death = yes
+  }
+}
+235224 = {
+  name = "1g‰ƒZ"  # Giulia
+  female = yes
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235221
+  1105.1.1 = {
+    birth = yes
+  }
+  1153.1.1 = {
+    death = yes
+  }
+}
+235225 = {
+  name = "›sLNšN"  # Maria
+  female = yes
+  dynasty = 1040110
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235223
+  mother = 235224
+  1125.1.1 = {
+    birth = yes
+  }
+  1173.1.1 = {
+    death = yes
+  }
+}
+235226 = {
+  name = "Ñys|TX"  # Comita
+  dynasty = 1040110
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235223
+  mother = 235224
+  1130.1.1 = {
+    birth = yes
+  }
+  1185.1.1 = {
+    death = yes
+  }
+}
+235227 = {
+  name = "ÃW±ƒZ"  # Elena
+  female = yes
+  dynasty = 1040110
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235223
+  mother = 235224
+  1133.1.1 = {
+    birth = yes
+  }
+  1159.1.1 = {
+    death = yes
+  }
+}
+235228 = {
+  name = "ÌRÉbşV"  # Furatu
+  dynasty = 1040110
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235223
+  mother = 235224
+  1138.1.1 = {
+    birth = yes
+  }
+  1167.1.1 = {
+    death = yes
+  }
+}
+235229 = {
+  name = "Ñy¯efW‚„ªR"  # Costantìnu
+  dynasty = 1040110
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235223
+  mother = 235224
+  1146.1.1 = {
+    birth = yes
+  }
+  1173.1.1 = {
+    add_spouse = 235155
+  }
+  1202.1.1 = {
+    death = yes
+  }
+}
+235230 = {
+  name = "OPOÑyS"  # Izocor
+  dynasty = 1040099
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235221
+  1117.1.1 = {
+    birth = yes
+  }
+  1140.1.1 = {
+    add_spouse = 235225
+  }
+  1153.1.1 = {
+    death = yes
+  }
+}
+235231 = {
+  name = "’dN<SZ"  # Sardinia
+  female = yes
+  dynasty = 1040104
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235216
+  mother = 235220
+  1105.1.1 = {
+    birth = yes
+  }
+  1154.1.1 = {
+    death = yes
+  }
+}
+235232 = {
+  name = "‰RZ"  # Anna
+  female = yes
+  dynasty = 1040104
+  religion = "catholic"
+  culture = "sardinian"
+  father = 235218
+  1110.1.1 = {
+    birth = yes
+  }
+  1162.1.1 = {
+    death = yes
+  }
+}

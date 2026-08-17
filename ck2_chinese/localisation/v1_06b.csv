@@ -1,0 +1,52 @@
+### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+TITLE_EMPIRE_CREATION_PIETY_COST;`O—‰ §R$COST$§! $PIETYNAME$egRú^^ıV0;;;;;;;;;;;;x
+muslim_invasion_desc;§Y$TARGET$§! N>fwck„váO’VÙ>f§Y$CLAIMANT$§!T§Y$TITLE$§!Vb„vt1uÿ‚YœgbŸRÿ§Y$TARGET$§! (W §Y$TITLE$§! …Q¶c6R„vOb	g†˜0WSO«ˆ`S†˜bwD–¸^0;;;;;;;;;;;;x
+duke_female_iranian;ÃWs|Éb;;;;;;;;;;;;x
+count_female_iranian;1ŒÈT;;;;;;;;;;;;x
+baron_female_iranian;æt)RšN;;;;;;;;;;;;x
+count_female_arabic;1ŒÈT;;;;;;;;;;;;x
+baron_female_arabic;æt)RšN;;;;;;;;;;;;x
+king_female_turkish;Ï‚9NZ;;;;;;;;;;;;x
+duke_female_turkish;ÒRôTfV;;;;;;;;;;;;x
+count_female_turkish;ôTfV;;;;;;;;;;;;x
+baron_female_turkish;Ğc›s)R'kTX;;;;;;;;;;;;x
+job_chancellor_west_african;'YôuPŸS;;;;;;;;;;;;x
+emperor_arabic;ôTê™l?–;;;;;;;;;;;;x
+CALIPHA;ÈTÌ‘ÑS;;;;;;;;;;;;x
+PIETY_LAW_PASSED_SETUP;6R¢‹Fz¯e—g„vÕl‹V;;;;;;;;;;;;x
+PIETY_LAW_PASSED_LOG;§Y$RULER$§!(W§Y$TITLE$§!6R¢‹†N§Y$LAW$§!Õl0;;;;;;;;;;;;x
+DISBAND_EVENT_FORCES;1u‹NöNOb¶Nu„v›Q–òTÏu«ˆã‰ce;;;;;;;;;;;;x
+iqta_contract;uQyV;;;;;;;;;;;;x
+iqta_contract_desc;OKQTXVßRÕl³QšR†NFz¯e—gSãÅVŠ˜IN†˜JNObĞc›O„vVìSuQÔk‹O0;;;;;;;;;;;;x
+iqta_contract_0;gNOuQyV;;;;;;;;;;;;x
+iqta_contract_0_option;gNO;;;;;;;;;;;;x
+iqta_contract_0_desc;Sã—T`OĞc›OÇ…JSpe„vuQXT0;;;;;;;;;;;;x
+iqta_contract_1;NOuQyV;;;;;;;;;;;;x
+iqta_contract_1_option;NO;;;;;;;;;;;;x
+iqta_contract_1_desc;SãïSåNINêñTİOYusQ.•„vuQXT0;;;;;;;;;;;;x
+iqta_contract_2;-NIruQyV;;;;;;;;;;;;x
+iqta_contract_2_option;-NIr;;;;;;;;;;;;x
+iqta_contract_2_desc;SãïSåN(WŠš›QYİOYuNıNIg¨RuQ›R0;;;;;;;;;;;;x
+iqta_contract_3;gØšuQyV;;;;;;;;;;;;x
+iqta_contract_3_option;gØš;;;;;;;;;;;;x
+iqta_contract_3_desc;Sã	gIN¡RĞc›OhQèuQXT0;;;;;;;;;;;;x
+iqta_tax;‘z;;;;;;;;;;;;x
+iqta_tax_desc;NTNúWcwYe„vSú^†˜JNÿFz¯e—gSã>fN«ˆMQz„vÿNÇÖNìNÔks^l³uz‰S0;;;;;;;;;;;;x
+iqta_tax_0;gNO‘z;;;;;;;;;;;;x
+iqta_tax_0_option;àe;;;;;;;;;;;;x
+iqta_tax_0_desc;MQd–Sã„v‘zÖNìNœU1kÙÍyÅ`bV0;;;;;;;;;;;;x
+iqta_tax_1;NO‘z;;;;;;;;;;;;x
+iqta_tax_1_option;NO;;;;;;;;;;;;x
+iqta_tax_1_desc;IN†N©‹ıV¶R·ƒ—Vôf'Y„v)RÊvÿSã«ˆ‰BlØNúQSÏ‘„v‘z0ÖNìNgg‚Ydk0;;;;;;;;;;;;x
+iqta_tax_2;Øš‘z;;;;;;;;;;;;x
+iqta_tax_2_option;Øš;;;;;;;;;;;;x
+iqta_tax_2_desc;IN†N©‹ıV¶R·ƒ—Vôf'Y„v)RÊvÿ«ˆ‰BlØNúQÏ‘„v‘z0ÖNìNOùRdkeua1Yg0;;;;;;;;;;;;x
+iqta_tax_3;gØš‘z;;;;;;;;;;;;x
+iqta_tax_3_option;gØš;;;;;;;;;;;;x
+iqta_tax_3_desc;IN†N©‹ıV¶R·ƒ—Vôf'Y„v)RÊvÿSã«ˆ‰BlØNúQ'YÏ‘„v‘z0ÖNìNOùRdk^—8^1Yg0;;;;;;;;;;;;x
+controls_mecca_medina;¶c6R§Y¦ R§!N§Y¦0W²§!\n;;;;;;;;;;;;x
+controls_jerusalem_damascus_baghdad;¶c6R §Y6wï’d·Q§!0§Y'YlšëXi—§! åNÊS §YôT<h¾§!\n;;;;;;;;;;;;x
+controls_kaliopolis_thrake;¶c6R§YaS)ReYâl)R¯e§!N§Yr‚÷–¯e§!\n;;;;;;;;;;;;x
+INTERACTION_CANNOT_TRANSFER_DUKES_TO_NON_DJ;lQ5rŒTlQ5råNN„v4YTˆêSıwlûyÙuÖNìN„vÕltTJN;;;;;;;;;;;;x
+ARRANGE_BETROTHAL_INTERACTION_MUSLIM;Ğc®‹§Y[ActorExtra.GetTitledFirstName]§WN§Y[RecipientExtra.GetTitledFirstName]§W¢‹ËzZZ¦u0;;;;;;;;;;;;x
