@@ -183,7 +183,7 @@
   culture = "bear"
 }
 2000046 = {
-  name = "kT>i"  # Ours
+  name = "ÈU>i"  # Ours
   culture = "bear"
 }
 2000047 = {
@@ -203,7 +203,7 @@
   culture = "bear"
 }
 2000051 = {
-  name = "äqãWJ`—y"  # Arctoidea
+  name = "äqãWLu—y"  # Arctoidea
   culture = "bear"
 }
 2000052 = {
@@ -211,7 +211,7 @@
   culture = "bear"
 }
 2000053 = {
-  name = "kT>i©Ö"  # Ursa
+  name = "ÈU>i©Ö"  # Ursa
   culture = "bear"
 }
 2000054 = {
@@ -267,7 +267,7 @@
   culture = "bear"
 }
 2000067 = {
-  name = "æétz"  # Den
+  name = "ástz"  # Den
   culture = "bear"
 }
 2000068 = {
@@ -319,7 +319,7 @@
   culture = "cat"
 }
 2000080 = {
-  name = "˚Éi`"  # Lion
+  name = "Ñi`"  # Lion
   culture = "cat"
 }
 2000081 = {
@@ -367,7 +367,7 @@
   culture = "cat"
 }
 2000092 = {
-  name = "|TkV"  # Purr
+  name = "|TïM"  # Purr
   culture = "cat"
 }
 2000093 = {
@@ -391,7 +391,7 @@
   culture = "cat"
 }
 2000098 = {
-  name = "koLàw"  # Stalker
+  name = "joLàw"  # Stalker
   culture = "cat"
 }
 2000099 = {
@@ -403,47 +403,47 @@
   culture = "cat"
 }
 2000101 = {
-  name = "^ó2mPá"  # Atelerix
+  name = "^ó2mná"  # Atelerix
   culture = "hedgehog_culture"
 }
 2000102 = {
-  name = "IRPá"  # Erinaceus
+  name = "IRná"  # Erinaceus
   culture = "hedgehog_culture"
 }
 2000103 = {
-  name = "'Y3wPá"  # Hemiechinus
+  name = "'Y3wná"  # Hemiechinus
   culture = "hedgehog_culture"
 }
 2000104 = {
-  name = "ógPá"  # Mesechinus
+  name = "ógná"  # Mesechinus
   culture = "hedgehog_culture"
 }
 2000105 = {
-  name = "ÇYPá"  # Paraechinus
+  name = "ÇYná"  # Paraechinus
   culture = "hedgehog_culture"
 }
 2000106 = {
-  name = "P`€kPá"  # Deinogalerix
+  name = "P`€kná"  # Deinogalerix
   culture = "hedgehog_culture"
 }
 2000107 = {
-  name = ")üPá"  # Echinosorex
+  name = ")üná"  # Echinosorex
   culture = "hedgehog_culture"
 }
 2000108 = {
-  name = "€kPá"  # Hylomys
+  name = "€kná"  # Hylomys
   culture = "hedgehog_culture"
 }
 2000109 = {
-  name = "∞e€kPá"  # Neohylomys
+  name = "∞e€kná"  # Neohylomys
   culture = "hedgehog_culture"
 }
 2000110 = {
-  name = "-NW)üPá"  # Neotetracus
+  name = "-NW)üná"  # Neotetracus
   culture = "hedgehog_culture"
 }
 2000111 = {
-  name = "¯à≥çPá"  # Podogymnura
+  name = "¯à≥çná"  # Podogymnura
   culture = "hedgehog_culture"
 }
 2000112 = {
@@ -455,19 +455,19 @@
   culture = "hedgehog_culture"
 }
 2000114 = {
-  name = "Wú>S)üPá"  # Pholidocercus
+  name = "Wú>S)üná"  # Pholidocercus
   culture = "hedgehog_culture"
 }
 2000115 = {
-  name = "ÀYVyPá"  # Silvacola
+  name = "ÀYVyná"  # Silvacola
   culture = "hedgehog_culture"
 }
 2000116 = {
-  name = "PáûN—y"  # Erinaceinae
+  name = "náûN—y"  # Erinaceinae
   culture = "hedgehog_culture"
 }
 2000117 = {
-  name = "ŸñPá"  # Amphechinus
+  name = "Ÿñná"  # Amphechinus
   culture = "hedgehog_culture"
 }
 2000118 = {
@@ -499,7 +499,7 @@
   culture = "hedgehog_culture"
 }
 2000125 = {
-  name = "wÚvIä|"  # Eulipotyphla
+  name = "wÚvImò"  # Eulipotyphla
   culture = "hedgehog_culture"
 }
 2000126 = {
@@ -567,7 +567,7 @@
   culture = "duck_culture"
 }
 2000141 = {
-  name = "ùoù"  # Aix
+  name = "ù5ù"  # Aix
   culture = "duck_culture"
 }
 2000142 = {
@@ -595,7 +595,7 @@
   culture = "duck_culture"
 }
 2000148 = {
-  name = "˘r4Vko(ù"  # Netta
+  name = "˘r4Vjo(ù"  # Netta
   culture = "duck_culture"
 }
 2000149 = {
@@ -619,7 +619,7 @@
   culture = "dog_culture"
 }
 2000154 = {
-  name = "y|¨Ç‰r”É"  # Affenpinecher
+  name = "çÇ¨Ç‰r”É"  # Affenpinecher
   culture = "dog_culture"
 }
 2000155 = {
@@ -635,7 +635,7 @@
   culture = "dog_culture"
 }
 2000158 = {
-  name = "1åQo∑V"  # Sheperd
+  name = ",ãQo∑V"  # Sheperd
   culture = "dog_culture"
 }
 2000159 = {
@@ -747,7 +747,7 @@
   culture = "dragon_culture"
 }
 2000184 = {
-  name = "ntjç·à+Y"  # Seserriff
+  name = "ntç·à+Y"  # Seserriff
   culture = "dragon_culture"
 }
 2000185 = {
@@ -791,7 +791,7 @@
   culture = "cat"
 }
 2000195 = {
-  name = "kç≠tjç∑V"  # Heavyside
+  name = "kç≠tç∑V"  # Heavyside
   culture = "cat"
 }
 2000196 = {
@@ -867,7 +867,7 @@
   culture = "elephant_culture"
 }
 2000214 = {
-  name = "ÕÖFZ˙^1í"  # Lambakanna
+  name = "ÕÖFZ˙^≤ê"  # Lambakanna
   culture = "elephant_culture"
 }
 2000215 = {
@@ -895,7 +895,7 @@
   culture = "elephant_culture"
 }
 2000221 = {
-  name = "jtLNÓÑ"  # Marely
+  name = "jt¶ûÓÑ"  # Marely
   culture = "horse"
 }
 2000222 = {
@@ -919,7 +919,7 @@
   culture = "horse"
 }
 2000227 = {
-  name = "·Q>ijç"  # Versailles
+  name = "·Q>iç"  # Versailles
   culture = "horse"
 }
 2000228 = {
@@ -967,7 +967,7 @@
   culture = "cat"
 }
 2000239 = {
-  name = "îNCò"  # Fivewhiskers
+  name = "îNò"  # Fivewhiskers
   culture = "cat"
 }
 2000240 = {
@@ -975,7 +975,7 @@
   culture = "cat"
 }
 2000241 = {
-  name = "S’RirOgKb"  # Critterkiller
+  name = "S’Rir…kKb"  # Critterkiller
   culture = "cat"
 }
 2000242 = {
@@ -987,7 +987,7 @@
   culture = "cat"
 }
 2000244 = {
-  name = "y|IÉ"  # Ay
+  name = "çÇIÉ"  # Ay
   culture = "cat"
 }
 2000245 = {
@@ -1043,7 +1043,7 @@
   culture = "duck_culture"
 }
 2000258 = {
-  name = "PÜ¡ñ"  # Honker
+  name = "nÜ¡ñ"  # Honker
   culture = "duck_culture"
 }
 2000259 = {
@@ -1271,7 +1271,7 @@
   culture = "red_panda"
 }
 2000330 = {
-  name = "2WIQäqìå"  # Bright-Panda
+  name = "ewIQäqìå"  # Bright-Panda
   culture = "red_panda"
 }
 2000331 = {

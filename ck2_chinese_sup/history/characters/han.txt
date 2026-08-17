@@ -1,6 +1,6 @@
 217700 = {
   dynasty = 1051150
-  name = "n"  # Yuan
+  name = "n"  # Yuan
   religion = taoist
   culture = han
   trait = grey_eminence
@@ -1632,7 +1632,7 @@
     add_spouse = 247754
   }
   604.8.13 = {
-    name = "èp^"  # Yangdi
+    name = "lh^"  # Yangdi
   }
   618.4.11 = {
     death = {
@@ -1947,7 +1947,7 @@
 247746 = {
   female = yes
   dynasty = 105837
-  name = "LNÔÉ"  # Lihua
+  name = "¶ûÔÉ"  # Lihua
   religion = buddhist
   culture = han
   father = 247725
@@ -2394,7 +2394,7 @@
 }
 247774 = {
   dynasty = 1051150
-  name = "Óå"  # Zhi
+  name = "ç"  # Zhi
   religion = taoist
   culture = han
   father = 247773
@@ -2633,7 +2633,7 @@
 }
 247790 = {
   dynasty = 105837
-  name = "ŒìuÑ"  # Zhongkui
+  name = "çìuÑ"  # Zhongkui
   religion = buddhist
   culture = han
   father = 247789
@@ -2896,7 +2896,7 @@
 }
 247807 = {
   dynasty = 1051152
-  name = "|u0j"  # Jizhi
+  name = "|ui"  # Jizhi
   religion = taoist
   culture = han
   father = 247806
@@ -4178,7 +4178,7 @@
 }
 247887 = {
   dynasty = 1051150
-  name = "å`"  # Yun
+  name = "a"  # Yun
   religion = taoist
   culture = han
   father = 217701
@@ -4228,7 +4228,7 @@
 }
 247890 = {
   dynasty = 1051150
-  name = "≤V"  # Xiao
+  name = "—V"  # Xiao
   religion = taoist
   culture = han
   father = 217701
@@ -4296,7 +4296,7 @@
 247894 = {
   female = yes
   dynasty = 1051150
-  name = "LNÍå"  # Lizhi
+  name = "¶ûÍå"  # Lizhi
   religion = taoist
   culture = han
   father = 217701
@@ -4639,7 +4639,7 @@
 }
 247914 = {
   dynasty = 1051150
-  name = "≥å"  # Xian
+  name = "Òå"  # Xian
   religion = taoist
   culture = han
   father = 217702
@@ -5322,7 +5322,7 @@
 247955 = {
   female = yes
   dynasty = 1051150
-  name = "-f`"  # Zhaohuai
+  name = "-fb"  # Zhaohuai
   religion = taoist
   culture = han
   father = 217703
@@ -6940,7 +6940,7 @@
   }
 }
 242341 = {
-  name = "^è"  # Gu
+  name = "vò"  # Gu
   dynasty = 1053131
   religion = "taoist"
   culture = "han"
@@ -7315,7 +7315,7 @@
   }
 }
 1059723 = {
-  name = "≥åò"  # Zongshou
+  name = "Òåò"  # Zongshou
   dynasty = 1055036
   religion = "taoist"
   culture = "han"

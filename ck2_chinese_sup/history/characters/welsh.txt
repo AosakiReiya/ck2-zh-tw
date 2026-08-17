@@ -1,5 +1,5 @@
 131700 = {
-  name = "^˚ÉÍè∑V"  # Bleiddud
+  name = "^ÑÍè∑V"  # Bleiddud
   dynasty = 20172
   martial = 3
   diplomacy = 4
@@ -65,7 +65,7 @@
   }
 }
 131704 = {
-  name = "^˚ÉN"  # Bleddyn
+  name = "^ÑN"  # Bleddyn
   dynasty = 1042817
   martial = 4
   diplomacy = 7
@@ -590,7 +590,7 @@
   }
 }
 214808 = {
-  name = "KQLNââRyr"  # Crisiant
+  name = "KQ¶ûââRyr"  # Crisiant
   female = yes
   dynasty = 101680
   religion = "catholic"
@@ -1301,7 +1301,7 @@
   }
 }
 6358 = {
-  name = "^˚ÉN"  # Bleddyn
+  name = "^ÑN"  # Bleddyn
   dynasty = 548
   religion = "catholic"
   culture = "welsh"
@@ -1363,7 +1363,7 @@
   }
 }
 6368 = {
-  name = "yr…bkçy|i` Íè+Yt>iyr"  # Traheaern Dyfnallt
+  name = "yr…bkççÇi` Íè+Yt>iyr"  # Traheaern Dyfnallt
   dynasty = 20158
   martial = 8
   diplomacy = 5
@@ -1994,7 +1994,7 @@
   }
 }
 81856 = {
-  name = "´ÉLNi`"  # Morien
+  name = "´É¶ûi`"  # Morien
   female = yes
   dynasty = 200067
   religion = "catholic"
@@ -2823,7 +2823,7 @@
   }
 }
 159002 = {
-  name = "y|9N ?ñnf ^˚ÉEN·à∑V"  # Aeddan ap Blegywryd
+  name = "çÇ9N ?ñnf ^ÑEN·à∑V"  # Aeddan ap Blegywryd
   dynasty = 20154
   religion = "catholic"
   culture = "welsh"
@@ -3795,7 +3795,7 @@
   }
 }
 159072 = {
-  name = "˚ÉØe ﬁR∑VgY<h"  # Lles Llawddeog
+  name = "ÑØe ﬁR∑VgY<h"  # Lles Llawddeog
   dynasty = 1047018
   religion = "catholic"
   culture = "welsh"
@@ -3821,7 +3821,7 @@
   }
 }
 159074 = {
-  name = "^˚ÉN"  # Bleddyn
+  name = "^ÑN"  # Bleddyn
   dynasty = 1047018
   religion = "catholic"
   culture = "welsh"
@@ -4046,7 +4046,7 @@
   }
 }
 159091 = {
-  name = "y|9N"  # Aeddan
+  name = "çÇ9N"  # Aeddan
   dynasty = 1029003
   religion = "catholic"
   culture = "welsh"
@@ -4088,7 +4088,7 @@
   }
 }
 159094 = {
-  name = "y|9N"  # Aeddan
+  name = "çÇ9N"  # Aeddan
   dynasty = 1029003
   religion = "catholic"
   culture = "welsh"
@@ -4127,7 +4127,7 @@
   }
 }
 159097 = {
-  name = "y|9N"  # Aeddan
+  name = "çÇ9N"  # Aeddan
   dynasty = 1029003
   religion = "catholic"
   culture = "welsh"
@@ -4205,7 +4205,7 @@
   }
 }
 159103 = {
-  name = "y|9N"  # Aeddan
+  name = "çÇ9N"  # Aeddan
   dynasty = 1029003
   religion = "catholic"
   culture = "welsh"
@@ -4521,7 +4521,7 @@
   }
 }
 159297 = {
-  name = "˚É>i Öh·à<S"  # Ller Merini
+  name = "Ñ>i Öh·à<S"  # Ller Merini
   dynasty = 1047020
   religion = "catholic"
   culture = "welsh"
@@ -4753,7 +4753,7 @@
   }
 }
 159314 = {
-  name = "^˚É‰S>i∑V"  # Blegwrd
+  name = "^Ñ‰S>i∑V"  # Blegwrd
   dynasty = 1042817
   religion = "catholic"
   culture = "welsh"
@@ -4952,7 +4952,7 @@
   }
 }
 159330 = {
-  name = "ÒQ‡V∑VLNkç"  # Ceindrych
+  name = "ÒQ‡V∑V¶ûkç"  # Ceindrych
   female = yes
   dynasty = 1029032
   religion = "catholic"
@@ -5133,7 +5133,7 @@
   }
 }
 159352 = {
-  name = "^˚É∑V·à<h"  # Bledrig
+  name = "^Ñ∑V·à<h"  # Bledrig
   dynasty = 1029030
   religion = "catholic"
   culture = "welsh"
@@ -5763,7 +5763,7 @@
   }
 }
 159444 = {
-  name = "^˚É∑V·à<h"  # Bledrig
+  name = "^Ñ∑V·à<h"  # Bledrig
   religion = "catholic"
   culture = "welsh"
   dynasty = 1029041
@@ -5772,7 +5772,7 @@
     birth = "531.1.1"
   }
   577.1.1 = {
-    name = "^˚É∑V·àKQ"  # Bledric
+    name = "^Ñ∑V·àKQ"  # Bledric
     culture = "breton"
     dynasty = 1029041
   }
@@ -6032,7 +6032,7 @@
   }
 }
 159820 = {
-  name = "‰S˚ÉÍè>i"  # Gwledyr
+  name = "‰SÑÍè>i"  # Gwledyr
   female = yes
   dynasty = 1029134
   religion = "catholic"
@@ -6345,7 +6345,7 @@
   }
 }
 159933 = {
-  name = "ÒQ˚É<Sf"  # Celeinion
+  name = "ÒQÑ<Sf"  # Celeinion
   female = yes
   dynasty = 1029131
   religion = "catholic"
@@ -6440,7 +6440,7 @@
   }
 }
 159940 = {
-  name = "âR˚Ékç"  # Anllech
+  name = "âRÑkç"  # Anllech
   dynasty = 1029131
   religion = "catholic"
   culture = "welsh"
@@ -6732,7 +6732,7 @@
   }
 }
 159961 = {
-  name = "iO‘ky|"  # Pebiau
+  name = "iO‘kçÇ"  # Pebiau
   dynasty = 20037
   religion = "catholic"
   culture = "welsh"
@@ -6788,7 +6788,7 @@
   }
 }
 159322 = {
-  name = "y|>i	T>i"  # Aergul
+  name = "çÇ>i	T>i"  # Aergul
   dynasty = 1029030
   religion = "catholic"
   culture = "welsh"
@@ -6816,7 +6816,7 @@
   }
 }
 159792 = {
-  name = "Ojç"  # Usai
+  name = "Oç"  # Usai
   dynasty = 14250
   religion = "catholic"
   culture = "welsh"
@@ -8361,7 +8361,7 @@
   }
 }
 183180 = {
-  name = "?ñ∑V˚ÉØe"  # Adles
+  name = "?ñ∑VÑØe"  # Adles
   female = yes
   dynasty = 14259
   religion = "catholic"
@@ -8768,7 +8768,7 @@
   }
 }
 205138 = {
-  name = "ÒQ‡V∑VLNkç"  # Ceindrych
+  name = "ÒQ‡V∑V¶ûkç"  # Ceindrych
   female = yes
   dynasty = 1029032
   religion = "catholic"
@@ -9467,7 +9467,7 @@
   }
 }
 252230 = {
-  name = "iO‘ky|"  # Pebiau
+  name = "iO‘kçÇ"  # Pebiau
   dynasty = 1029002
   religion = "catholic"
   culture = "welsh"
@@ -9640,7 +9640,7 @@
   }
 }
 252243 = {
-  name = "—y˚ÉSêKQ"  # Coledauc
+  name = "—yÑSêKQ"  # Coledauc
   dynasty = 105930
   religion = "catholic"
   culture = "welsh"
@@ -9752,7 +9752,7 @@
   }
 }
 252254 = {
-  name = "˚Éi`˛ä<h"  # Llaennog
+  name = "Ñi`˛ä<h"  # Llaennog
   dynasty = 105932
   religion = "catholic"
   culture = "welsh"
@@ -10014,7 +10014,7 @@
   }
 }
 252274 = {
-  name = "√W˚É∑V"  # Elaed
+  name = "√WÑ∑V"  # Elaed
   dynasty = 105936
   religion = "catholic"
   culture = "welsh"
@@ -10479,7 +10479,7 @@
   }
 }
 252309 = {
-  name = "√W˚É>ikç"  # Eleirch
+  name = "√WÑ>ikç"  # Eleirch
   female = yes
   dynasty = 105943
   religion = "catholic"
@@ -10876,7 +10876,7 @@
   }
 }
 252360 = {
-  name = "√W˚É∑V"  # Elaed
+  name = "√WÑ∑V"  # Elaed
   dynasty = 105946
   religion = "catholic"
   culture = "welsh"
@@ -10996,7 +10996,7 @@
   }
 }
 252369 = {
-  name = "˚É‡V"  # Rein
+  name = "Ñ‡V"  # Rein
   dynasty = 1029032
   religion = "catholic"
   culture = "welsh"

@@ -269,16 +269,16 @@ k_orthodox = {
   assimilate = no
   dynasty_title_names = no
   male_names = {
-    "?–ûƒKQ‰"  # Alexios
+    "?–„KQ‰"  # Alexios
     "?–t¯eTX‰"  # Anastasios
     "?–>i^X<S"  # Arsenios
-    "?–TX1’‰ÄO¯e"  # Athanasios
+    "?–TX²‰ÄO¯e"  # Athanasios
     "‰RŠ<S"  # Antonios
     "ôT‰eu"  # Basileios
     "Y‰·VgY"  # Dositheos
     "ÃWV¯eTXĞcÄO¯e"  # Eustathios
-    "y|V¯eyrÉbĞc"  # Eustratios
-    "y|VĞcLV"  # Euthymios
+    "‚V¯eyrÉbĞc"  # Eustratios
+    "‚VĞcLV"  # Euthymios
     "i—ÄO3wúWÄO¯e"  # Georgios
     "i—Éb‰Ø"  # Gerasimos
     "i—>iüf"  # Germanos
@@ -291,7 +291,7 @@ k_orthodox = {
     "aS)R¯eŠ¯e"  # Kallistos
     "TëXfWN"  # Konstantinos
     "Ñy¯ejt"  # Kosmas
-    "ûƒÁĞc"  # Leon
+    "„ÁĞc"  # Leon
     "ïU"  # Loukas
     "jtUáˆ"  # Makarios
     "ÃWjtªRO>i"  # Manuel
@@ -308,7 +308,7 @@ k_orthodox = {
     "^V…"  # Pavlos
     "em·VgY"  # Philotheos
     "jOĞc"  # Photios
-    "˜)Ry|VKQyr"  # Polyeuktos
+    "˜)R‚VKQyr"  # Polyeuktos
     "^X>i	T"  # Sergios
     "‰o`<S"  # Sisinnios
     "¯eyrµh"  # Stephanos
@@ -3701,7 +3701,7 @@ e_germany = {
           255
           255
         }
-        old_saxon = "ûƒáˆ R"  # Leriga
+        old_saxon = "„áˆ R"  # Leriga
         b_osnabruck = {}
         b_lingen = {}
         b_bentheim = {}
@@ -5102,9 +5102,9 @@ e_germany = {
           255
           255
         }
-        carantanian = "gY<hûƒO"  # Oglej
+        carantanian = "gY<h„O"  # Oglej
         b_aquileia = {
-          carantanian = "gY<hûƒO"  # Oglej
+          carantanian = "gY<h„O"  # Oglej
         }
         b_grado = {
           carantanian = "<hÉb·V2ƒ"  # Gradez
@@ -5317,7 +5317,7 @@ e_germany = {
           255
           255
         }
-        carantanian = "^ûƒ³f"  # Breze
+        carantanian = "^„³f"  # Breze
         b_petersberg = {}
         b_sankt_veit = {}
         b_sankt_lambrecht = {}
@@ -5737,8 +5737,8 @@ e_germany = {
         italian = "W>ib­tN"  # Turgovia
         b_rheineck = {}
         b_stgallen = {
-          frankish = "2W R>i"  # St-Gall
-          italian = "2W Rm"  # San Gallo
+          frankish = "ew R>i"  # St-Gall
+          italian = "ew Rm"  # San Gallo
         }
         b_appenzell = {}
         b_frauenfeld = {}
@@ -6729,7 +6729,7 @@ e_byzantium = {
         }
         b_galata = {}
         b_blachernae = {
-          turkish = "?–O,„©…ûƒ"  # Ayvansaray
+          turkish = "?–O,„©…„"  # Ayvansaray
         }
         b_hieron = {
           turkish = "aS·VïgO"  # Kadiköy
@@ -7022,7 +7022,7 @@ e_byzantium = {
         }
         turkish = "ğl©…)RN"  # Tesalya
         b_larissa = {
-          turkish = "6w<S1Œ^áˆ»Œtáˆ"  # Yenisehir i-Fenari
+          turkish = "6w<S,‹^áˆ»Œtáˆ"  # Yenisehir i-Fenari
         }
         b_volos = {}
         b_neopetra = {}
@@ -7178,7 +7178,7 @@ e_byzantium = {
         italian = "ÃW	TgYiOÉb	T"  # Egeopelagi
         b_naxos = {
           turkish = "tKQ™l"  # Naksa
-          italian = "1’1t"  # Nasso
+          italian = "²1t"  # Nasso
         }
         b_hermoupolis = {
           turkish = "+“÷–"  # Sire
@@ -7186,7 +7186,7 @@ e_byzantium = {
         }
         b_santorini = {
           greek = "ÒVÉb"  # Thera
-          turkish = "2WŠ–O"  # Santoron
+          turkish = "ewŠ–O"  # Santoron
         }
         b_andros = {}
         b_tinos = {}
@@ -7243,18 +7243,18 @@ e_byzantium = {
           255
           20
         }
-        bedouin_arabic = "y|ÒR-wm<SÆY"  # Al-Hanim
-        maghreb_arabic = "y|ÒR-wm<SÆY"  # Al-Hanim
+        bedouin_arabic = "‚ÒR-wm<SÆY"  # Al-Hanim
+        maghreb_arabic = "‚ÒR-wm<SÆY"  # Al-Hanim
         levantine_arabic = "wm<SÆY"  # Al-Hanim
-        egyptian_arabic = "y|ÒR-wm<SÆY"  # Al-Hanim
-        andalusian_arabic = "y|ÒR-wm<SÆY"  # Al-Hanim
+        egyptian_arabic = "‚ÒR-wm<SÆY"  # Al-Hanim
+        andalusian_arabic = "‚ÒR-wm<SÆY"  # Al-Hanim
         turkish = "1fÅ–"  # Hanya
         b_kandia = {
-          bedouin_arabic = "y|ÒR-wm<SÆY"  # Al-Hanim
-          maghreb_arabic = "y|ÒR-wm<SÆY"  # Al-Hanim
+          bedouin_arabic = "‚ÒR-wm<SÆY"  # Al-Hanim
+          maghreb_arabic = "‚ÒR-wm<SÆY"  # Al-Hanim
           levantine_arabic = "wm<SÆY"  # Al-Hanim
-          egyptian_arabic = "y|ÒR-wm<SÆY"  # Al-Hanim
-          andalusian_arabic = "y|ÒR-wm<SÆY"  # Al-Hanim
+          egyptian_arabic = "‚ÒR-wm<SÆY"  # Al-Hanim
+          andalusian_arabic = "‚ÒR-wm<SÆY"  # Al-Hanim
           turkish = "1fÅ–"  # Hanya
         }
         b_rethymno = {}
@@ -7711,7 +7711,7 @@ e_byzantium = {
         }
         turkish = "HSTX^N"  # Kütahya
         b_dorylaion = {
-          turkish = "ÃW¯eúW1Œ^>i"  # Eskisehir
+          turkish = "ÃW¯eúW,‹^>i"  # Eskisehir
         }
         b_kotiaion = {
           turkish = "HSTX^N"  # Kütahya
@@ -8012,7 +8012,7 @@ e_byzantium = {
           255
           20
         }
-        turkish = "?–Éb1Œ^>i"  # Alasehir
+        turkish = "?–Éb,‹^>i"  # Alasehir
         b_laodikeia = {}
         b_rhoas = {}
         b_hieropolis = {}
@@ -8037,7 +8037,7 @@ e_byzantium = {
           greek = "©…3w—V¯e"  # Sardeis
         }
         b_philadelphia = {
-          turkish = "?–Éb1Œ^>i"  # Alasehir
+          turkish = "?–Éb,‹^>i"  # Alasehir
         }
         b_magnesia = {}
         b_hermus = {}
@@ -8116,9 +8116,9 @@ e_byzantium = {
           255
           20
         }
-        turkish = "KQ>i1Œ^>i"  # Kirsehir
+        turkish = "KQ>i,‹^>i"  # Kirsehir
         b_mikissos = {
-          turkish = "KQ>i1Œ^>i"  # Kirsehir
+          turkish = "KQ>i,‹^>i"  # Kirsehir
         }
         b_tavia = {}
         b_asponia = {}
@@ -8420,9 +8420,9 @@ e_byzantium = {
           255
           20
         }
-        turkish = "ûƒ«ƒg"  # Leymosun
+        turkish = "„«ƒg"  # Leymosun
         b_limmassol = {
-          turkish = "ûƒ«ƒg"  # Leymosun
+          turkish = "„«ƒg"  # Leymosun
         }
         b_paphos = {}
         b_arsinoe = {}
@@ -8996,7 +8996,7 @@ e_byzantium = {
           greek = "«^o›şŠO"  # Krounoi
         }
         b_kaliakra = {
-          greek = "?–KQûƒ"  # Akrai
+          greek = "?–KQ„"  # Akrai
         }
         b_silistria = {}
         b_dobrich = {
@@ -9199,17 +9199,17 @@ e_byzantium = {
           255
           255
         }
-        serbian = "Œ>i<hûƒ·V"  # Belgrad
-        croatian = "Œ>i<hûƒ·V"  # Belgrad
-        bulgarian = "Œ>i<hûƒ·V"  # Belgrad
-        bosnian = "Œ>i<hûƒ·V"  # Belgrad
+        serbian = "Œ>i<h„·V"  # Belgrad
+        croatian = "Œ>i<h„·V"  # Belgrad
+        bulgarian = "Œ>i<h„·V"  # Belgrad
+        bosnian = "Œ>i<h„·V"  # Belgrad
         greek = "›	Tkg²"  # Singidounon
         roman = "›	Tkg²"  # Singidounon
         b_belgrade = {
-          serbian = "Œ>i<hûƒ·V"  # Belgrad
-          croatian = "Œ>i<hûƒ·V"  # Belgrad
-          bulgarian = "Œ>i<hûƒ·V"  # Belgrad
-          bosnian = "Œ>i<hûƒ·V"  # Belgrad
+          serbian = "Œ>i<h„·V"  # Belgrad
+          croatian = "Œ>i<h„·V"  # Belgrad
+          bulgarian = "Œ>i<h„·V"  # Belgrad
+          bosnian = "Œ>i<h„·V"  # Belgrad
           greek = "›	Tkg²"  # Singidounon
           roman = "›	Tkg²"  # Singidounon
         }
@@ -10420,7 +10420,7 @@ e_byzantium = {
         }
         b_sliema = {}
         b_sanpawl = {
-          italian = "2WİOy"  # San Paolo
+          italian = "ewİOy"  # San Paolo
         }
         b_gozo = {
           greek = "gYES	TN"  # Ogygia
@@ -10681,7 +10681,7 @@ e_byzantium = {
           alan = "^>iTX­t"  # Partavi
         }
         b_emli = {
-          armenian = "2WI„^1Œ"  # Surp Yeghishe
+          armenian = "ewI„^,‹"  # Surp Yeghishe
           georgian = "	TÀN"  # Gish
           alan = "úWÀN"  # Kish
         }
@@ -11688,7 +11688,7 @@ e_italy = {
           255
         }
         german = ")R­téZ"  # Livinen
-        frankish = "ûƒúe÷^"  # Léventine
+        frankish = "„úe÷^"  # Léventine
         b_castelgrande = {}
         b_bellinzona = {
           german = "Œ+P(ƒ"  # Bellenz
@@ -12171,7 +12171,7 @@ e_italy = {
         b_carbonia = {}
         b_capoterra = {}
         b_iglesias = {
-          catalan = "ÃW¯e<hûƒ^6w¯e"  # Esglésies
+          catalan = "ÃW¯e<h„^6w¯e"  # Esglésies
         }
       }
       c_ogliastra = {
@@ -12211,7 +12211,7 @@ e_italy = {
         italian = "mäSY…"  # Logudoro
         b_ardara = {}
         b_sassari = {
-          catalan = "©…1Œ>i"  # Sàsser
+          catalan = "©…,‹>i"  # Sàsser
         }
         b_portotorres = {}
         b_ottana = {}
@@ -12292,7 +12292,7 @@ e_italy = {
         b_bastia = {}
         b_corte = {}
         b_aleria = {
-          catalan = "?–ûƒáˆN"  # Aléria
+          catalan = "?–„áˆN"  # Aléria
         }
         b_alando = {}
         b_morosaglia = {}
@@ -12317,7 +12317,7 @@ e_italy = {
         b_filitosa = {}
         b_sartene = {
           catalan = "©…>i÷^gQ"  # Sartène
-          italian = "©…>i÷^1’"  # Sartena
+          italian = "©…>i÷^²"  # Sartena
         }
         b_bastelicaccia = {}
         b_cinarca = {}
@@ -12733,8 +12733,8 @@ e_scandinavia = {
           danish = "ÕlKQÓƒ"  # Falkøbing
         }
         b_lacko = {
-          norwegian = "ûƒKQ"  # Læckø
-          danish = "ûƒKQ"  # Læckø
+          norwegian = "„KQ"  # Læckø
+          danish = "„KQ"  # Læckø
         }
         b_skalunda = {}
         b_lindholmen = {}
@@ -12868,8 +12868,8 @@ e_scandinavia = {
           danish = "wm%ŠQh"  # Hærnøsand
         }
         b_ornskoldsvik = {
-          norwegian = "„Si`¯eÑy·Vn"  # Ørnskøldsvik
-          danish = "„Si`¯eÑy·Vn"  # Ørnskøldsvik
+          norwegian = "„Si`¯eÑy·Vrp"  # Ørnskøldsvik
+          danish = "„Si`¯eÑy·Vrp"  # Ørnskøldsvik
         }
         b_biedsta = {}
       }
@@ -13070,8 +13070,8 @@ e_scandinavia = {
           danish = "yri`Õl>i"  # Tørnsfall
         }
         b_vastervik = {
-          norwegian = "‰n"  # Vestervik
-          danish = "‰n"  # Vestervik
+          norwegian = "‰rp"  # Vestervik
+          danish = "‰rp"  # Vestervik
         }
         b_stegsholm = {}
         b_vinas = {}
@@ -13139,8 +13139,8 @@ e_scandinavia = {
           danish = "<h+Pk9h"  # Grønhøgen
         }
         b_kopingsvik = {
-          danish = "KQs^n"  # Købingsvik
-          norwegian = "KQÓƒn"  # Køpingsvik
+          danish = "KQs^rp"  # Købingsvik
+          norwegian = "KQÓƒrp"  # Køpingsvik
         }
       }
     }
@@ -13386,7 +13386,7 @@ e_scandinavia = {
       }
       capital = 266
       dignity = 8
-      swedish = "1Œ-†"  # Själland
+      swedish = ",‹-†"  # Själland
       english = "‰-†"  # Zealand
       norse = "‰-†"  # Sjælland
       pagan_coa = {
@@ -13412,7 +13412,7 @@ e_scandinavia = {
           255
           255
         }
-        swedish = "1Œ-†"  # Själland
+        swedish = ",‹-†"  # Själland
         norse = "‰-†"  # Sjælland
         english = "‰-†"  # Zealand
         holy_site = norse_pagan
@@ -13856,7 +13856,7 @@ e_scandinavia = {
         b_skansin = {
           pictish = "ÉbÆY"  # Lam
           welsh = "kÉbÆY"  # Llam
-          irish = "ûƒ„SÆY"  # Leum
+          irish = "„„SÆY"  # Leum
         }
         b_torshavn = {
           pictish = "TX-†>n"  # Pirth Taran
@@ -13880,7 +13880,7 @@ e_scandinavia = {
         }
         b_sandur = {
           pictish = "yr÷–yröS"  # Insee Tret
-          welsh = "yrûƒöS"  # Ynys Traeth
+          welsh = "yr„öS"  # Ynys Traeth
           irish = "yrÒRöS"  # Eilean Tràigh
         }
         b_klaksvik = {
@@ -13942,13 +13942,13 @@ e_scandinavia = {
           irish = "TXttkaSi`"  # Tàirneanachceann
         }
         b_northmavine = {
-          pictish = "b<hûƒk«^·V>i"  # Goglethculder
-          welsh = "b<hûƒ·V«^ê>i"  # Gogleddculdir
+          pictish = "b<h„k«^·V>i"  # Goglethculder
+          welsh = "b<h„·V«^ê>i"  # Gogleddculdir
           irish = "Wk¬N"  # Tuathcuing
         }
         b_sound = {
           pictish = "ÑyáˆgYŒ"  # Cliaubae
-          welsh = "KQ÷–y|Œv"  # Cleiaubae
+          welsh = "KQ÷–‚Œv"  # Cleiaubae
           irish = "KQ÷–kôTĞc"  # Crèadhbati
         }
         b_yell = {
@@ -13976,9 +13976,9 @@ e_scandinavia = {
         irish = "gYKQöS"  # Innse Orc
         b_kirkwall = {
           norwegian = "	T>i«^ƒl"  # Kirkuvåg
-          danish = "ES>iKQn"  # Kyrkovik
-          swedish = "ES>iKQn"  # Kyrkovik
-          norse = "ES>iKQn"  # Kyrkovik
+          danish = "ES>iKQrp"  # Kyrkovik
+          swedish = "ES>iKQrp"  # Kyrkovik
+          norse = "ES>iKQrp"  # Kyrkovik
           pictish = "OKQo›„SÀNKQ0W"  # Icluasctreh
           welsh = "ÃW<ho›O¯e0W"  # Eglwystref
           irish = "ÃW<hÒRÌe0W"  # Baile na h-Eaglais
@@ -13989,7 +13989,7 @@ e_scandinavia = {
           swedish = "Ôk>i	T¯ewmÉb·V"  # Birgishärad
           norse = "Ôk>i	T¯ewmÉb·V"  # Birgishærad
           pictish = "^áˆ·VKQŞRÃWyr"  # Brideclauet
-          welsh = "Vûƒ·VÑyáˆ­t·V"  # Ffraidclywed
+          welsh = "V„·VÑyáˆ­t·V"  # Ffraidclywed
           irish = "^áˆk·Váw?–Éb"  # Brìghdechuala
         }
         b_orphir = {
@@ -14261,7 +14261,7 @@ e_scandinavia = {
           255
           255
         }
-        norse = "y|¯eyráˆT>i"  # Eystridal
+        norse = "‚¯eyráˆT>i"  # Eystridal
         b_hamarhus = {}
         b_elverum = {}
         b_hamar = {}
@@ -14687,10 +14687,10 @@ e_scandinavia = {
         holy_site = finnish_pagan
         holy_site = finnish_pagan_reformed
         b_antrea = {
-          swedish = "2W‰R·VÈp"  # St Andree
-          norse = "2W‰R·VÈp"  # St Andree
-          norwegian = "2W‰R·VÈp"  # St Andree
-          danish = "2W‰R·VÈp"  # St Andree
+          swedish = "ew‰R·VÈp"  # St Andree
+          norse = "ew‰R·VÈp"  # St Andree
+          norwegian = "ew‰R·VÈp"  # St Andree
+          danish = "ew‰R·VÈp"  # St Andree
         }
         b_raivola = {}
         b_kakisalmi = {
@@ -14723,7 +14723,7 @@ e_scandinavia = {
           norse = "nt<h(ƒÅ–"  # Segezja
           danish = "nt<h(ƒÅ–"  # Segezja
           norwegian = "nt<h(ƒÅ–"  # Segezja
-          russian = "1Œ<hNb"  # Segezha
+          russian = ",‹<hNb"  # Segezha
         }
         b_vyg = {}
         b_segozero = {}
@@ -15167,10 +15167,10 @@ e_scandinavia = {
           danish = "gYm+Y!X"  # Olavsborg
         }
         b_mikkeli = {
-          swedish = "2Ws|wm>i"  # St Michel
-          norse = "2Ws|wm>i"  # St Michel
-          norwegian = "2Ws|wm>i"  # St Michel
-          danish = "2Ws|wm>i"  # St Michel
+          swedish = "ews|wm>i"  # St Michel
+          norse = "ews|wm>i"  # St Michel
+          norwegian = "ews|wm>i"  # St Michel
+          danish = "ews|wm>i"  # St Michel
         }
         b_savonlinna = {
           swedish = "<S¯emyr"  # Nyslott
@@ -15648,8 +15648,8 @@ e_scandinavia = {
           255
           255
         }
-        swedish = "ûƒ%Š"  # Lääne
-        danish = "ûƒ%Š"  # Lääne
+        swedish = "„%Š"  # Lääne
+        danish = "„%Š"  # Lääne
         b_livs = {}
         b_haapsalu = {}
         b_lihula = {
@@ -15782,7 +15782,7 @@ e_scandinavia = {
           ugricbaltic = "2‡©…ï"  # Lemsalu
           german = "+P©…>i"  # Lemsal
           polish = "—gôTåe"  # Limbai
-          lithuanian = "—gôTåey|"  # Limbaiai
+          lithuanian = "—gôTåe‚"  # Limbaiai
         }
         b_seswegen = {
           ugricbaltic = "¡c¯eætOgQ"  # Cesvaine
@@ -16563,7 +16563,7 @@ e_wendish_empire = {
           pommeranian = "çvÔkNVy"  # Lubiazu
         }
         b_cottbus = {
-          pommeranian = "Ñ1Œ^¯e"  # Chosebuz
+          pommeranian = "Ñ,‹^¯e"  # Chosebuz
         }
         b_rothenburg = {}
         b_forst = {}
@@ -17155,7 +17155,7 @@ e_wendish_empire = {
         }
         polish = "2ƒb>i³f)R¡c"  # Zgorzelice
         pommeranian = "2ƒb>i³f)R¡c"  # Zgorzelice
-        bohemian = "2ƒ—÷–ûƒ(ƒ"  # Zhorelec
+        bohemian = "2ƒ—÷–„(ƒ"  # Zhorelec
         b_gorlitz = {
           pommeranian = "2ƒ—>i6w(ƒ"  # Zhorjelc
         }
@@ -17444,11 +17444,11 @@ e_wendish_empire = {
           norwegian = "¬U»l!X"  # Georgsborg
         }
         b_raseiniai = {
-          german = "ÉbjéZ"  # Raseinen
-          swedish = "ÉbjéZ"  # Raseinen
-          norse = "ÉbjéZ"  # Raseinen
-          danish = "ÉbjéZ"  # Raseinen
-          norwegian = "ÉbjéZ"  # Raseinen
+          german = "ÉbéZ"  # Raseinen
+          swedish = "ÉbéZ"  # Raseinen
+          norse = "ÉbéZ"  # Raseinen
+          danish = "ÉbéZ"  # Raseinen
+          norwegian = "ÉbéZ"  # Raseinen
         }
         b_zarenai = {}
         b_tverai = {}
@@ -17623,11 +17623,11 @@ e_wendish_empire = {
           255
           255
         }
-        swedish = "ûƒyr R–O"  # Lettgallen
-        norse = "ûƒyr R–O"  # Lettgallen
-        danish = "ûƒyr R–O"  # Lettgallen
-        norwegian = "ûƒyr R–O"  # Lettgallen
-        german = "ûƒyr R–O"  # Lettgallen
+        swedish = "„yr R–O"  # Lettgallen
+        norse = "„yr R–O"  # Lettgallen
+        danish = "„yr R–O"  # Lettgallen
+        norwegian = "„yr R–O"  # Lettgallen
+        german = "„yr R–O"  # Lettgallen
         b_erle = {}
         b_kreuzburg = {
           ugricbaltic = "KQo›¯e®v>i‰"  # Krustpilsi
@@ -18080,17 +18080,17 @@ e_wendish_empire = {
           255
           255
         }
-        german = "ûƒyrØáˆ(ƒ"  # Leitmeritz
-        swedish = "ûƒyrØáˆ(ƒ"  # Leitmeritz
-        norse = "ûƒyrØáˆ(ƒ"  # Leitmeritz
-        danish = "ûƒyrØáˆ(ƒ"  # Leitmeritz
-        norwegian = "ûƒyrØáˆ(ƒ"  # Leitmeritz
+        german = "„yrØáˆ(ƒ"  # Leitmeritz
+        swedish = "„yrØáˆ(ƒ"  # Leitmeritz
+        norse = "„yrØáˆ(ƒ"  # Leitmeritz
+        danish = "„yrØáˆ(ƒ"  # Leitmeritz
+        norwegian = "„yrØáˆ(ƒ"  # Leitmeritz
         b_litomerice = {
-          german = "ûƒyr…háˆ(ƒ"  # Leitmeritz
-          swedish = "ûƒyr…háˆ(ƒ"  # Leitmeritz
-          norse = "ûƒyr…háˆ(ƒ"  # Leitmeritz
-          danish = "ûƒyr…háˆ(ƒ"  # Leitmeritz
-          norwegian = "ûƒyr…háˆ(ƒ"  # Leitmeritz
+          german = "„yr…háˆ(ƒ"  # Leitmeritz
+          swedish = "„yr…háˆ(ƒ"  # Leitmeritz
+          norse = "„yr…háˆ(ƒ"  # Leitmeritz
+          danish = "„yr…háˆ(ƒ"  # Leitmeritz
+          norwegian = "„yr…háˆ(ƒ"  # Leitmeritz
         }
         b_melnik_bohemia = {}
         b_mnichovo_hradiste = {}
@@ -18259,7 +18259,7 @@ e_wendish_empire = {
         }
         german = "^>işŠ"  # Brünn
         b_veligrad = {
-          slovieni = "Ë—ûƒkÉb·V"  # Velehrad
+          slovieni = "Ë—„kÉb·V"  # Velehrad
         }
         b_brno = {
           german = "^BTi`"  # Brünn
@@ -18663,7 +18663,7 @@ e_russia = {
           polish = "çvôTN+Y"  # Lubaczow
         }
         b_lezhaisk = {
-          polish = "ûƒNbO¯eKQ"  # Lezajsk
+          polish = "„NbO¯eKQ"  # Lezajsk
         }
         b_ustryky_dolishni = {}
       }
@@ -21977,9 +21977,9 @@ e_pontic_steppe = {
         255
       }
       capital = 674
-      armenian = "y|kôT<SN"  # Aghbania
-      georgian = "y|kôT<SN"  # Aghbania
-      alan = "y|kôT<SN"  # Aghbania
+      armenian = "‚kôT<SN"  # Aghbania
+      georgian = "‚kôT<SN"  # Aghbania
+      alan = "‚kôT<SN"  # Aghbania
       greek = "?–>iôT<SN"  # Albania
       c_derbent = {
         color = {
@@ -22684,7 +22684,7 @@ e_tartaria = {
         b_gobi = {}
         b_khereid = {}
         b_zubu = {
-          turkish = "C˜U"  # Suibu
+          turkish = "˜kS"  # Suibu
         }
         b_nuuruudyn_hondij = {}
         b_arguut = {}
@@ -26106,7 +26106,7 @@ e_turkestan = {
     uyghur = "mQÎW"  # Altishahr
     tocharian = "¼eĞ•"  # Ytarimypoy
     han = "‰ßW"  # Xiyu
-    saka = "²m1’"  # Hvamna
+    saka = "(n²"  # Hvamna
     d_kashgar = {
       color = {
         216
@@ -26325,7 +26325,7 @@ e_turkestan = {
       capital = 1440
       uyghur = "AŒæe"  # Hotan
       han = "¼eĞ•"  # Yutian
-      saka = "²m1’"  # Hvamna
+      saka = "(n²"  # Hvamna
       c_khotan = {
         color = {
           190
@@ -26337,7 +26337,7 @@ e_turkestan = {
         holy_site = taoist
         uyghur = "AŒæe"  # Hotan
         han = "¼eĞ•"  # Yutian
-        saka = "²m1’"  # Hvamna
+        saka = "(n²"  # Hvamna
         b_khotan = {
           uyghur = "AŒæe"  # Hotan
           han = "¼eĞ•"  # Yutian
@@ -26356,13 +26356,13 @@ e_turkestan = {
           8
         }
         uyghur = "Í•L‘"  # Qarqan
-        tocharian = "˜bid±™1’"  # Jemotwona
-        sogdian = "˜bid±™1’"  # Calmandana
+        tocharian = "˜bid±™²"  # Jemotwona
+        sogdian = "˜bid±™²"  # Calmandana
         han = "N+g"  # Qiemo
         b_cherchen = {
           uyghur = "Í•L‘"  # Qarqan
-          tocharian = "˜bid±™1’"  # Jemotwona
-          sogdian = "˜bid±™1’"  # Calmandana
+          tocharian = "˜bid±™²"  # Jemotwona
+          sogdian = "˜bid±™²"  # Calmandana
           han = "N+g"  # Qiemo
         }
         b_calmandana = {}
@@ -26477,7 +26477,7 @@ e_turkestan = {
         }
         b_weixu = {
           uyghur = "ŒT©x"  # Hoxud
-          tocharian = "qSC˜"  # Oresu
+          tocharian = "qS˜"  # Oresu
         }
         b_weili = {}
         b_tiemenguan = {}
@@ -29761,10 +29761,10 @@ e_carpathia = {
           german = "+“<hm¯e"  # Sieglos
         }
         b_szentlorinc = {
-          slovieni = "2Wƒl+YåegQ(ƒ"  # Svatı Vavrinec
-          bohemian = "2Wƒl+YåegQ(ƒ"  # Svatı Vavrinec
+          slovieni = "ewƒl+YåegQ(ƒ"  # Svatı Vavrinec
+          bohemian = "ewƒl+YåegQ(ƒ"  # Svatı Vavrinec
           croatian = "^Xçváˆt(ƒ"  # Selurinac
-          german = "2WŞR+P(ƒ"  # Sankt Laurenz
+          german = "ewŞR+P(ƒ"  # Sankt Laurenz
         }
         b_darda = {
           slovieni = "T>iT"  # Darda
@@ -29836,34 +29836,34 @@ e_carpathia = {
           255
           255
         }
-        german = "y|îh!X"  # Eisenburg
+        german = "‚îh!X"  # Eisenburg
         croatian = "±qR2ƒt"  # Zelezna
         bosnian = "±qR2ƒt"  # Zelezna
         carantanian = "±qR2ƒt"  # Zelezna
-        bohemian = "±qûƒ2ƒt"  # Œelezna
-        slovieni = "±qûƒ2ƒt"  # Œelezna
+        bohemian = "±q„2ƒt"  # Œelezna
+        slovieni = "±q„2ƒt"  # Œelezna
         hungarian = "ƒlÀN"  # Vas
         b_szombathely = {
           slovieni = "aS…hgQ(ƒ"  # Kamenec
           german = "Ìeğltüf<h"  # Steinamanger
         }
         b_szentgotthard = {
-          slovieni = "2WbyrÈT·V"  # Svatı Gothard
-          bohemian = "2WbyrÈT·V"  # Svatı Gothard
+          slovieni = "ewbyrÈT·V"  # Svatı Gothard
+          bohemian = "ewbyrÈT·V"  # Svatı Gothard
           carantanian = "«ƒşŠÀNğl>i"  # Monoater
-          german = "2WbyrÈT·V"  # Sankt Gotthard
+          german = "ewbyrÈT·V"  # Sankt Gotthard
         }
         b_vasvar = {
-          slovieni = "±qûƒ2ƒ<SkÉb·V"  # Œeleznı hrad
-          bohemian = "±qûƒ2ƒ<SkÉb·V"  # Œeleznı hrad
-          german = "y|îh!X"  # Eisenburg
-          carantanian = "±qûƒ2ƒ<S<hÒR"  # Œeleznograd
+          slovieni = "±q„2ƒ<SkÉb·V"  # Œeleznı hrad
+          bohemian = "±q„2ƒ<SkÉb·V"  # Œeleznı hrad
+          german = "‚îh!X"  # Eisenburg
+          carantanian = "±q„2ƒ<S<hÒR"  # Œeleznograd
         }
         b_sarvar = {
           german = "ÑyÕn!X"  # Kotenburg
         }
         b_celldomolk = {
-          german = "SjtLNN¡c>i"  # Kleinmariazell
+          german = "Sjt¦N¡c>i"  # Kleinmariazell
         }
         b_kormend = {
           german = "úW>iŒyr"  # Kirment
@@ -29891,11 +29891,11 @@ e_carpathia = {
           255
         }
         german = "ÌeW>iË—¯e"  # Stuhlweiss
-        croatian = "Œûƒ<hÒRãS"  # Stolni Belegrad
-        bosnian = "Œûƒ<hÒRãS"  # Stolni Belegrad
-        carantanian = "Œûƒ<hÒRãS"  # Stolni Belegrad
-        bohemian = "¯eŠ)RGY<S %RûƒkÉb·V"  # Stolicnı Belehrad
-        slovieni = "¯eŠ)RGY<S %RûƒkÉb·V"  # Stolicnı Belehrad
+        croatian = "Œ„<hÒRãS"  # Stolni Belegrad
+        bosnian = "Œ„<hÒRãS"  # Stolni Belegrad
+        carantanian = "Œ„<hÒRãS"  # Stolni Belegrad
+        bohemian = "¯eŠ)RGY<S %R„kÉb·V"  # Stolicnı Belehrad
+        slovieni = "¯eŠ)RGY<S %R„kÉb·V"  # Stolicnı Belehrad
         b_sarbogard = {
           german = "ZSÈTyr"  # Bochart
         }
@@ -29979,9 +29979,9 @@ e_carpathia = {
           german = "Ñy^+P"  # Kobrunn
         }
         b_kismarton = {
-          slovieni = "±qûƒ2ƒşŠ"  # Œelezno
-          bohemian = "±qûƒ2ƒşŠ"  # Œelezno
-          german = "y|îhÌeTXyr"  # Eisenstadt
+          slovieni = "±q„2ƒşŠ"  # Œelezno
+          bohemian = "±q„2ƒşŠ"  # Œelezno
+          german = "‚îhÌeTXyr"  # Eisenstadt
           croatian = "±qR2ƒşŠ"  # Œeljezno
         }
         b_nagymarton = {
@@ -30081,9 +30081,9 @@ e_carpathia = {
           german = "«ƒŠv"  # Modern
         }
         b_szentgyorgy = {
-          slovieni = "2W3S>i"  # Svatı Jur
-          bohemian = "2W3S>i"  # Svatı Jur
-          german = "2W<hgY>i9h"  # Sankt Georgen
+          slovieni = "ew3S>i"  # Svatı Jur
+          bohemian = "ew3S>i"  # Svatı Jur
+          german = "ew<hgY>i9h"  # Sankt Georgen
         }
         b_dunaszerdahely = {
           slovieni = "YYt¯eyr÷–T"  # Dunajská Streda
@@ -30150,7 +30150,7 @@ e_carpathia = {
         b_stbenedek = {
           slovieni = "kŸ³lTuŒ<SNêKQ"  # Hronskı Benadik
           bohemian = "kŸ³lTuŒ<SNêKQ"  # Hronskı Benadik
-          german = "2WŒgQêKQyr"  # Sankt Benedikt
+          german = "ewŒgQêKQyr"  # Sankt Benedikt
         }
         b_nagysurany = {
           slovieni = "'Y‚Éb<S"  # Velké `urany
@@ -30204,7 +30204,7 @@ e_carpathia = {
         b_zilina = {
           slovieni = "åe)Rt"  # Œilina
           bohemian = "åe)Rt"  # Œilina
-          german = "+“ûƒi`"  # Sillein
+          german = "+“„i`"  # Sillein
           hungarian = "å‚>iYt"  # Zsolna
         }
         b_turoc = {
@@ -30216,7 +30216,7 @@ e_carpathia = {
           slovieni = "Øš!X"  # Vyaehrad
           bohemian = "Øš!X"  # Vyaehrad
           german = "nf—gÕn!X"  # Plintenburg
-          hungarian = "­t1Œ<hÉb·V"  # Visegrád
+          hungarian = "­t,‹<hÉb·V"  # Visegrád
         }
         b_illava = {
           slovieni = "OÉbæt"  # Ilava
@@ -30335,7 +30335,7 @@ e_carpathia = {
           bohemian = ")RnfŠ+Y¯eúW s|«^ÉbÀN"  # Liptovskı Mikuláa
           polish = ")RnfŠ+Y¯eúW s|«^ætÀN"  # Liptowski Mikulasz
           german = ")Rnfv– <SäSŞR¯e"  # Liptau Nikolaus
-          hungarian = ")RnfŠ2Ws|KQmÀN"  # Liptoszentmiklos
+          hungarian = ")RnfŠews|KQmÀN"  # Liptoszentmiklos
         }
         b_zolyom = {
           slovieni = "N«^Óƒ"  # Dolnı Kubín
@@ -30430,7 +30430,7 @@ e_carpathia = {
           slovieni = "nf÷–9t+Y"  # Preaov
           bohemian = "nf÷–9t+Y"  # Preaov
           german = "ÃWÀsáˆ¯e"  # Eperies
-          hungarian = "y|>m>i6wÀN"  # Eperjes
+          hungarian = "‚>m>i6wÀN"  # Eperjes
           polish = "nf÷–9t+Y"  # Preszów
         }
         b_scyuidnyk = {
@@ -30451,9 +30451,9 @@ e_carpathia = {
           german = "+“,g—gŠv"  # Siebenlinden
         }
         b_lemesany = {
-          slovieni = "ûƒ…h™l<S"  # Lemeaany
-          bohemian = "ûƒ…h™l<S"  # Lemeaany
-          hungarian = "ûƒÀN"  # Lemes
+          slovieni = "„…h™l<S"  # Lemeaany
+          bohemian = "„…h™l<S"  # Lemeaany
+          hungarian = "„ÀN"  # Lemes
         }
       }
       c_bereg = {
@@ -32539,7 +32539,7 @@ e_france = {
           breton = "NmkŒ>i%Š"  # Ar Roc'h-Bernez
         }
         b_st_nazaire = {
-          breton = "2Wt³f>i"  # Sant-Nazer
+          breton = "ewt³f>i"  # Sant-Nazer
         }
       }
       c_rennes = {
@@ -32561,15 +32561,15 @@ e_france = {
           breton = "òƒ<h>i"  # Felger
         }
         b_st_michel = {
-          breton = "2Ws|aSÃW>i"  # Sant-Mikael
+          breton = "ews|aSÃW>i"  # Sant-Mikael
         }
         b_st_malo = {
-          breton = "2W¬™m"  # Sant-Maloù
+          breton = "ew¬™m"  # Sant-Maloù
         }
         b_dol = {}
         b_dinan = {}
         b_st_meen = {
-          breton = "2Wf"  # Sant-Méen
+          breton = "ewf"  # Sant-Méen
         }
         b_porhoet = {}
       }
@@ -32676,7 +32676,7 @@ e_france = {
           breton = "Ñy>iÒR"  # Korle
         }
         b_carhaix = {
-          breton = "aSûƒ"  # Karaez
+          breton = "aS„"  # Karaez
         }
         b_langonnet = {
           breton = "-†bgQyr"  # Langoned
@@ -32757,14 +32757,14 @@ e_france = {
         breton = "kgÆYşŠ<SN"  # Domnonea
         welsh = "kgÆYşŠ<SN"  # Domnonia
         b_verdelet = {
-          breton = "2W0WÒR"  # Sentiles
+          breton = "ew0WÒR"  # Sentiles
         }
         b_st_brieuc = {
-          breton = "2W^áˆÃWKQ"  # Sant-Brieg
+          breton = "ew^áˆÃWKQ"  # Sant-Brieg
         }
         b_monkontour = {}
         b_peran = {
-          breton = "2WiOg"  # Sant-Pêran
+          breton = "ewiOg"  # Sant-Pêran
         }
         b_loudeac = {}
         b_paimpol = {}
@@ -32942,7 +32942,7 @@ e_france = {
         b_conflens = {}
         b_thonon = {}
         b_st_jean = {
-          italian = "2W¬Uæt<S"  # San Giovanni
+          italian = "ew¬Uæt<S"  # San Giovanni
         }
         b_cluses = {}
         b_aix_savoie = {}
@@ -32959,7 +32959,7 @@ e_france = {
           255
         }
         german = "æt)R¯e"  # Wallis
-        italian = "ætûƒ^X"  # Vallese
+        italian = "æt„^X"  # Vallese
         b_brig = {
           frankish = "^áˆ<h"  # Brig
         }
@@ -33018,14 +33018,14 @@ e_france = {
           german = "gY<hÌeTX>i"  # Augschtal
         }
         b_st_jacqueme = {
-          italian = "2WÈŒÑy«ƒ"  # St-Giacomo
+          italian = "ewÈŒÑy«ƒ"  # St-Giacomo
         }
         b_st_ours = {}
         b_aostachatillon = {
           italian = "aS¯e‚„)RgY<S"  # Chastiglioni
         }
         b_st_pierre = {
-          italian = "2W|V—V…"  # San Pietro
+          italian = "ew|V—V…"  # San Pietro
         }
         b_chatel_argent = {}
         b_arnad = {}
@@ -33266,7 +33266,7 @@ e_france = {
           german = "şŠOi`!X"  # Neuenburg
         }
         b_stimier = {
-          german = "2WOØ"  # Sankt Immer
+          german = "ewOØ"  # Sankt Immer
         }
         b_erguel = {
           german = "ÃW>iË„>i"  # Erguel
@@ -33711,17 +33711,17 @@ e_spain = {
           255
           255
         }
-        bedouin_arabic = "ÀN)RU"  # Shlib
-        maghreb_arabic = "ÀN)RU"  # Shlib
-        levantine_arabic = "ÀN)RU"  # Shlib
-        egyptian_arabic = "ÀN)RU"  # Shlib
-        andalusian_arabic = "ÀN)RU"  # Shlib
+        bedouin_arabic = "ÀN)RkS"  # Shlib
+        maghreb_arabic = "ÀN)RkS"  # Shlib
+        levantine_arabic = "ÀN)RkS"  # Shlib
+        egyptian_arabic = "ÀN)RkS"  # Shlib
+        andalusian_arabic = "ÀN)RkS"  # Shlib
         b_silves = {
-          bedouin_arabic = "ÀN)RU"  # Shlib
-          maghreb_arabic = "ÀN)RU"  # Shlib
-          levantine_arabic = "ÀN)RU"  # Shlib
-          egyptian_arabic = "ÀN)RU"  # Shlib
-          andalusian_arabic = "ÀN)RU"  # Shlib
+          bedouin_arabic = "ÀN)RkS"  # Shlib
+          maghreb_arabic = "ÀN)RkS"  # Shlib
+          levantine_arabic = "ÀN)RkS"  # Shlib
+          egyptian_arabic = "ÀN)RkS"  # Shlib
+          andalusian_arabic = "ÀN)RkS"  # Shlib
         }
         b_lagos = {}
         b_alvor = {}
@@ -34406,17 +34406,17 @@ e_spain = {
           255
           255
         }
-        bedouin_arabic = "ûƒáˆT"  # Larida
-        maghreb_arabic = "ûƒáˆT"  # Larida
-        levantine_arabic = "ûƒáˆT"  # Larida
-        egyptian_arabic = "ûƒáˆT"  # Larida
-        andalusian_arabic = "ûƒáˆT"  # Larida
+        bedouin_arabic = "„áˆT"  # Larida
+        maghreb_arabic = "„áˆT"  # Larida
+        levantine_arabic = "„áˆT"  # Larida
+        egyptian_arabic = "„áˆT"  # Larida
+        andalusian_arabic = "„áˆT"  # Larida
         b_lleida = {
-          bedouin_arabic = "ûƒáˆT"  # Larida
-          maghreb_arabic = "ûƒáˆT"  # Larida
-          levantine_arabic = "ûƒáˆT"  # Larida
-          egyptian_arabic = "ûƒáˆT"  # Larida
-          andalusian_arabic = "ûƒáˆT"  # Larida
+          bedouin_arabic = "„áˆT"  # Larida
+          maghreb_arabic = "„áˆT"  # Larida
+          levantine_arabic = "„áˆT"  # Larida
+          egyptian_arabic = "„áˆT"  # Larida
+          andalusian_arabic = "„áˆT"  # Larida
         }
         b_cervera = {}
         b_solsona = {}
@@ -35407,18 +35407,18 @@ e_spain = {
           255
           255
         }
-        bedouin_arabic = "WûƒWÉb"  # Tulaytulah
-        maghreb_arabic = "WûƒWÉb"  # Tulaytulah
-        levantine_arabic = "WûƒWÉb"  # Tulaytulah
-        egyptian_arabic = "WûƒWÉb"  # Tulaytulah
-        andalusian_arabic = "WûƒWÉb"  # Tulaytulah
+        bedouin_arabic = "W„WÉb"  # Tulaytulah
+        maghreb_arabic = "W„WÉb"  # Tulaytulah
+        levantine_arabic = "W„WÉb"  # Tulaytulah
+        egyptian_arabic = "W„WÉb"  # Tulaytulah
+        andalusian_arabic = "W„WÉb"  # Tulaytulah
         b_madrid = {}
         b_toledo = {
-          bedouin_arabic = "WûƒWÉb"  # Tulaytulah
-          maghreb_arabic = "WûƒWÉb"  # Tulaytulah
-          levantine_arabic = "WûƒWÉb"  # Tulaytulah
-          egyptian_arabic = "WûƒWÉb"  # Tulaytulah
-          andalusian_arabic = "WûƒWÉb"  # Tulaytulah
+          bedouin_arabic = "W„WÉb"  # Tulaytulah
+          maghreb_arabic = "W„WÉb"  # Tulaytulah
+          levantine_arabic = "W„WÉb"  # Tulaytulah
+          egyptian_arabic = "W„WÉb"  # Tulaytulah
+          andalusian_arabic = "W„WÉb"  # Tulaytulah
         }
         b_orgaz = {}
         b_tolemora = {}
@@ -36579,11 +36579,11 @@ e_arabia = {
         andalusian_arabic = "ôTT¢Œ"  # al-Badaqun
         coptic = "?–>iôTyr"  # Arbat
         b_kharibta = {
-          egyptian_arabic = "^áˆUTX"  # Khiribta
-          bedouin_arabic = "^áˆUTX"  # Khiribta
-          maghreb_arabic = "^áˆUTX"  # Khiribta
-          levantine_arabic = "^áˆUTX"  # Khiribta
-          andalusian_arabic = "^áˆUTX"  # Khiribta
+          egyptian_arabic = "^áˆkSTX"  # Khiribta
+          bedouin_arabic = "^áˆkSTX"  # Khiribta
+          maghreb_arabic = "^áˆkSTX"  # Khiribta
+          levantine_arabic = "^áˆkSTX"  # Khiribta
+          andalusian_arabic = "^áˆkSTX"  # Khiribta
           coptic = "?–>iôTyr"  # Arbat
         }
         b_scetis = {
@@ -36690,14 +36690,14 @@ e_arabia = {
           255
           255
         }
-        coptic = "ê1Œáˆ"  # Dishairi
+        coptic = "ê,‹áˆ"  # Dishairi
         egyptian_arabic = " R>iÔk6w"  # al-Garbiya
         bedouin_arabic = " R>iÔk6w"  # al-Garbiya
         maghreb_arabic = " R>iÔk6w"  # al-Garbiya
         levantine_arabic = " R>iÔk6w"  # al-Garbiya
         andalusian_arabic = " R>iÔk6w"  # al-Garbiya
         b_malhalla = {
-          coptic = "ê1Œáˆ"  # Dishairi
+          coptic = "ê,‹áˆ"  # Dishairi
         }
         b_athribis = {}
         b_busiris = {}
@@ -36899,7 +36899,7 @@ e_arabia = {
         levantine_arabic = "äS‰6w"  # al-Qusiya
         andalusian_arabic = "äS‰6w"  # al-Qusiya
         b_quena = {
-          coptic = "ÃW1’"  # Ena
+          coptic = "ÃW²"  # Ena
         }
         b_qus = {}
         b_qift = {}
@@ -37180,20 +37180,20 @@ e_arabia = {
         coptic = "‰ÄOÏpyr"  # Sioout
         greek = "BTÑyâl)R¯e"  # Lycopolis
         roman = "BTÑyâl)R¯e"  # Lycopolis
-        egyptian_arabic = "y|¯e3SĞc6w"  # al-Asyutiya
-        bedouin_arabic = "y|¯e3SĞc6w"  # al-Asyutiya
-        maghreb_arabic = "y|¯e3SĞc6w"  # al-Asyutiya
-        levantine_arabic = "y|¯e3SĞc6w"  # al-Asyutiya
-        andalusian_arabic = "y|¯e3SĞc6w"  # al-Asyutiya
+        egyptian_arabic = "‚¯e3SĞc6w"  # al-Asyutiya
+        bedouin_arabic = "‚¯e3SĞc6w"  # al-Asyutiya
+        maghreb_arabic = "‚¯e3SĞc6w"  # al-Asyutiya
+        levantine_arabic = "‚¯e3SĞc6w"  # al-Asyutiya
+        andalusian_arabic = "‚¯e3SĞc6w"  # al-Asyutiya
         b_asyut = {
           coptic = "‰ÄOÏpyr"  # Sioout
           greek = "BTÑyâl)R¯e"  # Lycopolis
           roman = "BTÑyâl)R¯e"  # Lycopolis
-          egyptian_arabic = "y|¯e3SĞc6w"  # al-Asyutiya
-          bedouin_arabic = "y|¯e3SĞc6w"  # al-Asyutiya
-          maghreb_arabic = "y|¯e3SĞc6w"  # al-Asyutiya
-          levantine_arabic = "y|¯e3SĞc6w"  # al-Asyutiya
-          andalusian_arabic = "y|¯e3SĞc6w"  # al-Asyutiya
+          egyptian_arabic = "‚¯e3SĞc6w"  # al-Asyutiya
+          bedouin_arabic = "‚¯e3SĞc6w"  # al-Asyutiya
+          maghreb_arabic = "‚¯e3SĞc6w"  # al-Asyutiya
+          levantine_arabic = "‚¯e3SĞc6w"  # al-Asyutiya
+          andalusian_arabic = "‚¯e3SĞc6w"  # al-Asyutiya
         }
         b_kusai = {}
         b_durunka = {}
@@ -37921,11 +37921,11 @@ e_arabia = {
         255
       }
       capital = 733
-      bedouin_arabic = "ÈTÉbU"  # Halab
-      maghreb_arabic = "ÈTÉbU"  # Halab
-      levantine_arabic = "ÈTÉbU"  # Halab
-      egyptian_arabic = "ÈTÉbU"  # Halab
-      andalusian_arabic = "ÈTÉbU"  # Halab
+      bedouin_arabic = "ÈTÉbkS"  # Halab
+      maghreb_arabic = "ÈTÉbkS"  # Halab
+      levantine_arabic = "ÈTÉbkS"  # Halab
+      egyptian_arabic = "ÈTÉbkS"  # Halab
+      andalusian_arabic = "ÈTÉbkS"  # Halab
       ashkenazi = "ÈT>iùW"  # Chalpe
       sephardi = "ÈT>iùW"  # Chalpe
       greek = "Œ…ÃWN"  # Beroea
@@ -37960,11 +37960,11 @@ e_arabia = {
           255
           255
         }
-        bedouin_arabic = "ÈTÉbU"  # Halab
-        maghreb_arabic = "ÈTÉbU"  # Halab
-        levantine_arabic = "ÈTÉbU"  # Halab
-        egyptian_arabic = "ÈTÉbU"  # Halab
-        andalusian_arabic = "ÈTÉbU"  # Halab
+        bedouin_arabic = "ÈTÉbkS"  # Halab
+        maghreb_arabic = "ÈTÉbkS"  # Halab
+        levantine_arabic = "ÈTÉbkS"  # Halab
+        egyptian_arabic = "ÈTÉbkS"  # Halab
+        andalusian_arabic = "ÈTÉbkS"  # Halab
         ashkenazi = "ÈT>iùW"  # Chalpe
         sephardi = "ÈT>iùW"  # Chalpe
         greek = "Œ…ÃWN"  # Beroea
@@ -38625,9 +38625,9 @@ e_maghreb = {
           255
           255
         }
-        maghreb_arabic = "^XUTX"  # Sebta
+        maghreb_arabic = "^XkSTX"  # Sebta
         b_cueta = {
-          maghreb_arabic = "^XUTX"  # Sebta
+          maghreb_arabic = "^XkSTX"  # Sebta
         }
         b_tetouan = {}
         b_Xauen = {}
@@ -41147,7 +41147,7 @@ e_britannia = {
           255
           255
         }
-        saxon = "y|<h™„·V¬S"  # Amounderness
+        saxon = "‚<h™„·V¬S"  # Amounderness
         b_salford = {}
         b_lancaster = {}
         b_preston = {}
@@ -41307,7 +41307,7 @@ e_britannia = {
           255
           255
         }
-        welsh = "y|>i™„yr"  # Elmet
+        welsh = "‚>i™„yr"  # Elmet
         b_leeds = {}
         b_doncaster = {}
         b_sherburn = {}
@@ -41540,7 +41540,7 @@ e_britannia = {
         b_tickhill = {}
         b_worksop = {}
         b_newstead = {
-          saxon = "2W¬™N"  # Saint Martin
+          saxon = "ew¬™N"  # Saint Martin
         }
       }
       c_lincoln = {
@@ -41554,7 +41554,7 @@ e_britannia = {
           255
           255
         }
-        saxon = "—g·Vj"  # Lindsey
+        saxon = "—g·V"  # Lindsey
         b_gainsborough = {}
         b_lincoln = {}
         b_boston = {}
@@ -41813,7 +41813,7 @@ e_britannia = {
         b_cleeve = {}
         b_castle_batch = {}
         b_cadbury = {
-          saxon = "aS¬™ûƒyr"  # Camalet
+          saxon = "aS¬™„yr"  # Camalet
         }
       }
     }
@@ -42489,7 +42489,7 @@ e_britannia = {
         b_dunragit = {
           pictish = "ÒR<h·V!X"  # Dunreget
           welsh = "÷–<h·V!X"  # Din Rheged
-          irish = "ûƒwmyr!X"  # Dùn Reicheit
+          irish = "„wmyr!X"  # Dùn Reicheit
         }
         b_whithorn = {
           pictish = "ğlÏp‰R"  # Taiuuan
@@ -42534,11 +42534,11 @@ e_britannia = {
           255
         }
         pictish = "æt+P"  # Ueron
-        welsh = "y|+P"  # Aeron
+        welsh = "‚+P"  # Aeron
         irish = "?–ÈTÒR"  # A' Charraig
         b_turnberry = {
           pictish = "æt+P!X"  # Dun Ueron
-          welsh = "y|+P!X"  # Din Aeron
+          welsh = "‚+P!X"  # Din Aeron
           irish = "ÃW>i!X"  # Dùn Àir
         }
         b_dunure = {
@@ -42574,8 +42574,8 @@ e_britannia = {
         }
         b_greenan = {
           pictish = "?–Œ÷–†–"  # Abereron
-          welsh = "?–Œûƒ†–"  # Aberaeron
-          irish = "y|>i³lãS"  # Inbhir Àir
+          welsh = "?–Œ„†–"  # Aberaeron
+          irish = "‚>i³lãS"  # Inbhir Àir
         }
       }
       c_clydesdale = {
@@ -42599,7 +42599,7 @@ e_britannia = {
         }
         b_st_kentigern = {
           pictish = "NWTXi`"  # Cantearn
-          welsh = "2W¯w·VOi`"  # Cyndeyrn Sant
+          welsh = "ew¯w·VOi`"  # Cyndeyrn Sant
           irish = "fbYeX"  # Cill Mungo
         }
         b_glasgow = {
@@ -42690,22 +42690,22 @@ e_britannia = {
           irish = "TXk—gYeX"  # Cill Targhlain
         }
         b_stornoway = {
-          norwegian = "¯eŠtn"  # Stornavåg
-          danish = "¯eŠtn"  # Stornavik
-          swedish = "¯eŠtn"  # Stornavik
-          norse = "¯eŠtn"  # Stornavik
+          norwegian = "¯eŠtrp"  # Stornavåg
+          danish = "¯eŠtrp"  # Stornavik
+          swedish = "¯eŠtrp"  # Stornavik
+          norse = "¯eŠtrp"  # Stornavik
           pictish = "ŞR„SŒ"  # Laueube
           welsh = "YuOÜb"  # Llywiobae
           irish = "¯eŠtætk"  # Steòrnabhagh
         }
         b_uig = {
-          norwegian = "wmn"  # Vik
-          danish = "wmn"  # Vik
-          swedish = "wmn"  # Vik
-          norse = "wmn"  # Vik
+          norwegian = "wmrp"  # Vik
+          danish = "wmrp"  # Vik
+          swedish = "wmrp"  # Vik
+          norse = "wmrp"  # Vik
           pictish = "Œyr÷–yr"  # Betret
-          welsh = "Übyrûƒk"  # Baetraeth
-          irish = "aS%ŠÌen"  # Càrnais Ùige
+          welsh = "Übyr„k"  # Baetraeth
+          irish = "aS%ŠÌerp"  # Càrnais Ùige
         }
         b_dunvegan = {
           pictish = "ôTÈTi`!X"  # Dun Bachain
@@ -42765,12 +42765,12 @@ e_britannia = {
           255
         }
         pictish = "ÃWÔkğ"  # Ebithan
-        welsh = "y||V9Nyr"  # Epiddant
+        welsh = "‚|V9Nyr"  # Epiddant
         irish = "?–÷–	T·V>i"  # Airer Goídel
         b_st_moluag = {
           pictish = "¬™mKQ"  # Malluoc
-          welsh = "2W¬™mKQ"  # Malluoc Sant
-          irish = "2W«ƒmKQ"  # Naomh Moluóc
+          welsh = "ew¬™mKQ"  # Malluoc Sant
+          irish = "ew«ƒmKQ"  # Naomh Moluóc
         }
         b_dunollie = {
           pictish = "Ïp R¯eğl!X"  # Dun Ugastel
@@ -42779,7 +42779,7 @@ e_britannia = {
         }
         b_loch_awe = {
           pictish = "Ébt¨N"  # Lanahon
-          welsh = "ÒR1’¬‚"  # Llynafon
+          welsh = "ÒR²¬‚"  # Llynafon
           irish = "gYætVn"  # Loch Obha
         }
         b_sween = {
@@ -42803,7 +42803,7 @@ e_britannia = {
         }
         b_inverary = {
           pictish = "?–Œ÷–Éb"  # Aberera
-          welsh = "?–ŒûƒÉb"  # Aberaera
+          welsh = "?–Œ„Éb"  # Aberaera
           irish = "OÉb³lãS"  # Inbhir Aora
         }
         b_argh = {}
@@ -42839,8 +42839,8 @@ e_britannia = {
         welsh = "÷–N<SgYi`"  # Lleuddiniawn
         irish = "ŞR·Vk"  # Labhdaidh
         b_edinburgh = {
-          pictish = "y|9N!X"  # Dun Eidan
-          welsh = "y|fe!X"  # Din Eidyn
+          pictish = "‚9N!X"  # Dun Eidan
+          welsh = "‚fe!X"  # Din Eidyn
           irish = "O9N!X"  # Dùn Eideann
         }
         b_stirling = {
@@ -42859,8 +42859,8 @@ e_britannia = {
           irish = "<h-†ÏpÈT"  # Gleann Iucha
         }
         b_falkirk = {
-          pictish = "y|KQÒRÌe^÷–yr"  # Ecclescbret
-          welsh = "y|KQÒR¯e^áˆ·V"  # Ecclesbrith
+          pictish = "‚KQÒRÌe^÷–yr"  # Ecclescbret
+          welsh = "‚KQÒR¯e^áˆ·V"  # Ecclesbrith
           irish = "‰R?–<h)RÌeÏpÉbKQ"  # An Eaglais Bhreac
         }
         b_stow_of_wedale = {
@@ -42926,7 +42926,7 @@ e_britannia = {
         b_coldingham = {
           pictish = "-†^—g"  # Lanbrin
           welsh = "-†^—g"  # Llanbryn
-          irish = "	TûƒKQşŠKQ"  # Cillecnoc
+          irish = "	T„KQşŠKQ"  # Cillecnoc
         }
         b_crichton = {
           pictish = "¬‚ªRyr÷–"  # Finuultreh
@@ -42946,7 +42946,7 @@ e_britannia = {
           255
         }
         pictish = "ko›?–"  # Heluua
-        welsh = "äSi`Yûƒ"  # Guendoleu
+        welsh = "äSi`Y„"  # Guendoleu
         irish = "aS>i^k"  # Cealsaidh
         b_jedburgh = {
           pictish = "Lk·V!X"  # Dungod
@@ -42974,8 +42974,8 @@ e_britannia = {
           irish = "aS>i^k"  # Cealsaidh
         }
         b_selkirk = {
-          pictish = "ÈT>ikûƒ<h"  # Halchraig
-          welsh = "ÈT>ikûƒ<h"  # Halchraig
+          pictish = "ÈT>ik„<h"  # Halchraig
+          welsh = "ÈT>ik„<h"  # Halchraig
           irish = "©…>iKQáˆúW"  # Salcraig
         }
         b_maxwell = {
@@ -42985,7 +42985,7 @@ e_britannia = {
         }
         b_ednam = {
           pictish = "ÃWfeyr÷–"  # Aethontreh
-          welsh = "y|9Nyr÷–+Y"  # Aeddantref
+          welsh = "‚9Nyr÷–+Y"  # Aeddantref
           irish = "OUÎW"  # Baile na h-Aodhàn
         }
       }
@@ -43026,7 +43026,7 @@ e_britannia = {
         }
         b_dunkeld = {
           pictish = "ñQÉb˜!X"  # Dun Celadon
-          welsh = "jûƒ˜!X"  # Din Celyddon
+          welsh = "„˜!X"  # Din Celyddon
           irish = "aS-†!X"  # Dùn Chailleann
         }
         b_perth = {}
@@ -43142,7 +43142,7 @@ e_britannia = {
         }
         b_auchterarder = {
           pictish = "Ïpk>i"  # Uchel
-          welsh = "áw¬‚1’ïk>i"  # Hufenaruchel
+          welsh = "áw¬‚²ïk>i"  # Hufenaruchel
           irish = "ÏpkTN‚„>i"  # Uachdar Ardair
         }
         b_madderty = {
@@ -43158,7 +43158,7 @@ e_britannia = {
         b_inchaffray = {
           pictish = "Ïpòƒ—göS"  # Insee Ufirin
           welsh = "gYòƒ-†öS"  # Ynys Offeren
-          irish = "y|V-†·VöS"  # Innis Oifrend
+          irish = "‚V-†·VöS"  # Innis Oifrend
         }
         b_kenmore = {
           pictish = "|VŞRKQ"  # Bilauc
@@ -43192,7 +43192,7 @@ e_britannia = {
         }
         b_pitlochry = {
           pictish = "Fz—g"  # Moulin
-          welsh = "KQûƒ<h>n"  # Porth Craig
+          welsh = "KQ„<h>n"  # Porth Craig
           irish = "Zk—g"  # Mhaothlinne
         }
         b_fortingall = {
@@ -43237,7 +43237,7 @@ e_britannia = {
       capital = 40
       pictish = "jOyrYu"  # Fortriu
       welsh = "äSWáˆPk"  # Gwrturio
-      irish = "s|÷–U"  # Muireb
+      irish = "s|÷–kS"  # Muireb
       c_moray = {
         color = {
           20
@@ -43251,7 +43251,7 @@ e_britannia = {
         }
         pictish = "jOyrYu"  # Fortriu
         welsh = "äSWáˆPk"  # Gwrturio
-        irish = "s|÷–U"  # Muireb
+        irish = "s|÷–kS"  # Muireb
         b_forres = {
           pictish = "Z)R¯e"  # Uerris
           welsh = "-Wáˆ¯e"  # Gwerrys
@@ -43289,8 +43289,8 @@ e_britannia = {
         }
         b_urquhart = {
           pictish = "ÏpaS>i¨N"  # Urcarthen
-          welsh = "y|aS>iŠv"  # Aercardden
-          irish = "y|·VÈT>i9N"  # Airdchartdan
+          welsh = "‚aS>iŠv"  # Aercardden
+          irish = "‚·VÈT>i9N"  # Airdchartdan
         }
       }
       c_ross = {
@@ -43401,8 +43401,8 @@ e_britannia = {
         }
         b_st_machar = {
           pictish = "jtİO>i"  # Mabaur
-          welsh = "2W¬™ÕlÏp>i"  # Mabfawr Sant
-          irish = "2W¬™ÈT>i"  # Naomh Machar
+          welsh = "ew¬™ÕlÏp>i"  # Mabfawr Sant
+          irish = "ew¬™ÈT>i"  # Naomh Machar
         }
       }
       c_caithness = {
@@ -43424,10 +43424,10 @@ e_britannia = {
         welsh = "ñQyr<S¯e"  # Caitnys
         irish = "aSĞc+Y"  # Cataibh
         b_wick = {
-          norwegian = "wmn"  # Vik
-          danish = "wmn"  # Vik
-          swedish = "wmn"  # Vik
-          norse = "wmn"  # Vik
+          norwegian = "wmrp"  # Vik
+          danish = "wmrp"  # Vik
+          swedish = "wmrp"  # Vik
+          norse = "wmrp"  # Vik
           pictish = "ôTáw³lãS"  # Aberbachuu
           welsh = "ôTáwO³lãS"  # Aberbachwy
           irish = "Ïp<h³lãS"  # Inbhir Ùige
@@ -43453,14 +43453,14 @@ e_britannia = {
         }
         b_dunrobin = {
           pictish = "o›>Oyr!X"  # Dunrubert
-          welsh = "ûƒôTyr!X"  # Dinraibeart
+          welsh = "„ôTyr!X"  # Dinraibeart
           irish = "…>Oyr!X"  # Dùnrhobert
         }
         b_freswick = {
-          swedish = "V÷–n"  # Fresvik
-          danish = "V÷–n"  # Fresvik
-          norwegian = "V÷–n"  # Fresvik
-          norse = "V÷–n"  # Fresvik
+          swedish = "V÷–rp"  # Fresvik
+          danish = "V÷–rp"  # Fresvik
+          norwegian = "V÷–rp"  # Fresvik
+          norse = "V÷–rp"  # Fresvik
           pictish = "ÕlÏp>i³lãS"  # Aberfauur
           welsh = "ÕlÏp>i³lãS"  # Aberfawr
           irish = "NT>i³lãS"  # Obar Àrdair
@@ -43497,7 +43497,7 @@ e_britannia = {
     swedish = "O>i-†"  # Irland
     danish = "O>i-†"  # Irland
     norwegian = "O>i-†"  # Irland
-    irish = "y|>i"  # Éire
+    irish = "‚>i"  # Éire
     pictish = "O‡…T"  # Iuerthon
     welsh = "O‡…fe"  # Iwerddon
     breton = "O‡…g"  # Iwerzhon
@@ -43558,7 +43558,7 @@ e_britannia = {
           irish = "·VáˆÆYid>i"  # Druim Mór
         }
         b_larne = {
-          irish = "ÉbÈT>i1’"  # Latharna
+          irish = "ÉbÈT>i²"  # Latharna
         }
         b_dunluce = {
           irish = "ógnt!X"  # Dún Libhse
@@ -43875,7 +43875,7 @@ e_britannia = {
           irish = "s|kªR·V"  # Maigh Nuad
         }
         b_st_brigit = {
-          irish = "2W^áˆ	T·V"  # Naomh Brigid
+          irish = "ew^áˆ	T·V"  # Naomh Brigid
         }
         b_rathangan = {
           irish = "ÉbkàVÈTi`"  # Ráth Iomgháin
@@ -44018,7 +44018,7 @@ e_britannia = {
           irish = "aSÈT>iÉbk"  # Ceatharlach
         }
         b_ferns = {
-          irish = "Õl>i1’id>i…h—<h"  # Fearna Mór Maedhóg
+          irish = "Õl>i²id>i…h—<h"  # Fearna Mór Maedhóg
         }
         b_glendalough = {
           irish = "<h-†Tmk"  # Gleann Dá Loch
@@ -44055,7 +44055,7 @@ e_britannia = {
           irish = "?–ÈTkƒl"  # Achadh Bhó
         }
         b_jerpoint = {
-          irish = "jÉb8jàV"  # Sheireapúin
+          irish = "Éb8jàV"  # Sheireapúin
         }
         b_callan = {
           irish = "aS3t"  # Callainn
@@ -44128,7 +44128,7 @@ e_britannia = {
           irish = "o›ÆYtk"  # Luimneach
         }
         b_bunratty = {
-          irish = ",g1’áˆyr"  # Bun na Raite
+          irish = ",g²áˆyr"  # Bun na Raite
         }
         b_killaloe = {
           irish = "To›X"  # Cill Dálua
@@ -44186,7 +44186,7 @@ e_britannia = {
           irish = "KQ÷–¬S"  # Ros Cré
         }
         b_nenagh = {
-          irish = "O1’kÏp>iÏp,„"  # Aonach Urmhumhan
+          irish = "O²kÏp>iÏp,„"  # Aonach Urmhumhan
         }
         b_fethard = {
           irish = "»ŒkN·V"  # Fiodh Ard
@@ -44208,11 +44208,11 @@ e_britannia = {
           irish = "Ñy>iúWk"  # Corcaigh
         }
         b_dunasead = {
-          irish = "j·V!X"  # Dún na Séad
+          irish = "·V!X"  # Dún na Séad
         }
         b_clone = {}
         b_youghal = {
-          irish = "y|^>i"  # Eochaill
+          irish = "‚^>i"  # Eochaill
         }
         b_kilbrittain = {}
         b_cloyne = {
@@ -46771,11 +46771,11 @@ d_miaphysite = {
   male_names = {
     "N>OÉbU"  # Abraham
     "NwkqS'Y"  # Alexandros
-    "?–ûƒKQîO¯e"  # Alexios
+    "?–„KQîO¯e"  # Alexios
     "N Rkg"  # Agatho
     "?–t¯eTXîO¯e"  # Anastasios
     "‰R·V…<SÑy¯e"  # Andronikos
-    "?–TX1’‰ÄO¯e"  # Athanasios
+    "?–TX²‰ÄO¯e"  # Athanasios
     "¿OÅ–«a"  # Benjamin
     "KQáˆ¯eŠY…¯e"  # Christodolos
     "Ñy¯e¬™¯e"  # Cosmas
@@ -46786,17 +46786,17 @@ d_miaphysite = {
     " RvR"  # Gabriel
     "tğ<S¯e"  # Yohannes
     "tnty"  # Iosephos
-    "åNjúWgY¯e"  # Isaakios
+    "åNúWgY¯e"  # Isaakios
     "Å–Ñy»s¯e"  # Iakobos
     "¬™aSáˆgY¯e"  # Makarios
     "¬™úWÅ–şŠ¯e"  # Markianos
     "¬™3wÑy¯e"  # Markos
     "¬™îO¯e"  # Matheos
     "ÈTO>i"  # Khail
-    "s|1’"  # Mina
+    "s|²"  # Mina
     "iOyr…¯e"  # Petros
     "»ŒmîO¯e"  # Philotheos
-    "1ŒªRT"  # Shenouda
+    ",‹ªRT"  # Shenouda
     "‰ût"  # Simeon
     "ÄrgYY…¯e"  # Theodoros
     "ÄrgYòƒm¯e"  # Theophilus
@@ -46827,11 +46827,11 @@ d_monophysite = {
   male_names = {
     "N>OÉbU"  # Abraham
     "NwkqST…¯e"  # Alexandros
-    "?–ûƒKQîO¯e"  # Alexios
+    "?–„KQîO¯e"  # Alexios
     "N Rkg"  # Agatho
     "Nt'YJR"  # Anastasius
     "‰R·V…<S«^¯e"  # Andronicus
-    "?–TX1’‰ÄO¯e"  # Athanasios
+    "?–TX²‰ÄO¯e"  # Athanasios
     "¿OÅ–«a"  # Benjamin
     "KQáˆ¯eŠY…¯e"  # Christodolos
     "Ñy¯e¬™¯e"  # Cosmas
@@ -46848,10 +46848,10 @@ d_monophysite = {
     "¬™úWÅ–şŠ¯e"  # Markianos
     "¬™îO¯e"  # Matheos
     "s|ÈTO>i"  # Michail
-    "s|1’"  # Mina
+    "s|²"  # Mina
     "iOyr…¯e"  # Petros
     "»ŒmîO¯e"  # Philotheos
-    "1ŒªRT"  # Shenouda
+    ",‹ªRT"  # Shenouda
     "‰s|Á"  # Simeon
     "ÄrgYY…¯e"  # Theodoros
     "îO»Œo›¯e"  # Theophilus
@@ -46892,7 +46892,7 @@ d_nestorian = {
     "¬™›R«ƒ"  # Maremmeh
     "×k‰Á"  # Pethion
     "©…^áˆ9t"  # Sabrisho
-    "1Œ™„"  # Shemon
+    ",‹™„"  # Shemon
     "©…cR¯e"  # Sargis
     "†—g"  # Surin
     "îOY1t¯e"  # Theodosios
@@ -46922,11 +46922,11 @@ d_paulician = {
   primary = yes
   dynasty_title_names = no
   male_names = {
-    "?–ûƒKQîO¯e"  # Alexios
+    "?–„KQîO¯e"  # Alexios
     "NwkqS·V…¯e"  # Alexandros
     "?–t¯eTXîO¯e"  # Anastasios
     "‰RĞcØ"  # Anthimos
-    "?–TX1’‰ÄO¯e"  # Athanasios
+    "?–TX²‰ÄO¯e"  # Athanasios
     "‰Rqg<SgY¯e"  # Antonios
     "ôT‰>i"  # Basileios
     "ÄrgY<SîO¯e"  # Dionysios
@@ -46935,7 +46935,7 @@ d_paulician = {
     "3S¯eyrÉbĞcÏp¯e"  # Eustratios
     "3S‰s|gY¯e"  # Euthymios
     " RvR"  # Gabriel
-    "9h1’êÄO¯e"  # Gennadios
+    "9h²êÄO¯e"  # Gennadios
     "i—ÄO3wúWÄO¯e"  # Georgios
     "<hÉb‰«ƒ¯e"  # Gerasimos
     "i—>iüf"  # Germanos
@@ -46972,7 +46972,7 @@ d_paulician = {
     "iOyr…¯e"  # Petros
     "VĞcgY¯e"  # Photios
     "âl)RaSÀs¯e"  # Polykarpos
-    "1Œ	TgY¯e"  # Sergios
+    ",‹	TgY¯e"  # Sergios
     "¯eyrÕlşŠ¯e"  # Stephanos
     "1t+Y…<SgY¯e"  # Sophronios
     "ÄrgYY…¯e"  # Theodoros
@@ -47004,11 +47004,11 @@ d_monothelite = {
   primary = yes
   dynasty_title_names = no
   male_names = {
-    "?–ûƒKQîO¯e"  # Alexios
+    "?–„KQîO¯e"  # Alexios
     "NwkqS·V…¯e"  # Alexandros
     "?–t¯eTXîO¯e"  # Anastasios
     "‰RĞcØ"  # Anthimos
-    "?–TX1’‰ÄO¯e"  # Athanasios
+    "?–TX²‰ÄO¯e"  # Athanasios
     "‰Rqg<SgY¯e"  # Antonios
     "ôT‰>i"  # Basileios
     "ÄrgY<SîO¯e"  # Dionysios
@@ -47017,7 +47017,7 @@ d_monothelite = {
     "3S¯eyrÉbĞcÏp¯e"  # Eustratios
     "3S‰s|gY¯e"  # Euthymios
     " RvR"  # Gabriel
-    "9h1’êÄO¯e"  # Gennadios
+    "9h²êÄO¯e"  # Gennadios
     "i—ÄO3wúWÄO¯e"  # Georgios
     "<hÉb‰«ƒ¯e"  # Gerasimos
     "i—>iüf"  # Germanos
@@ -47054,7 +47054,7 @@ d_monothelite = {
     "iOyr…¯e"  # Petros
     "VĞcgY¯e"  # Photios
     "âl)RaSÀs¯e"  # Polykarpos
-    "1Œ	TgY¯e"  # Sergios
+    ",‹	TgY¯e"  # Sergios
     "¯e‚„ÕlşŠ¯e"  # Stephanos
     "1t+Y…<SgY¯e"  # Sophronios
     "îOY…¯e"  # Theodoros
@@ -47139,11 +47139,11 @@ d_iconoclast = {
   primary = yes
   dynasty_title_names = no
   male_names = {
-    "?–ûƒKQîO¯e"  # Alexios
+    "?–„KQîO¯e"  # Alexios
     "NwkqS·V…¯e"  # Alexandros
     "?–t¯eTXîO¯e"  # Anastasios
     "‰RĞcØ"  # Anthimos
-    "?–TX1’‰ÄO¯e"  # Athanasios
+    "?–TX²‰ÄO¯e"  # Athanasios
     "‰Rqg<SgY¯e"  # Antonios
     "ôT‰>i"  # Basileios
     "ÄrgY<SîO¯e"  # Dionysios
@@ -47152,7 +47152,7 @@ d_iconoclast = {
     "3S¯eyrÉbĞcÏp¯e"  # Eustratios
     "3S‰s|gY¯e"  # Euthymios
     " RvR"  # Gabriel
-    "9h1’êÄO¯e"  # Gennadios
+    "9h²êÄO¯e"  # Gennadios
     "i—ÄO3wúWÄO¯e"  # Georgios
     "<hÉb‰«ƒ¯e"  # Gerasimos
     "i—>iüf"  # Germanos
@@ -47189,7 +47189,7 @@ d_iconoclast = {
     "iOyr…¯e"  # Petros
     "VĞcgY¯e"  # Photios
     "âl)RaSÀs¯e"  # Polykarpos
-    "1Œ	TgY¯e"  # Sergios
+    ",‹	TgY¯e"  # Sergios
     "¯e‚„ÕlşŠ¯e"  # Stephanos
     "1t+Y…<SgY¯e"  # Sophronios
     "îOY…¯e"  # Theodoros
@@ -53767,7 +53767,7 @@ e_tibet = {
       }
       capital = 1498
       dignity = 5
-      bodpa = "J›N"  # Lhasa
+      bodpa = "›N"  # Lhasa
       han = "Éb©…"  # Lasa
       c_lhasa = {
         color = {
@@ -53944,7 +53944,7 @@ e_tibet = {
           han = "	N‰Ròf—g"  # San'anqulin
         }
         b_cona_b = {
-          han = "/“1’"  # Cuona
+          han = "/“²"  # Cuona
         }
         b_ritang = {}
         b_zhunba = {}
@@ -53963,7 +53963,7 @@ e_tibet = {
           255
           255
         }
-        bodpa = "Èp8Oßh"  # Nêdong
+        bodpa = "ÈpOßh"  # Nêdong
         han = "CNqg"  # Naidong
         b_yungbulakang = {
           han = "Í–^Éb·^"  # Yongbulangong
@@ -53976,7 +53976,7 @@ e_tibet = {
           han = "fàs"  # Changzhu
         }
         b_nedong = {
-          bodpa = "Èp8Oßh"  # Nêdong
+          bodpa = "ÈpOßh"  # Nêdong
           han = "CNqg"  # Naidong
         }
         b_phagmodru = {
@@ -54238,7 +54238,7 @@ e_tibet = {
         255
       }
       capital = 1351
-      han = "1’òf"  # Naqu
+      han = "²òf"  # Naqu
       culture = sumpa
       c_nagchu = {
         color = {
@@ -54251,15 +54251,15 @@ e_tibet = {
           255
           255
         }
-        han = "1’òf"  # Naqu
+        han = "²òf"  # Naqu
         b_nagchu = {
-          han = "1’òf"  # Naqu
+          han = "²òf"  # Naqu
         }
         b_lhomar = {
           han = "…jt"  # Luoma
         }
         b_namra = {
-          han = "1’¼R"  # Namaqie
+          han = "²¼R"  # Namaqie
         }
         b_golug = {
           han = "äS2—"  # Gulu
@@ -54481,7 +54481,7 @@ e_tibet = {
           han = "‰RY"  # Anduo
         }
         b_cona = {
-          han = "/“1’"  # Cuona
+          han = "/“²"  # Cuona
         }
         b_zaring = {
           han = "NbÁN"  # Zharen
@@ -54684,12 +54684,12 @@ e_tibet = {
           han = "TÉbU"  # Degelaka
         }
         b_simbiling = {
-          han = "³ŒÏg—g"  # Xangboling
+          han = "ñŒÏg—g"  # Xangboling
           zhangzhung = "kRäS"  # Tsegu
         }
         b_khorzhak = {
           han = "Ñyæ"  # Kejia
-          hindustani = "ØbÍ•1’ÖN"  # Kojanath
+          hindustani = "ØbÍ•²ÖN"  # Kojanath
         }
         b_zhangja = {
           han = "uPt"  # Shengjie
@@ -54911,8 +54911,8 @@ e_tibet = {
           han = "Ébœg"  # Laguo
         }
         b_nangangonna = {
-          bodpa = "1’”T«n1’"  # Nanga Ngönna
-          han = "1’”T«n1’"  # Nakawona
+          bodpa = "²”T«n²"  # Nanga Ngönna
+          han = "²”T«n²"  # Nakawona
         }
         b_jakar_b = {
           han = "‡VV"  # Xiaga
@@ -55209,8 +55209,8 @@ e_tibet = {
           han = "ÎWÜ•"  # Chengguan
         }
         b_riwoche = {
-          bodpa = "Š|ÏpJŸ"  # Riwoqê
-          han = "Š|ÏpJŸ"  # Leiwuqi
+          bodpa = "m˜ÏpJŸ"  # Riwoqê
+          han = "m˜ÏpJŸ"  # Leiwuqi
         }
         b_karub = {
           bodpa = "aSå‚"  # Kharro
@@ -55267,9 +55267,9 @@ e_tibet = {
           255
           255
         }
-        han = "ŠlW"  # Bianba
+        han = "ŠøX"  # Bianba
         b_banbar = {
-          han = "ŠlW"  # Bianba
+          han = "ŠøX"  # Bianba
         }
         b_coka = {
           han = "IƒaS"  # Caoka
@@ -56172,7 +56172,7 @@ e_tibet = {
           han = "Ü–Y"  # Zaduo
         }
         b_qapugtang = {
-          han = "©…|T"  # Shahuteng
+          han = "©…|T?š"  # Shahuteng
         }
         b_chadan = {}
         b_moyun = {}
@@ -56194,7 +56194,7 @@ e_tibet = {
         han = "H—Ï…"  # Liangsong
         b_denkok = {}
         b_serxu = {
-          bodpa = "r‚C˜"  # Sêrxü
+          bodpa = "r‚˜"  # Sêrxü
           han = "ów/n"  # Shiqu
         }
         b_gemeng = {}

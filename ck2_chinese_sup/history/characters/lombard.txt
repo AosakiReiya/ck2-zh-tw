@@ -490,7 +490,7 @@
   }
 }
 190154 = {
-  name = "y|3S>i+Y"  # Aiulf
+  name = "‚3S>i+Y"  # Aiulf
   dynasty = 1044031
   religion = "catholic"
   culture = "lombard"
@@ -933,7 +933,7 @@
   }
 }
 190167 = {
-  name = "ŒûƒgY"  # Beleo
+  name = "Œ„gY"  # Beleo
   dynasty = 1044045
   religion = "catholic"
   culture = "lombard"
@@ -945,7 +945,7 @@
   }
 }
 190168 = {
-  name = "KQûƒÕl"  # Cleph
+  name = "KQ„Õl"  # Cleph
   dynasty = 1044045
   religion = "catholic"
   culture = "lombard"
@@ -1373,7 +1373,7 @@
   }
 }
 190331 = {
-  name = "y|¯eW>i+Y"  # Aistulf
+  name = "‚¯eW>i+Y"  # Aistulf
   dynasty = 1044050
   religion = "catholic"
   culture = "lombard"
@@ -1402,7 +1402,7 @@
   }
 }
 190346 = {
-  name = "y|s|şŠ>i+Y"  # Erminolf
+  name = "‚s|şŠ>i+Y"  # Erminolf
   dynasty = 1044053
   father = 190345
   religion = catholic
@@ -2458,7 +2458,7 @@
   }
 }
 73320 = {
-  name = "jtLNN"  # Maria
+  name = "jt¦N"  # Maria
   female = yes
   religion = catholic
   culture = lombard
@@ -2647,7 +2647,7 @@
   }
 }
 73334 = {
-  name = "ûƒY+Y"  # Laidolf
+  name = "„Y+Y"  # Laidolf
   dynasty = 7184
   father = 73327
   religion = catholic
@@ -2914,7 +2914,7 @@
   }
 }
 73354 = {
-  name = "ûƒY+Y"  # Laidolf
+  name = "„Y+Y"  # Laidolf
   dynasty = 7184
   father = 73338
   religion = catholic
@@ -3072,7 +3072,7 @@
   }
 }
 168496 = {
-  name = "jtLNN"  # Maria
+  name = "jt¦N"  # Maria
   female = yes
   dynasty = 7184
   father = 73324
@@ -3099,7 +3099,7 @@
   }
 }
 1116 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 100336
   father = 30857
   religion = catholic
@@ -3185,7 +3185,7 @@
   }
 }
 1137 = {
-  name = "jtLNN"  # Maria
+  name = "jt¦N"  # Maria
   female = yes
   dynasty = 100336
   father = 30856
@@ -3227,7 +3227,7 @@
   }
 }
 30857 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 100336
   religion = catholic
   culture = lombard
@@ -3281,7 +3281,7 @@
   }
 }
 30861 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 100336
   father = 1116
   mother = 30854
@@ -3308,7 +3308,7 @@
   }
 }
 163091 = {
-  name = "äSy|V>i"  # Guaifer
+  name = "äS‚V>i"  # Guaifer
   dynasty = 1022178
   father = 145214
   religion = catholic
@@ -3425,7 +3425,7 @@
   }
 }
 145215 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 1022178
   father = 163091
   religion = catholic
@@ -3506,7 +3506,7 @@
   }
 }
 168429 = {
-  name = "jtLNN"  # Maria
+  name = "jt¦N"  # Maria
   female = yes
   religion = catholic
   culture = lombard
@@ -4087,7 +4087,7 @@
   }
 }
 168474 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 9592
   father = 168467
   religion = catholic
@@ -4393,7 +4393,7 @@
   }
 }
 168498 = {
-  name = "jtLNN"  # Maria
+  name = "jt¦N"  # Maria
   female = yes
   dynasty = 9592
   father = 168470
@@ -4467,7 +4467,7 @@
   }
 }
 200298 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 1022178
   father = 145215
   mother = 262155
@@ -4599,7 +4599,7 @@
   }
 }
 200308 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 1022178
   father = 200307
   religion = catholic
@@ -4677,7 +4677,7 @@
   }
 }
 200314 = {
-  name = "äSy|V>i"  # Guaifer
+  name = "äS‚V>i"  # Guaifer
   dynasty = 1022178
   father = 200310
   religion = catholic
@@ -4716,7 +4716,7 @@
   }
 }
 200317 = {
-  name = "äSy|V>i"  # Guaifer
+  name = "äS‚V>i"  # Guaifer
   dynasty = 1022178
   father = 200307
   religion = catholic
@@ -4729,7 +4729,7 @@
   }
 }
 200318 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 1022178
   father = 200317
   religion = catholic
@@ -4742,7 +4742,7 @@
   }
 }
 200319 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 1022178
   father = 200318
   religion = catholic
@@ -4755,7 +4755,7 @@
   }
 }
 200320 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 1022178
   father = 200319
   religion = catholic
@@ -4768,7 +4768,7 @@
   }
 }
 200321 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 1022178
   father = 200320
   religion = catholic
@@ -4794,7 +4794,7 @@
   }
 }
 200323 = {
-  name = "äSy|V>i"  # Guaifer
+  name = "äS‚V>i"  # Guaifer
   dynasty = 1022178
   father = 200322
   religion = catholic
@@ -4821,7 +4821,7 @@
   }
 }
 200325 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 100336
   father = 30856
   religion = catholic
@@ -4862,7 +4862,7 @@
   }
 }
 200328 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 100336
   father = 200325
   religion = catholic
@@ -4932,7 +4932,7 @@
   }
 }
 200335 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 100336
   father = 200333
   mother = 200334
@@ -5015,7 +5015,7 @@
   }
 }
 200341 = {
-  name = "y|jt"  # Emma
+  name = "‚jt"  # Emma
   female = yes
   dynasty = 100336
   father = 200336
@@ -5096,7 +5096,7 @@
   }
 }
 200347 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 100336
   father = 200335
   religion = catholic
@@ -5109,7 +5109,7 @@
   }
 }
 200348 = {
-  name = "äSy|¬™>i"  # Guaimar
+  name = "äS‚¬™>i"  # Guaimar
   dynasty = 100336
   father = 200347
   religion = catholic
@@ -5292,7 +5292,7 @@
   }
 }
 200362 = {
-  name = "y|jt"  # Emma
+  name = "‚jt"  # Emma
   female = yes
   dynasty = 100336
   father = 200360
@@ -5496,7 +5496,7 @@
   }
 }
 200378 = {
-  name = "ûƒS+Y"  # Laidolf
+  name = "„S+Y"  # Laidolf
   dynasty = 7184
   father = 200374
   religion = catholic
@@ -5548,7 +5548,7 @@
   }
 }
 200382 = {
-  name = "ûƒS+Y"  # Laidolf
+  name = "„S+Y"  # Laidolf
   dynasty = 7184
   father = 200380
   religion = catholic
@@ -5613,7 +5613,7 @@
   }
 }
 200387 = {
-  name = "ûƒS+Y"  # Laidolf
+  name = "„S+Y"  # Laidolf
   dynasty = 7184
   father = 200385
   religion = catholic
@@ -5757,7 +5757,7 @@
   }
 }
 262440 = {
-  name = "Ë„yrj„LNjt"  # Gaitelgrima
+  name = "Ë„yrj„¦jt"  # Gaitelgrima
   dynasty = 7184
   female = yes
   religion = catholic

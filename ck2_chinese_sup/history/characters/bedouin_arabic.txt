@@ -225,7 +225,7 @@
   }
 }
 144151 = {
-  name = "ØOjç‡V"  # al-Hussein
+  name = "ØOç‡V"  # al-Hussein
   dynasty = 792
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -251,7 +251,7 @@
   }
 }
 144153 = {
-  name = "y|»TÅê∑V"  # Ahmed
+  name = "çÇ»TÅê∑V"  # Ahmed
   dynasty = 792
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -360,7 +360,7 @@
   }
 }
 20740 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 101048
   martial = 8
   diplomacy = 8
@@ -414,7 +414,7 @@
   }
 }
 20822 = {
-  name = "tâU"  # Nassib
+  name = "tâkS"  # Nassib
   dynasty = 101042
   martial = 7
   diplomacy = 7
@@ -466,7 +466,7 @@
   }
 }
 20900 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 792
   martial = 5
   diplomacy = 8
@@ -675,7 +675,7 @@
   }
 }
 3200 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 597
   father = 73686
   martial = 6
@@ -1074,7 +1074,7 @@
   }
 }
 45052 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 7505
   martial = 4
   diplomacy = 4
@@ -1163,7 +1163,7 @@
   }
 }
 45057 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 576
   martial = 6
   diplomacy = 4
@@ -1341,7 +1341,7 @@
   }
 }
 32948 = {
-  name = "y|»TÅê∑VN"  # Ahmad ad-Din
+  name = "çÇ»TÅê∑VN"  # Ahmad ad-Din
   dynasty = 7273
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -1368,7 +1368,7 @@
   }
 }
 33901 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 101727
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -1396,7 +1396,7 @@
   }
 }
 33910 = {
-  name = "?ñ^ TX)RU"  # Abu Talib
+  name = "?ñ^ TX)RkS"  # Abu Talib
   dynasty = 7296
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -1427,7 +1427,7 @@
   }
 }
 33912 = {
-  name = "ØOjç‡V"  # Hussayn
+  name = "ØOç‡V"  # Hussayn
   dynasty = 589
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -1512,7 +1512,7 @@
   }
 }
 33918 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 589
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -1526,7 +1526,7 @@
   }
 }
 33919 = {
-  name = "y|»TÅê∑V"  # Ahmed
+  name = "çÇ»TÅê∑V"  # Ahmed
   dynasty = 589
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -1540,7 +1540,7 @@
   }
 }
 33920 = {
-  name = "ØOjç‡V"  # Hussayn
+  name = "ØOç‡V"  # Hussayn
   dynasty = 589
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -1594,7 +1594,7 @@
   }
 }
 33923 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 7296
   religion = "pagan"
   culture = "bedouin_arabic"
@@ -1854,7 +1854,7 @@
   }
 }
 34012 = {
-  name = "ôÑTXjç>i"  # Al-Muntasir
+  name = "ôÑTXç>i"  # Al-Muntasir
   dynasty = 101727
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -2206,7 +2206,7 @@
   }
 }
 34035 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 101727
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -2306,7 +2306,7 @@
   }
 }
 33928 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 7296
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -2334,7 +2334,7 @@
   }
 }
 33930 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 7296
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -2376,7 +2376,7 @@
   }
 }
 34041 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 7296
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -2404,7 +2404,7 @@
   }
 }
 34043 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 7296
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -2432,7 +2432,7 @@
   }
 }
 34045 = {
-  name = "Ü˚É¸f"  # Suleiman
+  name = "ÜÑ¸f"  # Suleiman
   dynasty = 7296
   culture = "bedouin_arabic"
   religion = "sunni"
@@ -2446,7 +2446,7 @@
   }
 }
 34046 = {
-  name = "ØOjç‡V"  # Hussayn
+  name = "ØOç‡V"  # Hussayn
   dynasty = 7296
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -2474,7 +2474,7 @@
   }
 }
 34048 = {
-  name = "?ñUkg“R aS·à∆Y"  # Abd al-Karim
+  name = "?ñkSkg“R aS·à∆Y"  # Abd al-Karim
   dynasty = 7296
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -2794,7 +2794,7 @@
   }
 }
 34365 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 100667
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -2820,7 +2820,7 @@
   }
 }
 34367 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 100667
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -2898,7 +2898,7 @@
   }
 }
 34373 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 100667
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -2937,7 +2937,7 @@
   }
 }
 34376 = {
-  name = "ØOjç‡V"  # Hussayn
+  name = "ØOç‡V"  # Hussayn
   dynasty = 100667
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -2989,7 +2989,7 @@
   }
 }
 34380 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 100667
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -3109,7 +3109,7 @@
   }
 }
 155060 = {
-  name = "?ñUkg“R-?ñJü2É"  # Abd-al-'Aziz
+  name = "?ñkSkg“R-?ñJü2É"  # Abd-al-'Aziz
   dynasty = 1027013
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -3316,7 +3316,7 @@
   }
 }
 34483 = {
-  name = "jç©∑V"  # Sa'id
+  name = "ç©∑V"  # Sa'id
   dynasty = 7308
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -3380,7 +3380,7 @@
   }
 }
 34498 = {
-  name = "†R)RU"  # Ghalib
+  name = "†R)RkS"  # Ghalib
   dynasty = 101728
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -3393,7 +3393,7 @@
   }
 }
 34499 = {
-  name = "?ñUkg“R-aSÍè>i"  # Abdul-Qadir
+  name = "?ñkSkg“R-aSÍè>i"  # Abdul-Qadir
   dynasty = 101728
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -3432,7 +3432,7 @@
   }
 }
 34502 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 101728
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -3471,7 +3471,7 @@
   }
 }
 34505 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 101728
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -3535,7 +3535,7 @@
   }
 }
 34524 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 100684
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -3677,7 +3677,7 @@
   }
 }
 34558 = {
-  name = "ØOjç‡V"  # Hussayn
+  name = "ØOç‡V"  # Hussayn
   dynasty = 100776
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -3755,7 +3755,7 @@
   }
 }
 34564 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 100776
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -3768,7 +3768,7 @@
   }
 }
 34565 = {
-  name = "?ñUkg“R-Êt»T∑V"  # Abdul-Wahad
+  name = "?ñkSkg“R-Êt»T∑V"  # Abdul-Wahad
   dynasty = 100776
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -3781,7 +3781,7 @@
   }
 }
 34566 = {
-  name = "?ñUkg“R-»Ts|∑V"  # Abdul-Hamid
+  name = "?ñkSkg“R-»Ts|∑V"  # Abdul-Hamid
   dynasty = 100776
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -3858,7 +3858,7 @@
   }
 }
 155139 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 101731
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4160,7 +4160,7 @@
   }
 }
 155162 = {
-  name = "jç©∑V"  # Said
+  name = "ç©∑V"  # Said
   dynasty = 1027011
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4173,7 +4173,7 @@
   }
 }
 155172 = {
-  name = "jç>iWl"  # Serhan
+  name = "ç>iWl"  # Serhan
   dynasty = 1027018
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4264,7 +4264,7 @@
   }
 }
 155179 = {
-  name = "?ñUØe"  # Abs
+  name = "?ñkSØe"  # Abs
   dynasty = 101731
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4306,7 +4306,7 @@
   }
 }
 155182 = {
-  name = "?ñUkg…b"  # Abd-'Allah
+  name = "?ñkSkg…b"  # Abd-'Allah
   dynasty = 1027017
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4332,7 +4332,7 @@
   }
 }
 155184 = {
-  name = "jç©∑V"  # Said
+  name = "ç©∑V"  # Said
   dynasty = 1027017
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4345,7 +4345,7 @@
   }
 }
 155185 = {
-  name = "?ñUkg…b"  # Abd-'Allah
+  name = "?ñkSkg…b"  # Abd-'Allah
   dynasty = 1027017
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4358,7 +4358,7 @@
   }
 }
 155186 = {
-  name = "?ñUkg“R-aS≠t"  # Abd-al-Qawi
+  name = "?ñkSkg“R-aS≠t"  # Abd-al-Qawi
   dynasty = 1027017
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4384,7 +4384,7 @@
   }
 }
 155188 = {
-  name = "jç©∑V"  # Said
+  name = "ç©∑V"  # Said
   dynasty = 1027017
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4439,7 +4439,7 @@
   }
 }
 155192 = {
-  name = "?ñUkg…b"  # Abd-'Allah
+  name = "?ñkSkg…b"  # Abd-'Allah
   dynasty = 1027018
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4465,7 +4465,7 @@
   }
 }
 155194 = {
-  name = "wmU"  # Heib
+  name = "wmkS"  # Heib
   dynasty = 101671
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4516,7 +4516,7 @@
   }
 }
 155198 = {
-  name = "aS)RU"  # Kilab
+  name = "aS)RkS"  # Kilab
   dynasty = 101671
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4555,7 +4555,7 @@
   }
 }
 155201 = {
-  name = "?ñ^-ÍèU"  # Abu-Dib
+  name = "?ñ^-ÍèkS"  # Abu-Dib
   dynasty = 101671
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4594,7 +4594,7 @@
   }
 }
 155204 = {
-  name = "˚É≈VóV"  # Lebid
+  name = "Ñ≈VóV"  # Lebid
   dynasty = 101671
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4646,7 +4646,7 @@
   }
 }
 155208 = {
-  name = "y|»TÅê∑V"  # Ahmed
+  name = "çÇ»TÅê∑V"  # Ahmed
   dynasty = 101671
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4737,7 +4737,7 @@
   }
 }
 155215 = {
-  name = "jç©+Y"  # Sayf
+  name = "ç©+Y"  # Sayf
   dynasty = 101671
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4763,7 +4763,7 @@
   }
 }
 155217 = {
-  name = "jç©∑V"  # Said
+  name = "ç©∑V"  # Said
   dynasty = 101671
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4893,7 +4893,7 @@
   }
 }
 155227 = {
-  name = "?ñU9N"  # Abdan
+  name = "?ñkS9N"  # Abdan
   dynasty = 101671
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -4906,7 +4906,7 @@
   }
 }
 155228 = {
-  name = "y|»TÅê∑V"  # Ahmed
+  name = "çÇ»TÅê∑V"  # Ahmed
   dynasty = 101671
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -5011,7 +5011,7 @@
   }
 }
 73667 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 597
   father = 73666
   religion = sunni
@@ -5039,7 +5039,7 @@
   }
 }
 73669 = {
-  name = "?ñUkg“R-≈ñÙT>i"  # Abd-al-Yabbar
+  name = "?ñkSkg“R-≈ñÙT>i"  # Abd-al-Yabbar
   dynasty = 597
   father = 3200
   religion = sunni
@@ -5081,7 +5081,7 @@
   }
 }
 73672 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 597
   father = 73670
   religion = sunni
@@ -5095,7 +5095,7 @@
   }
 }
 73673 = {
-  name = "Ü˚É¸f"  # Suleyman
+  name = "ÜÑ¸f"  # Suleyman
   dynasty = 597
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -5123,7 +5123,7 @@
   }
 }
 73675 = {
-  name = "Ü˚É¸f"  # Suleyman
+  name = "ÜÑ¸f"  # Suleyman
   dynasty = 597
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -5137,7 +5137,7 @@
   }
 }
 73676 = {
-  name = "?ñUkg“R-¨ô)RKQ"  # Abd-al-Malik
+  name = "?ñkSkg“R-¨ô)RKQ"  # Abd-al-Malik
   dynasty = 597
   father = 3200
   religion = sunni
@@ -5165,7 +5165,7 @@
   }
 }
 73678 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 597
   father = 73677
   religion = sunni
@@ -5179,7 +5179,7 @@
   }
 }
 73679 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 597
   dna = cmedkpffaax
   properties = mj0afa000000
@@ -5223,7 +5223,7 @@
   }
 }
 73682 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 597
   father = 73681
   religion = sunni
@@ -5281,7 +5281,7 @@
   }
 }
 73685 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 597
   martial = 3
   diplomacy = 3
@@ -5442,7 +5442,7 @@
   }
 }
 163009 = {
-  name = "jç>i∑V"  # Saad
+  name = "ç>i∑V"  # Saad
   dynasty = 7296
   religion = "pagan"
   culture = "bedouin_arabic"
@@ -5561,7 +5561,7 @@
   }
 }
 163018 = {
-  name = "?ñUkg“R-?ñ2É"  # Abdul-al-As
+  name = "?ñkSkg“R-?ñ2É"  # Abdul-al-As
   dynasty = 597
   religion = "pagan"
   culture = "bedouin_arabic"
@@ -5771,7 +5771,7 @@
   }
 }
 163033 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 597
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -5785,7 +5785,7 @@
   }
 }
 163034 = {
-  name = "?ñUkg“R-?ñJü2É"  # Abdul-Aziz
+  name = "?ñkSkg“R-?ñJü2É"  # Abdul-Aziz
   dynasty = 597
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -5855,7 +5855,7 @@
   }
 }
 163039 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 597
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -5926,7 +5926,7 @@
   }
 }
 163044 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 589
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -5973,7 +5973,7 @@
   }
 }
 163140 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 807
   religion = sunni
   culture = bedouin_arabic
@@ -6037,7 +6037,7 @@
   }
 }
 163145 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 807
   religion = sunni
   culture = bedouin_arabic
@@ -6063,7 +6063,7 @@
   }
 }
 163147 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 807
   religion = sunni
   culture = bedouin_arabic
@@ -6180,7 +6180,7 @@
   }
 }
 159393 = {
-  name = "ØOjç‡V"  # Hussayn
+  name = "ØOç‡V"  # Hussayn
   dynasty = 7296
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6194,7 +6194,7 @@
   }
 }
 159394 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 7296
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6222,7 +6222,7 @@
   }
 }
 159396 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 7296
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6250,7 +6250,7 @@
   }
 }
 159398 = {
-  name = "ØOjç‡V"  # Al-Husayn
+  name = "ØOç‡V"  # Al-Husayn
   dynasty = 576
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6264,7 +6264,7 @@
   }
 }
 159399 = {
-  name = "»TÍè y|…b-»TKQ IÑwmûN"  # Al-Hadi ila'l-Haqq Yahya
+  name = "»TÍè çÇ…b-»TKQ IÑwmûN"  # Al-Hadi ila'l-Haqq Yahya
   dynasty = 576
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6292,7 +6292,7 @@
   }
 }
 159401 = {
-  name = "têLR y|»TÅê∑V"  # An-Nasir Ahmad
+  name = "têLR çÇ»TÅê∑V"  # An-Nasir Ahmad
   dynasty = 576
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6306,7 +6306,7 @@
   }
 }
 159402 = {
-  name = "ôÑTX»TU »TQh"  # Al-Muntakhab al-Hasan
+  name = "ôÑTX»TkS »TQh"  # Al-Muntakhab al-Hasan
   dynasty = 576
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6376,7 +6376,7 @@
   }
 }
 159407 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 576
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6418,7 +6418,7 @@
   }
 }
 159410 = {
-  name = "¨ôkçÍè ØOjç‡V"  # al-Mahdi al-Husayn
+  name = "¨ôkçÍè ØOç‡V"  # al-Mahdi al-Husayn
   dynasty = 576
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6432,7 +6432,7 @@
   }
 }
 159411 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 576
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6488,7 +6488,7 @@
   }
 }
 159415 = {
-  name = "FzkçTXâU Fz»å^∑V »T∆YNb"  # Al-Muhtasib al-Mujahid Hamzah
+  name = "FzkçTXâkS Fz»å^∑V »T∆YNb"  # Al-Muhtasib al-Mujahid Hamzah
   dynasty = 576
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6544,7 +6544,7 @@
   }
 }
 159419 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 576
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6559,7 +6559,7 @@
   }
 }
 159420 = {
-  name = "FzTXÊt˙W“R y|»TÅê∑V"  # Al-Mutawakkil Ahmad
+  name = "FzTXÊt˙W“R çÇ»TÅê∑V"  # Al-Mutawakkil Ahmad
   dynasty = 576
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -6853,7 +6853,7 @@
   }
 }
 159390 = {
-  name = "Fz©ÖfU"  # Musayyib
+  name = "Fz©ÖfkS"  # Musayyib
   dynasty = 101862
   martial = 7
   diplomacy = 6
@@ -7189,7 +7189,7 @@
   }
 }
 163129 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 7296
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -7230,7 +7230,7 @@
   }
 }
 73187 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 12194
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -7283,7 +7283,7 @@
   }
 }
 73788 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 596
   father = 73787
   religion = sunni
@@ -7355,7 +7355,7 @@
   }
 }
 73793 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 596
   father = 73789
   mother = 73885
@@ -7396,7 +7396,7 @@
   }
 }
 73796 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 596
   father = 73795
   religion = sunni
@@ -7409,7 +7409,7 @@
   }
 }
 73797 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 596
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -7503,7 +7503,7 @@
   }
 }
 73846 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 12194
   father = 73843
   religion = sunni
@@ -7517,7 +7517,7 @@
   }
 }
 73847 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 12194
   father = 73845
   religion = sunni
@@ -7673,7 +7673,7 @@
   }
 }
 73904 = {
-  name = "†R)RU"  # Ghalib
+  name = "†R)RkS"  # Ghalib
   dynasty = 1046000
   father = 73903
   religion = sunni
@@ -7686,7 +7686,7 @@
   }
 }
 73905 = {
-  name = "TX)RU"  # Talib
+  name = "TX)RkS"  # Talib
   dynasty = 1046000
   father = 73904
   religion = sunni
@@ -7699,7 +7699,7 @@
   }
 }
 73906 = {
-  name = "?ñUkg“R-≈ñÙT>i"  # Abd-al-Yabbar
+  name = "?ñkSkg“R-≈ñÙT>i"  # Abd-al-Yabbar
   dynasty = 1046000
   father = 73905
   religion = sunni
@@ -7753,7 +7753,7 @@
   }
 }
 73941 = {
-  name = "?ñTXU"  # Attab
+  name = "?ñTXkS"  # Attab
   dynasty = 100709
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -7796,7 +7796,7 @@
   }
 }
 73944 = {
-  name = "Ü˚É¸f"  # Suleyman
+  name = "ÜÑ¸f"  # Suleyman
   dynasty = 12302
   father = 73945
   religion = "sunni"
@@ -7929,7 +7929,7 @@
   }
 }
 160020 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 1056
   culture = "bedouin_arabic"
   religion = "shiite"
@@ -7968,7 +7968,7 @@
   }
 }
 163152 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 809
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -8367,7 +8367,7 @@
   }
 }
 145966 = {
-  name = "?ñTX1íâƒOØe"  # Athanasios
+  name = "?ñTX≤êâƒOØe"  # Athanasios
   dynasty = 1022236
   religion = "nestorian"
   culture = "bedouin_arabic"
@@ -8462,7 +8462,7 @@
   }
 }
 73968 = {
-  name = "?ñUkg“R-?ñJü2É"  # Abd-al-Aziz
+  name = "?ñkSkg“R-?ñJü2É"  # Abd-al-Aziz
   dynasty = 12308
   father = 200033
   religion = sunni
@@ -8495,7 +8495,7 @@
   }
 }
 3910 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 572
   father = 45027
   religion = sunni
@@ -8508,7 +8508,7 @@
   }
 }
 20852 = {
-  name = "?ñUkg“R-¨ô)RKQ"  # Abd-al-Malik
+  name = "?ñkSkg“R-¨ô)RKQ"  # Abd-al-Malik
   dynasty = 101607
   father = 45001
   religion = sunni
@@ -8521,7 +8521,7 @@
   }
 }
 45000 = {
-  name = "?ñUkg“R-»T2É∆Y"  # Abd-al-Hazm
+  name = "?ñkSkg“R-»T2É∆Y"  # Abd-al-Hazm
   dynasty = 101607
   religion = sunni
   culture = bedouin_arabic
@@ -8533,7 +8533,7 @@
   }
 }
 45002 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 101607
   father = 45001
   religion = sunni
@@ -8546,7 +8546,7 @@
   }
 }
 45025 = {
-  name = "?ñUkg“R-?ñJü2É"  # Abd-al-Aziz
+  name = "?ñkSkg“R-?ñJü2É"  # Abd-al-Aziz
   dynasty = 569
   father = 73226
   religion = sunni
@@ -8559,7 +8559,7 @@
   }
 }
 45026 = {
-  name = "?ñUkg“R-¨ô)RKQ"  # Abd-al-Malik
+  name = "?ñkSkg“R-¨ô)RKQ"  # Abd-al-Malik
   dynasty = 569
   father = 45025
   religion = sunni
@@ -8578,7 +8578,7 @@
   }
 }
 73180 = {
-  name = "?ñUkg“R-¨ô)RKQ"  # Abd-al-Malik
+  name = "?ñkSkg“R-¨ô)RKQ"  # Abd-al-Malik
   dynasty = 599
   father = 45005
   religion = sunni
@@ -8600,7 +8600,7 @@
   }
 }
 73210 = {
-  name = "?ñUkg“R-¨ô)RKQ"  # Abd-al-Malik
+  name = "?ñkSkg“R-¨ô)RKQ"  # Abd-al-Malik
   dynasty = 569
   father = 73228
   religion = sunni
@@ -8634,7 +8634,7 @@
   }
 }
 73216 = {
-  name = "?ñUkg“R-≈ñÙT>i"  # Abd-al-Yabbar
+  name = "?ñkSkg“R-≈ñÙT>i"  # Abd-al-Yabbar
   dynasty = 594
   father = 3214
   mother = 73211
@@ -8648,7 +8648,7 @@
   }
 }
 73226 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 569
   father = 3206
   mother = 70125
@@ -8662,7 +8662,7 @@
   }
 }
 73228 = {
-  name = "?ñUkg“R-?ñJü2É"  # Abd-al-Aziz
+  name = "?ñkSkg“R-?ñJü2É"  # Abd-al-Aziz
   dynasty = 569
   father = 73227
   religion = sunni
@@ -8680,7 +8680,7 @@
   }
 }
 73239 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 572
   father = 73238
   religion = sunni
@@ -8702,7 +8702,7 @@
   }
 }
 200020 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 597
   father = 73679
   trait = sayyid
@@ -8716,7 +8716,7 @@
   }
 }
 200021 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 597
   father = 73679
   trait = sayyid
@@ -8744,7 +8744,7 @@
   }
 }
 200023 = {
-  name = "?ñUkg“R-?ñJü2É"  # Abd-al-Aziz
+  name = "?ñkSkg“R-?ñJü2É"  # Abd-al-Aziz
   dynasty = 1046001
   father = 200024
   religion = sunni
@@ -8774,7 +8774,7 @@
   }
 }
 200025 = {
-  name = "?ñUkg“R-≈ñÙT>i"  # Abd-al-Yabbar
+  name = "?ñkSkg“R-≈ñÙT>i"  # Abd-al-Yabbar
   dynasty = 1046000
   religion = sunni
   culture = bedouin_arabic
@@ -8789,7 +8789,7 @@
   }
 }
 200032 = {
-  name = "Ü˚É¸f"  # Suleyman
+  name = "ÜÑ¸f"  # Suleyman
   dynasty = 1046002
   religion = sunni
   culture = bedouin_arabic
@@ -8828,7 +8828,7 @@
   }
 }
 200035 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 12308
   religion = sunni
   culture = bedouin_arabic
@@ -8912,7 +8912,7 @@
   }
 }
 200043 = {
-  name = "?ñUkg“R-…bkç¸f"  # Abd-al-Rahman
+  name = "?ñkSkg“R-…bkç¸f"  # Abd-al-Rahman
   dynasty = 1046003
   father = 200042
   religion = sunni
@@ -8925,7 +8925,7 @@
   }
 }
 200046 = {
-  name = "ØOjç‡V"  # Husayn
+  name = "ØOç‡V"  # Husayn
   dynasty = 1046004
   religion = sunni
   culture = bedouin_arabic
@@ -8940,7 +8940,7 @@
   }
 }
 200048 = {
-  name = "jç©∑V"  # Sa'd
+  name = "ç©∑V"  # Sa'd
   dynasty = 1046004
   father = 200046
   mother = 200047
@@ -8954,7 +8954,7 @@
   }
 }
 200049 = {
-  name = "Ü˚É¸f"  # Suleyman
+  name = "ÜÑ¸f"  # Suleyman
   dynasty = 1046005
   religion = sunni
   culture = bedouin_arabic
@@ -8995,7 +8995,7 @@
   }
 }
 200054 = {
-  name = "Ü˚É¸f"  # Suleyman
+  name = "ÜÑ¸f"  # Suleyman
   dynasty = 1046007
   religion = sunni
   culture = bedouin_arabic
@@ -9071,7 +9071,7 @@
   }
 }
 188626 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 1042121
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -9084,7 +9084,7 @@
   }
 }
 188627 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 1042121
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -9174,7 +9174,7 @@
   }
 }
 188616 = {
-  name = "†R)RU"  # Ghalib
+  name = "†R)RkS"  # Ghalib
   dynasty = 1042117
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -9237,7 +9237,7 @@
   }
 }
 188621 = {
-  name = "˙W˚É^"  # Kilab
+  name = "˙WÑ^"  # Kilab
   dynasty = 1042120
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -9249,7 +9249,7 @@
   }
 }
 188622 = {
-  name = "HSjç©"  # Qusayy
+  name = "HSç©"  # Qusayy
   dynasty = 1042120
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -9312,7 +9312,7 @@
   }
 }
 200262 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 1046029
   father = 200261
   religion = sunni
@@ -9394,7 +9394,7 @@
   }
 }
 200268 = {
-  name = "Ü˚ÉûN"  # Suraya
+  name = "ÜÑûN"  # Suraya
   female = yes
   religion = sunni
   culture = bedouin_arabic
@@ -9418,7 +9418,7 @@
   }
 }
 200220 = {
-  name = "?ñUkg“R-?ñJü2É"  # Abd-al-Aziz
+  name = "?ñkSkg“R-?ñJü2É"  # Abd-al-Aziz
   dynasty = 1046023
   father = 200219
   religion = sunni
@@ -9431,7 +9431,7 @@
   }
 }
 200221 = {
-  name = "?ñUkg“R-¨ô)RKQ"  # Abd-al-Malik
+  name = "?ñkSkg“R-¨ô)RKQ"  # Abd-al-Malik
   dynasty = 1046023
   father = 200219
   religion = sunni
@@ -9471,7 +9471,7 @@
   }
 }
 200228 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 1046026
   father = 200226
   mother = 200227
@@ -9587,7 +9587,7 @@
   }
 }
 188578 = {
-  name = "jç©∑V"  # Sa'id
+  name = "ç©∑V"  # Sa'id
   dynasty = 602
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -9600,7 +9600,7 @@
   }
 }
 188579 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 602
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -9741,7 +9741,7 @@
   }
 }
 146019 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 1022357
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -9767,7 +9767,7 @@
   }
 }
 146021 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 1022357
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -9780,7 +9780,7 @@
   }
 }
 146022 = {
-  name = "ôl‘kU"  # Shabib
+  name = "ôl‘kkS"  # Shabib
   dynasty = 602
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -9931,7 +9931,7 @@
   }
 }
 146034 = {
-  name = "?ñUkg“R ¨ô)RKQ"  # Abd al-Malik
+  name = "?ñkSkg“R ¨ô)RKQ"  # Abd al-Malik
   dynasty = 101862
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -9995,7 +9995,7 @@
   }
 }
 146055 = {
-  name = "jç©∑V"  # Sa'id
+  name = "ç©∑V"  # Sa'id
   dynasty = 1022364
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10074,7 +10074,7 @@
   }
 }
 146061 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 101727
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10102,7 +10102,7 @@
   }
 }
 146063 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 101727
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10116,7 +10116,7 @@
   }
 }
 146064 = {
-  name = "?ñUkg“R ¨ô)RKQ"  # Abd al-Malik
+  name = "?ñkSkg“R ¨ô)RKQ"  # Abd al-Malik
   dynasty = 101727
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10130,7 +10130,7 @@
   }
 }
 146065 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 101727
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10144,7 +10144,7 @@
   }
 }
 146066 = {
-  name = "?ñUkg“R …bkç¸f"  # Abd ar-Rahman
+  name = "?ñkSkg“R …bkç¸f"  # Abd ar-Rahman
   dynasty = 101727
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10224,7 +10224,7 @@
   }
 }
 146072 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 1029123
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10322,7 +10322,7 @@
   }
 }
 146126 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 101727
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10336,7 +10336,7 @@
   }
 }
 146127 = {
-  name = "?ñUkg“R ÙT»TU"  # Abd al-Bahhab
+  name = "?ñkSkg“R ÙT»TkS"  # Abd al-Bahhab
   dynasty = 101727
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10428,7 +10428,7 @@
   }
 }
 188603 = {
-  name = "	TU·à“R"  # Jibril
+  name = "	TkS·à“R"  # Jibril
   dynasty = 1042147
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10592,7 +10592,7 @@
   }
 }
 188673 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 101727
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10723,7 +10723,7 @@
   }
 }
 188734 = {
-  name = "?ñUkg“R …bkç¸f"  # Abd ar-Rahman
+  name = "?ñkSkg“R …bkç¸f"  # Abd ar-Rahman
   dynasty = 1042164
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10761,7 +10761,7 @@
   }
 }
 188737 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 1042165
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10800,7 +10800,7 @@
   }
 }
 188740 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 1042165
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10813,7 +10813,7 @@
   }
 }
 188741 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 1042165
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10829,7 +10829,7 @@
   }
 }
 188742 = {
-  name = "TX)RU"  # Talib
+  name = "TX)RkS"  # Talib
   dynasty = 1042166
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10956,7 +10956,7 @@
   }
 }
 210003 = {
-  name = "»T‘kU"  # Habib
+  name = "»T‘kkS"  # Habib
   dynasty = 1048001
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -10995,7 +10995,7 @@
   }
 }
 210006 = {
-  name = "?ñUkg“R ¨ô)RKQ"  # Abd al-malik
+  name = "?ñkSkg“R ¨ô)RKQ"  # Abd al-malik
   dynasty = 1048001
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -11073,7 +11073,7 @@
   }
 }
 210012 = {
-  name = "‘k1å>i"  # Bishr
+  name = "‘k,ã>i"  # Bishr
   dynasty = 1048001
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -11115,7 +11115,7 @@
   }
 }
 210015 = {
-  name = "»T‘kU"  # Habib
+  name = "»T‘kkS"  # Habib
   dynasty = 1048001
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -11281,7 +11281,7 @@
   }
 }
 168731 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   father = 168728
   mother = 168721
   religion = "sunni"
@@ -11432,7 +11432,7 @@
   }
 }
 251002 = {
-  name = "ØOjç‡V"  # Hussayn
+  name = "ØOç‡V"  # Hussayn
   dynasty = 1060000
   religion = sunni
   culture = bedouin_arabic
@@ -11470,7 +11470,7 @@
   }
 }
 251005 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 1060002
   religion = sunni
   culture = bedouin_arabic
@@ -11530,7 +11530,7 @@
   }
 }
 45036 = {
-  name = "y|»TÅê∑V"  # Al-Mukarram
+  name = "çÇ»TÅê∑V"  # Al-Mukarram
   dynasty = 590
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -11564,7 +11564,7 @@
   }
 }
 220803 = {
-  name = "1å»T^"  # Shihab
+  name = ",ã»T^"  # Shihab
   dynasty = 590
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -11768,7 +11768,7 @@
   }
 }
 220816 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 590
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -11794,7 +11794,7 @@
   }
 }
 220818 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 590
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -11928,7 +11928,7 @@
   }
 }
 220826 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 1051211
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -11940,7 +11940,7 @@
   }
 }
 220827 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 1051211
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -12312,7 +12312,7 @@
   }
 }
 220850 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 1051213
   religion = "sunni"
   culture = "ethiopian"
@@ -12345,7 +12345,7 @@
   }
 }
 220852 = {
-  name = "?ñUkg“R Êt^∑V"  # Abd al-Wahid
+  name = "?ñkSkg“R Êt^∑V"  # Abd al-Wahid
   dynasty = 1051213
   religion = "sunni"
   culture = "ethiopian"
@@ -12466,7 +12466,7 @@
   }
 }
 220860 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 1051215
   religion = "sunni"
   culture = "bedouin_arabic"
@@ -12520,7 +12520,7 @@
   }
 }
 220865 = {
-  name = "?ñUkg…b"  # Abdallah
+  name = "?ñkSkg…b"  # Abdallah
   dynasty = 1051216
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -12533,7 +12533,7 @@
   }
 }
 220870 = {
-  name = "´^ÙTOU"  # Al-Qubaib
+  name = "´^ÙTOkS"  # Al-Qubaib
   dynasty = 7506
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -12596,7 +12596,7 @@
   }
 }
 220875 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 1051218
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -12626,7 +12626,7 @@
   }
 }
 260604 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 567
   religion = sunni
   culture = bedouin_arabic
@@ -12734,7 +12734,7 @@
   }
 }
 260641 = {
-  name = "ØOjç‡V"  # Hussayn
+  name = "ØOç‡V"  # Hussayn
   dynasty = 1062281
   religion = shiite
   culture = bedouin_arabic
@@ -12794,7 +12794,7 @@
   }
 }
 260856 = {
-  name = "	TU·à“R"  # Jibril
+  name = "	TkS·à“R"  # Jibril
   dynasty = 1062439
   religion = shiite
   culture = bedouin_arabic
@@ -12842,7 +12842,7 @@
   }
 }
 260908 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 1062464
   religion = nestorian
   culture = bedouin_arabic
@@ -12894,7 +12894,7 @@
   }
 }
 260932 = {
-  name = "?ñUkg“R"  # Abdul
+  name = "?ñkSkg“R"  # Abdul
   dynasty = 1062470
   religion = sunni
   culture = bedouin_arabic
@@ -12943,7 +12943,7 @@
   }
 }
 260935 = {
-  name = "ØOjç‡V"  # Hussayn
+  name = "ØOç‡V"  # Hussayn
   dynasty = 1062470
   religion = sunni
   culture = bedouin_arabic
@@ -13015,7 +13015,7 @@
   }
 }
 260940 = {
-  name = "†R)RU"  # Ghalib
+  name = "†R)RkS"  # Ghalib
   dynasty = 1062471
   religion = sunni
   culture = bedouin_arabic
@@ -13153,7 +13153,7 @@
   }
 }
 260950 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 1062472
   religion = sunni
   culture = bedouin_arabic
@@ -13258,7 +13258,7 @@
   }
 }
 260957 = {
-  name = "TX)RU"  # Talib
+  name = "TX)RkS"  # Talib
   dynasty = 1062473
   religion = qarmatian
   culture = bedouin_arabic
@@ -13289,7 +13289,7 @@
   }
 }
 260959 = {
-  name = "ØOjç‡V"  # Hussayn
+  name = "ØOç‡V"  # Hussayn
   dynasty = 1062473
   religion = sunni
   culture = bedouin_arabic
@@ -13303,7 +13303,7 @@
   }
 }
 260960 = {
-  name = "Ü˚É¸f"  # Sulayman
+  name = "ÜÑ¸f"  # Sulayman
   dynasty = 1062474
   religion = sunni
   culture = bedouin_arabic
@@ -13497,7 +13497,7 @@
   }
 }
 260974 = {
-  name = "jç©∑V"  # Sa'id
+  name = "ç©∑V"  # Sa'id
   dynasty = 12279
   culture = bedouin_arabic
   religion = qarmatian
@@ -13617,7 +13617,7 @@
   }
 }
 260979 = {
-  name = "fU…b2k"  # Ibrahim
+  name = "fkS…b2k"  # Ibrahim
   dynasty = 1062480
   culture = bedouin_arabic
   religion = shiite
@@ -13681,7 +13681,7 @@
   }
 }
 261010 = {
-  name = "?ñ^ ?ñUkg…b"  # Abu Abdallah
+  name = "?ñ^ ?ñkSkg…b"  # Abu Abdallah
   dynasty = 1062491
   religion = sunni
   culture = bedouin_arabic
@@ -13744,7 +13744,7 @@
   }
 }
 32900 = {
-  name = "?ñUkg…b"  # Abdullah
+  name = "?ñkSkg…b"  # Abdullah
   dynasty = 589
   religion = "shiite"
   culture = "bedouin_arabic"
@@ -13837,7 +13837,7 @@
   }
 }
 261324 = {
-  name = "jç©∑V"  # Sa'id
+  name = "ç©∑V"  # Sa'id
   dynasty = 1062413
   religion = shiite
   culture = bedouin_arabic
@@ -13849,7 +13849,7 @@
   }
 }
 261325 = {
-  name = "y|»TÅê∑V"  # Ahmad
+  name = "çÇ»TÅê∑V"  # Ahmad
   dynasty = 1062413
   religion = shiite
   culture = bedouin_arabic
@@ -13938,7 +13938,7 @@
   }
 }
 261370 = {
-  name = "†R)RU"  # Ghalib
+  name = "†R)RkS"  # Ghalib
   dynasty = 1062603
   religion = sunni
   culture = bedouin_arabic

@@ -3706,7 +3706,7 @@ character_event = {
                 }
               }
             }
-            set_name = "Aág"  # Liao Empire
+            set_name = "ãêg"  # Liao Empire
             set_title_flag = china_name_Liao
           }
           1 = {
@@ -4515,7 +4515,7 @@ character_event = {
             }
           }
         }
-        set_name = "2WóR"  # Shengzong
+        set_name = "ewóR"  # Shengzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Shengzong
         }
@@ -4613,7 +4613,7 @@ character_event = {
             }
           }
         }
-        set_name = "èpóR"  # Yangzong
+        set_name = "lhóR"  # Yangzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Yangzong
         }
@@ -4761,7 +4761,7 @@ character_event = {
             set_name = "ôç"  # Zhao
           }
           china_name_Liao = {
-            set_name = "Aá"  # Liao
+            set_name = "ãê"  # Liao
           }
           china_name_Yuan = {
             set_name = "CQ"  # Yuan
@@ -4886,7 +4886,7 @@ character_event = {
             set_name = "ôç"  # Zhao
           }
           china_name_Liao = {
-            set_name = "Aá"  # Liao
+            set_name = "ãê"  # Liao
           }
           china_name_Yuan = {
             set_name = "CQ"  # Yuan
@@ -5019,7 +5019,7 @@ character_event = {
             set_name = "ôçg"  # Zhao Empire
           }
           china_name_Liao = {
-            set_name = "Aág"  # Liao Empire
+            set_name = "ãêg"  # Liao Empire
           }
           china_name_Yuan = {
             set_name = "CQg"  # Yuan Empire
@@ -5125,7 +5125,7 @@ character_event = {
             set_name = "ôçg"  # Zhao Empire
           }
           china_name_Liao = {
-            set_name = "Aág"  # Liao Empire
+            set_name = "ãêg"  # Liao Empire
           }
           china_name_Yuan = {
             set_name = "CQg"  # Yuan Empire

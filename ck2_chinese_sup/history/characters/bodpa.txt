@@ -346,7 +346,7 @@
   }
 }
 12025 = {
-  name = "R1å"  # Lekhshey
+  name = "R,ã"  # Lekhshey
   dynasty = 19100
   culture = bodpa
   religion = buddhist
@@ -1208,7 +1208,7 @@
   }
 }
 12051 = {
-  name = "dçjtä|"  # Khrimalod
+  name = "dçjtmò"  # Khrimalod
   dynasty = 19100
   female = yes
   culture = bodpa
@@ -2127,7 +2127,7 @@
   }
 }
 247051 = {
-  name = "y|Íñ“R"  # Esho Lek
+  name = "çÇÍñ“R"  # Esho Lek
   dynasty = 105800
   religion = "bon"
   culture = "bodpa"
@@ -2178,7 +2178,7 @@
   }
 }
 247055 = {
-  name = "ÚN1å“R"  # Trongzhi Lek
+  name = "ÚN,ã“R"  # Trongzhi Lek
   dynasty = 105800
   religion = "bon"
   culture = "bodpa"
@@ -2482,7 +2482,7 @@
   }
 }
 247076 = {
-  name = "jçjtvV"  # Sadmarkar
+  name = "çjtvV"  # Sadmarkar
   female = yes
   dynasty = 105800
   religion = "bon"
@@ -2650,7 +2650,7 @@
   }
 }
 247090 = {
-  name = "dçjtä|"  # Thrimalˆ
+  name = "dçjtmò"  # Thrimalˆ
   female = yes
   dynasty = 105816
   religion = "bon"
@@ -2797,7 +2797,7 @@
   }
 }
 247098 = {
-  name = "SSjtä|"  # Dronmalˆn
+  name = "SSjtmò"  # Dronmalˆn
   female = yes
   dynasty = 105800
   religion = "bon"
@@ -3074,7 +3074,7 @@
   }
 }
 247119 = {
-  name = "^X1í“R"  # Sadnalegs
+  name = "^X≤ê“R"  # Sadnalegs
   dynasty = 105800
   religion = "buddhist"
   trait = "vajrayana_buddhist"
@@ -3131,7 +3131,7 @@
   }
 }
 247120 = {
-  name = "åvjtjç"  # Pema Sal
+  name = "åvjtç"  # Pema Sal
   female = yes
   dynasty = 105800
   religion = "buddhist"
@@ -3284,7 +3284,7 @@
   }
 }
 247129 = {
-  name = "1í VÉY"  # Nanamsa
+  name = "≤ê VÉY"  # Nanamsa
   female = yes
   dynasty = 105816
   religion = "bon"
@@ -3425,7 +3425,7 @@
   }
 }
 247139 = {
-  name = "1íLOÖÕï"  # Nagaraja
+  name = "≤êLOÖÕï"  # Nagaraja
   dynasty = 105800
   religion = "buddhist"
   trait = "vajrayana_buddhist"
@@ -3898,7 +3898,7 @@
   }
 }
 247172 = {
-  name = "…bLb1íxñ"  # Lhachen Naglug
+  name = "…bLb≤êxñ"  # Lhachen Naglug
   dynasty = 105800
   religion = "buddhist"
   trait = "vajrayana_buddhist"
@@ -4017,7 +4017,7 @@
   }
 }
 247180 = {
-  name = "1íLO∑V"  # Nagaide
+  name = "≤êLO∑V"  # Nagaide
   dynasty = 105800
   religion = "buddhist"
   trait = "vajrayana_buddhist"
@@ -4891,7 +4891,7 @@
   }
 }
 247238 = {
-  name = "p`1íY	T"  # Chakna Dorje
+  name = "p`≤êY	T"  # Chakna Dorje
   dynasty = 105802
   religion = "buddhist"
   culture = "bodpa"
@@ -5098,7 +5098,7 @@
   }
 }
 247252 = {
-  name = "lQÂTÖ‰SÖ`„vœÖÌsœÖU"  # Kunga Lotro Gyaltsen
+  name = "lQÂTÖ‰SÖ`„vœÖÌsœÖkS"  # Kunga Lotro Gyaltsen
   dynasty = 105802
   religion = "buddhist"
   culture = "bodpa"
@@ -5127,7 +5127,7 @@
   }
 }
 247254 = {
-  name = "lQÂTR`kQlt`„vœÖÌsœÖU"  # Kunga Lekpa Jungne Gyaltsen
+  name = "lQÂTR`kQlt`„vœÖÌsœÖkS"  # Kunga Lekpa Jungne Gyaltsen
   dynasty = 105802
   religion = "buddhist"
   culture = "bodpa"
@@ -5171,7 +5171,7 @@
   }
 }
 247257 = {
-  name = "lQÂTRQ„vœÖÌsœÖU"  # Kunga Gyaltsen
+  name = "lQÂTRQ„vœÖÌsœÖkS"  # Kunga Gyaltsen
   dynasty = 105802
   religion = "buddhist"
   culture = "bodpa"
@@ -5725,7 +5725,7 @@
   }
 }
 247296 = {
-  name = "…bûàÉY<hjt¶êä|"  # Lhamgonza GÈmaspranglod
+  name = "…bûàÉY<hjt¶êmò"  # Lhamgonza GÈmaspranglod
   female = yes
   religion = "buddhist"
   trait = "vajrayana_buddhist"
@@ -6540,7 +6540,7 @@
   }
 }
 243014 = {
-  name = "R1å"  # Lekhshey
+  name = "R,ã"  # Lekhshey
   dynasty = 1053027
   culture = bodpa
   religion = bon
@@ -6809,7 +6809,7 @@
   }
 }
 252022 = {
-  name = "íÇëP…bä|"  # Mangje Lhalo
+  name = "íÇëP…bmò"  # Mangje Lhalo
   dynasty = 105904
   religion = "bon"
   culture = "bodpa"
@@ -6848,7 +6848,7 @@
   }
 }
 252024 = {
-  name = "Pt˝ê1í"  # Gyaltore Taknye
+  name = "Pt˝ê≤ê"  # Gyaltore Taknye
   dynasty = 105904
   religion = "bon"
   culture = "bodpa"
@@ -6906,7 +6906,7 @@
   }
 }
 252029 = {
-  name = "ä|Ñ"  # Lotsen
+  name = "mòÑ"  # Lotsen
   dynasty = 105911
   religion = "bon"
   culture = "bodpa"
@@ -7005,7 +7005,7 @@
   }
 }
 252037 = {
-  name = "â`˛äJêm`y"  # Tadra Khonglo
+  name = "â`˛äûêm`y"  # Tadra Khonglo
   dynasty = 105904
   religion = "bon"
   culture = "bodpa"
@@ -7043,7 +7043,7 @@
   }
 }
 261090 = {
-  name = "ä|Ñ"  # Lotsen
+  name = "mòÑ"  # Lotsen
   dynasty = 1062527
   religion = bon
   culture = bodpa

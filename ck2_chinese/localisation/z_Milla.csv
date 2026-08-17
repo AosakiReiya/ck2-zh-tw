@@ -1,12 +1,12 @@
 ### ParaTranz ###
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 EVTDESC_LT_10103_A;N!k+ow•„vp‹ggp‹›VÿbÿnfPRı>fg°e„všŒ>e1XJT0bV†NãS2cÿÃVáˆ	gN.zSS„v+cWeaÿFO[upbeat_courtier.GetFirstName]Sb·e†Nb„v`Òtÿ0bNåwS`O>f&T(WNNÿb„v[Root.GetLordLady]ÿFOˆVYºNıˆVaÀo`OU†t[Root.GetCapitalHolding]NiR„vºNáT„v¹eV00;;;;;;;;;;;;x
-EVTDESC_LT_10103_B;(WZf™„vg›Vÿ[upbeat_courtier.GetTitledFirstName]ŠbbëS0R[upbeat_courtier.GetHerHis]LhŠÿcOwNPÛv	g[Root.GetAlcohol]„vØšsogÿ0bP-N	g1ŠYºNıó`ª‰êa1Œ¨`„vÛvÅ`>k…Vÿb„v[Root.GetLordLady]0bfŒv(W[Root.GetCapitalHolding]>fˆVã–d0RN-^KN0W„v00P[upbeat_courtier.GetManWoman]ÊtácOwb„vKbÿ2—úQ†NaÀo„v®Vr0;;;;;;;;;;;;x
-EVTDESC_LT_10103_C;Zf™„vBfPÿb„v[upbeat_courtier.GetRootRelation][upbeat_courtier.GetTitledFirstName]w«n†Nn[upbeat_courtier.GetHerHis]ÓUPRÿ0b„v[Root.GetLordLady]ÿ(WPq‚ã–„vBfgÿbP-N	g1ŠYºNıˆVaÀo¨`„v±qÅ`>k…V0&N^—Ob	gºNııwIN`Ob0R¼Y„vòh«KNObÿ[Root.GetMasterMistress]00;;;;;;;;;;;;x
-EVTOPTA_LT_10103;æTÿNN	gBfPbw„vœU1kaw(W¬™Ä^áˆ!;;;;;;;;;;;;x
+EVTDESC_LT_10103_B;(WZf™„vg›Vÿ[upbeat_courtier.GetTitledFirstName]ŠbbëS0R[upbeat_courtier.GetHerHis]LhŠÿcf„NPÛv	g[Root.GetAlcohol]„vØšsogÿ0bP-N	g1ŠYºNıó`ª‰êa,‹¨`„vÛvÅ`>k…Vÿb„v[Root.GetLordLady]0bfŒv(W[Root.GetCapitalHolding]>fˆVã–d0RN-^KN0W„v00P[upbeat_courtier.GetManWoman]Êtácf„b„vKbÿ2—úQ†NaÀo„v®Vr0;;;;;;;;;;;;x
+EVTDESC_LT_10103_C;Zf™„vBfPÿb„v[upbeat_courtier.GetRootRelation][upbeat_courtier.GetTitledFirstName]w«n†Nn[upbeat_courtier.GetHerHis]ÓUPRÿ0b„v[Root.GetLordLady]ÿ(WPq‚ã–„vBfgÿbP-N	g1ŠYºNıˆVaÀo¨`„v±qÅ`>k…V0&N^—Ob	gºNııwÉp`Ob0R¼Y„vòh«KNObÿ[Root.GetMasterMistress]00;;;;;;;;;;;;x
+EVTOPTA_LT_10103;æTÿNN	gBfPbw„vœUpkaw(W¬™Ä^áˆ!;;;;;;;;;;;;x
 EVTOPTB_LT_10103;JUÿFO>fºNY›RÏ‘'YJUÿb„v[upbeat_courtier.GetRootRelation]0;;;;;;;;;;;;x
-EVTOPTC_LT_10103;bêS>fœU1kŒT'Y¶R(WNwÿª‰a„v[upbeat_courtier.GetFirstName]ÿ;;;;;;;;;;;;x
-EVTOPTC_LT_10103_cruel;ôfY„vºNasTOwˆmwôfY„vÇŒn&&›Nı>fbPïSıw—‰„vqg‰0;;;;;;;;;;;;x
+EVTOPTC_LT_10103;bêS>fœUpkŒT'Y¶R(WNwÿª‰a„v[upbeat_courtier.GetFirstName]ÿ;;;;;;;;;;;;x
+EVTOPTC_LT_10103_cruel;ôfY„vºNasTf„ˆmwôfY„vÇŒn&&›Nı>fbPïSıw—‰„vqg‰0;;;;;;;;;;;;x
 EVTOPTD_LT_10103_A;le`OPNogÿb„vŒY[upbeat_courtier.GetManWoman]ÿ`OPSbıˆVÍ‘‰0;;;;;;;;;;;;x
 EVTOPTD_LT_10103_B;æTÿ[upbeat_courtier.GetRootRelation]0`OPSbıˆVÍ‘‰ÿ1S>f2a0;;;;;;;;;;;;x
 generous_host;waha„vJNºN;;;;;;;;;;;;x
@@ -16,8 +16,8 @@ calculating_host_desc;rŠÒ‰r‚àVŸ‚†N[Root.GetHerHis]÷^ã„vàV ŠmwT
 ruthless_host;!qÅ`„vJNºN;;;;;;;;;;;;x
 ruthless_host_desc;rŠÒ‰r‚åN[Root.GetHerHis]SºN›RÇŒn„vÙRæRKa¦^mwT¼eN0;;;;;;;;;;;;x
 naive_host;<P—VáOôŒ„vJNºN;;;;;;;;;;;;x
-naive_host_desc;rŠÒ‰r‚«ˆ2ŠIN>fWgQg×S1kÎ„vJNºN0;;;;;;;;;;;;x
+naive_host_desc;rŠÒ‰r‚«ˆœŠÉp>fWgQg×SpkÎ„vJNºN0;;;;;;;;;;;;x
 charitable_opinion;wahaŒYa;;;;;;;;;;;;x
 RULE_COURT_LIMIT;®R÷^‰!jP–6R;;;;;;;;;;;;x
 RULE_COURT_LIMIT_ON;ÏkP®R÷^„v÷^ãxeÏ‘S×S0RP–6R0;;;;;;;;;;;;x
-RULE_COURT_LIMIT_OFF;ÏkP®R÷^„v÷^ãxeÏ‘SNg×S0RP–6RÿTBfy(u‚˜Ig6RtšR„v‹NöN0;;;;;;;;;;;;x
+RULE_COURT_LIMIT_OFF;ÏkP®R÷^„v÷^ãxeÏ‘SNg×S0RP–6RÿTBfy(u‚˜nj6RtšR„v‹NöN0;;;;;;;;;;;;x

@@ -55,7 +55,7 @@ christian = {
     "NôTÎ"  # Abraham
     "NwkqS'Y"  # Alexander
     "T<S>i"  # Daniel
-    "6w2z"  # Jesus
+    "6wLq"  # Jesus
     "t>O"  # Job
     "å‚†„S"  # Joshua
     "‰ï¯e"  # Cyrus
@@ -70,22 +70,22 @@ christian = {
     " R'Y‹wt"  # Catherine
     "GRßo)RN"  # Cecilia
     "úW¯ešR"  # Christina
-    "KQûƒŒ‚„mZ"  # Clementia
+    "KQ„Œ‚„mZ"  # Clementia
     "TëXfW¯e"  # Constance
     "Y?†‰"  # Dorothy
-    "OLNƒŒv"  # Elisabeth
+    "O¦ƒŒv"  # Elisabeth
     "å‚ğt"  # Joan
     "ËSV·V"  # Judith
     "Q)RNt"  # Juliana
     "k)Rt"  # Helen
     "jtT‹wt"  # Magdalena
     "jt R)R'Y"  # Margaret
-    "jtLNN"  # Maria
+    "jt¦N"  # Maria
     "jt3t"  # Marine
     "^yr‰ƒY"  # Patricia
     "òƒ‰ƒ^"  # Philippa
     "ÉbPt"  # Rachel
-    "’dh"  # Sarah
+    "’d²"  # Sarah
     "1tòƒN"  # Sophia
     "¯e‚„¬‚®YÅ–"  # Stephania
   }
@@ -714,11 +714,11 @@ muslim = {
   }
   male_names = {
     "?–ôT¯e"  # Abbas
-    "?–UkgÒR"  # Abdul
-    "?–UkgÉb"  # Abdullah
+    "?–kSkgÒR"  # Abdul
+    "?–kSkgÉb"  # Abdullah
     "?–^ÈTQh"  # Abolhassan
     "?–^-ŒKQ>i"  # Abu-Bakr
-    "y|ÈT·V"  # Ahmad
+    "‚ÈT·V"  # Ahmad
     "?–KQôT"  # Akbar
     "‰RÉbN>i"  # Allahyar
     "?–áˆ"  # Ali
@@ -726,8 +726,8 @@ muslim = {
     "?–áˆ-ïS†–"  # Ali-Kolon
     "?–áˆ-Nb)RÒR"  # Ali-Zalil
     "ÈTQh"  # Hasan
-    "¯OjàV"  # Hossein
-    "¯OjàV"  # Hussayn
+    "¯OàV"  # Hossein
+    "¯OàV"  # Hussayn
     "O¯ejtH"  # Ismail
     "¬™ÈTƒ·V"  # Mahmud
     "FzUØ·V"  # Mohammed
@@ -735,24 +735,24 @@ muslim = {
     "FzUØ·V"  # Muhammad
   }
   female_names = {
-    "y|ƒ"  # Ayesha
+    "‚ƒ"  # Ayesha
     "?–^Éb>i"  # Abrar
     "?–e»Œ"  # Afifah
     "?–t­tmZ"  # Anabia
     "^	TÉb"  # Hijrah
     "2k·V"  # Hind
-    "wmLNÆY"  # Hareem
+    "wm¦ÆY"  # Hareem
     "OKQÉb"  # Iqra
     "áwê"  # Judi
-    "aSLNT"  # Karida
+    "aS¦T"  # Karida
     "k‚„ÈV"  # Khadijah
-    "ÈTLN²Y"  # Khalidah
+    "ÈT¦²Y"  # Khalidah
     "kÏpÉb"  # Khawlah
     "üfêÈT"  # Madeeha
-    "jtLNNÆY"  # Maryam
-    "jtLNN"  # Mariyah
+    "jt¦NÆY"  # Maryam
+    "jt¦N"  # Mariyah
     "…h™„Z"  # Maymunah
-    "jtLNNÆY"  # Mariam
+    "jt¦NÆY"  # Mariam
     "s|Z"  # Mina
     "ªRætÉb"  # Nuwwarrah
     "*tt¬™ÈT"  # Qismah
@@ -1172,7 +1172,7 @@ pagan_group = {
     "<h‰ƒjt"  # Grima
     "ES©…"  # Gytha
     "KQÉbaS"  # Kráka
-    "jt>iÆY™‚LN·V"  # Malmfrid
+    "jt>iÆY™‚¦·V"  # Malmfrid
     "ŠÉb"  # Thora
     "Š>iêt"  # Thordis
     "‚„Èƒ"  # Thyra
@@ -2481,7 +2481,7 @@ jewish_group = {
     jews_interface
   }
   male_names = {
-    "Œûƒyr"  # Belet
+    "Œ„yr"  # Belet
     "åN¯eÉb"  # Ezra
     "ÈTªRaS"  # Hanukkah
     "^‰¶R"  # Hezekiah
@@ -2508,11 +2508,11 @@ jewish_group = {
     "ÈTT©…"  # Hadassah
     ")RN"  # Leah
     "jtÉb"  # Machla
-    "s|LNmZÆY"  # Miriam
+    "s|¦mZÆY"  # Miriam
     "nfæt"  # Puah
     "iO<SZ"  # Peninah
-    "Éb1Œ>i"  # Rachel
-    "LN­taS"  # Rivkah
+    "Éb,‹>i"  # Rachel
+    "¦­taS"  # Rivkah
     "2—t"  # Ruth
     "ƒÉb"  # Sarah
     "ÖNjt"  # Tamar

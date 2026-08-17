@@ -63,21 +63,24 @@ def parse_bmf(path: Path):
 
 
 def corpus_chars() -> set[int]:
-    """從轉換後的繁體文本收集所有字元(decode_escape 解開放送格式)。"""
+    """從轉換後的繁體文本收集所有字元。
+
+    與 convert_tw 相同的嗅探順序:escape 格式優先(0x10-0x13 是合法 utf8
+    控制字元,直接 utf8 decode 會把中文吞成亂碼),再 utf8 / gb18030。"""
     sys.path.insert(0, str(ROOT / "tools"))
-    from convert_tw import decode_escape
+    from convert_tw import decode_escape, sniff
     files = list((ROOT / "ck2_chinese").glob("localisation/*.csv"))
     files += list((ROOT / "ck2_chinese_sup").rglob("*.txt"))
     chars = set()
     for f in files:
         data = f.read_bytes()
-        try:
-            s = data.decode("utf-8")
-        except UnicodeDecodeError:
-            try:
-                s = data.decode("gb18030")
-            except UnicodeDecodeError:
-                s, _, _ = decode_escape(data)
+        kind = sniff(data)
+        if kind is None:
+            continue
+        if kind == "escape":
+            s, _, _ = decode_escape(data)
+        else:
+            s = data.decode(kind)
         for ch in s:
             chars.add(ord(ch))
     return chars

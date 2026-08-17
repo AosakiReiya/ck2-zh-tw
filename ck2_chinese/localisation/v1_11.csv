@@ -3,11 +3,11 @@
 MENU_BAR_GAME_CONVERT;SúQJ2b;;;;;;;;;;;;x
 MENU_BAR_GAME_CONVERT_DEL;ŠbJ2bSúQó0Pkx–¨˜ò–IV0;;;;;;;;;;;;x
 BARBER_TOOLTIP;§Yt|v§!;;;;;;;;;;;;x
-RENAME_TITLE_TOOLTIP;-˜œ’Í‘qVT;;;;;;;;;;;;x
+RENAME_TITLE_TOOLTIP;-˜œ’Í‘ŒTT;;;;;;;;;;;;x
 CUSTOMIZE_HOUSE_TOOLTIP;êšR©¶RÏe;;;;;;;;;;;;x
-CUSTOMIZE_HOUSE_TOOLTIP_DISABLED;`ONıwêšR©rŠ¶RÏeÿàVIN`OÅVC˜bINvQOb	gbáT„vgØš˜JN0;;;;;;;;;;;;x
+CUSTOMIZE_HOUSE_TOOLTIP_DISABLED;`ONıwêšR©rŠ¶RÏeÿàVÉp`OÅV˜bÉpvQOb	gbáT„vgØš˜JN0;;;;;;;;;;;;x
 c_lappland_adj;Ébnf-†;;;;;;;;;;;;x
-RENAME;Í‘qVT;;;;;;;;;;;;x
+RENAME;Í‘ŒTT;;;;;;;;;;;;x
 NAME;T1z;;;;;;;;;;;;x
 ADJECTIVE;bV¹R^Š;;;;;;;;;;;;x
 POSSIBLE_PLOT_POWER;ïSıwgT0R„vp–‚›RÏ‘;;;;;;;;;;;;x
@@ -15,34 +15,34 @@ AUTO_INVITE_PLOTTERS;êÕRËŠp–‚ÃS‚w;;;;;;;;;;;;x
 AUTO_STOP_PLOTS;ê|vkPbkp–‚;;;;;;;;;;;;x
 AUTO_STOPPED_PLOT_SETUP;p–‚«ˆíc|v;;;;;;;;;;;;x
 AUTO_STOPPED_PLOT_LOG;§Y$PLOTTER$§!$PLOTTERJOB$ó`§Y$PLOTNAME$§!0;;;;;;;;;;;;x
-AUTO_STOPPED_PLOT_LETTER;bòT|vşs$PLOTTER$„YW$PLOTNAME$„vp–‚0bnNòT>múQNTOw“‹ÖN6eKb0\n\n¨`‹QS„v“•o‹J`¡rÿ\n$SPYMASTER$;;;;;;;;;;;;x
-AUTO_STOP_PLOT_START_SETUP;“•o‹J`¡r>múQáOO;;;;;;;;;;;;x
+AUTO_STOPPED_PLOT_LETTER;bòT|vşs$PLOTTER$„YW$PLOTNAME$„vp–‚0bnNòT>múQNTOw“‹ÖN6eKb0\n\n¨`‹QS„v“•ëŠLu¡rÿ\n$SPYMASTER$;;;;;;;;;;;;x
+AUTO_STOP_PLOT_START_SETUP;“•ëŠLu¡r>múQáOO;;;;;;;;;;;;x
 AUTO_STOP_PLOT_START_LOG;$SPYMASTER$>múQáOO6Rbkp–‚|vÕRw;;;;;;;;;;;;x
-AUTO_STOP_PLOT_START_LETTER;bòTTOb	gòTåw„vÆR‚ÃS‚w>múQÆROÿ“‹ÖNPËzsSkPbkÆR‚0\n\n¨`‹QS„v“•o‹J`¡rÿ\n$SPYMASTER$;;;;;;;;;;;;x
+AUTO_STOP_PLOT_START_LETTER;bòTTOb	gòTåw„vÆR‚ÃS‚w>múQÆROÿ“‹ÖNPËzsSkPbkÆR‚0\n\n¨`‹QS„v“•ëŠLu¡rÿ\n$SPYMASTER$;;;;;;;;;;;;x
 siege_leader;NJecîc˜R;;;;;;;;;;;;x
 siege_leader_desc;dkÒ‰r‚„U¼ecîcNJekO0b0;;;;;;;;;;;;x
 SIEGE;NJe;;;;;;;;;;;;x
-ADD_IP;ûm RIP0WSX;;;;;;;;;;;;x
-REMOVE_IP;nd–IP0WSX;;;;;;;;;;;;x
+ADD_IP;ûm RIP0WOW;;;;;;;;;;;;x
+REMOVE_IP;nd–IP0WOW;;;;;;;;;;;;x
 PENDING_PLOT_REQUEST;IrPTr†‰0;;;;;;;;;;;;x
 ACCEPTED_PLOT_REQUEST;ck>ecp–‚0;;;;;;;;;;;;x
 LOADING_TIP_52;`OïSåN	cOO Alt u“†OÅPxÇdf‚Š–;;;;;;;;;;;;x
 EXIT;Ü•‰•;;;;;;;;;;;;x
 CUT;jR'Tÿ;;;;;;;;;;;;x
-STYLE;Š|‹W;;;;;;;;;;;;x
+STYLE;m˜‹W;;;;;;;;;;;;x
 CAN_PERSUADE_TO_JOIN_PLOT;ïSåN(uN‹ˆÑ‘c^6e·Œ&&;;;;;;;;;;;;x
 city_job_chancellor_arabic;'Y­tJŸ>i;;;;;;;;;;;;x
 city_job_chancellor_iranian;'Y­tJŸ>i;;;;;;;;;;;;x
 city_job_chancellor_turkish;'Y­tJŸ>i;;;;;;;;;;;;x
 city_job_chancellor_west_african;'Y­tJŸ>i;;;;;;;;;;;;x
-city_job_chancellor_greek;J`t'Yã;;;;;;;;;;;;x
-city_job_spymaster_greek;Ig‰Øyøf;;;;;;;;;;;;x
-city_job_treasurer_greek;Áƒ?e'Yã;;;;;;;;;;;;x
+city_job_chancellor_greek;Lut'Yã;;;;;;;;;;;;x
+city_job_spymaster_greek;nj‰Øyøf;;;;;;;;;;;;x
+city_job_treasurer_greek;°Œ?e'Yã;;;;;;;;;;;;x
 city_job_chancellor_aztec;Ç†sY;;;;;;;;;;;;x
-city_job_treasurer_aztec;¢ŒæŒJ`¡r;;;;;;;;;;;;x
+city_job_treasurer_aztec;¢ŒæŒLu¡r;;;;;;;;;;;;x
 city_job_spiritual_aztec;'YmyøS;;;;;;;;;;;;x
 city_job_spymaster_aztec;—f¿kˆRj;;;;;;;;;;;;x
-city_job_marshal_aztec;ºNŠ|RrRw;;;;;;;;;;;;x
+city_job_marshal_aztec;ºNm˜RrRw;;;;;;;;;;;;x
 city_job_chancellor_zoroastrian_group;?–¯eTXôT2ƒ;;;;;;;;;;;;x
 city_job_treasurer_zoroastrian_group;T›RKQ-^yr;;;;;;;;;;;;x
 city_job_marshal_zoroastrian_group;Og›…âlÃR;;;;;;;;;;;;x
@@ -52,7 +52,7 @@ city_job_spiritual_christian;®R÷^øSmy;;;;;;;;;;;;x
 city_job_spiritual_orthodox;Yeggrw•;;;;;;;;;;;;x
 city_job_spiritual_muslim;®R÷^Ojtîv;;;;;;;;;;;;x
 city_job_spiritual_shiite;®R÷^ÛkÉb;;;;;;;;;;;;x
-city_job_spiritual_pagan_group;–™-^TOU+^;;;;;;;;;;;;x
+city_job_spiritual_pagan_group;–™-^TOkS+^;;;;;;;;;;;;x
 city_job_spiritual_pagan;HQåw;;;;;;;;;;;;x
 city_job_spiritual_baltic_pagan;myøS;;;;;;;;;;;;x
 city_job_spiritual_baltic_pagan_reformed;myøS;;;;;;;;;;;;x

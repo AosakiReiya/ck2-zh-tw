@@ -1,20 +1,20 @@
 ### ParaTranz ###
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-vice_royalty_2_desc;>T(uãsW SlQWJ`cw6R0;;;;;;;;;;;;x
-duke_vice_royalties;AQ1äãsW SlQWJ`cwú^;;;;;;;;;;;;x
-PLOT_POWER_DESC;∆RÇêNêrsóVÙfY	gõR>ecwÜO–cÿöbüRásˇÿö∆RÇ<Pg„âñìÙfYÑvyräk∆RÇzlpãåTãNˆN0ìã`OÑvìïoãJN°r(W`OÑv∆RÇÓvjÑvOb(W0W˙^Àzìïoã¡tSg2êNek–cÿö`OÑv∆RÇbüRás0;;;;;;;;;;;;x
-LIEGE_ENDED_OTHER_WAR_PARTICIPATION_LOG;ßY$VASSAL$ß!NçQ>fßY$VASSAL_WAR$ß!Ñv√SÇwˇ‡VIN$PRONOUN$STßY$LIEGE$ß!kOINßY$SIDE$ß!†ReQÜNßY$LIEGE_WAR$ß!0;;;;;;;;;;;;x
-LIEGE_ENDED_OTHER_WAR_LOG;ßY$VASSAL_WAR$ß!PtngÜNˇ‡VINßY$LIEGE$ß!kOINßY$SIDE$ß!†ReQÜNßY$LIEGE_WAR$ß!0;;;;;;;;;;;;x
+vice_royalty_2_desc;nU(uãsW SlQWLucw6R0;;;;;;;;;;;;x
+duke_vice_royalties;AQ1äãsW SlQWLucwú^;;;;;;;;;;;;x
+PLOT_POWER_DESC;∆RÇêNêrsóVÙfY	gõR>ecwÜO–cÿöbüRásˇÿö∆RÇ<Pg„âñìÙfYÑvyräk∆RÇzlpãåTãNˆN0ìã`OÑvìïÎäJN°r(W`OÑv∆RÇÓvjÑvOb(W0W˙^ÀzìïÎä¡tSg2êNek–cÿö`OÑv∆RÇbüRás0;;;;;;;;;;;;x
+LIEGE_ENDED_OTHER_WAR_PARTICIPATION_LOG;ßY$VASSAL$ß!NçQ>fßY$VASSAL_WAR$ß!Ñv√SÇwˇ‡V…p$PRONOUN$STßY$LIEGE$ß!kO…pßY$SIDE$ß!†ReQÜNßY$LIEGE_WAR$ß!0;;;;;;;;;;;;x
+LIEGE_ENDED_OTHER_WAR_LOG;ßY$VASSAL_WAR$ß!PtngÜNˇ‡V…pßY$LIEGE$ß!kO…pßY$SIDE$ß!†ReQÜNßY$LIEGE_WAR$ß!0;;;;;;;;;;;;x
 NOT_ANY_WAR_STARTS;!q0b-r;;;;;;;;;;;;x
-not_under_attack;N>f–gIW0b-rÑv2ñ°Vπe;;;;;;;;;;;;x
+not_under_attack;N>f–gCX0b-rÑv2ñ°Vπe;;;;;;;;;;;;x
 temple_king_pagan_group;ÎTãs;;;;;;;;;;;;x
 EVTTITLE_CM_1402;€SÇNÑv[From.PrimaryTitle.GetRulerTitle];;;;;;;;;;;;x
-EVTDESC_CM_1410;bÑv[Root.GetLordLady]ˇ€SíV[From.GetTitledName]ÃwµhÜN[From.GetHerHis]˛ääˇ“bUt>eÙc`OÕSób8O•ûIÑãsgˇ;;;;;;;;;;;;x
+EVTDESC_CM_1410;bÑv[Root.GetLordLady]ˇ€SíV[From.GetTitledName]Ãw”hÜN[From.GetHerHis]˛ääˇ“bUt>eÙc`OÕSóbO•ûIÑãsgˇ;;;;;;;;;;;;x
 TRIBAL_VASSAL_LEVY_CONTROL_ON;ËêLÑS„ÅSgT`O–cõO8^ôPÕé0\n;;;;;;;;;;;;x
 TRIBAL_VASSAL_LEVY_CONTROL_OFF;ËêLÑS„ÅSgkPbkT`O–cõO8^ôPÕé0\n;;;;;;;;;;;;x
 TRIBAL_VASSAL_TAX_INCOME_ON;ËêLÑS„ÅSgT`ONÇuz—ë0\n;;;;;;;;;;;;x
 TRIBAL_VASSAL_TAX_INCOME_OFF;ËêLÑS„ÅSgkPbkT`ONÇuz—ë0\n;;;;;;;;;;;;x
-LIEGE_TAX_TRIBAL;hsÀzÑvËêLÑbJêgròJNNg≠V÷NPÑvS„Å1í6e0Rz—ë;;;;;;;;;;;;x
+LIEGE_TAX_TRIBAL;hsÀzÑvËêLÑbJêgròJNNg≠V÷NPÑvS„Å≤ê6e0Rz—ë;;;;;;;;;;;;x
 CHRONICLE_WAR_WON;[From.GetTitledNameWithNick](W0b-r-N dWeÜN [Root.GetTitledNameWithNick]0;;;;;;;;;;;;x
 CHRONICLE_WAR_WHITEPEACE;[From.GetTitledNameWithNick]Ç [Root.GetTitledNameWithNick]æZåT0;;;;;;;;;;;;x
 CHRONICLE_WAR_LOST;[From.GetTitledNameWithNick](WÇ [Root.GetTitledNameWithNick]Ñv0b-r-N0bWeÜN0;;;;;;;;;;;;x

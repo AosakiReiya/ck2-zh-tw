@@ -66,7 +66,7 @@
   }
 }
 223005 = {
-  name = "aLNÅt"  # Alice
+  name = "a¶ûÅt"  # Alice
   female = yes
   dynasty = 190
   martial = 6
@@ -215,7 +215,7 @@
   }
 }
 223027 = {
-  name = "˚ÉTX"  # Retha
+  name = "ÑTX"  # Retha
   female = yes
   martial = 6
   diplomacy = 6
@@ -257,7 +257,7 @@
   }
 }
 223029 = {
-  name = "˚ÉTX"  # Retha
+  name = "ÑTX"  # Retha
   female = yes
   dynasty = 23003
   martial = 7
@@ -382,7 +382,7 @@
   }
 }
 223035 = {
-  name = "¨ô˚És|KQ"  # Maremik
+  name = "¨ôÑs|KQ"  # Maremik
   female = yes
   martial = 7
   diplomacy = 5
@@ -545,7 +545,7 @@
   }
 }
 232566 = {
-  name = "‘k?ñyrLNØe"  # Beatrice
+  name = "‘k?ñyr¶ûØe"  # Beatrice
   female = yes
   dynasty = 190
   martial = 4
@@ -563,7 +563,7 @@
   }
 }
 232568 = {
-  name = "LNTX"  # Rita
+  name = "¶ûTX"  # Rita
   female = yes
   dynasty = 190
   martial = 4
@@ -620,7 +620,7 @@
   }
 }
 232571 = {
-  name = "∆Y˚Ékç"  # Mleh
+  name = "∆YÑkç"  # Mleh
   dynasty = 190
   martial = 5
   diplomacy = 6
@@ -773,7 +773,7 @@
   }
 }
 232579 = {
-  name = "¨ô˚És|KQ"  # Maremik
+  name = "¨ôÑs|KQ"  # Maremik
   female = yes
   dynasty = 23003
   martial = 4
@@ -1181,7 +1181,7 @@
   }
 }
 232759 = {
-  name = "NbaS˚É"  # Zakare
+  name = "NbaSÑ"  # Zakare
   dynasty = 1029018
   martial = 4
   diplomacy = 4
@@ -1268,7 +1268,7 @@
   }
 }
 30990 = {
-  name = "jtLNûN∆Y"  # Mariam
+  name = "jt¶ûûN∆Y"  # Mariam
   female = yes
   dynasty = 190
   religion = "miaphysite"
@@ -1296,7 +1296,7 @@
   }
 }
 30992 = {
-  name = "jtLNûN∆Y"  # Mariam
+  name = "jt¶ûûN∆Y"  # Mariam
   female = yes
   dynasty = 190
   religion = "miaphysite"
@@ -1325,7 +1325,7 @@
   }
 }
 30994 = {
-  name = "Sê˚ÉTX"  # Doleta
+  name = "SêÑTX"  # Doleta
   female = yes
   dynasty = 190
   religion = "miaphysite"
@@ -1355,7 +1355,7 @@
   }
 }
 30999 = {
-  name = "LNTX"  # Rita
+  name = "¶ûTX"  # Rita
   female = yes
   dynasty = 190
   religion = "miaphysite"
@@ -2040,7 +2040,7 @@
   }
   809.1.1 = {
     death = "809.1.1"
-    name = "?ñTêt>i1å"  # Adanarse
+    name = "?ñTêt>i,ã"  # Adanarse
     religion = "orthodox"
     culture = "georgian"
   }
@@ -2174,7 +2174,7 @@
   }
 }
 41561 = {
-  name = "jtLNûN∆Y"  # Mariam
+  name = "jt¶ûûN∆Y"  # Mariam
   female = yes
   dynasty = 101736
   martial = 6
@@ -2298,7 +2298,7 @@
   }
 }
 41568 = {
-  name = "?ñ‘k…b<h·àU"  # Abulgharib
+  name = "?ñ‘k…b<h·àkS"  # Abulgharib
   dynasty = 101736
   martial = 1
   diplomacy = 8
@@ -2439,7 +2439,7 @@
   }
 }
 41576 = {
-  name = "ó+Y1fgQØe 1åÖmKQ·à∆Y"  # Hovhannes Senek'erim
+  name = "ó+Y1fgQØe ,ãÖmKQ·à∆Y"  # Hovhannes Senek'erim
   dynasty = 101736
   martial = 6
   diplomacy = 6
@@ -2874,7 +2874,7 @@
   }
 }
 461804 = {
-  name = "jtLNûN"  # Maria
+  name = "jt¶ûûN"  # Maria
   female = yes
   dynasty = 23003
   martial = 6
@@ -2915,7 +2915,7 @@
   }
 }
 465911 = {
-  name = "˚ÉTX"  # Retha
+  name = "ÑTX"  # Retha
   female = yes
   dynasty = 23003
   martial = 7
@@ -3223,7 +3223,7 @@
   }
 }
 90026 = {
-  name = "‘k?ñyrLNØe"  # Beatrice
+  name = "‘k?ñyr¶ûØe"  # Beatrice
   female = yes
   dynasty = 100706
   martial = 4
@@ -3260,7 +3260,7 @@
   }
 }
 90087 = {
-  name = "?ñ‘k…b<h·àU"  # Abulgharib
+  name = "?ñ‘k…b<h·àkS"  # Abulgharib
   dynasty = 20063
   martial = 7
   diplomacy = 6
@@ -3297,7 +3297,7 @@
   }
 }
 9951 = {
-  name = "jtLNûN∆Y"  # Mariam
+  name = "jt¶ûûN∆Y"  # Mariam
   female = yes
   dynasty = 101736
   martial = 6
@@ -3433,7 +3433,7 @@
   }
 }
 31835 = {
-  name = "jtLNûN"  # Maria
+  name = "jt¶ûûN"  # Maria
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -3448,7 +3448,7 @@
   }
 }
 31836 = {
-  name = "y|s|3t"  # Emeline
+  name = "çÇs|3t"  # Emeline
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -3491,7 +3491,7 @@
   }
 }
 31839 = {
-  name = "kçLNnfâÖh"  # Hripsimeh
+  name = "kç¶ûnfâÖh"  # Hripsimeh
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -3599,7 +3599,7 @@
   }
 }
 31848 = {
-  name = "jtLNûN"  # Maria
+  name = "jt¶ûûN"  # Maria
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -3853,7 +3853,7 @@
   }
 }
 31867 = {
-  name = "jtLNy|"  # Marie
+  name = "jt¶ûçÇ"  # Marie
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -4147,7 +4147,7 @@
   }
 }
 31890 = {
-  name = "˚ÉTX"  # Retha
+  name = "ÑTX"  # Retha
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -4288,7 +4288,7 @@
   }
 }
 159209 = {
-  name = "óLNéÉ"  # Khorishah
+  name = "ó¶ûéÉ"  # Khorishah
   dynasty = 1029018
   female = yes
   religion = "miaphysite"
@@ -4444,7 +4444,7 @@
   }
 }
 159219 = {
-  name = "NbaS˚É"  # Zakare
+  name = "NbaSÑ"  # Zakare
   dynasty = 1029018
   religion = "miaphysite"
   culture = "armenian"
@@ -4457,7 +4457,7 @@
   }
 }
 159220 = {
-  name = "NbaS˚É"  # Zakare
+  name = "NbaSÑ"  # Zakare
   dynasty = 1029023
   religion = "miaphysite"
   culture = "armenian"
@@ -4498,7 +4498,7 @@
   }
 }
 159223 = {
-  name = "NbaS˚É"  # Zakare
+  name = "NbaSÑ"  # Zakare
   dynasty = 1029018
   religion = "miaphysite"
   culture = "armenian"
@@ -4511,7 +4511,7 @@
   }
 }
 159224 = {
-  name = "NbaS˚É"  # Zakare
+  name = "NbaSÑ"  # Zakare
   dynasty = 1029018
   religion = "miaphysite"
   culture = "armenian"
@@ -4646,7 +4646,7 @@
   }
 }
 159238 = {
-  name = "NbaS˚É"  # Zakare
+  name = "NbaSÑ"  # Zakare
   dynasty = 1029018
   religion = "miaphysite"
   culture = "armenian"
@@ -5159,7 +5159,7 @@
   }
 }
 159288 = {
-  name = "jtLNûN"  # Maria
+  name = "jt¶ûûN"  # Maria
   female = yes
   dynasty = 507
   religion = "miaphysite"
@@ -5212,7 +5212,7 @@
   }
 }
 142589 = {
-  name = "jtLNûN∆Y"  # Mariam
+  name = "jt¶ûûN∆Y"  # Mariam
   female = yes
   dynasty = 101736
   religion = "miaphysite"
@@ -5223,7 +5223,7 @@
     birth = "1003.1.1"
   }
   1025.1.1 = {
-    name = "jtLNûN"  # Maria
+    name = "jt¶ûûN"  # Maria
     religion = "catholic"
     culture = "portuguese"
     add_spouse = 142587
@@ -5564,7 +5564,7 @@
   }
 }
 159582 = {
-  name = "œp…b1í6w>i"  # Urnayr
+  name = "œp…b≤ê6w>i"  # Urnayr
   dynasty = 100685
   religion = "miaphysite"
   culture = "armenian"
@@ -6858,7 +6858,7 @@
   }
 }
 159901 = {
-  name = "ÔgLNi`"  # Koriun
+  name = "Ôg¶ûi`"  # Koriun
   dynasty = 101736
   religion = "miaphysite"
   culture = "armenian"
@@ -7849,7 +7849,7 @@
   }
 }
 145997 = {
-  name = "jtLNûN"  # Maria
+  name = "jt¶ûûN"  # Maria
   dynasty = 1022355
   female = yes
   religion = "miaphysite"
@@ -8232,7 +8232,7 @@
   }
 }
 262880 = {
-  name = "∆Y˚Ékç"  # Mleh
+  name = "∆YÑkç"  # Mleh
   dynasty = 1063112
   religion = miaphysite
   culture = armenian
@@ -8273,7 +8273,7 @@
   }
 }
 262883 = {
-  name = "∆Y˚Ékç"  # Mleh
+  name = "∆YÑkç"  # Mleh
   dynasty = 1063112
   religion = miaphysite
   culture = armenian
