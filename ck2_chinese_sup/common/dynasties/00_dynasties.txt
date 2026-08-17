@@ -414,7 +414,7 @@
   religion = "catholic"
 }
 53 = {
-  name = "Æô âÃëâûN-<hmÿö"  # von Silesia-Glogau
+  name = "Æô â·àâûN-<hmÿö"  # von Silesia-Glogau
   culture = "german"
 }
 54 = {
@@ -477,7 +477,7 @@
   }
 }
 62 = {
-  name = "aSSXbÃëØe˙WØe"  # Cartoriskis
+  name = "aSSä·àØe˙WØe"  # Cartoriskis
   culture = "lithuanian"
 }
 63 = {
@@ -596,7 +596,7 @@
   }
 }
 80 = {
-  name = "∑V HOR%ä"  # de Brienne
+  name = "∑V ^R%ä"  # de Brienne
   culture = "frankish"
   religion = "catholic"
   coat_of_arms = {
@@ -680,7 +680,7 @@
   religion = "catholic"
 }
 90 = {
-  name = "∑V ÙuyrÃë"  # de Vitry
+  name = "∑V Ùuyr·à"  # de Vitry
   culture = "frankish"
   religion = "catholic"
 }
@@ -927,7 +927,7 @@
   religion = "catholic"
 }
 121 = {
-  name = "<hÃënf"  # Grip
+  name = "<h·ànf"  # Grip
   culture = "swedish"
   religion = "catholic"
 }
@@ -985,7 +985,7 @@
   }
 }
 128 = {
-  name = "äi`ùåÃë"  # Thornberg
+  name = "äi`ùå·à"  # Thornberg
   culture = "swedish"
   religion = "catholic"
 }
@@ -1101,7 +1101,7 @@
   religion = "catholic"
 }
 149 = {
-  name = "<hÃënf·wÙu∑V"  # Griphuvud
+  name = "<h·ànf·wÙu∑V"  # Griphuvud
   culture = "swedish"
   religion = "catholic"
 }
@@ -1148,7 +1148,7 @@
   used_for_random = no
 }
 156 = {
-  name = "Íè KQÃëÀó)R"  # di Crivelli
+  name = "Íè KQ·àÀó)R"  # di Crivelli
   culture = "italian"
   religion = "catholic"
 }
@@ -1206,7 +1206,7 @@
   culture = "russian"
 }
 169 = {
-  name = "YHO˜ñ<SGY"  # Dobrynich
+  name = "Y^˜ñ<SGY"  # Dobrynich
   culture = "russian"
 }
 170 = {
@@ -1236,7 +1236,7 @@
   culture = "pommeranian"
 }
 177 = {
-  name = "<hÃëÚÉTX"  # Gryfita
+  name = "<h·àÚÉTX"  # Gryfita
   culture = "pommeranian"
   religion = "slavic_pagan"
   coat_of_arms = {
@@ -1392,7 +1392,7 @@
   religion = "catholic"
 }
 198 = {
-  name = "œpÑS HO˜ñWS"  # Ua Braenain
+  name = "œpÑS ^˜ñWS"  # Ua Braenain
   culture = "irish"
   religion = "catholic"
 }
@@ -1691,7 +1691,7 @@
   }
 }
 235 = {
-  name = "∑V ÊtÃë‹b<h"  # de Valpergue
+  name = "∑V Êt·à‹b<h"  # de Valpergue
   culture = "frankish"
   religion = "catholic"
 }
@@ -2263,7 +2263,7 @@
   religion = "catholic"
 }
 322 = {
-  name = "∑V ÖhJüÃëûNKQ"  # de MÈziriac
+  name = "∑V ÖhJü·àûNKQ"  # de MÈziriac
   culture = "frankish"
   religion = "catholic"
 }
@@ -2283,7 +2283,7 @@
   religion = "catholic"
 }
 326 = {
-  name = "∑V HO˜ñ§o"  # de BrÈzÈ
+  name = "∑V ^˜ñ§o"  # de BrÈzÈ
   culture = "norman"
 }
 328 = {
@@ -2519,7 +2519,7 @@
   religion = "catholic"
 }
 366 = {
-  name = "ØeXbS"  # Stawell
+  name = "ØeäS"  # Stawell
   culture = "saxon"
 }
 367 = {
@@ -2702,7 +2702,7 @@
   religion = "catholic"
 }
 393 = {
-  name = "∑V i`nfÃë6wØe"  # d'Emp˙ries
+  name = "∑V i`nf·à6wØe"  # d'Emp˙ries
   culture = "catalan"
   religion = "catholic"
   coat_of_arms = {
@@ -2748,7 +2748,7 @@
   culture = "castillan"
 }
 398 = {
-  name = "yrÃëm ∑V …bØe ?ñØeWÃëûNØe"  # Trillo de las Asturias
+  name = "yr·àm ∑V …bØe ?ñØeW·àûNØe"  # Trillo de las Asturias
   culture = "castillan"
 }
 399 = {
@@ -2761,7 +2761,7 @@
   religion = "catholic"
 }
 401 = {
-  name = "∑V …bØe ?ñØeWÃëûNØe"  # de las Asturias
+  name = "∑V …bØe ?ñØeW·àûNØe"  # de las Asturias
   culture = "castillan"
   religion = "catholic"
 }
@@ -3110,7 +3110,7 @@
   }
 }
 448 = {
-  name = "^Ãë6w∆Y"  # Briem
+  name = "^·à6w∆Y"  # Briem
   culture = "norwegian"
   religion = "catholic"
 }
@@ -3393,7 +3393,7 @@
   }
 }
 492 = {
-  name = "Xb+YTX"  # af Tofta
+  name = "ä+YTX"  # af Tofta
   culture = "swedish"
   religion = "catholic"
 }
@@ -3573,7 +3573,7 @@
   used_for_random = no
 }
 508 = {
-  name = "aSØeyrÃëgYÇÑØe"  # Kastriotis
+  name = "aSØeyr·àgYÇÑØe"  # Kastriotis
   culture = "greek"
 }
 509 = {
@@ -3745,7 +3745,7 @@
   culture = "norman"
 }
 532 = {
-  name = "∑V OO·à"  # de Ivry
+  name = "∑V %Y+Y·à"  # de Ivry
   culture = "norman"
   religion = "catholic"
 }
@@ -3931,11 +3931,11 @@
   }
 }
 557 = {
-  name = "nfXbKQ"  # Puttoc
+  name = "nfäKQ"  # Puttoc
   culture = "saxon"
 }
 558 = {
-  name = "∑V ´ÉHO˜ñ"  # de Mowbray
+  name = "∑V ´É^˜ñ"  # de Mowbray
   culture = "norman"
   religion = "catholic"
 }
@@ -4424,7 +4424,7 @@
   culture = "turkish"
 }
 620 = {
-  name = "‚lYÃëGY"  # Bodricz
+  name = "‚lY·àGY"  # Bodricz
   culture = "polish"
   religion = "catholic"
 }
@@ -5052,7 +5052,7 @@
   }
 }
 681 = {
-  name = "∑V OO˜ñûN"  # d'Ivrea
+  name = "∑V %Y+Y˜ñûN"  # d'Ivrea
   culture = "italian"
   religion = "catholic"
   coat_of_arms = {
@@ -5153,7 +5153,7 @@
   religion = "catholic"
 }
 695 = {
-  name = "œp ^ÃëâR"  # Ua Briain
+  name = "œp ^·àâR"  # Ua Briain
   culture = "irish"
   religion = "catholic"
   coat_of_arms = {
@@ -5406,7 +5406,7 @@
   culture = "frankish"
 }
 726 = {
-  name = "∑V HORTX<S"  # de Bretagne
+  name = "∑V ^RTX<S"  # de Bretagne
   culture = "frankish"
 }
 727 = {
@@ -5516,7 +5516,7 @@
   }
 }
 742 = {
-  name = "∑V ^XF~-f-^Ãë8lHY"  # de SÈmur-en-Brionnais
+  name = "∑V ^XF~-f-^·à8lHY"  # de SÈmur-en-Brionnais
   culture = "frankish"
   religion = "catholic"
 }
@@ -5556,7 +5556,7 @@
   }
 }
 745 = {
-  name = "˛äÓh^ÃëûN"  # of Northumbria
+  name = "˛äÓh^·àûN"  # of Northumbria
   culture = "saxon"
   religion = "catholic"
   coat_of_arms = {
@@ -5835,7 +5835,7 @@
   religion = "catholic"
 }
 780 = {
-  name = "∑V ^ÃëÇÑmâ"  # de Briteirose
+  name = "∑V ^·àÇÑmâ"  # de Briteirose
   culture = "portuguese"
 }
 781 = {
@@ -6139,7 +6139,7 @@
   }
 }
 814 = {
-  name = "˛äÓh^ÃëûN"  # of Northumbria
+  name = "˛äÓh^·àûN"  # of Northumbria
   culture = "saxon"
   religion = "catholic"
   coat_of_arms = {
@@ -6177,7 +6177,7 @@
   }
 }
 817 = {
-  name = "HORTX<S"  # of Brittany
+  name = "^RTX<S"  # of Brittany
   culture = "breton"
 }
 818 = {
@@ -6355,7 +6355,7 @@
   }
 }
 829 = {
-  name = "‡V<hÃëûN"  # Ingrija
+  name = "‡V<h·àûN"  # Ingrija
   culture = "ugricbaltic"
   religion = "finnish_pagan"
 }
@@ -6518,7 +6518,7 @@
   }
 }
 840 = {
-  name = "Üi`©ÖÃë"  # Suensaari
+  name = "Üi`©Ö·à"  # Suensaari
   culture = "finnish"
 }
 841 = {
@@ -6758,7 +6758,7 @@
   used_for_random = no
 }
 862 = {
-  name = "èy<hÃëœpØe"  # Vogelius
+  name = "èy<h·àœpØe"  # Vogelius
   culture = "danish"
   religion = "norse_pagan"
   used_for_random = no
@@ -6894,7 +6894,7 @@
   }
 }
 876 = {
-  name = "kçùåÃë"  # Sjˆberg
+  name = "kçùå·à"  # Sjˆberg
   culture = "swedish"
   religion = "catholic"
   used_for_random = no
@@ -7020,7 +7020,7 @@
   used_for_random = no
 }
 885 = {
-  name = "V…bÃë"  # Frary
+  name = "V…b·à"  # Frary
   culture = saxon
   religion = catholic
   coat_of_arms = {
@@ -7056,7 +7056,7 @@
   used_for_random = no
 }
 886 = {
-  name = "™RSùåÃë"  # Norberg
+  name = "™RSùå·à"  # Norberg
   culture = swedish
   religion = catholic
   coat_of_arms = {
@@ -7350,7 +7350,7 @@
   used_for_random = no
 }
 896 = {
-  name = "»TSùåÃë"  # Hallberg
+  name = "»TSùå·à"  # Hallberg
   culture = "swedish"
   religion = "catholic"
   coat_of_arms = {
@@ -7652,7 +7652,7 @@
   used_for_random = no
 }
 909 = {
-  name = "∑V Ãë†RS"  # der Leegar
+  name = "∑V ·à†RS"  # der Leegar
   culture = "german"
   religion = "orthodox"
   coat_of_arms = {
@@ -8904,7 +8904,7 @@
   used_for_random = no
 }
 952 = {
-  name = "ùåÃë"  # Berg
+  name = "ùå·à"  # Berg
   culture = "norse"
   religion = "norse_pagan"
   coat_of_arms = {
@@ -8958,7 +8958,7 @@
   }
 }
 971 = {
-  name = "aSSùåÃë"  # Carlberg
+  name = "aSSùå·à"  # Carlberg
   culture = "swedish"
   religion = "catholic"
   used_for_random = no
@@ -9180,7 +9180,7 @@
   }
 }
 980 = {
-  name = "óÀóSùåÃë"  # Hofverberg
+  name = "óÀóSùå·à"  # Hofverberg
   culture = "swedish"
   religion = "catholic"
   is_modified = yes
@@ -9198,7 +9198,7 @@
   }
 }
 981 = {
-  name = "QhXbØe"  # Santos
+  name = "QhäØe"  # Santos
   culture = "portuguese"
   religion = "catholic"
   is_modified = yes
@@ -9251,7 +9251,7 @@
   culture = "swedish"
 }
 1007 = {
-  name = "HO˜ñ"  # Bure
+  name = "^˜ñ"  # Bure
   culture = "swedish"
 }
 1008 = {
@@ -9395,7 +9395,7 @@
   culture = "swedish"
 }
 1035 = {
-  name = "Xbyr"  # Thott
+  name = "äyr"  # Thott
   culture = "danish"
 }
 1036 = {
@@ -9421,7 +9421,7 @@
   culture = "swedish"
 }
 1043 = {
-  name = "´nØeXb^"  # Vinstorpa
+  name = "´nØeä^"  # Vinstorpa
   culture = "swedish"
 }
 1044 = {
@@ -9445,7 +9445,7 @@
   culture = "swedish"
 }
 1049 = {
-  name = "ØegQƒO%RÃë—y"  # Snedbielke
+  name = "ØegQƒO%R·à—y"  # Snedbielke
   culture = "swedish"
 }
 1050 = {
@@ -9545,7 +9545,7 @@
   culture = "english"
 }
 1152 = {
-  name = "Y≤è"  # Shannon
+  name = "ôô≤è"  # Shannon
   culture = "irish"
 }
 1153 = {
@@ -9704,7 +9704,7 @@
   culture = "norse"
 }
 1185 = {
-  name = "Øe<SûNÃë"  # Snjalli
+  name = "Øe<SûN·à"  # Snjalli
   culture = "norse"
 }
 1186 = {
@@ -9724,7 +9724,7 @@
   culture = "norse"
 }
 1190 = {
-  name = "ntÊtÃë"  # ﬁvari
+  name = "ntÊt·à"  # ﬁvari
   culture = "norse"
 }
 1191 = {
@@ -9934,7 +9934,7 @@
   culture = "finnish"
 }
 2001 = {
-  name = ",gÒQ¿NXbKQ"  # Benkestokk
+  name = ",gÒQ¿NäKQ"  # Benkestokk
   culture = "norwegian"
 }
 2002 = {
@@ -9986,7 +9986,7 @@
   culture = "saxon"
 }
 2014 = {
-  name = "ØeÃë"  # Slee
+  name = "Øe·à"  # Slee
   culture = "saxon"
 }
 2015 = {
@@ -10493,7 +10493,7 @@
   religion = "catholic"
 }
 4012 = {
-  name = "KQÃëØes^"  # Crispin
+  name = "KQ·àØes^"  # Crispin
   culture = "norman"
 }
 4013 = {
@@ -10569,7 +10569,7 @@
   culture = "norman"
 }
 4030 = {
-  name = "∑V Ãë^+P"  # de Leyburne
+  name = "∑V ·à^+P"  # de Leyburne
   culture = "norman"
 }
 4031 = {
@@ -10577,7 +10577,7 @@
   culture = "saxon"
 }
 4032 = {
-  name = "∑V <h˜ñØeXbKQ"  # de Greystock
+  name = "∑V <h˜ñØeäKQ"  # de Greystock
   culture = "norman"
 }
 4033 = {
@@ -10645,7 +10645,7 @@
   religion = "catholic"
 }
 4046 = {
-  name = "ÚÉ(É^yrÃëKQ"  # FitzPatrick
+  name = "ÚÉ(É^yr·àKQ"  # FitzPatrick
   culture = "irish"
 }
 4047 = {
@@ -10767,7 +10767,7 @@
   culture = "frankish"
 }
 5026 = {
-  name = "∑V ^Ãë√W"  # de Briey
+  name = "∑V ^·à√W"  # de Briey
   culture = "frankish"
 }
 5027 = {
@@ -11229,7 +11229,7 @@
   culture = "dutch"
 }
 6006 = {
-  name = "ƒ{ HO˜ñTê"  # van Breda
+  name = "ƒ{ ^˜ñTê"  # van Breda
   culture = "dutch"
 }
 6007 = {
@@ -11385,7 +11385,7 @@
   culture = "castillan"
 }
 7015 = {
-  name = "∑V 1tXb¨ô¶uS"  # de Sotomayor
+  name = "∑V 1tä¨ô¶uS"  # de Sotomayor
   culture = "castillan"
 }
 7016 = {
@@ -11541,7 +11541,7 @@
   culture = "basque"
 }
 7050 = {
-  name = "∑V ﬁRÃëûN"  # de Lauria
+  name = "∑V ﬁR·àûN"  # de Lauria
   culture = "italian"
   religion = "catholic"
 }
@@ -11625,7 +11625,7 @@
   religion = "catholic"
 }
 7109 = {
-  name = "Æô áeØeXb+Y"  # von Wunstorf
+  name = "Æô áeØeä+Y"  # von Wunstorf
   culture = "german"
   religion = "catholic"
 }
@@ -11725,7 +11725,7 @@
   religion = "catholic"
 }
 7129 = {
-  name = "ƒ{ ªåØe8Yyr"  # van Visquard
+  name = "ƒ{ ªåØeáäyr"  # van Visquard
   culture = "dutch"
   religion = "catholic"
 }
@@ -11774,7 +11774,7 @@
   religion = "catholic"
 }
 7139 = {
-  name = "Æô Ùu“RØeÃë,g"  # von W¸llersleben
+  name = "Æô Ùu“RØe·à,g"  # von W¸llersleben
   culture = "german"
   religion = "catholic"
 }
@@ -11804,7 +11804,7 @@
   religion = "catholic"
 }
 7145 = {
-  name = "Æô yrÃëS"  # von Trier
+  name = "Æô yr·àS"  # von Trier
   culture = "german"
   religion = "catholic"
 }
@@ -12114,7 +12114,7 @@
   religion = "catholic"
 }
 7201 = {
-  name = "∑V KQÃë1t‡V"  # de Crysoing
+  name = "∑V KQ·à1t‡V"  # de Crysoing
   culture = "frankish"
   religion = "catholic"
 }
@@ -12149,7 +12149,7 @@
   religion = "catholic"
 }
 7208 = {
-  name = "∑V HO˜ñØe"  # de Bures
+  name = "∑V ^˜ñØe"  # de Bures
   culture = "frankish"
   religion = "catholic"
   coat_of_arms = {
@@ -12219,7 +12219,7 @@
   religion = "catholic"
 }
 7217 = {
-  name = "∑V iO—yÃëûN·à"  # de Pecoriari
+  name = "∑V iO—y·àûN·à"  # de Pecoriari
   culture = "italian"
   religion = "catholic"
 }
@@ -12229,7 +12229,7 @@
   religion = "catholic"
 }
 7219 = {
-  name = "∑V yrÃëyr"  # de Trith
+  name = "∑V yr·àyr"  # de Trith
   culture = "frankish"
   religion = "catholic"
 }
@@ -12468,7 +12468,7 @@
   religion = "catholic"
 }
 7266 = {
-  name = "∑V ^ÃëntÙTS"  # de Brisebarre
+  name = "∑V ^·àntÙTS"  # de Brisebarre
   culture = "frankish"
   religion = "catholic"
 }
@@ -12598,7 +12598,7 @@
   }
 }
 7274 = {
-  name = "Fz…bMOCQ"  # Almoravid
+  name = "Fz…b‘kyr"  # Almoravid
   culture = "maghreb_arabic"
   religion = "sunni"
   coat_of_arms = {
@@ -12764,7 +12764,7 @@
   religion = "catholic"
 }
 7296 = {
-  name = "‹ñJn∆Y"  # Hashimid
+  name = "»T^∆Y"  # Hashimid
   culture = "bedouin_arabic"
   religion = "pagan"
   coat_of_arms = {
@@ -12792,7 +12792,7 @@
   religion = "catholic"
 }
 7300 = {
-  name = "aS˜ñâÃë"  # Karesili
+  name = "aS˜ñâ·à"  # Karesili
   culture = "turkish"
   religion = "sunni"
   coat_of_arms = {
@@ -12814,7 +12814,7 @@
   religion = "sunni"
 }
 7302 = {
-  name = "ØeyrÃëV˛äØe"  # Stryphnos
+  name = "Øeyr·àV˛äØe"  # Stryphnos
   culture = "greek"
   religion = "orthodox"
 }
@@ -12883,7 +12883,7 @@
   religion = "catholic"
 }
 7311 = {
-  name = ")RXbÉl%Y"  # Litovoi
+  name = ")RäÉl%Y"  # Litovoi
   culture = "romanian"
   religion = "orthodox"
 }
@@ -12983,7 +12983,7 @@
   religion = "catholic"
 }
 7326 = {
-  name = "‹ñJn∆Y"  # Hashimid
+  name = "»T^∆Y"  # Hashimid
   culture = "persian"
   religion = "sunni"
   coat_of_arms = {
@@ -13332,7 +13332,7 @@
   religion = "sunni"
 }
 7369 = {
-  name = "^ÃëÍè"  # Burid
+  name = "^·àÍè"  # Burid
   culture = "turkish"
   religion = "sunni"
 }
@@ -13683,11 +13683,11 @@
   culture = "turkish"
 }
 7700 = {
-  name = "∑V YY^Ãëf"  # de Ch‚teaubriant
+  name = "∑V YY^·àf"  # de Ch‚teaubriant
   culture = "breton"
 }
 8600 = {
-  name = "∑V ?ñØeWÃëûNØe"  # d'Asturias
+  name = "∑V ?ñØeW·àûNØe"  # d'Asturias
   culture = "visigothic"
   religion = "catholic"
   coat_of_arms = {
@@ -13704,7 +13704,7 @@
   }
 }
 8601 = {
-  name = "∑V NWTX^ÃëûN"  # de Cantabria
+  name = "∑V NWTX^·àûN"  # de Cantabria
   culture = "visigothic"
   religion = "catholic"
   coat_of_arms = {
@@ -13804,7 +13804,7 @@
   }
 }
 8618 = {
-  name = "¢åï^¨ôÃë2É"  # Gundem·riz
+  name = "¢åï^¨ô·à2É"  # Gundem·riz
   culture = "visigothic"
   religion = "catholic"
 }
@@ -13814,7 +13814,7 @@
   culture = "castillan"
 }
 8620 = {
-  name = "gY1tÃëgY"  # Osorio
+  name = "gY1t·àgY"  # Osorio
   culture = "castillan"
   religion = "catholic"
 }
@@ -13878,7 +13878,7 @@
   culture = "catalan"
 }
 8632 = {
-  name = "ÁvaSÃëGY"  # Lukaric
+  name = "ÁvaS·àGY"  # Lukaric
   culture = "serbian"
   religion = "catholic"
 }
@@ -13963,7 +13963,7 @@
   }
 }
 8642 = {
-  name = "?ñidÃëgYØe"  # Amorios
+  name = "?ñid·àgYØe"  # Amorios
   culture = "greek"
   religion = "iconoclast"
   coat_of_arms = {
@@ -14007,7 +14007,7 @@
   religion = "orthodox"
 }
 8646 = {
-  name = "%YÜÃëûN"  # Isauros
+  name = "%YÜ·àûN"  # Isauros
   culture = "greek"
   religion = "iconoclast"
   coat_of_arms = {
@@ -14080,7 +14080,7 @@
   religion = "orthodox"
 }
 8658 = {
-  name = "kç·à1tØeXb´ÉØe"  # Chrisostomos
+  name = "kç·à1tØeä´ÉØe"  # Chrisostomos
   culture = "greek"
   religion = "orthodox"
 }
@@ -14095,7 +14095,7 @@
   religion = "orthodox"
 }
 8661 = {
-  name = "nfmXbKQ
+  name = "nfmäKQ
 ÑäØe"  # Protokletos
   culture = "greek"
   religion = "orthodox"
@@ -14295,7 +14295,7 @@
   religion = "catholic"
 }
 8701 = {
-  name = "Íè HO˜ñTê"  # di Brayda
+  name = "Íè ^˜ñTê"  # di Brayda
   culture = "italian"
   religion = "catholic"
 }
@@ -14310,7 +14310,7 @@
   religion = "catholic"
 }
 8704 = {
-  name = "Íè —y^XÃëûN"  # di Cosseria
+  name = "Íè —y^X·àûN"  # di Cosseria
   culture = "italian"
   religion = "catholic"
 }
@@ -14455,7 +14455,7 @@
   religion = "catholic"
 }
 8733 = {
-  name = "NbaSÃëûN"  # Zaccaria
+  name = "NbaS·àûN"  # Zaccaria
   culture = "italian"
   religion = "catholic"
 }
@@ -14491,7 +14491,7 @@
   culture = "castillan"
 }
 8738 = {
-  name = "∑V ,gæRHO˜ñ"  # de Bembimbre
+  name = "∑V ,gæR^˜ñ"  # de Bembimbre
   culture = "castillan"
   religion = "catholic"
 }
@@ -14679,7 +14679,7 @@
   culture = "catalan"
 }
 8775 = {
-  name = "Íè yrÃë≥uKQÃëûN"  # di Trinacria
+  name = "Íè yr·à≥uKQ·àûN"  # di Trinacria
   culture = "italian"
 }
 8776 = {
@@ -14700,7 +14700,7 @@
   religion = "catholic"
 }
 8780 = {
-  name = "∑V ÃëØe≤ê"  # de Risnal
+  name = "∑V ·àØe≤ê"  # de Risnal
   culture = "castillan"
   religion = "catholic"
 }
@@ -14782,7 +14782,7 @@
 }
 8796 = {
   name = "âRëP
-ÑÃëgY"  # Angelerio
+Ñ·àgY"  # Angelerio
   culture = "italian"
   religion = "catholic"
 }
@@ -14881,7 +14881,7 @@
   religion = "catholic"
 }
 9111 = {
-  name = "∑V ^ÃëKQ©ÖS"  # de Briquessart
+  name = "∑V ^·àKQ©ÖS"  # de Briquessart
   culture = "norman"
   religion = "catholic"
 }
@@ -14901,7 +14901,7 @@
   religion = "catholic"
 }
 9115 = {
-  name = "´ÉHO˜ñ-gY‘k<S"  # Mowbray-Aubigny
+  name = "´É^˜ñ-gY‘k<S"  # Mowbray-Aubigny
   culture = "english"
   religion = "catholic"
 }
@@ -15183,7 +15183,7 @@
   religion = "pagan"
 }
 9218 = {
-  name = "œpÑS ^oõ‡V HO˜ñ+Y%ä"  # Ua Bri˙in BrÈifne
+  name = "œpÑS ^oõ‡V ^˜ñ+Y%ä"  # Ua Bri˙in BrÈifne
   culture = "irish"
   religion = "catholic"
   coat_of_arms = {
@@ -15202,12 +15202,12 @@
   forced_coa_religiongroup = "christian"
 }
 9219 = {
-  name = "œpÑS ^oõ‡V Ç$\…b"  # Ua Bri˙in SeÛla
+  name = "œpÑS ^oõ‡V ÇPk…b"  # Ua Bri˙in SeÛla
   culture = "irish"
   religion = "catholic"
 }
 9220 = {
-  name = "œpÑS ∑^óÙTS ØeÃë˙W<h"  # Ua Conchobar Sligig
+  name = "œpÑS ∑^óÙTS Øe·à˙W<h"  # Ua Conchobar Sligig
   culture = "irish"
   religion = "catholic"
 }
@@ -15529,7 +15529,7 @@
   culture = "catalan"
 }
 10005 = {
-  name = "∑V nRyr1tÃëPk"  # de Montsoriu
+  name = "∑V nRyr1t·àPk"  # de Montsoriu
   culture = "catalan"
 }
 10006 = {
@@ -15545,7 +15545,7 @@
   culture = "castillan"
 }
 10009 = {
-  name = "∑V ?ñÃëÖh…b≥u"  # d'Almenara
+  name = "∑V ?ñ·àÖh…b≥u"  # d'Almenara
   culture = "catalan"
 }
 10010 = {
@@ -15566,7 +15566,7 @@
   culture = "german"
 }
 10015 = {
-  name = "lçYÃëØe"  # Certores
+  name = "lçY·àØe"  # Certores
   culture = "portuguese"
 }
 10016 = {
@@ -15578,7 +15578,7 @@
   culture = "catalan"
 }
 10018 = {
-  name = "∑V i`nfÃë6wØe"  # d'Emp˙ries
+  name = "∑V i`nf·à6wØe"  # d'Emp˙ries
   culture = "catalan"
 }
 10019 = {
@@ -15756,7 +15756,7 @@
   religion = "orthodox"
 }
 11105 = {
-  name = "Nb»TÃë<SGY"  # Zakharyinich
+  name = "Nb»T·à<SGY"  # Zakharyinich
   culture = "russian"
   religion = "orthodox"
 }
@@ -15851,7 +15851,7 @@
   culture = "polish"
 }
 11119 = {
-  name = "‚l<SûNXb+YØe˙W"  # Poniatowski
+  name = "‚l<SûNä+YØe˙W"  # Poniatowski
   culture = "polish"
 }
 11120 = {
@@ -15895,7 +15895,7 @@
   culture = "georgian"
 }
 11130 = {
-  name = "TX+Y∑V	TÃë§o"  # Tavdgiridze
+  name = "TX+Y∑V	T·à§o"  # Tavdgiridze
   culture = "georgian"
 }
 11131 = {
@@ -16229,7 +16229,7 @@
   religion = "catholic"
 }
 12138 = {
-  name = "∑V ´^oõÃëØe"  # de CruÔlles
+  name = "∑V ´^oõ·àØe"  # de CruÔlles
   culture = "catalan"
   religion = "catholic"
 }
@@ -16268,7 +16268,7 @@
   religion = "catholic"
 }
 12146 = {
-  name = "∑V yrÃëf"  # de Trians
+  name = "∑V yr·àf"  # de Trians
   culture = "occitan"
   religion = "catholic"
 }
@@ -16302,7 +16302,7 @@
   religion = "catholic"
 }
 12153 = {
-  name = "∑V jO‡VÇÑ ?ñÃëÖh—yâ"  # de Fuente Almexir
+  name = "∑V jO‡VÇÑ ?ñ·àÖh—yâ"  # de Fuente Almexir
   culture = "castillan"
   religion = "catholic"
 }
@@ -16405,7 +16405,7 @@
   religion = "catholic"
 }
 12174 = {
-  name = "f∑VØe–cÃëØe"  # GundestÈiz
+  name = "f∑VØe–c·àØe"  # GundestÈiz
   culture = "castillan"
 }
 12175 = {
@@ -16467,7 +16467,7 @@
   religion = "catholic"
 }
 12187 = {
-  name = "∑V Qhyr1tÃëØe"  # de Santsoles
+  name = "∑V Qhyr1t·àØe"  # de Santsoles
   culture = "castillan"
   religion = "catholic"
 }
@@ -16562,7 +16562,7 @@
   religion = "sunni"
 }
 12206 = {
-  name = "?ñÃë"  # Alivid
+  name = "?ñ·à"  # Alivid
   culture = "maghreb_arabic"
   religion = "shiite"
 }
@@ -16614,7 +16614,7 @@
 }
 12216 = {
   name = "
-ÑÃëTê"  # Laridid
+Ñ·àTê"  # Laridid
   culture = "andalusian_arabic"
   religion = "sunni"
 }
@@ -17242,7 +17242,7 @@
   culture = "german"
 }
 12466 = {
-  name = "Æô ÖØeXbKQ"  # von Rostock
+  name = "Æô ÖØeäKQ"  # von Rostock
   culture = "german"
 }
 12467 = {
@@ -17400,7 +17400,7 @@
   religion = "sunni"
 }
 12284 = {
-  name = "åvKQÖ√WâûNØe˙WGY"  # Bijelahrvatskic
+  name = "åvKQÖ0WûNØe˙WGY"  # Bijelahrvatskic
   culture = "croatian"
   religion = "slavic_pagan"
 }
@@ -17488,7 +17488,7 @@
   culture = "italian"
 }
 13016 = {
-  name = "<hÃë¨ôSÍè"  # Grimaldi
+  name = "<h·à¨ôSÍè"  # Grimaldi
   culture = "italian"
   religion = "catholic"
   coat_of_arms = {
@@ -17527,7 +17527,7 @@
   religion = "catholic"
 }
 13023 = {
-  name = "KQÃëØe‚l"  # Crispo
+  name = "KQ·àØe‚l"  # Crispo
   culture = "italian"
 }
 13024 = {
@@ -17668,7 +17668,7 @@
   culture = "italian"
 }
 13041 = {
-  name = "YÃëûN"  # Doria
+  name = "Y·àûN"  # Doria
   culture = "italian"
   religion = "catholic"
   coat_of_arms = {
@@ -17685,12 +17685,12 @@
   }
 }
 13042 = {
-  name = "^^ÃëØeGY"  # Papareschi
+  name = "^^·àØeGY"  # Papareschi
   culture = "italian"
   religion = "catholic"
 }
 13043 = {
-  name = "KQÃëÀó)R"  # Crivelli
+  name = "KQ·àÀó)R"  # Crivelli
   culture = "italian"
 }
 13044 = {
@@ -17703,7 +17703,7 @@
   culture = "italian"
 }
 13046 = {
-  name = "Øe—y…bÃë"  # Scolari
+  name = "Øe—y…b·à"  # Scolari
   culture = "italian"
   religion = "catholic"
 }
@@ -17755,7 +17755,7 @@
   religion = "catholic"
 }
 13057 = {
-  name = "nfÃë<SûN˛ä"  # Prignano
+  name = "nf·à<SûN˛ä"  # Prignano
   culture = "italian"
 }
 13058 = {
@@ -17776,7 +17776,7 @@
   culture = "italian"
 }
 13062 = {
-  name = "Xb¨ôR)R"  # Tomacelli
+  name = "ä¨ôR)R"  # Tomacelli
   culture = "italian"
 }
 13063 = {
@@ -17841,7 +17841,7 @@
 }
 13074 = {
   name = "iO
-Ñ<hÃë˛ä"  # Pellegrino
+Ñ<h·à˛ä"  # Pellegrino
   culture = "italian"
 }
 13075 = {
@@ -17913,7 +17913,7 @@
   culture = "italian"
 }
 13088 = {
-  name = "vñÃëûNÇÑ"  # Togliatti
+  name = "vñ·àûNÇÑ"  # Togliatti
   culture = "italian"
 }
 13089 = {
@@ -18039,7 +18039,7 @@
   culture = "scottish"
 }
 14107 = {
-  name = "gY ^ÃëWS"  # ” Braonain
+  name = "gY ^·àWS"  # ” Braonain
   culture = "irish"
 }
 14108 = {
@@ -18085,7 +18085,7 @@
   culture = "irish"
 }
 14118 = {
-  name = "•ûKQ KQÃëØel-Ü"  # Mac Coistela
+  name = "•ûKQ KQ·àØel-Ü"  # Mac Coistela
   culture = "scottish"
 }
 14119 = {
@@ -18109,7 +18109,7 @@
   culture = "irish"
 }
 14124 = {
-  name = "•ûKQ 	T…b^yrÃëKQ"  # Mac Gillepatraig
+  name = "•ûKQ 	T…b^yr·àKQ"  # Mac Gillepatraig
   culture = "scottish"
   religion = "catholic"
 }
@@ -18222,7 +18222,7 @@
   culture = "welsh"
 }
 14272 = {
-  name = "Ãë2É-Ü"  # Rhuddlan
+  name = "·à2É-Ü"  # Rhuddlan
   culture = "welsh"
 }
 14273 = {
@@ -18366,7 +18366,7 @@
   culture = "serbian"
 }
 17006 = {
-  name = "ZSbÃëØe"  # Bogoris
+  name = "ZSb·àØe"  # Bogoris
   culture = "bulgarian"
 }
 17007 = {
@@ -18374,7 +18374,7 @@
   culture = "bulgarian"
 }
 17008 = {
-  name = "kçÃë2É"  # Hriz
+  name = "kç·à2É"  # Hriz
   culture = "bulgarian"
   religion = "orthodox"
 }
@@ -18512,7 +18512,7 @@
   religion = "catholic"
 }
 19004 = {
-  name = "aSØeyrÃëgYÇÑGY"  # Kastriotic
+  name = "aSØeyr·àgYÇÑGY"  # Kastriotic
   culture = "croatian"
 }
 19005 = {
@@ -18597,7 +18597,7 @@
   culture = "romanian"
 }
 19021 = {
-  name = "√WÀÑSÊtÃë"  # Egerv·ri
+  name = "√WÀÑSÊt·à"  # Egerv·ri
   culture = "hungarian"
 }
 19023 = {
@@ -18618,7 +18618,7 @@
   culture = "hungarian"
 }
 19027 = {
-  name = "wm„NSÊtÃë"  # HÈderv·ri
+  name = "wm„NSÊt·à"  # HÈderv·ri
   culture = "hungarian"
 }
 19028 = {
@@ -18668,7 +18668,7 @@
   culture = "romanian"
 }
 19039 = {
-  name = "…bXbyr"  # R·tÛt
+  name = "…bäyr"  # R·tÛt
   culture = "hungarian"
 }
 19040 = {
@@ -18798,7 +18798,7 @@
   religion = "catholic"
 }
 19062 = {
-  name = "ÙTXbÃë"  # B·thory
+  name = "ÙTä·à"  # B·thory
   culture = "hungarian"
   religion = "catholic"
 }
@@ -18988,7 +18988,7 @@
   religion = "buddhist"
 }
 19136 = {
-  name = "uXbKQ"  # Gangdoz
+  name = "uäKQ"  # Gangdoz
   culture = "nepali"
   religion = "buddhist"
 }
@@ -19163,7 +19163,7 @@
   culture = "welsh"
 }
 20045 = {
-  name = "iOÃëØe"  # Penrhys
+  name = "iO·àØe"  # Penrhys
   culture = "welsh"
 }
 20046 = {
@@ -19241,11 +19241,11 @@
   religion = "catholic"
 }
 20060 = {
-  name = "SêªåÃëgY"  # Dauferio
+  name = "Sêªå·àgY"  # Dauferio
   culture = "italian"
 }
 20061 = {
-  name = "YÃëVØe"  # Dolfos
+  name = "Y·àVØe"  # Dolfos
   culture = "castillan"
   religion = "catholic"
 }
@@ -19379,7 +19379,7 @@
   religion = "orthodox"
 }
 20081 = {
-  name = "HOR—ëØe˙W"  # Boryatinskiy
+  name = "^R—ëØe˙W"  # Boryatinskiy
   culture = "russian"
   religion = "orthodox"
 }
@@ -19557,12 +19557,12 @@
   culture = "welsh"
 }
 20124 = {
-  name = "HO˜ñØe"  # Breizh
+  name = "^˜ñØe"  # Breizh
   culture = "breton"
   religion = "catholic"
 }
 20125 = {
-  name = "∑V HORTX<S"  # de Bretagne
+  name = "∑V ^RTX<S"  # de Bretagne
   culture = "breton"
 }
 20126 = {
@@ -19594,7 +19594,7 @@
   culture = "breton"
 }
 20135 = {
-  name = "2W^ÃëÑS"  # Sant Brieuc
+  name = "2W^·àÑS"  # Sant Brieuc
   culture = "breton"
 }
 20136 = {
@@ -19781,7 +19781,7 @@
   culture = "polish"
 }
 21035 = {
-  name = "ÉlØeXbÙuGY"  # Wlostowic
+  name = "ÉlØeäÙuGY"  # Wlostowic
   culture = "polish"
   religion = "catholic"
 }
@@ -19806,7 +19806,7 @@
   culture = "polish"
 }
 21041 = {
-  name = "2É gYÃëØe<S2É"  # z Olesnicy
+  name = "2É gY·àØe<S2É"  # z Olesnicy
   culture = "polish"
 }
 21042 = {
@@ -20013,7 +20013,7 @@
   }
 }
 23107 = {
-  name = "âR^ÃëûN—y"  # Embriaco
+  name = "âR^·àûN—y"  # Embriaco
   culture = "italian"
   religion = "catholic"
   coat_of_arms = {
@@ -20063,7 +20063,7 @@
   religion = "catholic"
 }
 23115 = {
-  name = "∑V HOR%ä"  # de Brienne
+  name = "∑V ^R%ä"  # de Brienne
   culture = "frankish"
   religion = "catholic"
 }
@@ -20429,7 +20429,7 @@
   religion = "orthodox"
 }
 25202 = {
-  name = "kçÚÉØeXbØe"  # Hephaistos
+  name = "kçÚÉØeäØe"  # Hephaistos
   culture = "greek"
   religion = "orthodox"
 }
@@ -20599,7 +20599,7 @@
   culture = "irish"
 }
 100012 = {
-  name = "%Y ^ÃëâR"  # UÌ Briain
+  name = "%Y ^·àâR"  # UÌ Briain
   culture = "irish"
 }
 100013 = {
@@ -20649,7 +20649,7 @@
   religion = "catholic"
 }
 100024 = {
-  name = "©ÖÃë"  # of Surrey
+  name = "©Ö·à"  # of Surrey
   culture = "saxon"
 }
 100025 = {
@@ -20683,7 +20683,7 @@
   religion = "catholic"
 }
 100032 = {
-  name = "^ÃëØeXb"  # of Bristol
+  name = "^·àØeä"  # of Bristol
   culture = "welsh"
 }
 100033 = {
@@ -20772,7 +20772,7 @@
   }
 }
 100046 = {
-  name = "’lOO"  # of Fife
+  name = "’l%Y+Y"  # of Fife
   culture = "scottish"
   religion = "catholic"
 }
@@ -20786,7 +20786,7 @@
   culture = "scottish"
 }
 100049 = {
-  name = "V<hØeaSÃëKQ"  # of Carrick
+  name = "V<hØeaS·àKQ"  # of Carrick
   culture = "scottish"
 }
 100050 = {
@@ -20858,7 +20858,7 @@
   religion = "catholic"
 }
 100065 = {
-  name = "<hÃëÚÉ∑V"  # Gruffydd
+  name = "<h·àÚÉ∑V"  # Gruffydd
   culture = "welsh"
 }
 100066 = {
@@ -20930,7 +20930,7 @@
   culture = "dutch"
 }
 100081 = {
-  name = "ƒ{ âVÃëØe-Ü"  # van Westfriesland
+  name = "ƒ{ âV·àØe-Ü"  # van Westfriesland
   culture = "frisian"
   religion = "catholic"
 }
@@ -20940,7 +20940,7 @@
   religion = "catholic"
 }
 100085 = {
-  name = "ƒ{ qgVÃëØe-Ü"  # van Ostfriesland
+  name = "ƒ{ qgV·àØe-Ü"  # van Ostfriesland
   culture = "frisian"
   religion = "catholic"
 }
@@ -21222,7 +21222,7 @@
   culture = "occitan"
 }
 100150 = {
-  name = "∑V ?ñSHO˜ñ"  # d'Albret
+  name = "∑V ?ñS^˜ñ"  # d'Albret
   culture = "occitan"
   religion = "catholic"
 }
@@ -21240,11 +21240,11 @@
   culture = "basque"
 }
 100154 = {
-  name = "∑V ?ñØeWÃëûNØe ∑V QhÇÑ)RûN≥u"  # de Asturias de Santillana
+  name = "∑V ?ñØeW·àûNØe ∑V QhÇÑ)RûN≥u"  # de Asturias de Santillana
   culture = "basque"
 }
 100155 = {
-  name = "∑V ?ñØeWÃëûNØe ∑V gYÙu6wY"  # de Asturias de Oviedo
+  name = "∑V ?ñØeW·àûNØe ∑V gYÙu6wY"  # de Asturias de Oviedo
   culture = "basque"
 }
 100156 = {
@@ -21266,7 +21266,7 @@
   culture = "portuguese"
 }
 100160 = {
-  name = "∑V ÃëØe,g"  # de Lisboa
+  name = "∑V ·àØe,g"  # de Lisboa
   culture = "portuguese"
 }
 100161 = {
@@ -21298,7 +21298,7 @@
   culture = "castillan"
 }
 100168 = {
-  name = "∑V ?ñSÖhÃëûN"  # de AlmerÌa
+  name = "∑V ?ñSÖh·àûN"  # de AlmerÌa
   culture = "castillan"
 }
 100169 = {
@@ -21330,7 +21330,7 @@
   culture = "castillan"
 }
 100176 = {
-  name = "∑V ´ÉÃë≥u"  # de Molina
+  name = "∑V ´É·à≥u"  # de Molina
   culture = "castillan"
 }
 100177 = {
@@ -21382,7 +21382,7 @@
   culture = "portuguese"
 }
 100189 = {
-  name = "∑V ?ñØeXb†R"  # de Astorga
+  name = "∑V ?ñØeä†R"  # de Astorga
   culture = "castillan"
   religion = "catholic"
 }
@@ -21408,7 +21408,7 @@
   culture = "castillan"
 }
 100195 = {
-  name = "∑V ?ñÃë≥u"  # d'Arena
+  name = "∑V ?ñ·à≥u"  # d'Arena
   culture = "italian"
   religion = "catholic"
 }
@@ -21429,11 +21429,11 @@
   culture = "castillan"
 }
 100200 = {
-  name = "∑V 1tÃëûN"  # de Soria
+  name = "∑V 1t·àûN"  # de Soria
   culture = "castillan"
 }
 100201 = {
-  name = "∑V …b ÃëgY»T"  # de La Rioja
+  name = "∑V …b ·àgY»T"  # de La Rioja
   culture = "basque"
 }
 100202 = {
@@ -21466,7 +21466,7 @@
   culture = "catalan"
 }
 100206 = {
-  name = "¨ôÃëûN˛ä"  # Mariano
+  name = "¨ô·àûN˛ä"  # Mariano
   culture = "basque"
 }
 100207 = {
@@ -21681,7 +21681,7 @@
   religion = "catholic"
 }
 100246 = {
-  name = "∑V <hÃëçg"  # de Grisons
+  name = "∑V <h·àçg"  # de Grisons
   culture = "frankish"
 }
 100247 = {
@@ -21757,7 +21757,7 @@
   culture = "danish"
 }
 100265 = {
-  name = "VÃëØe"  # Friis
+  name = "V·àØe"  # Friis
   culture = "danish"
 }
 100266 = {
@@ -22074,7 +22074,7 @@
   culture = "danish"
 }
 100303 = {
-  name = "W“RØeXbS"  # af Torestorp
+  name = "W“RØeäS"  # af Torestorp
   culture = "danish"
 }
 100304 = {
@@ -22087,7 +22087,7 @@
   culture = "danish"
 }
 100306 = {
-  name = "2É ÖØeXbKQ"  # z Roztoki
+  name = "2É ÖØeäKQ"  # z Roztoki
   culture = "pommeranian"
 }
 100307 = {
@@ -22150,7 +22150,7 @@
   religion = "catholic"
 }
 100318 = {
-  name = "Tê HO˜ñâûN"  # da Brescia
+  name = "Tê ^˜ñâûN"  # da Brescia
   culture = "italian"
   religion = "catholic"
 }
@@ -22182,7 +22182,7 @@
   culture = "italian"
 }
 100326 = {
-  name = "Íè aS)RûNÃë"  # di Cagliari
+  name = "Íè aS)RûN·à"  # di Cagliari
   culture = "italian"
   religion = "catholic"
 }
@@ -22279,7 +22279,7 @@
   culture = "italian"
 }
 100342 = {
-  name = "Íè ?ñ<hÃë4tä"  # di Agrigento
+  name = "Íè ?ñ<h·à4tä"  # di Agrigento
   culture = "italian"
 }
 100343 = {
@@ -23287,7 +23287,7 @@
   culture = "german"
 }
 100435 = {
-  name = "Æô >O)R~a9h"  # von Berlichingen
+  name = "Æô >O)R2k9h"  # von Berlichingen
   culture = "german"
 }
 100436 = {
@@ -23354,7 +23354,7 @@
   religion = "catholic"
 }
 100454 = {
-  name = "HOSê%Y Yt	T"  # Budai Nagy
+  name = "^Sê%Y Yt	T"  # Budai Nagy
   culture = "hungarian"
   religion = "catholic"
 }
@@ -23467,7 +23467,7 @@
   culture = "greek"
 }
 100476 = {
-  name = "ùå©ÖÃë¡"  # Bessarion
+  name = "ùå©Ö·à¡"  # Bessarion
   culture = "greek"
 }
 100477 = {
@@ -23489,7 +23489,7 @@
   religion = "catholic"
 }
 100481 = {
-  name = "aS)RØeXbØe"  # Kallistos
+  name = "aS)RØeäØe"  # Kallistos
   culture = "greek"
 }
 100482 = {
@@ -23540,7 +23540,7 @@
   culture = "bulgarian"
 }
 100493 = {
-  name = "kç…bKQÃë∑VØe"  # Heraclides
+  name = "kç…bKQ·à∑VØe"  # Heraclides
   culture = "greek"
 }
 100494 = {
@@ -23605,7 +23605,7 @@
   culture = "serbian"
 }
 100505 = {
-  name = "nfÃë‘k©Ö+YRÙuGY"  # Pribisavljevic
+  name = "nf·à‘k©Ö+YRÙuGY"  # Pribisavljevic
   culture = "serbian"
   religion = "orthodox"
 }
@@ -24112,7 +24112,7 @@
   culture = "russian"
 }
 100569 = {
-  name = "‚lÁv√WKQXbÙuGY"  # Poluektovich
+  name = "‚lÁv√WKQäÙuGY"  # Poluektovich
   culture = "russian"
 }
 100570 = {
@@ -24227,7 +24227,7 @@
   religion = "catholic"
 }
 100591 = {
-  name = "aSÃëùå-Ü"  # Karpela
+  name = "aS·àùå-Ü"  # Karpela
   culture = "finnish"
   religion = "catholic"
 }
@@ -24254,7 +24254,7 @@
   }
 }
 100594 = {
-  name = "Øe´^…bXb+Y"  # Skuratov
+  name = "Øe´^…bä+Y"  # Skuratov
   culture = "russian"
   religion = "tengri_pagan"
   coat_of_arms = {
@@ -24271,7 +24271,7 @@
   }
 }
 100595 = {
-  name = "ØeXbS<SKQ"  # Stolnik
+  name = "ØeäS<SKQ"  # Stolnik
   culture = "russian"
   religion = "tengri_pagan"
   coat_of_arms = {
@@ -24308,11 +24308,11 @@
   religion = "tengri_pagan"
 }
 100600 = {
-  name = "?ñ^^XÃëØe§o"  # Abuserisdze
+  name = "?ñ^^X·àØe§o"  # Abuserisdze
   culture = "georgian"
 }
 100601 = {
-  name = "/t…bs|Ãë"  # Surameli
+  name = "/t…bs|·à"  # Surameli
   culture = "georgian"
 }
 100602 = {
@@ -25014,7 +25014,7 @@
   culture = "persian"
 }
 100662 = {
-  name = "^»TÃë"  # Bukhari
+  name = "^»T·à"  # Bukhari
   culture = "persian"
   religion = "sunni"
   coat_of_arms = {
@@ -25349,7 +25349,7 @@
   religion = "sunni"
 }
 100701 = {
-  name = "gYSXbKQ"  # Ortokid
+  name = "gYSäKQ"  # Ortokid
   culture = "turkish"
   religion = "sunni"
   coat_of_arms = {
@@ -25683,7 +25683,7 @@
   }
 }
 100727 = {
-  name = "ùåaSÃë"  # Bekkalid
+  name = "ùåaS·à"  # Bekkalid
   culture = "levantine_arabic"
   religion = "sunni"
   coat_of_arms = {
@@ -25831,7 +25831,7 @@
   culture = "greek"
 }
 100741 = {
-  name = "ùåÃë©Ö)R"  # Belissariotis
+  name = "ùå·à©Ö)R"  # Belissariotis
   culture = "greek"
 }
 100742 = {
@@ -25894,7 +25894,7 @@
   culture = "greek"
 }
 100750 = {
-  name = "©ÖJR…bÃëgYØe"  # Sakellarios
+  name = "©ÖJR…b·àgYØe"  # Sakellarios
   culture = "greek"
   religion = "sunni"
 }
@@ -26359,7 +26359,7 @@
   }
 }
 100787 = {
-  name = "?ñÃë¿N"  # Arishid
+  name = "?ñ·à¿N"  # Arishid
   culture = "levantine_arabic"
   religion = "sunni"
   coat_of_arms = {
@@ -26405,7 +26405,7 @@
   culture = "egyptian_arabic"
 }
 100792 = {
-  name = "»T…bÃë"  # Hararid
+  name = "»T…b·à"  # Hararid
   culture = "egyptian_arabic"
 }
 100793 = {
@@ -26442,11 +26442,11 @@
   culture = "egyptian_arabic"
 }
 100801 = {
-  name = "?ñ[àwmÃë"  # Abuhairyid
+  name = "?ñ[àwm·à"  # Abuhairyid
   culture = "egyptian_arabic"
 }
 100802 = {
-  name = "¨ôØeÃë"  # Masrid
+  name = "¨ôØe·à"  # Masrid
   culture = "egyptian_arabic"
 }
 100803 = {
@@ -26471,7 +26471,7 @@
   religion = "sunni"
 }
 100807 = {
-  name = "©Ö^Ãë"  # Sabrid
+  name = "©Ö^·à"  # Sabrid
   culture = "maghreb_arabic"
   religion = "sunni"
 }
@@ -26536,7 +26536,7 @@
   culture = "maghreb_arabic"
 }
 100813 = {
-  name = "ôlÃë+Y"  # Sharifid
+  name = "ôl·à+Y"  # Sharifid
   culture = "maghreb_arabic"
   religion = "sunni"
   coat_of_arms = {
@@ -26817,7 +26817,7 @@
   }
 }
 100831 = {
-  name = "NbaSÃëûN"  # Zakariyid
+  name = "NbaS·àûN"  # Zakariyid
   culture = "maghreb_arabic"
   religion = "sunni"
   coat_of_arms = {
@@ -27139,7 +27139,7 @@
   religion = "sunni"
 }
 101021 = {
-  name = "?ñÃë"  # Alivid
+  name = "?ñ·à"  # Alivid
   culture = "levantine_arabic"
   religion = "sunni"
 }
@@ -27406,7 +27406,7 @@
   religion = "sunni"
 }
 101056 = {
-  name = "ôlÃë+Y"  # Sharifid
+  name = "ôl·à+Y"  # Sharifid
   culture = "egyptian_arabic"
   religion = "sunni"
 }
@@ -27443,7 +27443,7 @@
   culture = "egyptian_arabic"
 }
 101061 = {
-  name = "?ñ∑VÃëûN˛äØe"  # Adrianos
+  name = "?ñ∑V·àûN˛äØe"  # Adrianos
   culture = "greek"
 }
 101062 = {
@@ -27504,7 +27504,7 @@
   culture = "greek"
 }
 101070 = {
-  name = "?ñÃëâRyr"  # Arianites
+  name = "?ñ·àâRyr"  # Arianites
   culture = "greek"
 }
 101071 = {
@@ -27567,7 +27567,7 @@
   }
 }
 101079 = {
-  name = "^Ãëi`<SœpØe"  # Bryennios
+  name = "^·ài`<SœpØe"  # Bryennios
   culture = "greek"
   religion = "orthodox"
   coat_of_arms = {
@@ -27681,7 +27681,7 @@
   culture = "greek"
 }
 101093 = {
-  name = "≈ñVÃëØe"  # Iagaris
+  name = "≈ñV·àØe"  # Iagaris
   culture = "greek"
   religion = "orthodox"
 }
@@ -27774,7 +27774,7 @@
   culture = "greek"
 }
 101107 = {
-  name = "…bØeaSÃëØe"  # Laskaris
+  name = "…bØeaS·àØe"  # Laskaris
   culture = "greek"
   religion = "orthodox"
   coat_of_arms = {
@@ -27807,7 +27807,7 @@
   culture = "greek"
 }
 101112 = {
-  name = "¨ôÃëûNnt˛äØe"  # Maliasenos
+  name = "¨ô·àûNnt˛äØe"  # Maliasenos
   culture = "greek"
 }
 101113 = {
@@ -27856,7 +27856,7 @@
   culture = "greek"
 }
 101124 = {
-  name = "iOyr…bÃë’lØe"  # Petraliphas
+  name = "iOyr…b·à’lØe"  # Petraliphas
   culture = "greek"
   religion = "orthodox"
 }
@@ -27948,7 +27948,7 @@
   }
 }
 101135 = {
-  name = "^XÙTØeXbnfmØe"  # Sebastopoulos
+  name = "^XÙTØeänfmØe"  # Sebastopoulos
   culture = "greek"
 }
 101136 = {
@@ -28049,7 +28049,7 @@
   }
 }
 101147 = {
-  name = "yrÃëaSØe"  # Trichas
+  name = "yr·àaSØe"  # Trichas
   culture = "greek"
 }
 101148 = {
@@ -28087,7 +28087,7 @@
   culture = "georgian"
 }
 101156 = {
-  name = "^≥u—ySyrÃë"  # Panaskerteli
+  name = "^≥u—ySyr·à"  # Panaskerteli
   culture = "georgian"
 }
 101157 = {
@@ -28148,7 +28148,7 @@
   culture = "greek"
 }
 101171 = {
-  name = "?ñ∑V˜ñØeXb"  # Adralestos
+  name = "?ñ∑V˜ñØeä"  # Adralestos
   culture = "greek"
 }
 101172 = {
@@ -28156,7 +28156,7 @@
   culture = "greek"
 }
 101173 = {
-  name = "?ñ<hÃë“VØe"  # Agrites
+  name = "?ñ<h·à“VØe"  # Agrites
   culture = "greek"
   religion = "orthodox"
 }
@@ -28258,7 +28258,7 @@
   religion = "orthodox"
 }
 101197 = {
-  name = "?ñÃëØeyr˛äØe"  # Aristenos
+  name = "?ñ·àØeyr˛äØe"  # Aristenos
   culture = "greek"
 }
 101198 = {
@@ -28326,11 +28326,11 @@
   religion = "orthodox"
 }
 101213 = {
-  name = "ÊtÃëØe"  # Barys
+  name = "Êt·àØe"  # Barys
   culture = "greek"
 }
 101214 = {
-  name = "ùåÃë©Ö)RgYyr"  # Belissariotes
+  name = "ùå·à©Ö)RgYyr"  # Belissariotes
   culture = "greek"
 }
 101215 = {
@@ -28342,7 +28342,7 @@
   culture = "greek"
 }
 101217 = {
-  name = "ùåÃëPk“VØe"  # Beriotes
+  name = "ùå·àPk“VØe"  # Beriotes
   culture = "greek"
 }
 101218 = {
@@ -28438,11 +28438,11 @@
   culture = "greek"
 }
 101237 = {
-  name = "ÔgÃëûN“V"  # Choriates
+  name = "Ôg·àûN“V"  # Choriates
   culture = "greek"
 }
 101238 = {
-  name = "kçÁvntÃëgYØe"  # Chrouselios
+  name = "kçÁvnt·àgYØe"  # Chrouselios
   culture = "greek"
 }
 101239 = {
@@ -28503,7 +28503,7 @@
   culture = "greek"
 }
 101253 = {
-  name = "kgaSØe-…bØeaSÃëØe"  # Doukas Laskaris
+  name = "kgaSØe-…bØeaS·àØe"  # Doukas Laskaris
   culture = "greek"
 }
 101254 = {
@@ -28614,7 +28614,7 @@
   culture = "greek"
 }
 101280 = {
-  name = "<hÃë`ZS"  # Grispos
+  name = "<h·à`ZS"  # Grispos
   culture = "greek"
 }
 101281 = {
@@ -28622,7 +28622,7 @@
   culture = "greek"
 }
 101282 = {
-  name = "2WKQÃëØeXbV"  # Hagiochrisophorites
+  name = "2WKQ·àØeäV"  # Hagiochrisophorites
   culture = "greek"
 }
 101283 = {
@@ -28634,7 +28634,7 @@
   culture = "greek"
 }
 101285 = {
-  name = "2WS»TÃëûN"  # Hagiozacharites
+  name = "2WS»T·àûN"  # Hagiozacharites
   culture = "greek"
 }
 101286 = {
@@ -28686,7 +28686,7 @@
   culture = "greek"
 }
 101298 = {
-  name = "aSÙT…bÃëgYØe"  # Kaballarios
+  name = "aSÙT…b·àgYØe"  # Kaballarios
   culture = "greek"
 }
 101299 = {
@@ -28772,7 +28772,7 @@
   culture = "greek"
 }
 101316 = {
-  name = "aSÃëûN<S“VØe"  # Karianites
+  name = "aS·àûN<S“VØe"  # Karianites
   culture = "greek"
 }
 101317 = {
@@ -28854,7 +28854,7 @@
   culture = "greek"
 }
 101336 = {
-  name = "KQÖ…bÃëgY"  # Keroularios
+  name = "KQÖ…b·àgY"  # Keroularios
   culture = "greek"
   religion = "orthodox"
 }
@@ -28887,7 +28887,7 @@
   culture = "greek"
 }
 101344 = {
-  name = "—yØeXbs|˜ñØe"  # Kostomyres
+  name = "—yØeäs|˜ñØe"  # Kostomyres
   culture = "greek"
 }
 101345 = {
@@ -28920,7 +28920,7 @@
   }
 }
 101349 = {
-  name = "KQÃë<S“VØe"  # Krinites
+  name = "KQ·à<S“VØe"  # Krinites
   culture = "greek"
   religion = "orthodox"
   coat_of_arms = {
@@ -28937,11 +28937,11 @@
   }
 }
 101350 = {
-  name = "KQÃëTX…bØe"  # Kritharas
+  name = "KQ·àTX…bØe"  # Kritharas
   culture = "greek"
 }
 101351 = {
-  name = "KQÃëä‚lÖØe"  # Kritopolos
+  name = "KQ·àä‚lÖØe"  # Kritopolos
   culture = "greek"
 }
 101352 = {
@@ -29035,7 +29035,7 @@
   culture = "greek"
 }
 101374 = {
-  name = "jtvQTêÃëgYØe"  # Machetarios
+  name = "jtvQTê·àgYØe"  # Machetarios
   culture = "greek"
 }
 101375 = {
@@ -29088,11 +29088,11 @@
   culture = "greek"
 }
 101387 = {
-  name = "¨ô.}ÃëØe"  # Matzaris
+  name = "¨ôNb·àØe"  # Matzaris
   culture = "greek"
 }
 101388 = {
-  name = "¨ô.}Øe"  # Matzas
+  name = "¨ôNbØe"  # Matzas
   culture = "greek"
 }
 101389 = {
@@ -29133,7 +29133,7 @@
   culture = "greek"
 }
 101398 = {
-  name = "ÖhÃëûNØe"  # Melias
+  name = "Öh·àûNØe"  # Melias
   culture = "greek"
   religion = "orthodox"
 }
@@ -29159,7 +29159,7 @@
   culture = "greek"
 }
 101401 = {
-  name = "Öh©ÖÃëyrØe"  # Mesarites
+  name = "Öh©Ö·àyrØe"  # Mesarites
   culture = "greek"
 }
 101403 = {
@@ -29187,7 +29187,7 @@
   culture = "greek"
 }
 101409 = {
-  name = "´É˛äaSÃë“VØe"  # Monokarites
+  name = "´É˛äaS·à“VØe"  # Monokarites
   culture = "greek"
 }
 101410 = {
@@ -29257,7 +29257,7 @@
   culture = "greek"
 }
 101426 = {
-  name = "≥uÃëØe“VØe"  # Narsites
+  name = "≥u·àØe“VØe"  # Narsites
   culture = "greek"
 }
 101427 = {
@@ -29269,7 +29269,7 @@
   culture = "greek"
 }
 101429 = {
-  name = "<SKQÃëyrØe"  # Nikerites
+  name = "<SKQ·àyrØe"  # Nikerites
   culture = "greek"
 }
 101430 = {
@@ -29297,7 +29297,7 @@
   culture = "greek"
 }
 101436 = {
-  name = "^´^ÃëûN˛äØe"  # Pakourianos
+  name = "^´^·àûN˛äØe"  # Pakourianos
   culture = "greek"
   religion = "orthodox"
   coat_of_arms = {
@@ -29438,7 +29438,7 @@
   culture = "greek"
 }
 101458 = {
-  name = "iOÃë^“RnfçÅ˛äØe"  # Peribleptenos
+  name = "iO·à^“RnfçÅ˛äØe"  # Peribleptenos
   culture = "greek"
 }
 101459 = {
@@ -29467,7 +29467,7 @@
   culture = "greek"
 }
 101465 = {
-  name = "9SØeXbÚÉmØe"  # Pistophilos
+  name = "9SØeäÚÉmØe"  # Pistophilos
   culture = "greek"
 }
 101466 = {
@@ -29475,7 +29475,7 @@
   culture = "greek"
 }
 101467 = {
-  name = "‚l)RXb‚lÖØe"  # Politopolos
+  name = "‚l)Rä‚lÖØe"  # Politopolos
   culture = "greek"
 }
 101468 = {
@@ -29519,7 +29519,7 @@
   culture = "greek"
 }
 101478 = {
-  name = "Ö<hÃëgYØe"  # Rogerios
+  name = "Ö<h·àgYØe"  # Rogerios
   culture = "greek"
 }
 101479 = {
@@ -29551,7 +29551,7 @@
   culture = "greek"
 }
 101486 = {
-  name = "lçS^ÃëûNØe"  # Serblias
+  name = "lçS^·àûNØe"  # Serblias
   culture = "greek"
 }
 101487 = {
@@ -29559,7 +29559,7 @@
   culture = "greek"
 }
 101488 = {
-  name = "â˛äMOCQØe"  # Sinopites
+  name = "â˛ä‘kyrØe"  # Sinopites
   culture = "greek"
 }
 101489 = {
@@ -29579,7 +29579,7 @@
   culture = "greek"
 }
 101493 = {
-  name = "Øe´^TXÃëgYyrØe"  # Skoutariotes
+  name = "Øe´^TX·àgYyrØe"  # Skoutariotes
   culture = "greek"
 }
 101494 = {
@@ -29603,7 +29603,7 @@
   culture = "greek"
 }
 101499 = {
-  name = "ØeXo˛ä<hÃëÿö)R"  # Spanogregores
+  name = "ØeXo˛ä<h·àÿö)R"  # Spanogregores
   culture = "greek"
 }
 101500 = {
@@ -29642,7 +29642,7 @@
   religion = "orthodox"
 }
 101508 = {
-  name = "v≥ukçÃëØe"  # Synacheris
+  name = "v≥ukç·àØe"  # Synacheris
   culture = "greek"
 }
 101509 = {
@@ -29712,19 +29712,19 @@
   culture = "greek"
 }
 101522 = {
-  name = "yrÃëûNTRTXÚÉmØe"  # Triakontaphyllos
+  name = "yr·àûNTRTXÚÉmØe"  # Triakontaphyllos
   culture = "greek"
 }
 101523 = {
-  name = "yrÃë[à…b–c“VØe"  # Triblattites
+  name = "yr·à[à…b–c“VØe"  # Triblattites
   culture = "greek"
 }
 101524 = {
-  name = "yrÃëGY˛ä‚l∑V"  # Trichinopodes
+  name = "yr·àGY˛ä‚l∑V"  # Trichinopodes
   culture = "greek"
 }
 101525 = {
-  name = "yrÚÉÃëgYØe"  # Triphyllios
+  name = "yrÚÉ·àgYØe"  # Triphyllios
   culture = "greek"
 }
 101526 = {
@@ -29860,7 +29860,7 @@
   religion = "orthodox"
 }
 101550 = {
-  name = "NW^≥uÃëgYØe"  # Kampanarios
+  name = "NW^≥u·àgYØe"  # Kampanarios
   culture = "greek"
 }
 101551 = {
@@ -29869,7 +29869,7 @@
   religion = "orthodox"
 }
 101552 = {
-  name = "aSÃë6wS<hØe"  # Kallierges
+  name = "aS·à6wS<hØe"  # Kallierges
   culture = "greek"
 }
 101553 = {
@@ -30435,7 +30435,7 @@
   religion = "catholic"
 }
 101719 = {
-  name = "ÊtâÃëûN—yØe"  # Basiliakos
+  name = "Êtâ·àûN—yØe"  # Basiliakos
   culture = "greek"
   religion = "orthodox"
   coat_of_arms = {
@@ -30649,7 +30649,7 @@
   religion = "orthodox"
 }
 101748 = {
-  name = "aS»TùåÃë§o"  # Kakhaberisdze
+  name = "aS»Tùå·à§o"  # Kakhaberisdze
   culture = "georgian"
   religion = "orthodox"
 }
@@ -30703,7 +30703,7 @@
   culture = "norwegian"
 }
 101760 = {
-  name = "œpÃë(gØe¨Q?ñ"  # Ormstunga
+  name = "œp·à(gØe¨Q?ñ"  # Ormstunga
   culture = "norwegian"
 }
 101761 = {
@@ -30794,12 +30794,12 @@
   }
 }
 101778 = {
-  name = "¨ôÃëØe"  # Marisid
+  name = "¨ô·àØe"  # Marisid
   culture = "ethiopian"
   religion = "miaphysite"
 }
 101779 = {
-  name = "¨ô´^ÃëûN"  # Muqurrid
+  name = "¨ô´^·àûN"  # Muqurrid
   culture = "ethiopian"
 }
 101780 = {
@@ -30914,7 +30914,7 @@
   culture = "russian"
 }
 101798 = {
-  name = "^ÃëûNGYØe…bÙuGY"  # Bryachislavich
+  name = "^·àûNGYØe…bÙuGY"  # Bryachislavich
   culture = "russian"
 }
 101799 = {
@@ -30952,7 +30952,7 @@
   culture = "russian"
 }
 101807 = {
-  name = "ÊtâÃë6wÙuGY"  # Vasilievich
+  name = "Êtâ·à6wÙuGY"  # Vasilievich
   culture = "russian"
 }
 101808 = {
@@ -30984,7 +30984,7 @@
   culture = "russian"
 }
 101815 = {
-  name = "∑Vs|yrÃë6wÙuGY"  # Dmitrievich
+  name = "∑Vs|yr·à6wÙuGY"  # Dmitrievich
   culture = "russian"
 }
 101816 = {
@@ -31001,7 +31001,7 @@
   culture = "italian"
 }
 101819 = {
-  name = "ùåaSÃëûN"  # Beccaria
+  name = "ùåaS·àûN"  # Beccaria
   culture = "italian"
   religion = "catholic"
 }
@@ -31080,7 +31080,7 @@
   culture = "italian"
 }
 101837 = {
-  name = "Tê nfÖôÑXbÃëgY"  # da Promontorio
+  name = "Tê nfÖôÑä·àgY"  # da Promontorio
   culture = "italian"
 }
 101838 = {
@@ -31140,7 +31140,7 @@
   culture = "italian"
 }
 101851 = {
-  name = "yr…bÀóS©ÖÃë"  # Traversari
+  name = "yr…bÀóS©Ö·à"  # Traversari
   culture = "italian"
   religion = "catholic"
 }
@@ -31311,7 +31311,7 @@
   culture = "croatian"
 }
 101884 = {
-  name = "?ñÃëûNØe"  # Arias
+  name = "?ñ·àûNØe"  # Arias
   culture = "castillan"
   religion = "catholic"
 }
@@ -31321,12 +31321,12 @@
   religion = "catholic"
 }
 101886 = {
-  name = "∑V ^ÃëgY%ä"  # de Brionne
+  name = "∑V ^·àgY%ä"  # de Brionne
   culture = "frankish"
   religion = "catholic"
 }
 101887 = {
-  name = "Æô œpyrÃë∑V"  # von Utlede
+  name = "Æô œpyr·à∑V"  # von Utlede
   culture = "german"
   religion = "catholic"
 }
@@ -31898,7 +31898,7 @@
   culture = "finnish"
 }
 200014 = {
-  name = "6w<hSói` ØeKQÃë…b"  # J‰gerhorn af Spurila
+  name = "6w<hSói` ØeKQ·à…b"  # J‰gerhorn af Spurila
   culture = "swedish"
 }
 200015 = {
@@ -32226,7 +32226,7 @@
   religion = "catholic"
 }
 200068 = {
-  name = "^Ãë—û<SgY<h"  # Brycheiniog
+  name = "^·à—û<SgY<h"  # Brycheiniog
   culture = "welsh"
   religion = "catholic"
 }
@@ -32248,7 +32248,7 @@
   culture = "welsh"
 }
 200073 = {
-  name = "ÖhÃë¡"  # Meirionydd
+  name = "Öh·à¡"  # Meirionydd
   culture = "welsh"
 }
 200074 = {
@@ -32264,7 +32264,7 @@
   culture = "welsh"
 }
 200077 = {
-  name = "2W ^XÃëgYS"  # Ystrad Clud
+  name = "2W ^X·àgYS"  # Ystrad Clud
   culture = "welsh"
 }
 102001 = {
@@ -32403,7 +32403,7 @@
   culture = "greek"
 }
 102028 = {
-  name = "∑V yrÃë6w"  # de Tries
+  name = "∑V yr·à6w"  # de Tries
   culture = "frankish"
 }
 102029 = {
@@ -32429,7 +32429,7 @@
   }
 }
 102031 = {
-  name = "…bØeaSÃëØe"  # Lascaris
+  name = "…bØeaS·àØe"  # Lascaris
   culture = "greek"
 }
 102034 = {
@@ -32518,7 +32518,7 @@
   religion = "catholic"
 }
 1020119 = {
-  name = "ùåXbyrØe"  # BetÛtez
+  name = "ùåäyrØe"  # BetÛtez
   culture = "castillan"
   religion = "catholic"
   coat_of_arms = {
@@ -32640,7 +32640,7 @@
   religion = "orthodox"
 }
 1022121 = {
-  name = "gYXb˙W–cØe"  # Theotokitis
+  name = "gYä˙W–cØe"  # Theotokitis
   culture = "greek"
   religion = "orthodox"
 }
@@ -32650,7 +32650,7 @@
   religion = "orthodox"
 }
 1022123 = {
-  name = "gYXb˜ñ≈ñ˛äØe"  # Autoreianos
+  name = "gYä˜ñ≈ñ˛äØe"  # Autoreianos
   culture = "greek"
   religion = "orthodox"
 }
@@ -32660,7 +32660,7 @@
   religion = "orthodox"
 }
 1022125 = {
-  name = "aS)RXbnfmØe"  # Charitopoulos
+  name = "aS)RänfmØe"  # Charitopoulos
   culture = "greek"
   religion = "orthodox"
 }
@@ -32685,7 +32685,7 @@
   religion = "orthodox"
 }
 1022130 = {
-  name = "^Xnf“RØe"  # Kyprios
+  name = "^XfmÔçØe"  # Kyprios
   culture = "greek"
   religion = "orthodox"
 }
@@ -32695,7 +32695,7 @@
   religion = "orthodox"
 }
 1022132 = {
-  name = "^jtKQÃëØe–cgY–cØe"  # Pammakaristiotis
+  name = "^jtKQ·àØe–cgY–cØe"  # Pammakaristiotis
   culture = "greek"
   religion = "orthodox"
 }
@@ -32852,7 +32852,7 @@
   religion = "catholic"
 }
 1023016 = {
-  name = "∑V Ùu%Y-^Ãë∑V"  # de Ville-Bride
+  name = "∑V Ùu%Y-^·à∑V"  # de Ville-Bride
   culture = "frankish"
   religion = "catholic"
 }
@@ -33101,7 +33101,7 @@
   religion = "sunni"
 }
 1027021 = {
-  name = "©ÖMOCQ"  # Thabitid
+  name = "©Ö‘kyr"  # Thabitid
   culture = "maghreb_arabic"
   religion = "sunni"
   coat_of_arms = {
@@ -33176,7 +33176,7 @@
   religion = "catholic"
 }
 1029001 = {
-  name = "nfÃë4bi`"  # Prydain
+  name = "nf·à4bi`"  # Prydain
   culture = "welsh"
   religion = "catholic"
 }
@@ -33539,7 +33539,7 @@
   }
 }
 1030014 = {
-  name = "^Ãë=kÙT"  # Buricimba
+  name = "^·à=kÙT"  # Buricimba
   culture = "manden"
   religion = "west_african_pagan"
 }
@@ -34289,7 +34289,7 @@
   forced_coa_religiongroup = "muslim"
 }
 1031113 = {
-  name = "^»TÃë"  # Bukhari
+  name = "^»T·à"  # Bukhari
   culture = "persian"
   coat_of_arms = {
     data = {
@@ -34323,7 +34323,7 @@
   forced_coa_religiongroup = "muslim"
 }
 1031115 = {
-  name = "?ñZS»TÃë"  # al-Abhari
+  name = "?ñZS»T·à"  # al-Abhari
   culture = "persian"
   coat_of_arms = {
     data = {
@@ -34442,7 +34442,7 @@
   forced_coa_religiongroup = "muslim"
 }
 1031122 = {
-  name = "ÜÃë"  # al-Suri
+  name = "Ü·à"  # al-Suri
   culture = "levantine_arabic"
   coat_of_arms = {
     data = {
@@ -34493,7 +34493,7 @@
   forced_coa_religiongroup = "muslim"
 }
 1031125 = {
-  name = "âR©ÖÃë"  # Ansari
+  name = "âR©Ö·à"  # Ansari
   culture = "persian"
   coat_of_arms = {
     data = {
@@ -34714,7 +34714,7 @@
   culture = "kurdish"
 }
 1029013 = {
-  name = "MOCQ)RØe"  # Bitlisid
+  name = "‘kyr)RØe"  # Bitlisid
   culture = "kurdish"
 }
 1029014 = {
@@ -34734,7 +34734,7 @@
   culture = "kurdish"
 }
 1029018 = {
-  name = "NbaSÃëâR"  # Zakarian
+  name = "NbaS·àâR"  # Zakarian
   culture = "armenian"
   religion = "miaphysite"
 }
@@ -34839,7 +34839,7 @@
   culture = "nahuatl"
 }
 1035014 = {
-  name = "¨ô.}yr"  # Mazatl
+  name = "¨ôNbyr"  # Mazatl
   culture = "nahuatl"
 }
 1035015 = {
@@ -34915,7 +34915,7 @@
   culture = "nahuatl"
 }
 1035033 = {
-  name = "XbyraSyr"  # Toltecatl
+  name = "äyraSyr"  # Toltecatl
   culture = "nahuatl"
 }
 1035034 = {
@@ -35091,7 +35091,7 @@
   }
 }
 9521 = {
-  name = "?ñÃëûNTX"  # Alliata
+  name = "?ñ·àûNTX"  # Alliata
   culture = "italian"
   religion = "catholic"
   coat_of_arms = {
@@ -35229,7 +35229,7 @@
   culture = "bedouin_arabic"
 }
 1029055 = {
-  name = "%Y∑VÃëØe"  # Idrisid
+  name = "%Y∑V·àØe"  # Idrisid
   culture = "maghreb_arabic"
   religion = "shiite"
   coat_of_arms = {
@@ -35287,7 +35287,7 @@
   religion = "catholic"
 }
 1042031 = {
-  name = "iO…bÃë"  # Pellari
+  name = "iO…b·à"  # Pellari
   culture = "italian"
   religion = "catholic"
 }
@@ -35335,7 +35335,7 @@
 }
 1042801 = {
   name = "2É Ùu
-ÑXb+Y"  # z Wieletow
+Ñä+Y"  # z Wieletow
   culture = "pommeranian"
   religion = "slavic_pagan"
 }
@@ -35379,7 +35379,7 @@
   }
 }
 1042805 = {
-  name = "§o ØeXbTê…b˛ä+Y"  # ze Stodaranow
+  name = "§o ØeäTê…b˛ä+Y"  # ze Stodaranow
   culture = "pommeranian"
   religion = "slavic_pagan"
 }
@@ -35394,7 +35394,7 @@
   religion = "catholic"
 }
 1042810 = {
-  name = "yrÃë^˛ä"  # Tribuno
+  name = "yr·à^˛ä"  # Tribuno
   culture = "italian"
   religion = "catholic"
 }
@@ -35593,7 +35593,7 @@
   religion = "pagan"
 }
 1029032 = {
-  name = "^Ãë—û<SgY<h"  # Brycheiniog
+  name = "^·à—û<SgY<h"  # Brycheiniog
   culture = "welsh"
   religion = "catholic"
 }
@@ -35702,7 +35702,7 @@
   religion = "tengri_pagan"
 }
 1042048 = {
-  name = "XbKQ1tÙT"  # Toksoba
+  name = "äKQ1tÙT"  # Toksoba
   culture = "cuman"
   religion = "tengri_pagan"
 }
@@ -35717,7 +35717,7 @@
   religion = "catholic"
 }
 1042808 = {
-  name = "∑V aS…bÃëØe"  # de Callaris
+  name = "∑V aS…b·àØe"  # de Callaris
   culture = "sardinian"
   religion = "catholic"
 }
@@ -35846,7 +35846,7 @@
   }
 }
 1043308 = {
-  name = "wmÃë6wTê+P"  # av Herjedalen
+  name = "wm·à6wTê+P"  # av Herjedalen
   culture = "norse"
   religion = "norse_pagan"
   coat_of_arms = {
@@ -36050,7 +36050,7 @@
   religion = "orthodox"
 }
 1022141 = {
-  name = "ÃëgYÊtóØe"  # Leovachos
+  name = "·àgYÊtóØe"  # Leovachos
   culture = "greek"
   religion = "orthodox"
   coat_of_arms = {
@@ -36089,7 +36089,7 @@
   religion = "catholic"
 }
 1022144 = {
-  name = "ÊtKQÃëaSØe"  # Vaklikas
+  name = "ÊtKQ·àaSØe"  # Vaklikas
   culture = "greek"
   religion = "orthodox"
 }
@@ -36099,7 +36099,7 @@
   religion = "orthodox"
 }
 1022146 = {
-  name = "ØeKQóg≥uÃëPkØe"  # Skrinarios
+  name = "ØeKQóg≥u·àPkØe"  # Skrinarios
   culture = "greek"
   religion = "orthodox"
 }
@@ -36126,7 +36126,7 @@
   }
 }
 1022149 = {
-  name = "èUÖESÃëØe"  # Kalokyris
+  name = "èUÖES·àØe"  # Kalokyris
   culture = "greek"
   religion = "orthodox"
   coat_of_arms = {
@@ -36160,7 +36160,7 @@
   }
 }
 1022151 = {
-  name = "ØeES…bÃëØe"  # Skyllaris
+  name = "ØeES…b·àØe"  # Skyllaris
   culture = "greek"
   religion = "orthodox"
 }
@@ -36180,7 +36180,7 @@
   religion = "orthodox"
 }
 1022155 = {
-  name = "^·àaSÃëPkØe"  # Pallikarios
+  name = "^·àaS·àPkØe"  # Pallikarios
   culture = "greek"
   religion = "orthodox"
 }
@@ -36224,7 +36224,7 @@
   religion = "orthodox"
 }
 1022159 = {
-  name = "kçKQ©ÖœpÃëØe"  # Hexavoulis
+  name = "kçKQ©Öœp·àØe"  # Hexavoulis
   culture = "greek"
   religion = "orthodox"
   coat_of_arms = {
@@ -36246,7 +36246,7 @@
   religion = "orthodox"
 }
 1022161 = {
-  name = "?ñ<h…bØeXbØe"  # Agelastos
+  name = "?ñ<h…bØeäØe"  # Agelastos
   culture = "greek"
   religion = "orthodox"
   coat_of_arms = {
@@ -36268,7 +36268,7 @@
   religion = "orthodox"
 }
 1022163 = {
-  name = "XbKQ©Ö…bØe"  # Toxaras
+  name = "äKQ©Ö…bØe"  # Toxaras
   culture = "greek"
   religion = "orthodox"
 }
@@ -36317,7 +36317,7 @@
   }
 }
 1022168 = {
-  name = "∑^Xbs|“VØe"  # Kontomytes
+  name = "∑^äs|“VØe"  # Kontomytes
   culture = "greek"
   religion = "orthodox"
   coat_of_arms = {
@@ -36730,7 +36730,7 @@
   }
 }
 9554 = {
-  name = "?ñÃëZSÈZ"  # Aribonen
+  name = "?ñ·àZSÈZ"  # Aribonen
   culture = "german"
   religion = "catholic"
   coat_of_arms = {
@@ -36997,7 +36997,7 @@
   }
 }
 9563 = {
-  name = "∑V PkÃëûNÇÑ"  # d'Auriate
+  name = "∑V Pk·àûNÇÑ"  # d'Auriate
   culture = "italian"
   religion = "catholic"
   coat_of_arms = {
@@ -37354,7 +37354,7 @@
   forced_coa_religiongroup = "christian"
 }
 1022203 = {
-  name = "KQÃë<SWØe"  # Crinitus
+  name = "KQ·à<SWØe"  # Crinitus
   culture = "roman"
   religion = "hellenic_pagan"
   forced_coa_religiongroup = "christian"
@@ -37502,7 +37502,7 @@
   forced_coa_religiongroup = "christian"
 }
 1022228 = {
-  name = "ÙuyrÃëœpØe"  # Vitellius
+  name = "Ùuyr·àœpØe"  # Vitellius
   culture = "roman"
   religion = "hellenic_pagan"
   forced_coa_religiongroup = "christian"
@@ -37712,7 +37712,7 @@
   religion = "catholic"
 }
 9575 = {
-  name = "©ÖÃëkç"  # Salihid
+  name = "©Ö·àkç"  # Salihid
   culture = "maghreb_arabic"
   religion = "sunni"
 }
@@ -37769,7 +37769,7 @@
   }
 }
 9587 = {
-  name = "Æô HO˜ñ9h(É"  # von Bregenz
+  name = "Æô ^˜ñ9h(É"  # von Bregenz
   culture = "german"
   religion = "catholic"
 }
@@ -37802,7 +37802,7 @@
   religion = "orthodox"
 }
 9591 = {
-  name = "‚laSÃëgYØe"  # Polkarios
+  name = "‚laS·àgYØe"  # Polkarios
   culture = "greek"
   religion = "orthodox"
 }
@@ -37822,7 +37822,7 @@
   religion = "catholic"
 }
 9602 = {
-  name = "%YØeùåÃë"  # Isbulid
+  name = "%YØeùå·à"  # Isbulid
   culture = "avar"
   religion = "tengri_pagan"
 }
@@ -38091,7 +38091,7 @@
   religion = "slavic_pagan"
 }
 1042817 = {
-  name = "^Ãë—û<SgY<h"  # Brycheiniog
+  name = "^·à—û<SgY<h"  # Brycheiniog
   culture = "welsh"
   religion = "catholic"
 }
@@ -38156,7 +38156,7 @@
   religion = "miaphysite"
 }
 1042641 = {
-  name = "•ûKQ ∑VÃëØefW"  # Mac Drostan
+  name = "•ûKQ ∑V·àØefW"  # Mac Drostan
   culture = "scottish"
   religion = "catholic"
   coat_of_arms = {
@@ -38173,7 +38173,7 @@
   }
 }
 1042642 = {
-  name = "•ûKQ 	TÃëKQ"  # Mac Giric
+  name = "•ûKQ 	T·àKQ"  # Mac Giric
   culture = "scottish"
   religion = "catholic"
   coat_of_arms = {
@@ -38224,7 +38224,7 @@
   }
 }
 1042645 = {
-  name = "•ûKQ KQÃëâR"  # Mac Crinan
+  name = "•ûKQ KQ·àâR"  # Mac Crinan
   culture = "scottish"
   religion = "catholic"
   coat_of_arms = {
@@ -38280,7 +38280,7 @@
   religion = "catholic"
 }
 9613 = {
-  name = "pgyr"  # Hjort
+  name = "ëPyr"  # Hjort
   culture = "norse"
   religion = "norse_pagan"
 }
@@ -38299,7 +38299,7 @@
   culture = "ashkenazi"
 }
 1041051 = {
-  name = ",g ?ñÃë"  # Ben Ari
+  name = ",g ?ñ·à"  # Ben Ari
   culture = "ashkenazi"
 }
 1041052 = {
@@ -39187,7 +39187,7 @@
   }
 }
 1022255 = {
-  name = "‘kôlÃëûN[à"  # Bisariab
+  name = "‘kôl·àûN[à"  # Bisariab
   culture = "nubian"
   religion = "miaphysite"
 }
@@ -39740,7 +39740,7 @@
   religion = "sunni"
 }
 1040216 = {
-  name = "éN˝ê≥e"  # Iitigin
+  name = "ºe˝ê≥e"  # Iitigin
   culture = "turkish"
   religion = "sunni"
 }
@@ -40503,7 +40503,7 @@
   religion = "catholic"
 }
 1044047 = {
-  name = "?ñÃëgYS∑V"  # Arioldling
+  name = "?ñ·àgYS∑V"  # Arioldling
   culture = "lombard"
   religion = "catholic"
 }
@@ -40702,7 +40702,7 @@
   religion = "catholic"
 }
 1044086 = {
-  name = "Ö∑VÃëØe"  # Roderissingi
+  name = "Ö∑V·àØe"  # Roderissingi
   culture = "lombard"
   religion = "catholic"
 }
@@ -40753,7 +40753,7 @@
   religion = "orthodox"
 }
 1022263 = {
-  name = "∑Vs|yrÃë?ñ˛äØe"  # Demetrianos
+  name = "∑Vs|yr·à?ñ˛äØe"  # Demetrianos
   culture = "greek"
   religion = "orthodox"
 }
@@ -40883,7 +40883,7 @@
   religion = "iconoclast"
 }
 1022277 = {
-  name = "XbKQâûNØe"  # Toxias
+  name = "äKQâûNØe"  # Toxias
   culture = "greek"
   religion = "iconoclast"
 }
@@ -40952,7 +40952,7 @@
   religion = "orthodox"
 }
 1022286 = {
-  name = "ØeKQ^ØeXbØe"  # Skepastos
+  name = "ØeKQ^ØeäØe"  # Skepastos
   culture = "greek"
   religion = "orthodox"
 }
@@ -40997,7 +40997,7 @@
   religion = "orthodox"
 }
 1022295 = {
-  name = "aS≥uaSÃë"  # Kanakaris
+  name = "aS≥uaS·à"  # Kanakaris
   culture = "greek"
   religion = "catholic"
 }
@@ -41090,7 +41090,7 @@
   religion = "orthodox"
 }
 1022306 = {
-  name = "yrÃë»T˜ñØe"  # Trichares
+  name = "yr·à»T˜ñØe"  # Trichares
   culture = "greek"
   religion = "orthodox"
 }
@@ -41100,7 +41100,7 @@
   religion = "orthodox"
 }
 1022308 = {
-  name = "KQÃëTX…bäØe"  # Kritharatos
+  name = "KQ·àTX…bäØe"  # Kritharatos
   culture = "greek"
   religion = "orthodox"
 }
@@ -41189,7 +41189,7 @@
   religion = "catholic"
 }
 1022321 = {
-  name = "gYÃëØeTX<S"  # Oristani
+  name = "gY·àØeTX<S"  # Oristani
   culture = "sardinian"
   religion = "catholic"
 }
@@ -41214,7 +41214,7 @@
   religion = "catholic"
 }
 1022326 = {
-  name = "´ÉgQVÃëgY"  # Monegario
+  name = "´ÉgQV·àgY"  # Monegario
   culture = "italian"
   religion = "catholic"
 }
@@ -41965,7 +41965,7 @@
   religion = "sunni"
 }
 1042127 = {
-  name = "TX<hÃë[à"  # Banu Taghlib
+  name = "TX<h·à[à"  # Banu Taghlib
   culture = "levantine_arabic"
   religion = "sunni"
 }
@@ -42045,7 +42045,7 @@
   religion = "buddhist"
 }
 1046012 = {
-  name = "?ñÃëûNØe"  # Arias
+  name = "?ñ·àûNØe"  # Arias
   culture = "portuguese"
   religion = "catholic"
 }
@@ -42065,7 +42065,7 @@
   religion = "sunni"
 }
 1046020 = {
-  name = "aSÃë∆Y"  # Karimid
+  name = "aS·à∆Y"  # Karimid
   culture = "maghreb_arabic"
   religion = "sunni"
 }
@@ -42090,7 +42090,7 @@
   religion = "sunni"
 }
 1046025 = {
-  name = "–cgYYÃëGYâRZ"  # Theodoricciana
+  name = "–cgYY·àGYâRZ"  # Theodoricciana
   culture = "visigothic"
   religion = "catholic"
 }
@@ -42264,7 +42264,7 @@
   religion = "catholic"
 }
 1040020 = {
-  name = "aSÃëœp"  # Caliu
+  name = "aS·àœp"  # Caliu
   culture = "pictish"
   religion = "catholic"
 }
@@ -42340,7 +42340,7 @@
   religion = "sunni"
 }
 1022366 = {
-  name = "TX<hÃë[à"  # Taglibid
+  name = "TX<h·à[à"  # Taglibid
   culture = "bedouin_arabic"
   religion = "sunni"
 }
@@ -42414,7 +42414,7 @@
   }
 }
 1022370 = {
-  name = "—ûTêyrÃë"  # Ghidatli
+  name = "—ûTêyr·à"  # Ghidatli
   culture = "avar"
 }
 1022371 = {
@@ -42478,7 +42478,7 @@
   religion = "sunni"
 }
 1044105 = {
-  name = "âgYYÃëKQ"  # Theodericing
+  name = "âgYY·àKQ"  # Theodericing
   culture = "old_saxon"
   religion = "norse_pagan"
   coat_of_arms = {
@@ -42656,7 +42656,7 @@
   religion = "hindu"
 }
 1044381 = {
-  name = "W<hÃëS"  # Toghril
+  name = "W<h·àS"  # Toghril
   culture = "turkish"
   religion = "sunni"
 }
@@ -42823,7 +42823,7 @@
   religion = "jewish"
 }
 1022379 = {
-  name = "ÊtKQÃë¨ô“R"  # Vakrimal
+  name = "ÊtKQ·à¨ô“R"  # Vakrimal
   culture = "khazar"
   religion = "tengri_pagan"
 }
@@ -42853,7 +42853,7 @@
   religion = "tengri_pagan"
 }
 1022385 = {
-  name = "Xbyr…b+ì"  # Totrazi
+  name = "äyr…b+ì"  # Totrazi
   culture = "alan"
   religion = "tengri_pagan"
 }
@@ -43004,7 +43004,7 @@
   religion = "sunni"
 }
 1042160 = {
-  name = "?ñÃë‰STêS2É"  # Aligoodarzid
+  name = "?ñ·à‰STêS2É"  # Aligoodarzid
   culture = "persian"
   religion = "sunni"
 }
@@ -43075,7 +43075,7 @@
   religion = "ibadi"
 }
 1048004 = {
-  name = "OOóg"  # Ifrinid
+  name = "%Y+Yóg"  # Ifrinid
   culture = "maghreb_arabic"
   religion = "ibadi"
 }
@@ -43404,7 +43404,7 @@
   religion = "catholic"
 }
 9322 = {
-  name = "∑V ùåXbÃëaS"  # de Betoricas
+  name = "∑V ùåä·àaS"  # de Betoricas
   culture = "old_frankish"
   religion = "catholic"
 }
@@ -43521,7 +43521,7 @@
   religion = "hindu"
 }
 1040223 = {
-  name = "‡V<hÃë"  # Ingeri
+  name = "‡V<h·à"  # Ingeri
   culture = "ugricbaltic"
   religion = "finnish_pagan"
 }
@@ -43904,7 +43904,7 @@
   religion = "norse_pagan"
 }
 1047010 = {
-  name = "√W^XSèyÃëØe"  # ∆thelfrithing
+  name = "√W^XSèy·àØe"  # ∆thelfrithing
   culture = "saxon"
   religion = "norse_pagan"
 }
@@ -43972,7 +43972,7 @@
   religion = "catholic"
 }
 1044094 = {
-  name = "‹ñJnóg"  # Hahilinga
+  name = "»T^óg"  # Hahilinga
   culture = "german"
   religion = "catholic"
 }
@@ -44007,7 +44007,7 @@
   religion = "finnish_pagan"
 }
 1045028 = {
-  name = "∑V VÃëØe-Ü"  # de Friesland
+  name = "∑V V·àØe-Ü"  # de Friesland
   culture = "dutch"
   religion = "catholic"
 }
@@ -44097,7 +44097,7 @@
   culture = "ilmenian"
 }
 1045050 = {
-  name = "ÑSSÖhÃëJü"  # Hermerici
+  name = "ÑSSÖh·àJü"  # Hermerici
   culture = "suebi"
 }
 1045051 = {
@@ -44113,7 +44113,7 @@
   culture = "suebi"
 }
 1045054 = {
-  name = "’lùåÃë"  # Faberi
+  name = "’lùå·à"  # Faberi
   culture = "suebi"
 }
 1045055 = {
@@ -44245,7 +44245,7 @@
   religion = "sunni"
 }
 1045074 = {
-  name = "ÔS1Y§ïRQ"  # Kashgar
+  name = "ÔS1YTRQ"  # Kashgar
   culture = "sogdian"
   religion = "zoroastrian"
 }
@@ -44438,7 +44438,7 @@
   religion = "sunni"
 }
 1051120 = {
-  name = "qgÃëYr’`"  # Buryat
+  name = "qg·àYr’`"  # Buryat
   culture = "mongol"
   religion = "tengri_pagan"
   coat_of_arms = {
@@ -45507,7 +45507,7 @@
   religion = tengri_pagan
 }
 1051199 = {
-  name = "VR?ñÃë"  # Puali
+  name = "VR?ñ·à"  # Puali
   culture = jurchen
   religion = tengri_pagan
 }
@@ -45736,7 +45736,7 @@
   religion = "buddhist"
 }
 1040057 = {
-  name = "ÔS1Y§ïRQ"  # Kasyar
+  name = "ÔS1YTRQ"  # Kasyar
   culture = "sogdian"
   religion = "buddhist"
 }
@@ -45905,7 +45905,7 @@
   religion = finnish_pagan
 }
 1053003 = {
-  name = "¨ôØeXb…b–cûN"  # Mastoratia
+  name = "¨ôØeä…b–cûN"  # Mastoratia
   culture = mordvin
   religion = finnish_pagan
 }
@@ -45955,7 +45955,7 @@
   religion = "sunni"
 }
 1053013 = {
-  name = "jtØeXbÜñ ˙WSÍè"  # Mastoron Kirdi
+  name = "jtØeäÜñ ˙WSÍè"  # Mastoron Kirdi
   culture = mordvin
   religion = finnish_pagan
 }
@@ -46508,7 +46508,7 @@
   religion = "catholic"
 }
 1040129 = {
-  name = "VmÃëØe"  # Floris
+  name = "Vm·àØe"  # Floris
   culture = "italian"
   religion = "catholic"
 }
@@ -47026,7 +47026,7 @@
   religion = "nestorian"
 }
 1059019 = {
-  name = "ÑSùåÃë"  # Ebheri
+  name = "ÑSùå·à"  # Ebheri
   culture = "ashkenazi"
   religion = "jewish"
 }
@@ -47131,7 +47131,7 @@
   religion = "tengri_pagan"
 }
 1059035 = {
-  name = "%R1YkQÃë"  # Beshbalik
+  name = "%R1YkQ·à"  # Beshbalik
   culture = "uyghur"
   religion = "buddhist"
 }
@@ -47546,7 +47546,7 @@
   religion = "buddhist"
 }
 1029339 = {
-  name = "éN–ï"  # Yuttina
+  name = "ºe–ï"  # Yuttina
   culture = "saka"
   religion = "buddhist"
 }
@@ -47959,7 +47959,7 @@
   religion = "catholic"
 }
 5061088 = {
-  name = "aSØeyrÃëgYÇÑØe"  # Kastriotis
+  name = "aSØeyr·àgYÇÑØe"  # Kastriotis
   culture = "greek"
 }
 5061089 = {
@@ -48439,7 +48439,7 @@
   religion = "slavic_pagan"
 }
 1061020 = {
-  name = "∑V<SnfÃëGY"  # Dniprich
+  name = "∑V<Snf·àGY"  # Dniprich
   culture = "volhynian"
   religion = "slavic_pagan"
 }
@@ -48454,7 +48454,7 @@
   religion = "slavic_pagan"
 }
 1061023 = {
-  name = "nfÃëÆvûNcRGY"  # Pripyatich
+  name = "nf·àÆvûNcRGY"  # Pripyatich
   culture = "volhynian"
   religion = "slavic_pagan"
 }
@@ -48469,12 +48469,12 @@
   religion = "slavic_pagan"
 }
 1061026 = {
-  name = "∑V<SØeyrÃë"  # Dnistri
+  name = "∑V<SØeyr·à"  # Dnistri
   culture = "volhynian"
   religion = "slavic_pagan"
 }
 1061027 = {
-  name = "œpÃëGY"  # Ulich
+  name = "œp·àGY"  # Ulich
   culture = "volhynian"
   religion = "slavic_pagan"
 }
@@ -48765,7 +48765,7 @@
   religion = "nestorian"
 }
 1059060 = {
-  name = "Xb¨ôâZ"  # Thomasina
+  name = "ä¨ôâZ"  # Thomasina
   culture = assyrian
   religion = "nestorian"
 }
@@ -48910,7 +48910,7 @@
   religion = finnish_pagan
 }
 1062063 = {
-  name = "ÙuÃëûN%Y"  # Viryayid
+  name = "Ùu·àûN%Y"  # Viryayid
   culture = komi
   religion = finnish_pagan
 }
@@ -49052,7 +49052,7 @@
   religion = nestorian
 }
 1100025 = {
-  name = "§ïRQqgÂTdç"  # Kharvaach
+  name = "TRQqgÂTdç"  # Kharvaach
   culture = mongol
   religion = tengri_pagan
 }
@@ -49182,7 +49182,7 @@
   religion = orthodox
 }
 1062077 = {
-  name = "^XÊtØeXb‚l)RØe"  # Sevastoupolis
+  name = "^XÊtØeä‚l)RØe"  # Sevastoupolis
   culture = crimean_gothic
   religion = orthodox
 }
@@ -49192,7 +49192,7 @@
   religion = orthodox
 }
 1062079 = {
-  name = "˙WÖhÃëTR"  # Kimmerikon
+  name = "˙WÖh·àTR"  # Kimmerikon
   culture = crimean_gothic
   religion = orthodox
 }
@@ -49587,12 +49587,12 @@
   religion = finnish_pagan
 }
 1062166 = {
-  name = "ÙuÃëûN%Y"  # Viryayid
+  name = "Ùu·àûN%Y"  # Viryayid
   culture = komi
   religion = finnish_pagan
 }
 1062167 = {
-  name = "ÙuÃëûN%Y"  # Viryayid
+  name = "Ùu·àûN%Y"  # Viryayid
   culture = komi
   religion = finnish_pagan
 }
@@ -49622,7 +49622,7 @@
   religion = orthodox
 }
 1062173 = {
-  name = "aSØeyrÃëgYÇÑØe"  # Kastriotis
+  name = "aSØeyr·àgYÇÑØe"  # Kastriotis
   culture = greek
   religion = orthodox
 }
@@ -49637,11 +49637,11 @@
   religion = catholic
 }
 1062176 = {
-  name = "nfÃë‘kGY"  # Pribic
+  name = "nf·à‘kGY"  # Pribic
   culture = carantanian
 }
 1062177 = {
-  name = "OO—yÙuGY"  # Ivkovic
+  name = "%Y+Y—yÙuGY"  # Ivkovic
   culture = carantanian
 }
 1062178 = {
@@ -49764,7 +49764,7 @@
   religion = west_african_pagan
 }
 1059972 = {
-  name = "Xb…b"  # Tora
+  name = "ä…b"  # Tora
   culture = "maghreb_arabic"
   religion = "west_african_pagan"
 }
@@ -49934,7 +49934,7 @@
   religion = "west_african_pagan"
 }
 1060201 = {
-  name = "Xb¨ô<h…b"  # Tomaghra
+  name = "ä¨ô<h…b"  # Tomaghra
   culture = zaghawa
   religion = "west_african_pagan"
 }
@@ -49944,7 +49944,7 @@
   religion = "west_african_pagan"
 }
 1060203 = {
-  name = "ùåÃë"  # Beri
+  name = "ùå·à"  # Beri
   culture = zaghawa
   religion = "west_african_pagan"
 }
@@ -50056,7 +50056,7 @@
   used_for_random = no
 }
 105922 = {
-  name = "^Ãëuyr"  # Brigantes
+  name = "^·àuyr"  # Brigantes
   culture = "welsh"
   religion = "pagan"
   used_for_random = no
@@ -50066,7 +50066,7 @@
   culture = "welsh"
 }
 105924 = {
-  name = "Ãë9h"  # Rhegin
+  name = "·à9h"  # Rhegin
   culture = "welsh"
 }
 105925 = {
@@ -50088,11 +50088,11 @@
   culture = "welsh"
 }
 105929 = {
-  name = "^Ãë	TçÇ"  # Brigiau
+  name = "^·à	TçÇ"  # Brigiau
   culture = "welsh"
 }
 105930 = {
-  name = "^ÃëgQkç"  # Bryneich
+  name = "^·àgQkç"  # Bryneich
   culture = "welsh"
 }
 105931 = {
@@ -50125,7 +50125,7 @@
   culture = "welsh"
 }
 105938 = {
-  name = "?ñÃë∑^"  # Aricon
+  name = "?ñ·à∑^"  # Aricon
   culture = "welsh"
 }
 105939 = {
@@ -50197,7 +50197,7 @@
   culture = "bosnian"
 }
 5062108 = {
-  name = "KQÃëØeÇÑGY"  # Kristic
+  name = "KQ·àØeÇÑGY"  # Kristic
   culture = "bosnian"
 }
 5062109 = {
@@ -50332,17 +50332,17 @@
   religion = "orthodox"
 }
 1059951 = {
-  name = "aSØeyrÃëgYÇÑ"  # Kastrioti
+  name = "aSØeyr·àgYÇÑ"  # Kastrioti
   culture = "arberian"
   religion = "orthodox"
 }
 1059950 = {
-  name = "?ñÃë·à<S"  # Arianiti
+  name = "?ñ·à·à<S"  # Arianiti
   culture = "arberian"
   religion = "orthodox"
 }
 1059949 = {
-  name = "NbaSÃëûN"  # Zaccaria
+  name = "NbaS·àûN"  # Zaccaria
   culture = "arberian"
   religion = "orthodox"
 }
@@ -50597,7 +50597,7 @@
   culture = saxon
 }
 1062211 = {
-  name = "NW^ÃëûN"  # Cumbria
+  name = "NW^·àûN"  # Cumbria
   culture = norse
 }
 1062212 = {
@@ -50665,7 +50665,7 @@
   culture = lappish
 }
 1062228 = {
-  name = "kçÃëûNTêS"  # af Herjadalr
+  name = "kç·àûNTêS"  # af Herjadalr
   culture = norse
 }
 1062229 = {
@@ -50882,7 +50882,7 @@
   culture = italian
 }
 1062270 = {
-  name = "Íè ÊtØeXb"  # di Vasto
+  name = "Íè ÊtØeä"  # di Vasto
   culture = italian
 }
 1062271 = {
@@ -50959,7 +50959,7 @@
   culture = bosnian
 }
 1062288 = {
-  name = "ÁvaSÃëGY"  # Lukaric
+  name = "ÁvaS·àGY"  # Lukaric
   culture = serbian
 }
 1062289 = {
@@ -51018,7 +51018,7 @@
   culture = bulgarian
 }
 1062301 = {
-  name = "aSØeyrÃëgYÇÑ"  # Kastrioti
+  name = "aSØeyr·àgYÇÑ"  # Kastrioti
   culture = arberian
   religion = orthodox
 }
@@ -51027,7 +51027,7 @@
   culture = bulgarian
 }
 1062303 = {
-  name = "kçÃë2É"  # Hriz
+  name = "kç·à2É"  # Hriz
   culture = bulgarian
 }
 1062304 = {
@@ -51047,7 +51047,7 @@
   culture = greek
 }
 1062308 = {
-  name = "gYyr ØeyrÃëôÑ"  # ot Strymon
+  name = "gYyr Øeyr·àôÑ"  # ot Strymon
   culture = bulgarian
 }
 1062309 = {
@@ -51236,7 +51236,7 @@
   religion = slavic_pagan
 }
 1062348 = {
-  name = "XbÃëÙuGY"  # Torivic
+  name = "ä·àÙuGY"  # Torivic
   culture = russian
   religion = slavic_pagan
 }
@@ -51336,12 +51336,12 @@
   religion = slavic_pagan
 }
 1062368 = {
-  name = "©ÖÃëÙuGY"  # Sarivic
+  name = "©Ö·àÙuGY"  # Sarivic
   culture = russian
   religion = slavic_pagan
 }
 1062369 = {
-  name = "^ÃëâÙuGY"  # Brysivic
+  name = "^·àâÙuGY"  # Brysivic
   culture = russian
   religion = slavic_pagan
 }
@@ -51351,7 +51351,7 @@
   religion = slavic_pagan
 }
 1062371 = {
-  name = "‡V<hÃëûN"  # Ingrija
+  name = "‡V<h·àûN"  # Ingrija
   culture = ugricbaltic
   religion = finnish_pagan
 }
@@ -51488,7 +51488,7 @@
   religion = finnish_pagan
 }
 1062398 = {
-  name = "ÊtÃë%Y"  # Variyid
+  name = "Êt·à%Y"  # Variyid
   culture = komi
   religion = finnish_pagan
 }
@@ -51527,11 +51527,11 @@
   religion = orthodox
 }
 1062406 = {
-  name = "aS)RØeXbØe"  # Kallistos
+  name = "aS)RØeäØe"  # Kallistos
   culture = greek
 }
 1062407 = {
-  name = "?ñÃëØeTXäØe"  # Aristatos
+  name = "?ñ·àØeTXäØe"  # Aristatos
   culture = greek
 }
 1062408 = {
@@ -51543,7 +51543,7 @@
   culture = greek
 }
 1062410 = {
-  name = "˙WÖhÃëTR"  # of Kimmerikon
+  name = "˙WÖh·àTR"  # of Kimmerikon
   culture = crimean_gothic
 }
 1062411 = {
@@ -51572,7 +51572,7 @@
   religion = sunni
 }
 1062416 = {
-  name = "¨ô.}Ùå"  # Al-Madhara'i
+  name = "¨ôNbÙå"  # Al-Madhara'i
   culture = levantine_arabic
   religion = sunni
 }
@@ -51736,7 +51736,7 @@
   religion = shiite
 }
 1062448 = {
-  name = "?ñ<hÃë[à"  # Aghrebid
+  name = "?ñ<h·à[à"  # Aghrebid
   culture = maghreb_arabic
   religion = shiite
 }
@@ -51769,11 +51769,11 @@
   culture = nubian
 }
 1062455 = {
-  name = "ÖhÃëÊt"  # Meriwa
+  name = "Öh·àÊt"  # Meriwa
   culture = nubian
 }
 1062456 = {
-  name = "»TÃëTê"  # Harida
+  name = "»T·àTê"  # Harida
   culture = nubian
 }
 1062457 = {
@@ -52011,7 +52011,7 @@
   religion = sunni
 }
 1062504 = {
-  name = "¨ô<hÃë^"  # Maghribid
+  name = "¨ô<h·à^"  # Maghribid
   culture = persian
   religion = sunni
 }
@@ -52408,7 +52408,7 @@
   religion = norse_pagan
 }
 1062581 = {
-  name = "NW^ÃëûN"  # Cumbria
+  name = "NW^·àûN"  # Cumbria
   culture = norse
   religion = norse_pagan
 }
@@ -52429,7 +52429,7 @@
 }
 1062585 = {
   name = "2É Ùu
-ÑXb+Y"  # z Wieletow
+Ñä+Y"  # z Wieletow
   culture = pommeranian
   religion = slavic_pagan
 }
@@ -52689,7 +52689,7 @@
   religion = "catholic"
 }
 1069008 = {
-  name = "2É HO˜ñ2É≥u"  # z Brezna
+  name = "2É ^˜ñ2É≥u"  # z Brezna
   culture = "bohemian"
 }
 1069009 = {
@@ -52737,7 +52737,7 @@
   culture = "bohemian"
 }
 1069019 = {
-  name = "2É KRÂeNb˛äÊt"  # z Krizanova
+  name = "2É KQÂeNb˛äÊt"  # z Krizanova
   culture = "bohemian"
   religion = "catholic"
 }
@@ -52884,7 +52884,7 @@
   culture = "slovieni"
 }
 1069054 = {
-  name = "gYØeyrÃëó∆YØe˙W"  # Ostrihomsk˝
+  name = "gYØeyr·àó∆YØe˙W"  # Ostrihomsk˝
   culture = "slovieni"
 }
 1069055 = {
@@ -52941,7 +52941,7 @@
   culture = "slovieni"
 }
 1069068 = {
-  name = "—yØeXb-ÜØe˙W"  # Kostolansk˝
+  name = "—yØeä-ÜØe˙W"  # Kostolansk˝
   culture = "slovieni"
 }
 1069069 = {
@@ -52975,7 +52975,7 @@
   religion = "catholic"
 }
 1069076 = {
-  name = "ÙuXb…b2ÉØe˙W"  # Vitorazsk˝
+  name = "Ùuä…b2ÉØe˙W"  # Vitorazsk˝
   culture = slovieni
 }
 1069077 = {

@@ -210,8 +210,13 @@ def _align_conv_prefixes(src: list, dst: list, src_prefix: dict):
     return out
 
 
-def convert_text(text: str, prefixes_in: dict, raw_latin_in: set, glossary: Glossary):
-    """只轉換 U+4E00-U+9FFF 連續段(片語級);回傳 (converted, prefix_map, raw_latin)。
+def convert_text(text: str, prefixes_in: dict, raw_latin_in: set, glossary: Glossary,
+                 phrase: bool = True):
+    """轉換 U+4E00-U+9FFF 連續段;回傳 (converted, prefix_map, raw_latin)。
+
+    phrase=True(渲染文本 .csv): 片語級 OpenCC(克羅地亞→克羅埃西亞),可增減字數,
+        以 DP 對齊繼承 escape prefix。
+    phrase=False(語法檔 .txt): 逐字元 1:1 轉換,長度恆等,escape 結構 100% 安全。
 
     prefix_map: 輸出字元索引 -> escape byte。run 外字元原樣保留;
     run 內依對齊繼承;片語合併插入的字元預設 0x10。
@@ -230,7 +235,20 @@ def convert_text(text: str, prefixes_in: dict, raw_latin_in: set, glossary: Glos
             src = list(text[pos:end])
             src_prefix = {i: prefixes_in[pos + i] for i in range(len(src)) if pos + i in prefixes_in}
             src_latin = {i for i in range(len(src)) if pos + i in raw_latin_in}
-            conv = glossary.apply(OPENCC.convert("".join(src)))
+            if phrase:
+                conv = glossary.apply(OPENCC.convert("".join(src)))
+            else:
+                # 語法檔:只轉「帶 escape prefix 的字元」,且強制 1:1;
+                # 輸出長度≠1 的映射一律保留原字 → byte 結構與原檔完全一致
+                parts = []
+                for i, c in enumerate(src):
+                    if i in src_prefix:
+                        r = OPENCC.convert(c)
+                        if len(r) == 1:
+                            parts.append(r)
+                            continue
+                    parts.append(c)
+                conv = "".join(parts)
             pmap = _align_conv_prefixes(src, list(conv), src_prefix)
             lmap = _align_conv_prefixes(src, list(conv), {i: True for i in src_latin})
             base = len(out)
@@ -251,24 +269,82 @@ def convert_text(text: str, prefixes_in: dict, raw_latin_in: set, glossary: Glos
     return "".join(out), prefixes_out, raw_latin_out
 
 
+def convert_bytes_inplace(data: bytes) -> bytes:
+    """語法檔用:只對「個別漢字字形」做位元組級等長替換。
+
+    - escape 檔:`PX XX YY`(P 為 0x10..0x13,cp=CJK)→ 僅替換 XX YY 兩字節
+    - utf8 檔:每 3-byte 漢字 → OpenCC 單字對映(限 1:1,否則原樣)
+    - gb18030 檔:每 2-byte 漢字 → OpenCC 對映(限 2-byte 輸出,否則原樣)
+    其餘位元組一律不動 → 檔案長度、引號、escape 結構完全不變。
+    """
+    def conv_cp(cp: int):
+        r = OPENCC.convert(chr(cp))
+        return ord(r[0]) if len(r) == 1 else cp
+
+    # 先判斷 escape 格式(依 sniff 規則)
+    if _looks_escape(data):
+        out = bytearray()
+        i = 0
+        n = len(data)
+        while i < n:
+            if data[i] in ESCAPES and i + 2 < n:
+                cp = data[i + 1] | (data[i + 2] << 8)
+                if _is_cjk_escape(cp):
+                    ncp = conv_cp(cp)
+                    out.append(data[i])
+                    out.append(ncp & 0xFF)
+                    out.append((ncp >> 8) & 0xFF)
+                    i += 3
+                    continue
+            out.append(data[i])
+            i += 1
+        return bytes(out)
+
+    # utf8 / gb18030:逐漢字替換
+    for enc in ("utf-8", "gb18030"):
+        try:
+            s = data.decode(enc)
+        except UnicodeDecodeError:
+            continue
+        out = []
+        for ch in s:
+            if "\u4e00" <= ch <= "\u9fff":
+                r = OPENCC.convert(ch)
+                out.append(r if len(r) == 1 else ch)
+            else:
+                out.append(ch)
+        return "".join(out).encode(enc)
+    return data
+
+
 def convert_file(path: Path, glossary: Glossary, dry_run: bool, stats: dict):
     data = path.read_bytes()
     kind = sniff(data)
     if kind is None:
         print(f"  [skip:binary] {path}")
         return 0
+    if path.suffix.lower() != ".csv":
+        # 語法檔:位元組級等長替換,結構零變動
+        converted = convert_bytes_inplace(data)
+        stats["files"] += 1
+        stats["chars"] += sum(1 for ch in data if 0x80 <= ch < 0xFF)
+        if dry_run:
+            return int(converted != data)
+        if converted != data:
+            path.write_bytes(converted)
+        return int(converted != data)
     if kind in ("utf8", "gb18030"):
         text = data.decode(kind)
-        converted, _, _ = convert_text(text, {}, set(), glossary)
+        converted, _, _ = convert_text(text, {}, set(), glossary, phrase=True)
         out = converted.encode(kind)
         stats["files"] += 1
         stats["chars"] += len(text)
         if not dry_run and out != data:
             path.write_bytes(out)
         return int(out != data)
-    # escape 格式
+    # escape 格式 csv
     text, prefixes, raw_latin = decode_escape(data)
-    converted, prefixes, raw_latin = convert_text(text, prefixes, raw_latin, glossary)
+    converted, prefixes, raw_latin = convert_text(text, prefixes, raw_latin, glossary, phrase=True)
     out = encode_escape(converted, prefixes, raw_latin)
     stats["files"] += 1
     stats["chars"] += sum(1 for ch in text if "\u4e00" <= ch <= "\u9fff")

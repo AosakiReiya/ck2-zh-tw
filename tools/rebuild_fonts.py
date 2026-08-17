@@ -154,7 +154,7 @@ def write_dds(path: Path, img: Image.Image):
         "<4s7I11I2I4s5I5I",
         b"DDS ",                     # magic
         124,                          # dwSize
-        0x1007,                       # flags: CAPS|HEIGHT|WIDTH|PIXELFORMAT|LINEARSIZE
+        0x81007,                      # flags: CAPS|HEIGHT|WIDTH|PIXELFORMAT|LINEARSIZE
         h, w,                         # height, width
         (w * h) // 2,                 # linear size (8bpp DXT)
         0, 0,                         # depth, mipcount

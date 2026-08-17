@@ -52,13 +52,13 @@ horse_group = {
       "gaô"  # The Houyhnhnm
       "kç´n"  # Hwin
       "jÅRQ"  # Merrylegs
-      "ˇb4x]"  # Napoleon
+      "ˇb4xñO"  # Napoleon
       "ÆvÜñ"  # Pylon
       "]à“íw"  # Rusher
       "?ñÖ∑V"  # Arod
       "?ñØe’lmØe"  # Asfaloth
       "S¨ô‘kS"  # Bill the Pony
-      "HO˜ñb"  # Brego
+      "^˜ñb"  # Brego
       "	ëÙTlO"  # Bumpkin
       "•w•w"  # Fatty
       "w÷wnR"  # Lumpkin
@@ -102,20 +102,20 @@ horse_group = {
       "√û—ë9Ç"  # Golden
       "_Ü“âKb"  # Hornline
       "ÀóS≥u"  # Verner
-      "HO˜ñb"  # Brego
+      "^˜ñb"  # Brego
       "^â|v…bØe"  # Bucephalus
       "Ys|˛ä"  # Domino
       "ôÑÇÑ"  # Monty
       "Éï˚ñ"  # Bolt
       "gYKQ˜ñ"  # Oakley
       "4bS"  # Dale
-      "ÃëgY"  # Rio
+      "·àgY"  # Rio
       "ƒ{∑V‘kSyr"  # Vanderbilt
       "jrò"  # Newton
       "sbIg"  # Trigger
       "ôl)Ráe"  # Sullivan
       "ÙT≥u‘k"  # Barnaby
-      "yrÃë"  # Terry
+      "yr·à"  # Terry
       "®Nyr"  # Hunter
       "lKQ"  # Tyke
     }
@@ -124,7 +124,7 @@ horse_group = {
       "aS¿NfWaS"  # Kasztanka
       "oõÃÉNÎX"  # Sergeant Reckless
       "jë?o"  # Buttermilk
-      "GY_ésYÎX"  # Lady Wonder
+      "GY·çsYÎX"  # Lady Wonder
       "jRqV"  # Silhouette
       "é∫N"  # Beauty
       "˜ñó"  # Lightning
@@ -139,13 +139,13 @@ horse_group = {
       "gaô"  # The Houyhnhnm
       "kç´n"  # Hwin
       "jÅRQ"  # Merrylegs
-      "ˇb4x]"  # Napoleon
+      "ˇb4xñO"  # Napoleon
       "TXRQ"  # Pylon
       "]à“íw"  # Rusher
       "?ñÖ∑V"  # Arod
       "?ñØe’lmØe"  # Asfaloth
       "S¨ô‘kâÉ"  # Bill the Pony
-      "HO˜ñb"  # Brego
+      "^˜ñb"  # Brego
       "	ëÙTlO"  # Bumpkin
       "•w•w"  # Fatty
       "w÷wnR"  # Lumpkin
@@ -173,7 +173,7 @@ horse_group = {
       "©ÖâÉ"  # Sallie
       "WS‹t"  # Pumpkin
       "ôôõèôe"  # Spice
-      "CSÃë¨ô"  # Chollima
+      "CS·à¨ô"  # Chollima
       "‰SS’lKQâ"  # Gullfaxi
       "aS…b"  # Kara
       "Õs‡s"  # Pearl
@@ -182,7 +182,7 @@ horse_group = {
       "√W‚lZ"  # Epona
       "•eP"  # Scout
       "¶êÆY"  # Bonney
-      "^ÃëØe"  # Paris
+      "^·àØe"  # Paris
       "Ymyr"  # Charlotte
       "´ÉZ"  # Mona
       "wmÇÑ"  # Heidi
@@ -238,7 +238,7 @@ cat_group = {
       "ófqV"  # Shadow
       "	NsTøu"  # Zimm
       "qS∆Y"  # Samm
-      "∆RØeXbV·à"  # Misstoffelees
+      "∆RØeäV·à"  # Misstoffelees
       "bãV>O"  # Deuteronomy
       "êü^Él"  # Pouncival
       "NYPO"  # Quaxo
@@ -250,7 +250,7 @@ cat_group = {
       "^X“R∆Y"  # Salem
       "WÁv2É"  # Toulouse
       "œgÃè2É"  # Berlioz
-      "Xb¨ôØe"  # Thomas
+      "ä¨ôØe"  # Thomas
       "‘kSKQ"  # Birk
       "*rnR"  # Paws
       "ÙTâ	tØe »TmKQ dÀÜ<õ"  # Basileus Harlocke Spoops
@@ -272,7 +272,7 @@ cat_group = {
       "∆TfUãs"  # Cat
       "lxc^"  # Coins
       "—ûyå"  # Panther
-      "uëÖ"  # Frumpkin
+      "u‹Y"  # Frumpkin
       "µUJN-^"  # Chairman
       "µUµU"  # Meow
       "Zõô"  # Floof
@@ -287,7 +287,7 @@ cat_group = {
       "lç©∑V"  # Syd
       "ùåS"  # Bear
       "VõÅKb"  # Ripper
-      "´ÉÃëØe"  # Maurice
+      "´É·àØe"  # Maurice
       "ëPKQ"  # Jake
       "âSÙuØeyr"  # Sylvester
       "‘k<h"  # Big
@@ -307,7 +307,7 @@ cat_group = {
       "Xo"  # Pan
       "ñw˙WÓh"  # Tjockisen
       "ÓÑ±Ç"  # Lotus
-      "´ÉÃëØe"  # Morris
+      "´É·àØe"  # Morris
       "ófqV"  # Shadow
       "gYØeaS"  # Oscar
       "√WØe˙WS"  # Eskil
@@ -372,7 +372,7 @@ cat_group = {
       "ìåìå"  # Cat
       "lxc^"  # Coins
       "—ûyå"  # Panther
-      "uëÖ"  # Frumpkin
+      "u‹Y"  # Frumpkin
       "cÑãNwï"  # Chairman
       "µUµU"  # Meow
       "Zõô"  # Floof
@@ -658,7 +658,7 @@ hedgehog_group = {
       "Öh<h"  # Meg
       ")s¢u"  # Scarlet
       "´n∑V…b"  # Vendela
-      "uëÖ"  # Ginger
+      "u‹Y"  # Ginger
       "Öh≥u"  # Mena
       "ÇÑéÉ"  # Tisha
       "gYZ"  # Oona
@@ -886,7 +886,7 @@ dog_group = {
       "Ö¨ô"  # Rome
       "˝u>e"  # Blossom
       "kçœg"  # Hebe
-      "^…bÃë"  # Hilary
+      "^…b·à"  # Hilary
       "ó·à–c"  # Jolity
       "›Qñâw"  # Gazer
       "ÓvIQÉïÉï"  # Eyebright
@@ -1024,7 +1024,7 @@ dog_group = {
       "Ö¨ô"  # Rome
       "˝u>e"  # Blossom
       "kçœg"  # Hebe
-      "^…bÃë"  # Hilary
+      "^…b·à"  # Hilary
       "ó·à–c"  # Jolity
       "›Qñâw"  # Gazer
       "ÓvIQÉïÉï"  # Eyebright
@@ -1073,7 +1073,7 @@ dog_group = {
       "aœpr}"  # Alice
       "ùåSTX"  # Berta
       "Ys|˛ä"  # Domino
-      "≤ÑÜñ0W"  # Blondi
+      "^ÜñÍè"  # Blondi
       "Sé"  # Bella
       "mÇÑ"  # Lottie
       "9NÆY"  # Danny
@@ -1170,7 +1170,7 @@ elephant_group = {
       "ÙT^S"  # Babur
       "ÙTyrS"  # Batyr
       "‚lBTKQØe"  # Pollux
-      "aSØeXb3w"  # Castor
+      "aSØeä3w"  # Castor
       "wïYrHQu"  # Mr-Tusk
       "LOÕï"  # Gaj
       "^-Üyr"  # Brant
@@ -1179,7 +1179,7 @@ elephant_group = {
       "LOÕï‡VOñÖ"  # Gajendra
       "aÖOr"  # Airawat
       "ÊäÕï"  # Tej
-      "XbÇÑ"  # Toti
+      "äÇÑ"  # Toti
       "6wçTÖ"  # Yathra
       "†RJü"  # Ghaazi
       "?ñºn‚l"  # Chotu
@@ -1278,7 +1278,7 @@ dragon_group = {
       "…b¨Q"  # Ladon
       "—ySèUØe"  # Colchidei
       "ÆvT"  # Piton
-      "fkOOS"  # Vouivre
+      "fk%Y+YS"  # Vouivre
       "∑V…bKQ"  # Drac
       "b˜ñgQGY"  # Gorynych
       "ÌsW"  # Bantu
@@ -1323,7 +1323,7 @@ dragon_group = {
       "∞QÔÉ"  # Icefyre
       "èyÂTRQ"  # Falkor
       "≥u	T<S"  # Nagini
-      "ÃëgY˜ñœpØe"  # Rathalos
+      "·àgY˜ñœpØe"  # Rathalos
       "Æv+Y"  # Piff
       "V˜ñ∑V"  # Fred
       "3SôÑ[R∑V"  # Voidaltarah
@@ -1372,7 +1372,7 @@ dragon_group = {
       "ÕÖRQ"  # Saphira
       "√WW©Ö"  # Aithusa
       "wƒr)RmZ"  # Cordelia
-      "ÃëgY˜ñmZ"  # Rathian
+      "·àgY˜ñmZ"  # Rathian
       "YZ"  # Charna
       "ŸN˝ê"  # Xanadu
     }
@@ -1442,7 +1442,7 @@ panda_group = {
       "Óh¯R"  # Semper
       "◊kÖ"  # Vira
       "ÀeãV"  # Song
-      "ñTÈTâ|"  # Masala
+      "ñT±Uâ|"  # Masala
       "%Y…b"  # Ila
       "”u≈ñ"  # Zeya
       "aSSÓh"  # Carson
@@ -1462,7 +1462,7 @@ panda_group = {
       "aSTXS"  # Katar
       "úg"  # Berry
       "ÙT·à"  # Barrie
-      "nf´ÉÃë"  # Pumori
+      "nf´É·à"  # Pumori
       "âR^oõØe"  # Ambrus
       "?ñS>Oyr"  # Albert
       "Æô"  # Feng
@@ -1500,7 +1500,7 @@ panda_group = {
       "énR"  # Miko
       "≥uÊt"  # Nava
       "Ha<S"  # Cini
-      "ñTÈTâ|"  # Masala
+      "ñT±Uâ|"  # Masala
       "^Z"  # Panna
       "Æv≈ñ"  # Piya
       "Êä"  # Satya
