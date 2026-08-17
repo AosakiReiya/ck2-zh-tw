@@ -1,0 +1,276 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+rebuild_fonts.py — 用 Windows TrueType 繁體字型重建 CK2 中文字形包。
+
+原 zh-hans-*.fnt/.dds 只含簡體字形(繁體字形缺如 → 遊戲內豆腐)。
+本工具:
+  1. 讀取原 .fnt 的 BMF 文字格式(取其字形集合 + 版面參數)
+  2. 合併「轉換後繁體文本」出現的所有字元
+  3. 以微軟正黑體(msjh)等 TTF 光柵化全部字形
+  4. 藍天(skyline)打包進 atlas
+  5. 寫出 DDS(DXT3 8bpp,與原檔相同位元組/像素) + 新 .fnt
+
+覆寫項目:ck2_chinese/gfx/fonts/ 下 zh-hans-*.fnt / zh-hans-*.dds
+"""
+from __future__ import annotations
+
+import math
+import re
+import struct
+import sys
+from pathlib import Path
+
+from PIL import Image, ImageDraw, ImageFont
+
+ROOT = Path(__file__).resolve().parents[1]
+FONTS_DIR = ROOT / "ck2_chinese" / "gfx" / "fonts"
+
+FACES = {
+    "zh-hans-14": "msjh.ttc",
+    "zh-hans-16": "msjh.ttc",
+    "zh-hans-18": "msjh.ttc",
+    "zh-hans-24": "msjh.ttc",
+    "zh-hans-decorative": "msjhbd.ttc",
+    "zh-hans-map": "msjhbd.ttc",
+}
+WIN_FONT_DIR = Path("/mnt/c/Windows/Fonts")
+
+
+# ---------- BMF 解析 ----------
+
+def parse_bmf(path: Path):
+    """回傳 (info dict, common dict, chars {id: dict})"""
+    text = path.read_bytes().decode("utf-8", errors="replace")
+    info = {}; common = {}; chars = {}
+    for line in text.splitlines():
+        parts = line.split()
+        if not parts:
+            continue
+        kind = parts[0]
+        kv = {}
+        for p in parts[1:]:
+            m = re.match(r'([\wа-я]+)="?([^"]*)"?$', p, re.IGNORECASE)
+            if m:
+                kv[m.group(1)] = m.group(2)
+        if kind == "info":
+            info = kv
+        elif kind == "common":
+            common = kv
+        elif kind == "char":
+            chars[int(kv["id"])] = {k: int(v) for k, v in kv.items()}
+    return info, common, chars
+
+
+def corpus_chars() -> set[int]:
+    """從轉換後的繁體文本收集所有字元(decode_escape 解開放送格式)。"""
+    sys.path.insert(0, str(ROOT / "tools"))
+    from convert_tw import decode_escape
+    files = list((ROOT / "ck2_chinese").glob("localisation/*.csv"))
+    files += list((ROOT / "ck2_chinese_sup").rglob("*.txt"))
+    chars = set()
+    for f in files:
+        data = f.read_bytes()
+        try:
+            s = data.decode("utf-8")
+        except UnicodeDecodeError:
+            try:
+                s = data.decode("gb18030")
+            except UnicodeDecodeError:
+                s, _, _ = decode_escape(data)
+        for ch in s:
+            chars.add(ord(ch))
+    return chars
+
+
+# ---------- DXT3 writer ----------
+
+def rgba_to_dxt3(img: Image.Image) -> bytes:
+    """簡單 DXT3(BC2)編碼:色塊取 block 均值±擴張,alpha 為 4-bit 量化。"""
+    w, h = img.size
+    pw, ph = math.ceil(w / 4) * 4, math.ceil(h / 4) * 4
+    src = img.convert("RGBA")
+    if (pw, ph) != (w, h):
+        canvas = Image.new("RGBA", (pw, ph), (0, 0, 0, 0))
+        canvas.paste(src, (0, 0))
+        src = canvas
+    px = src.load()
+    out = bytearray()
+    for by in range(0, ph, 4):
+        for bx in range(0, pw, 4):
+            block = [px[bx + dx, by + dy] for dy in range(4) for dx in range(4)]
+            alphas = [b[3] for b in block]
+            # alpha 4-bit(row-major,LSB per pixel in byte)
+            abytes = bytearray(8)
+            for i in range(16):
+                abytes[i // 2] |= (round(alphas[i] / 255 * 15) & 0xF) << (4 * (i % 2))
+            # color: 565 端點 → 取亮度極值
+            def to565(p):
+                return ((p[0] >> 3) << 11) | ((p[1] >> 3) << 5) | (p[2] >> 3)
+            def lum(p):
+                return p[0] * 299 + p[1] * 587 + p[2] * 114
+            colored = [b for b in block if b[3] > 128]
+            if not colored:
+                c0 = c1 = 0
+                idx_words = 0
+            else:
+                lo = min(colored, key=lum)
+                hi = max(colored, key=lum)
+                c0, c1 = to565(hi), to565(lo)
+                # 端點插值
+                r0, g0, b0 = hi[0], hi[1], hi[2]
+                r1, g1, b1 = lo[0], lo[1], lo[2]
+                if c0 <= c1:
+                    c0, c1 = c1, c0
+                    r0, g0, b0, r1, g1, b1 = r1, g1, b1, r0, g0, b0
+                    pal = [(r1, g1, b1), (r0, g0, b0), ((2 * r0 + r1) // 3, (2 * g0 + g1) // 3, (2 * b0 + b1) // 3),
+                           ((r0 + 2 * r1) // 3, (g0 + 2 * g1) // 3, (b0 + 2 * b1) // 3)]
+                else:
+                    pal = [(r0, g0, b0), (r1, g1, b1), ((2 * r0 + r1) // 3, (2 * g0 + g1) // 3, (2 * b0 + b1) // 3),
+                           ((r0 + 2 * r1) // 3, (g0 + 2 * g1) // 3, (b0 + 2 * b1) // 3)]
+                idx_words = 0
+                for i, b in enumerate(colored + [None] * (16 - len(colored))):
+                    pass
+                words = 0
+                for i in range(16):
+                    p = block[i]
+                    if p[3] <= 128:
+                        idx = 0
+                    else:
+                        best = min(range(4), key=lambda k: (p[0] - pal[k][0]) ** 2 + (p[1] - pal[k][1]) ** 2 + (p[2] - pal[k][2]) ** 2)
+                        idx = best
+                    words |= idx << (2 * i)
+                idx_words = words
+            out += bytes(abytes)
+            out += struct.pack("<HH", c0, c1)
+            out += struct.pack("<I", idx_words)
+    return bytes(out)
+
+
+def write_dds(path: Path, img: Image.Image):
+    w, h = img.size
+    data = rgba_to_dxt3(img)
+    header = struct.pack(
+        "<4s7I11I2I4s5I5I",
+        b"DDS ",                     # magic
+        124,                          # dwSize
+        0x1007,                       # flags: CAPS|HEIGHT|WIDTH|PIXELFORMAT|LINEARSIZE
+        h, w,                         # height, width
+        (w * h) // 2,                 # linear size (8bpp DXT)
+        0, 0,                         # depth, mipcount
+        *([0] * 11),                  # reserved1
+        32, 4,                        # pf size, pf flags (FOURCC)
+        b"DXT3",                      # fourcc
+        0, 0, 0, 0, 0,                # rgba masks
+        0x1000, 0, 0, 0, 0,           # caps: TEXTURE
+    )
+    path.write_bytes(header + data)
+
+
+# ---------- 打包 ----------
+
+def skyline_pack(rects, size_w, size_h):
+    """回傳 {index: (x, y)}"""
+    heights = [0] * size_w
+    place = {}
+    for i, (w, h) in enumerate(rects):
+        best_x = None
+        best_h = None
+        for x in range(size_w - w + 1):
+            col_h = max(heights[x:x + w])
+            if col_h + h <= size_h:
+                if best_h is None or col_h < best_h:
+                    best_h = col_h
+                    best_x = x
+        if best_x is None:
+            raise RuntimeError(f"atlas 放不下 char {i} ({w}x{h})")
+        for x in range(best_x, best_x + w):
+            heights[x] = best_h + h
+        place[i] = (best_x, best_h)
+    return place
+
+
+# ---------- 主流程 ----------
+
+def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
+    fnt_path = FONTS_DIR / f"{name}.fnt"
+    info, common, chars = parse_bmf(fnt_path)
+    base = int(common["base"])
+    lh = int(common["lineHeight"])
+    size = int(info["size"])
+    face = FACES[name]
+    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
+    ids = sorted(set(chars) | extra_chars)
+    metrics = {}
+    rects = []
+    for cid in ids:
+        ch = chr(cid)
+        try:
+            bbox = font_f.getbbox(ch)
+            adv = font_f.getlength(ch)
+        except Exception:
+            bbox = (0, 0, 0, 0)
+            adv = 0
+        w = max(1, bbox[2] - bbox[0] + 2)
+        h = max(1, bbox[3] - bbox[1] + 2)
+        metrics[cid] = (w, h, bbox, float(adv))
+        rects.append((w, h))
+
+    cands = {
+        "zh-hans-14": [(1024, 2048), (2048, 2048), (2048, 4096)],
+        "zh-hans-16": [(1024, 2048), (2048, 2048), (2048, 4096)],
+        "zh-hans-18": [(1024, 2048), (2048, 2048), (2048, 4096)],
+        "zh-hans-24": [(1024, 2048), (2048, 2048), (2048, 4096), (4096, 4096)],
+        "zh-hans-decorative": [(4096, 7000), (4096, 8192), (8192, 8192)],
+        "zh-hans-map": [(4096, 8192), (8192, 8192)],
+    }
+    place = None
+    for scale_w, scale_h in cands[name]:
+        try:
+            place = skyline_pack(rects, scale_w, scale_h)
+            break
+        except RuntimeError:
+            continue
+    if place is None:
+        raise RuntimeError(f"{name}: 所有畫布尺寸都不夠")
+
+    canvas = Image.new("RGBA", (scale_w, scale_h), (0, 0, 0, 0))
+    draw = ImageDraw.Draw(canvas)
+    fnt_lines = []
+    fnt_lines.append(f'info face="{face}" size={size} bold=0 italic=0 charset="" stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1')
+    fnt_lines.append(f"common lineHeight={lh} base={base} scaleW={scale_w} scaleH={scale_h} pages=1")
+    fnt_lines.append(f"page id=0 file={name}.dds")
+    out_metrics = []
+    for k, cid in enumerate(ids):
+        x, y = place[k]
+        w, h, bbox, adv = metrics[cid]
+        draw.text((x + 1 - bbox[0], y + 1 - bbox[1]), chr(cid), font=font_f, fill=(255, 255, 255, 255))
+        xoff = bbox[0] - 1
+        yoff = bbox[1] - 1
+        xadv = max(1, int(adv) + 1)
+        out_metrics.append((cid, x, y, w - 2, h - 2, xoff, yoff, xadv))
+    fnt_lines.append(f"chars count={len(ids)}")
+    for cid, x, y, w, h, xoff, yoff, xadv in out_metrics:
+        fnt_lines.append(
+            f"char id={cid:<5} x={x:<5} y={y:<5} width={w:<5} height={h:<5} xoffset={xoff:<5} yoffset={yoff:<5} xadvance={xadv:<5} page=0"
+        )
+    fnt_lines.append("kernings count=0")
+    fnt_text = "\n".join(fnt_lines) + "\n"
+    if dry:
+        print(f"[dry] {name}: {len(ids)} glyphs, atlas {scale_w}x{scale_h}, DDS ~{round((scale_w*scale_h)//2/1e6,1)}MB")
+        return
+    write_dds(FONTS_DIR / f"{name}.dds", canvas)
+    (FONTS_DIR / f"{name}.fnt").write_text(fnt_text, encoding="utf-8")
+    print(f"[ok] {name}: {len(ids)} glyphs -> {name}.dds/.fnt")
+
+
+def main():
+    dry = "--dry-run" in sys.argv
+    extra = corpus_chars()
+    print(f"corpus chars: {len(extra)}")
+    for name in FACES:
+        rebuild_one(name, extra, dry)
+
+
+if __name__ == "__main__":
+    main()
