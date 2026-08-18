@@ -274,22 +274,24 @@ def check_fonts():
         text = f.read_text(encoding="utf-8", errors="replace")
         m = re.search(r"scaleW=(\d+) scaleH=(\d+)", text)
         sw, sh = int(m.group(1)), int(m.group(2))
-        ids = oob = zero = cntrl = 0
+        ids = oob = zero = cntrl = badlines = 0
         for line in text.splitlines():
-            if not line.startswith("char id="):
-                continue
-            kv = dict(re.findall(r"(\w+)=(-?\d+)", line))
-            ids += 1
-            if (int(kv["x"]) < 0 or int(kv["y"]) < 0
-                    or int(kv["x"]) + int(kv["width"]) > sw
-                    or int(kv["y"]) + int(kv["height"]) > sh):
-                oob += 1
-            if int(kv["width"]) == 0 or int(kv["height"]) == 0:
-                zero += 1  # 0 尺寸字形 → DX9 vertex 建立失敗,閃退元兇
-            if int(kv["id"]) in (9, 10, 13):
-                cntrl += 1  # 控制字元字形(52 原廠無)
-        mc = re.search(r"chars count=(\d+)", text)
-        bad = oob or zero or cntrl or (mc and int(mc.group(1)) != ids)
+            if line.startswith("char id="):
+                kv = dict(re.findall(r"(\w+)=(-?\d+)", line))
+                ids += 1
+                if (int(kv["x"]) < 0 or int(kv["y"]) < 0
+                        or int(kv["x"]) + int(kv["width"]) > sw
+                        or int(kv["y"]) + int(kv["height"]) > sh):
+                    oob += 1
+                if int(kv["width"]) == 0 or int(kv["height"]) == 0:
+                    zero += 1  # 0 尺寸字形 → DX9 vertex 建立失敗,閃退元兇
+                if int(kv["id"]) in (9, 10, 13):
+                    cntrl += 1  # 控制字元字形(52 原廠無)
+            elif line.strip():
+                kind = line.split()[0]
+                if kind not in ("info", "common", "###", "char"):
+                    badlines += 1  # page / chars count / kernings 等 CK2 解析器不認的行
+        bad = oob or zero or cntrl or badlines
 
         comma_ok = True
         if f.name in SPEC:
@@ -310,7 +312,7 @@ def check_fonts():
         if not comma_ok:
             continue
         if bad:
-            fail(f"{f.name}: 越界 {oob} / 零尺寸字形 {zero} / 控制字字形 {cntrl} / count 不符")
+            fail(f"{f.name}: 越界 {oob} / 零尺寸 {zero} / 控制字 {cntrl} / 非標準行 {badlines}")
         else:
             ok(f"{f.name}: {ids} glyphs, atlas {sw}x{sh} 合格")
 

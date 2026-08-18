@@ -302,7 +302,6 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
     fnt_lines = []
     fnt_lines.append(f'info face="{face}" size={size} bold=0 italic=0 charset="" stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1')
     fnt_lines.append(f"common lineHeight={lh} base={base} scaleW={scale_w} scaleH={scale_h} pages=1")
-    fnt_lines.append(f"page id=0 file={name}.dds")
     out_metrics = []
     for k, cid in enumerate(ids):
         x, y = place[k]
@@ -314,12 +313,13 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
         # width/height 強制 ≥1:0 尺寸字形(如空格)會讓遊戲
         # CreateVertexBuffer 失敗 → 閃退(gfx_dx9.cpp:1490,52 原廠 space=3x1)
         out_metrics.append((cid, x, y, max(1, w - 2), max(1, h - 2), xoff, yoff, xadv))
-    fnt_lines.append(f"chars count={len(ids)}")
     for cid, x, y, w, h, xoff, yoff, xadv in out_metrics:
         fnt_lines.append(
             f"char id={cid:<5} x={x:<5} y={y:<5} width={w:<5} height={h:<5} xoffset={xoff:<5} yoffset={yoff:<5} xadvance={xadv:<5} page=0"
         )
-    fnt_lines.append("kernings count=0")
+    # 與 52 原廠完全同構:只 output info/common/char 三種行。
+    # 標準 BMF 的 page / chars count / kernings 行會讓 CK2 自製解析器
+    # 錯亂(gfx_dx9.cpp Error create vertices → 無字 + 閃退),已全數移除。
     fnt_text = "\n".join(fnt_lines) + "\n"
     if dry:
         print(f"[dry] {name}: {len(ids)} glyphs, atlas {scale_w}x{scale_h}, DDS ~{round((scale_w*scale_h)//2/1e6,1)}MB")
