@@ -242,7 +242,11 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
         raise RuntimeError(f"{name}: corpus {len(corpus_ids)} 字已超限")
     refill_pool = sorted(orig_ids - corpus_ids)   # 原廠常用字形(不在文本者)
     refill = refill_pool[: MAX_GLYPH - len(corpus_ids)]
-    ids = sorted(corpus_ids | set(refill))
+    # 剔除控制字元字形(含 id 9/10/13):52 原廠沒有,渲染含 0-height 的字形
+    # 或 \n 方塊字會讓 DX9 CreateVertexBuffer 失敗(gfx_dx9.cpp Error create vertices)
+    ids = sorted((corpus_ids | set(refill)) - {c for c in range(0, 32)})
+    if len(ids) > MAX_GLYPH:
+        raise RuntimeError(f"{name}: 字形集 {len(ids)} 超限")
     print(f"  [{name}] 字形集: 文本 {len(corpus_ids)} 全保 + 原廠常用 {len(refill)} = {len(ids)} (≤{MAX_GLYPH})")
 
     cands = {
@@ -307,7 +311,9 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
         xoff = bbox[0] - 1
         yoff = bbox[1] - 1
         xadv = max(1, int(adv) + 1)
-        out_metrics.append((cid, x, y, w - 2, h - 2, xoff, yoff, xadv))
+        # width/height 強制 ≥1:0 尺寸字形(如空格)會讓遊戲
+        # CreateVertexBuffer 失敗 → 閃退(gfx_dx9.cpp:1490,52 原廠 space=3x1)
+        out_metrics.append((cid, x, y, max(1, w - 2), max(1, h - 2), xoff, yoff, xadv))
     fnt_lines.append(f"chars count={len(ids)}")
     for cid, x, y, w, h, xoff, yoff, xadv in out_metrics:
         fnt_lines.append(

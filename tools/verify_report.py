@@ -146,7 +146,7 @@ def check_glyph_coverage():
     chars: set[int] = set()
     for rel in collect_text_files():
         t = text_of(rel)
-        chars.update(ord(c) for c in t)
+        chars.update(ord(c) for c in t if ord(c) >= 32)  # 控制字元不渲染,不需字形
     names = ("14", "16", "18", "24", "decorative", "map")
     all_ok = True
     for size in names:
@@ -274,7 +274,7 @@ def check_fonts():
         text = f.read_text(encoding="utf-8", errors="replace")
         m = re.search(r"scaleW=(\d+) scaleH=(\d+)", text)
         sw, sh = int(m.group(1)), int(m.group(2))
-        ids = oob = 0
+        ids = oob = zero = cntrl = 0
         for line in text.splitlines():
             if not line.startswith("char id="):
                 continue
@@ -284,8 +284,12 @@ def check_fonts():
                     or int(kv["x"]) + int(kv["width"]) > sw
                     or int(kv["y"]) + int(kv["height"]) > sh):
                 oob += 1
+            if int(kv["width"]) == 0 or int(kv["height"]) == 0:
+                zero += 1  # 0 尺寸字形 → DX9 vertex 建立失敗,閃退元兇
+            if int(kv["id"]) in (9, 10, 13):
+                cntrl += 1  # 控制字元字形(52 原廠無)
         mc = re.search(r"chars count=(\d+)", text)
-        bad = oob or (mc and int(mc.group(1)) != ids)
+        bad = oob or zero or cntrl or (mc and int(mc.group(1)) != ids)
 
         comma_ok = True
         if f.name in SPEC:
@@ -306,7 +310,7 @@ def check_fonts():
         if not comma_ok:
             continue
         if bad:
-            fail(f"{f.name}: 越界 {oob}, count 不符")
+            fail(f"{f.name}: 越界 {oob} / 零尺寸字形 {zero} / 控制字字形 {cntrl} / count 不符")
         else:
             ok(f"{f.name}: {ids} glyphs, atlas {sw}x{sh} 合格")
 
