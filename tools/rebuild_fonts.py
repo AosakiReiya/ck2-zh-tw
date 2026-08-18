@@ -27,14 +27,14 @@ ROOT = Path(__file__).resolve().parents[1]
 FONTS_DIR = ROOT / "ck2_chinese" / "gfx" / "fonts"
 
 FACES = {
-    "zh-hans-14": "SourceHanSerifTC-Heavy.otf",  # 小字專用:更粗
-    "zh-hans-16": "SourceHanSerifTC-Heavy.otf",
-    "zh-hans-18": "SourceHanSerifTC-Heavy.otf",
-    "zh-hans-24": "SourceHanSerifTC-Heavy.otf",
-    "zh-hans-decorative": "SourceHanSerifTC-Bold.otf",
-    "zh-hans-map": "SourceHanSerifTC-Bold.otf",
+    "zh-hans-14": "ChironSungHK-B.otf",
+    "zh-hans-16": "ChironSungHK-B.otf",
+    "zh-hans-18": "ChironSungHK-B.otf",
+    "zh-hans-24": "ChironSungHK-B.otf",
+    "zh-hans-decorative": "ChironSungHK-B.otf",
+    "zh-hans-map": "ChironSungHK-B.otf",
 }
-WIN_FONT_DIR = Path(r"/mnt/e/Projects/_GameTranslate/OTF/TraditionalChinese")
+WIN_FONT_DIR = Path(r"/mnt/e/Projects/_GameTranslate/Fonts/chiron-sung-hk-1.024/STATIC_OTF")
 
 # 思源宋字面率(滿格)比方正高 ~15%:光柵字號 ×0.90 讓墨跡大小回到原廠視覺
 RASTER_SCALE = {"zh-hans-14": 0.95, "zh-hans-16": 0.91, "zh-hans-18": 0.91, "zh-hans-24": 0.91,
@@ -232,6 +232,21 @@ def write_dds(path: Path, img: Image.Image, fourcc: str = "DXT3"):
         0x1000, 0, 0, 0, 0,           # caps: TEXTURE
     )
     path.write_bytes(header + data)
+
+
+# ── 墨色增強(alpha floor):宋體細橫畫在低像素只剩半影(α≈2-7) →
+#    提升 1.8 倍(幾何零變動,不影響盒/居中/縮放;可秒回退)──
+ALPHA_FLOOR = True  # 幾何零變動:僅將半影(α2-7)提升至≥8,細橫畫由「接近消失」→「實線」
+
+def alpha_boost(img):
+    px = img.load()
+    w, h = img.size
+    for y in range(h):
+        for x in range(w):
+            a = px[x, y][3]
+            if 2 <= a <= 7:
+                px[x, y] = (255, 255, 255, min(15, max(8, int(a * 1.8))))
+    return img
 
 
 # ---------- 打包 ----------
