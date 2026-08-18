@@ -103,21 +103,94 @@ def collect_text_files():
 
 
 def check_structure():
-    log("== B. 結構完整性(與簡體源逐位元組等價) ==")
+    """B. 結構完整性:以簡體源為基準,逐 KEY 比對位元組;
+    - 換詞行(REWORD)只驗證 escape 型別合法
+    - 我們『超集』多出的行(如簡體源缺的省份名)僅警告
+    - 其餘行必須 byte 等價(prefix 語意重寫屬允許範圍,見 C 檢查)"""
+    log("== B. 結構完整性(與簡體源逐位元組等價;換詞行除外) ==")
+    REWORD = {
+        "ck2_chinese/localisation/text1.csv": {
+            "SM_AUDIO", "FE_JOIN_INTERNET_GAME", "FE_YOUNG_RULER",
+        },
+    }
     bad = 0
+    extras = []
     for rel in collect_text_files():
         cur = (ROOT / rel).read_bytes()
         base = simp_src(rel)
         if not base:
             continue
-        if (len(base) != len(cur) or esc_pos(base) != esc_pos(cur)
-                or non_esc_bytes(base) != non_esc_bytes(cur)):
-            bad += 1
-            fail(f"{rel} 結構不一致")
+        exempt = REWORD.get(rel, set())
+        cmap, bmap = {}, {}
+        for l in cur.split(b"\n"):
+            key = l.split(b";")[0].decode("utf-8", "replace") if b";" in l else ""
+            if key:
+                cmap.setdefault(key, l)
+        for l in base.split(b"\n"):
+            key = l.split(b";")[0].decode("utf-8", "replace") if b";" in l else ""
+            if key:
+                bmap.setdefault(key, l)
+        bad_row = False
+        for key, bl in bmap.items():
+            cl = cmap.get(key)
+            if cl is None:
+                bad_row = True
+                fail(f"{rel} 缺行 {key}")
+                continue
+            if key in exempt:
+                # 值欄 = 「KEY;」後到行尾(不 split 分號:payload 內可含 0x3B)
+                val = cl[len(key.encode("utf-8")) + 1:]
+                i = 0
+                while i < len(val):
+                    if val[i] in ESCAPES:
+                        if i + 2 >= len(val):
+                            bad_row = True
+                            fail(f"{rel} 換詞行 {key} escape 截斷")
+                            break
+                        i += 3
+                    elif val[i] < 0x80:
+                        i += 1
+                    else:
+                        bad_row = True
+                        fail(f"{rel} 換詞行 {key} 有非 escape 高位元組")
+                        break
+                continue
+            # 允許的合法差異:escape 的 prefix/payload 語意重寫(byte-inplace,位置不變)。
+            # 一致判定 = 行長同 + escape 位置集同 + 非 escape 位元組序同
+            def escidx(b):
+                out = []
+                i = 0
+                while i < len(b):
+                    if b[i] in ESCAPES:
+                        out.append(i)
+                        i += 3
+                    else:
+                        i += 1
+                return out
+            def nonesc(b):
+                out = []
+                i = 0
+                while i < len(b):
+                    if b[i] in ESCAPES:
+                        i += 3
+                    else:
+                        out.append(b[i])
+                        i += 1
+                return bytes(out)
+            if (len(cl) != len(bl)) or escidx(cl) != escidx(bl) or nonesc(cl) != nonesc(bl):
+                bad_row = True
+                fail(f"{rel} 行結構不一致: {key}")
+        for key in sorted(set(cmap) - set(bmap)):
+            extras.append((rel, key))
         for i in range(len(cur) - 2):
             if cur[i] in ESCAPES and cur[i + 1] in CRITICAL_BYTES:
                 fail(f"{rel} 低字節 CRITICAL {hex(cur[i + 1])}")
                 break
+        if bad_row:
+            bad += 1
+    if extras:
+        log(f"  [INFO] 我們超集額外行 {len(extras)} 條(簡體源無,如補全省份名): "
+            + "，".join(f"{r.split('/')[-1]}:{k}" for r, k in extras[:8]))
     if bad == 0:
         ok("全部文本檔結構與簡體等價、無 CRITICAL payload")
 
@@ -251,11 +324,15 @@ def check_keys():
             return {ln.split(b";")[0] for ln in b.split(b"\n")
                     if ln and not ln.startswith(b"#") and b";" in ln}
         kc, kb = keys(cur), keys(base)
-        if kc != kb:
+        missing = kb - kc
+        extra = kc - kb
+        if missing:
             bad += 1
-            fail(f"{r} KEY 差異:簡體有繁體無 {len(kb - kc)} 個")
+            fail(f"{r} 缺簡體 KEY {len(missing)} 個: {sorted(missing)[:5]}")
+        if extra:
+            log(f"  [INFO] {r} 超集 KEY {len(extra)} 個(簡體源無): {sorted(extra)[:5]}")
     if bad == 0:
-        ok("KEY 集合與簡體源一致")
+        ok("KEY 集合與簡體源一致(超集另列 [INFO])")
 
 
 def _decode_565(v):
@@ -403,6 +480,43 @@ def check_fonts():
             ok(f"{f.name}: {ids} glyphs, atlas {sw}x{sh} 合格")
 
 
+
+
+def check_ui_title_zone80():
+    """I. UI 標題級文字不得使用 U+8000-U+80FF 字元(escape 高字節 0x80 在
+    非插件渲染路徑(tab 標題)會 fallback 成 'ó' — 實錘:SM_AUDIO=聲音)。"""
+    log("== I. UI 標題字元掃描(0x80xx 風險) ==")
+    allok = True
+    hits = []
+    import sys as _sys
+    _sys.path.insert(0, str(ROOT / "tools"))
+    from convert_tw import decode_escape, sniff
+    for rel in sorted((ROOT / "ck2_chinese/localisation").glob("*.csv")):
+        data = rel.read_bytes()
+        kind = sniff(data)
+        s = decode_escape(data)[0] if kind == "escape" else data.decode(kind)
+        for ln in s.splitlines():
+            if ";" not in ln:
+                continue
+            key, val = ln.split(";")[:2]
+            if not (len(val) <= 8 and key.isupper() and len(key) < 40):
+                continue
+            # 受害路徑 = 視窗 chrome(tab 標題/視窗標題)類 KEY;
+            # 事件按鈕/內容文字走插件路徑,不受影響(asm:以 SM_/FE_ 為限定)
+            if not (key.startswith("SM_") or key.startswith("FE_")):
+                continue
+            for c in val:
+                if 0x8000 <= ord(c) <= 0x80FF:
+                    hits.append((key, c, val, rel.name))
+                    break
+    if hits:
+        for key, c, val, rel in hits[:30]:
+            fail(f"UI 標題 KEY {key}({rel}) 含 0x80xx 字 {c}(U+{ord(c):04X}): {val} → tab/按鈕將顯示 ó,需換詞")
+        log(f"  [INFO] 共 {len(hits)} 條短 UI 標題含風險字(僅列示前 30)")
+    else:
+        ok("無 UI 標題級 0x80xx 字元(0 風險)")
+    return allok
+
 def main():
     log(f"CK2 繁體漢化 自動檢測報告 — {Path(ROOT).name}")
     log("=" * 60)
@@ -414,6 +528,7 @@ def main():
     check_fonts()
     check_glyph_whiteness()
     check_metrics_alignment()
+    check_ui_title_zone80()
     log("=" * 60)
     (ROOT / "tools" / "report.txt").write_text("\n".join(REPORT) + "\n", encoding="utf-8")
     if FAILED:
