@@ -37,7 +37,7 @@ FACES = {
 WIN_FONT_DIR = Path(r"/mnt/e/Projects/_GameTranslate/OTF/TraditionalChinese")
 
 # 思源宋字面率(滿格)比方正高 ~15%:光柵字號 ×0.90 讓墨跡大小回到原廠視覺
-RASTER_SCALE = {"zh-hans-14": 0.97, "zh-hans-16": 0.93, "zh-hans-18": 0.93, "zh-hans-24": 0.93,
+RASTER_SCALE = {"zh-hans-14": 0.95, "zh-hans-16": 0.91, "zh-hans-18": 0.91, "zh-hans-24": 0.91,
                 "zh-hans-decorative": 0.90, "zh-hans-map": 0.90}
 # 下伸 1px(PIL bbox 與 FreeType 實繪差異,約 79% 字受惠)由「盒底 pad 2」涵蓋
 
@@ -350,7 +350,11 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
                 adv = 0
             w = max(1, bbox[2] - bbox[0] + 2)
             glyph_h = max(1, bbox[3] - bbox[1] + 3)  # 底 pad 2:涵蓋 1px 下伸
-            h = lh if (FIXED_BOX_HEIGHT and name not in ("zh-hans-decorative", "zh-hans-map")) else glyph_h
+            # 盒 ≥ lineHeight 且 ≥ 字形:字形絕不越界(越界 → 渲染切半/異常)
+            if FIXED_BOX_HEIGHT and name not in ("zh-hans-decorative", "zh-hans-map"):
+                h = max(lh, glyph_h)
+            else:
+                h = glyph_h
             metrics[cid] = (w, h, bbox, float(adv), glyph_h)
             rects.append((w, h))
         place = None
@@ -396,9 +400,8 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
         yoff = ((h - glyph_h) // 2) + 1 - bbox[1] + (0 - 3 + ycomp)  # 居中頂偏 + 原始基線校準
         xoff = bbox[0] - 1 + xcomp
         xadv = max(1, int(adv) + 1 + advcomp)
-        # width/height 強制 ≥1:0 尺寸字形(如空格)會讓遊戲
-        # CreateVertexBuffer 失敗 → 閃退(gfx_dx9.cpp:1490,52 原廠 space=3x1)
-        out_metrics.append((cid, x, y, max(1, w - 2), max(1, h - (2 if not (FIXED_BOX_HEIGHT and name not in ("zh-hans-decorative", "zh-hans-map")) else 0)), xoff, yoff, xadv))
+        # width/height 強制 ≥1;盒高 = 完整盒(含字形)不可減,否則字形被裁
+        out_metrics.append((cid, x, y, max(1, w - 2), h, xoff, yoff, xadv))
     for cid, x, y, w, h, xoff, yoff, xadv in out_metrics:
         fnt_lines.append(
             f"char id={cid:<5} x={x:<5} y={y:<5} width={w:<5} height={h:<5} xoffset={xoff:<5} yoffset={yoff:<5} xadvance={xadv:<5} page=0"
