@@ -174,17 +174,19 @@ def _encode_blocks(img: Image.Image, blockfn):
 
 def write_dds(path: Path, img: Image.Image, fourcc: str = "DXT3"):
     w, h = img.size
-    # 原廠:decorative/map(DXT5)declared mipcount=1;文字(DXT3)mipcount=0
+    # 原廠 header 同構:decorative/map(DXT5)= flags 0xA1007 + mip=1 + depth=1;
+    # 文字(DXT3)= flags 0x81007 + mip=0 + depth=1;linearSize = w*h(DXT3/DXT5 皆 8bpp)
     mips = 1 if fourcc == "DXT5" else 0
+    flags = 0xA1007 if mips else 0x81007
     data = rgba_to_dxt5(img) if fourcc == "DXT5" else rgba_to_dxt3(img)
     header = struct.pack(
         "<4s7I11I2I4s5I5I",
         b"DDS ",                     # magic
         124,                          # dwSize
-        0x81007,                      # flags: CAPS|HEIGHT|WIDTH|PIXELFORMAT|LINEARSIZE
+        flags,                        # CAPS|HEIGHT|WIDTH|PIXELFORMAT|LINEARSIZE(+MIPMAPCOUNT 若 DXT5)
         h, w,                         # height, width
-        (w * h) // 2,                 # linear size (8bpp DXT)
-        0, mips,                      # depth, mipmaps
+        w * h,                        # linear size (8bpp DXT)
+        1, mips,                      # depth, mipmaps
         *([0] * 11),                  # reserved1
         32, 4,                        # pf size, pf flags (FOURCC)
         fourcc.encode("ascii"),       # fourcc
