@@ -36,3 +36,11 @@ git checkout simplified-src -- ck2_chinese ck2_chinese_sup chinese_gui_fix_3
 python3 tools/convert_tw.py          # 產出繁體(放在 main)
 python3 tools/convert_tw.py --dry-run  # 預覽統計
 ```
+
+## 一鍵建置與自動檢測
+```bash
+python3 tools/make_release.py
+# 1. 轉換 2. 重建字型 3. 自動驗證(6 大檢查) 4. 打包三 zip + 部署兩 mod 目錄
+```
+- 任一檢查 FAIL → 不產包(tools/report.txt 看明細)
+- 檢查:字形覆蓋 100% / 結構等價 / prefix 語意守恆 / 簡體殘留 / KEY 完整 / 字型自檢
