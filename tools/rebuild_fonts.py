@@ -28,9 +28,9 @@ FONTS_DIR = ROOT / "ck2_chinese" / "gfx" / "fonts"
 
 FACES = {
     "zh-hans-14": "SourceHanSerifTC-Heavy.otf",  # 小字專用:更粗
-    "zh-hans-16": "SourceHanSerifTC-Bold.otf",
-    "zh-hans-18": "SourceHanSerifTC-Bold.otf",
-    "zh-hans-24": "SourceHanSerifTC-Bold.otf",
+    "zh-hans-16": "SourceHanSerifTC-Heavy.otf",
+    "zh-hans-18": "SourceHanSerifTC-Heavy.otf",
+    "zh-hans-24": "SourceHanSerifTC-Heavy.otf",
     "zh-hans-decorative": "SourceHanSerifTC-Bold.otf",
     "zh-hans-map": "SourceHanSerifTC-Bold.otf",
 }
