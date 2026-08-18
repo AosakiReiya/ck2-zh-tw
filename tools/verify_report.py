@@ -306,6 +306,44 @@ def check_glyph_whiteness():
     return allok
 
 
+def check_metrics_alignment():
+    """H. 字形度量校準:與 52 原廠共同字形的 yoffset/xoffset/height 中位數差。
+    度量漂移(= 字體/工具差異)會造成文字下移、小號字被裁成殘形。"""
+    import statistics
+    import subprocess
+    log("== H. 字形度量校準(與 52 原廠比對) ==")
+    allok = True
+    for f in sorted((ROOT / "ck2_chinese/gfx/fonts").glob("*.fnt")):
+        def parse(t):
+            m = {}
+            for l in t.splitlines():
+                if l.startswith("char id="):
+                    kv = dict(re.findall(r"(\w+)=(-?\d+)", l))
+                    m[int(kv["id"])] = (int(kv["xoffset"]), int(kv["yoffset"]),
+                                         int(kv["width"]), int(kv["height"]))
+            return m
+        ours = parse(f.read_text(encoding="utf-8", errors="replace"))
+        raw = subprocess.run(["git", "-C", str(ROOT), "show",
+                              f"simplified-src:ck2_chinese/gfx/fonts/{f.name}"],
+                             capture_output=True).stdout
+        if not raw:
+            continue
+        orig = parse(raw.decode("utf-8", "replace"))
+        common = (set(ours) & set(orig)) - {32}
+        if len(common) < 50:
+            continue
+        dyo = statistics.median([ours[c][1] - orig[c][1] for c in common])
+        dxo = statistics.median([ours[c][0] - orig[c][0] for c in common])
+        dhh = statistics.median([ours[c][3] - orig[c][3] for c in common])
+        tol_ok = abs(dyo) <= 1 and abs(dxo) <= 1  # height 差為字體自然差異,僅報告
+        if tol_ok:
+            ok(f"{f.name}: 度量差 y≈{dyo:+.1f} x≈{dxo:+.1f} (h差≈{dhh:+.1f} 屬字體差異) 共同 {len(common)} 字")
+        else:
+            allok = False
+            fail(f"{f.name}: 度量漂移 y≈{dyo:+.1f} x≈{dxo:+.1f} h≈{dhh:+.1f} (>容差)")
+    return allok
+
+
 def check_fonts():
     # 原廠規格(與遊戲 DX9 載入相容):文字 = DXT3 ≤2048x4096;
     # decorative/map = DXT5 + 4096 寬 + ≤8192 高(8192² DXT3 會崩潰)
@@ -375,6 +413,7 @@ def main():
     check_keys()
     check_fonts()
     check_glyph_whiteness()
+    check_metrics_alignment()
     log("=" * 60)
     (ROOT / "tools" / "report.txt").write_text("\n".join(REPORT) + "\n", encoding="utf-8")
     if FAILED:

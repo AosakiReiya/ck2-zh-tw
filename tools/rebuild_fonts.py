@@ -260,6 +260,36 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
         "zh-hans-map": [(4096, 7000), (4096, 8192)],
     }
     fmt = "DXT5" if name in ("zh-hans-decorative", "zh-hans-map") else "DXT3"
+    # ── 每檔 yoffset 自適應校正:與 52 原廠共同字形的 yoffset 中位差補償 ──
+    import subprocess as _sp
+    import statistics as _st
+    ycomp = 0
+    xcomp = 0
+    try:
+        rawh = _sp.run(["git", "-C", str(ROOT), "show",
+                        f"simplified-src:ck2_chinese/gfx/fonts/{name}.fnt"],
+                       capture_output=True).stdout.decode("utf-8", "replace")
+        need = {}
+        for l in rawh.splitlines():
+            if l.startswith("char id="):
+                kv = dict(re.findall(r"(\w+)=(-?\d+)", l))
+                k = int(kv["id"])
+                if k in ids:
+                    need[k] = (int(kv["yoffset"]), int(kv["xoffset"]))
+        if need:
+            dy = []
+            dx = []
+            fhf0 = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
+            for cid in ids:
+                if cid in need:
+                    b = fhf0.getbbox(chr(cid))
+                    dy.append(need[cid][0] - (b[1] - 1 - 3))
+                    dx.append(need[cid][1] - (b[0] - 1))
+            ycomp = round(_st.median(dy))
+            xcomp = round(_st.median(dx))
+            print(f"  [{name}] 度量補償 y{ycomp:+d} x{xcomp:+d} (對 52 原廠)")
+    except Exception:
+        pass
     size = int(info["size"])
     orig_size = size
     orig_lh, orig_base = lh, base
@@ -308,8 +338,10 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
         x, y = place[k]
         w, h, bbox, adv = metrics[cid]
         draw.text((x + 1 - bbox[0], y + 1 - bbox[1]), chr(cid), font=font_f, fill=(255, 255, 255, 255))
-        xoff = bbox[0] - 1
-        yoff = bbox[1] - 1
+        # yoffset 校正:原廠(BMGlyph 度量)與 PIL bbox 對「字形在方格內位置」
+        # 的定義差約 +3px → 全域 -3 對齊 52 原廠基準線(防文字下移/被裁殘形)
+        yoff = bbox[1] - 1 - 3 + ycomp
+        xoff = bbox[0] - 1 + xcomp
         xadv = max(1, int(adv) + 1)
         # width/height 強制 ≥1:0 尺寸字形(如空格)會讓遊戲
         # CreateVertexBuffer 失敗 → 閃退(gfx_dx9.cpp:1490,52 原廠 space=3x1)
