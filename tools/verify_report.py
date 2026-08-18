@@ -397,7 +397,8 @@ def check_metrics_alignment():
                 if l.startswith("char id="):
                     kv = dict(re.findall(r"(\w+)=(-?\d+)", l))
                     m[int(kv["id"])] = (int(kv["xoffset"]), int(kv["yoffset"]),
-                                         int(kv["width"]), int(kv["height"]))
+                                         int(kv["width"]), int(kv["height"]),
+                                         int(kv["xadvance"]))
             return m
         ours = parse(f.read_text(encoding="utf-8", errors="replace"))
         raw = subprocess.run(["git", "-C", str(ROOT), "show",
@@ -412,12 +413,13 @@ def check_metrics_alignment():
         dyo = statistics.median([ours[c][1] - orig[c][1] for c in common])
         dxo = statistics.median([ours[c][0] - orig[c][0] for c in common])
         dhh = statistics.median([ours[c][3] - orig[c][3] for c in common])
-        tol_ok = abs(dyo) <= 1 and abs(dxo) <= 1  # height 差為字體自然差異,僅報告
+        dax = statistics.median([ours[c][4] - orig[c][4] for c in common])
+        tol_ok = abs(dyo) <= 1 and abs(dxo) <= 1 and abs(dax) <= 1  # height 差為字體自然差異,僅報告
         if tol_ok:
-            ok(f"{f.name}: 度量差 y≈{dyo:+.1f} x≈{dxo:+.1f} (h差≈{dhh:+.1f} 屬字體差異) 共同 {len(common)} 字")
+            ok(f"{f.name}: 度量差 y≈{dyo:+.1f} x≈{dxo:+.1f} xadv≈{dax:+.1f} (h差≈{dhh:+.1f} 屬字體差異) 共同 {len(common)} 字")
         else:
             allok = False
-            fail(f"{f.name}: 度量漂移 y≈{dyo:+.1f} x≈{dxo:+.1f} h≈{dhh:+.1f} (>容差)")
+            fail(f"{f.name}: 度量漂移 y≈{dyo:+.1f} x≈{dxo:+.1f} xadv≈{dax:+.1f} (>容差)")
     return allok
 
 

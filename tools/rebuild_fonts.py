@@ -27,10 +27,10 @@ ROOT = Path(__file__).resolve().parents[1]
 FONTS_DIR = ROOT / "ck2_chinese" / "gfx" / "fonts"
 
 FACES = {
-    "zh-hans-14": "SourceHanSerifTC-Regular.otf",
-    "zh-hans-16": "SourceHanSerifTC-Regular.otf",
-    "zh-hans-18": "SourceHanSerifTC-Regular.otf",
-    "zh-hans-24": "SourceHanSerifTC-Regular.otf",
+    "zh-hans-14": "SourceHanSerifTC-Medium.otf",
+    "zh-hans-16": "SourceHanSerifTC-Medium.otf",
+    "zh-hans-18": "SourceHanSerifTC-Medium.otf",
+    "zh-hans-24": "SourceHanSerifTC-Medium.otf",
     "zh-hans-decorative": "SourceHanSerifTC-Bold.otf",
     "zh-hans-map": "SourceHanSerifTC-Bold.otf",
 }
@@ -275,19 +275,27 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
                 kv = dict(re.findall(r"(\w+)=(-?\d+)", l))
                 k = int(kv["id"])
                 if k in ids:
-                    need[k] = (int(kv["yoffset"]), int(kv["xoffset"]))
+                    need[k] = (int(kv["yoffset"]), int(kv["xoffset"]),
+                               int(kv.get("xadvance", 0)))
         if need:
             dy = []
             dx = []
+            dadv = []
             fhf0 = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
             for cid in ids:
                 if cid in need:
                     b = fhf0.getbbox(chr(cid))
                     dy.append(need[cid][0] - (b[1] - 1 - 3))
                     dx.append(need[cid][1] - (b[0] - 1))
+                    try:
+                        adv = fhf0.getlength(chr(cid))
+                    except Exception:
+                        adv = 0
+                    dadv.append(need[cid][2] - (int(adv) + 1))
             ycomp = round(_st.median(dy))
             xcomp = round(_st.median(dx))
-            print(f"  [{name}] 度量補償 y{ycomp:+d} x{xcomp:+d} (對 52 原廠)")
+            advcomp = round(_st.median(dadv))
+            print(f"  [{name}] 度量補償 y{ycomp:+d} x{xcomp:+d} xadv{advcomp:+d} (對 52 原廠)")
     except Exception:
         pass
     size = int(info["size"])
@@ -342,7 +350,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
         # 的定義差約 +3px → 全域 -3 對齊 52 原廠基準線(防文字下移/被裁殘形)
         yoff = bbox[1] - 1 - 3 + ycomp
         xoff = bbox[0] - 1 + xcomp
-        xadv = max(1, int(adv) + 1)
+        xadv = max(1, int(adv) + 1 + advcomp)
         # width/height 強制 ≥1:0 尺寸字形(如空格)會讓遊戲
         # CreateVertexBuffer 失敗 → 閃退(gfx_dx9.cpp:1490,52 原廠 space=3x1)
         out_metrics.append((cid, x, y, max(1, w - 2), max(1, h - 2), xoff, yoff, xadv))
