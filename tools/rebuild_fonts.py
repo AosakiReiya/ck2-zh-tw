@@ -95,7 +95,8 @@ def corpus_chars() -> set[int]:
 def _color_dxt1(block):
     """BC1 色塊:回傳 (c0, c1, idx_words)。與 DXT3 共用。"""
     def to565(p):
-        return ((p[0] >> 3) << 11) | ((p[1] >> 3) << 5) | (p[2] >> 3)
+        # RGB565:R5 G6 B5 — G 須 >>2(6-bit),誤用 >>3 會讓白色變紫(248,124,248)
+        return ((p[0] >> 3) << 11) | ((p[1] >> 2) << 5) | (p[2] >> 3)
     def lum(p):
         return p[0] * 299 + p[1] * 587 + p[2] * 114
     colored = [b for b in block if b[3] > 128]

@@ -258,6 +258,54 @@ def check_keys():
         ok("KEY 集合與簡體源一致")
 
 
+def _decode_565(v):
+    return ((v >> 11) & 31) << 3, ((v >> 5) & 63) << 2, (v & 31) << 3
+
+
+def check_glyph_whiteness():
+    """解碼每檔 dds 的字形像素,確認是白/近白(≥200);紫(248,124,248)即 G 通道 bug → FAIL。"""
+    log("== G. 字形著色(白度) ==")
+    import pathlib as _pl
+    allok = True
+    for f in sorted((ROOT / "ck2_chinese/gfx/fonts").glob("*.dds")):
+        raw = f.read_bytes()
+        w = struct.unpack_from("<I", raw, 16)[0]
+        h = struct.unpack_from("<I", raw, 12)[0]
+        fcc = raw[84:88]
+        fnt_path = f.with_suffix(".fnt")
+        text = fnt_path.read_text(encoding="utf-8", errors="replace")
+        rects = {}
+        for line in text.splitlines():
+            if line.startswith("char id="):
+                kv = dict(re.findall(r"(\w+)=(-?\d+)", line))
+                if int(kv["id"]) == 32:
+                    continue
+                rects.setdefault(chr(int(kv["id"])), (int(kv["x"]), int(kv["y"]),
+                                 int(kv["width"]), int(kv["height"])))
+        sampled = []
+        for ch, (x, y, cw, chh) in list(rects.items())[:6]:
+            if cw < 2 or chh < 2:
+                continue
+            bx, by = x + cw // 2, y + chh // 2
+            off = 128 + ((by // 4) * (w // 4) + (bx // 4)) * 16
+            c0, c1 = struct.unpack_from("<HH", raw, off + 8)
+            p0, p1 = _decode_565(c0), _decode_565(c1)
+            colors = [p0, p1]
+            if any(c != (0, 0, 0) for c in colors):
+                sampled.extend(c for c in colors if c != (0, 0, 0) and
+                               sum(c) > 60)
+        if not sampled:
+            ok(f"{f.name}: 無可取樣字形")
+            continue
+        avg = tuple(sum(c[i] for c in sampled) // len(sampled) for i in range(3))
+        if avg[0] >= 200 and avg[1] >= 200 and avg[2] >= 200:
+            ok(f"{f.name}: 字形像素平均 RGB {avg} 為白 ✓")
+        else:
+            allok = False
+            fail(f"{f.name}: 字形像素平均 RGB {avg} 偏色(白字 G 通道 bug?)")
+    return allok
+
+
 def check_fonts():
     # 原廠規格(與遊戲 DX9 載入相容):文字 = DXT3 ≤2048x4096;
     # decorative/map = DXT5 + 4096 寬 + ≤8192 高(8192² DXT3 會崩潰)
@@ -326,6 +374,7 @@ def main():
     check_leftover_simplified()
     check_keys()
     check_fonts()
+    check_glyph_whiteness()
     log("=" * 60)
     (ROOT / "tools" / "report.txt").write_text("\n".join(REPORT) + "\n", encoding="utf-8")
     if FAILED:
