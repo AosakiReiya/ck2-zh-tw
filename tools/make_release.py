@@ -43,11 +43,17 @@ def run(cmd, cwd=ROOT):
 
 
 def zipdir(src: pathlib.Path, dst: pathlib.Path):
+    """打包 mod 資料夾為 zip(排斥 .mod 描述檔與任何暫存/備份件)。"""
+    skip_any = (".fonts_bak", "__pycache__", ".bak", "descriptor.mod")
     with zipfile.ZipFile(dst, "w", zipfile.ZIP_DEFLATED) as zf:
         for root, dirs, files in os.walk(src):
+            dirs[:] = [d for d in dirs if d not in skip_any]
             for fn in files:
+                if fn in skip_any or any(s in fn for s in (".bak",)):
+                    continue
                 p = os.path.join(root, fn)
-                info = zipfile.ZipInfo(os.path.relpath(p, src), (2024, 1, 1, 0, 0, 0))
+                info = zipfile.ZipInfo(os.path.relpath(p, src).replace(os.sep, "/"),
+                                       (2024, 1, 1, 0, 0, 0))
                 info.compress_type = zipfile.ZIP_DEFLATED
                 zf.writestr(info, open(p, "rb").read())
 

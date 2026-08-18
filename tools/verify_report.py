@@ -142,27 +142,31 @@ def check_prefix_semantics():
 
 
 def check_glyph_coverage():
-    log("== A. 字形覆蓋 100% ==")
+    log("== A. 字形覆蓋 100%(六字型全檢,翻譯品質保單) ==")
     chars: set[int] = set()
     for rel in collect_text_files():
         t = text_of(rel)
         chars.update(ord(c) for c in t)
-    fnts = {
-        "14": ROOT / "ck2_chinese/gfx/fonts/zh-hans-14.fnt",
-        "16": ROOT / "ck2_chinese/gfx/fonts/zh-hans-16.fnt",
-        "18": ROOT / "ck2_chinese/gfx/fonts/zh-hans-18.fnt",
-        "24": ROOT / "ck2_chinese/gfx/fonts/zh-hans-24.fnt",
-    }
-    for size, f in fnts.items():
+    names = ("14", "16", "18", "24", "decorative", "map")
+    all_ok = True
+    for size in names:
+        f = ROOT / f"ck2_chinese/gfx/fonts/zh-hans-{size}.fnt"
         ids = {int(m.group(1))
                for m in re.finditer(r"char id=(\d+)",
                                     f.read_text(encoding="utf-8", errors="replace"))}
+        if len(ids) >= 8192:
+            all_ok = False
+            fail(f"zh-hans-{size} 字形數 {len(ids)} ≥8192(遊戲緩衝上限,必崩)")
         missing = sorted(c for c in chars if c not in ids)
         if missing:
+            all_ok = False
             fail(f"zh-hans-{size} 缺字形 {len(missing)} 個:"
                  + "".join(chr(c) for c in missing[:80]))
         else:
-            ok(f"zh-hans-{size} 覆蓋全部 {len(chars)} 文本字元")
+            ok(f"zh-hans-{size} 覆蓋全部 {len(chars)} 文本字元"
+               + (f"({len(ids)} glyphs)" if size in ("decorative", "map")
+                  else f"({len(ids)} glyphs)"))
+    return all_ok
 
 
 def _scan_english(t: str, rel: str, word_cnt: Counter):

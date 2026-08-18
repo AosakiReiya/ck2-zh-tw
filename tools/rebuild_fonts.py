@@ -27,14 +27,18 @@ ROOT = Path(__file__).resolve().parents[1]
 FONTS_DIR = ROOT / "ck2_chinese" / "gfx" / "fonts"
 
 FACES = {
-    "zh-hans-14": "msjh.ttc",
-    "zh-hans-16": "msjh.ttc",
-    "zh-hans-18": "msjh.ttc",
-    "zh-hans-24": "msjh.ttc",
-    "zh-hans-decorative": "msjhbd.ttc",
-    "zh-hans-map": "msjhbd.ttc",
+    "zh-hans-14": "SourceHanSerifTC-Regular.otf",
+    "zh-hans-16": "SourceHanSerifTC-Regular.otf",
+    "zh-hans-18": "SourceHanSerifTC-Regular.otf",
+    "zh-hans-24": "SourceHanSerifTC-Regular.otf",
+    "zh-hans-decorative": "SourceHanSerifTC-Bold.otf",
+    "zh-hans-map": "SourceHanSerifTC-Bold.otf",
 }
-WIN_FONT_DIR = Path("/mnt/c/Windows/Fonts")
+WIN_FONT_DIR = Path(r"/mnt/e/Projects/_GameTranslate/OTF/TraditionalChinese")
+
+# CK2 文字解析器對單一 fnt 的字形數有 ~8192 緩衝上限(實錘:52 原廠六檔全部 ≤7461,
+# 我們全部 >8192 → 載入越界崩潰)。所有字型鎖 MAX_GLYPH=7000:保證相容。
+MAX_GLYPH = 7000
 
 
 # ---------- BMF 解析 ----------
@@ -229,21 +233,17 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
     size = int(info["size"])
     face = FACES[name]
     font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
-    ids = sorted(set(chars) | extra_chars)
-    metrics = {}
-    rects = []
-    for cid in ids:
-        ch = chr(cid)
-        try:
-            bbox = font_f.getbbox(ch)
-            adv = font_f.getlength(ch)
-        except Exception:
-            bbox = (0, 0, 0, 0)
-            adv = 0
-        w = max(1, bbox[2] - bbox[0] + 2)
-        h = max(1, bbox[3] - bbox[1] + 2)
-        metrics[cid] = (w, h, bbox, float(adv))
-        rects.append((w, h))
+    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
+    # ── 字形集漏斗:corpus(繁體文本 100%)全保留;原廠字形按「碼序低=常用」補滿剩餘槽 ──
+    # 視覺/相容:總數 ≦ MAX_GLYPH(遊戲 8192 緩衝,留安全餘量),文本 0 缺字。
+    corpus_ids = set(extra_chars)
+    orig_ids = set(chars)
+    if len(corpus_ids) > MAX_GLYPH:
+        raise RuntimeError(f"{name}: corpus {len(corpus_ids)} 字已超限")
+    refill_pool = sorted(orig_ids - corpus_ids)   # 原廠常用字形(不在文本者)
+    refill = refill_pool[: MAX_GLYPH - len(corpus_ids)]
+    ids = sorted(corpus_ids | set(refill))
+    print(f"  [{name}] 字形集: 文本 {len(corpus_ids)} 全保 + 原廠常用 {len(refill)} = {len(ids)} (≤{MAX_GLYPH})")
 
     cands = {
         "zh-hans-14": [(1024, 2048), (2048, 2048), (2048, 4096)],
@@ -255,7 +255,6 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
         "zh-hans-map": [(4096, 7000), (4096, 8192)],
     }
     fmt = "DXT5" if name in ("zh-hans-decorative", "zh-hans-map") else "DXT3"
-    # decorative/map 字集較原廠多 ~2700 字,畫布鎖原廠尺寸裝不下 → 自動降字體點數
     size = int(info["size"])
     orig_size = size
     orig_lh, orig_base = lh, base
