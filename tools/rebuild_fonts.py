@@ -36,6 +36,10 @@ FACES = {
 }
 WIN_FONT_DIR = Path(r"/mnt/e/Projects/_GameTranslate/OTF/TraditionalChinese")
 
+# 思源宋字面率(滿格)比方正高 ~15%:光柵字號 ×0.90 讓墨跡大小回到原廠視覺
+RASTER_SCALE = 0.90
+# 下伸 1px(PIL bbox 與 FreeType 實繪差異,約 79% 字受惠)由「盒底 pad 2」涵蓋
+
 # CK2 文字解析器對單一 fnt 的字形數有 ~8192 緩衝上限(實錘:52 原廠六檔全部 ≤7461,
 # 我們全部 >8192 → 載入越界崩潰)。所有字型鎖 MAX_GLYPH=7000:保證相容。
 MAX_GLYPH = 7000
@@ -233,8 +237,8 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
     lh = int(common["lineHeight"])
     size = int(info["size"])
     face = FACES[name]
-    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
-    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
+    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE)))
+    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE)))
     # ── 字形集漏斗:corpus(繁體文本 100%)全保留;原廠字形按「碼序低=常用」補滿剩餘槽 ──
     # 視覺/相容:總數 ≦ MAX_GLYPH(遊戲 8192 緩衝,留安全餘量),文本 0 缺字。
     corpus_ids = set(extra_chars)
@@ -281,7 +285,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
             dy = []
             dx = []
             dadv = []
-            fhf0 = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
+            fhf0 = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE)))
             for cid in ids:
                 if cid in need:
                     b = fhf0.getbbox(chr(cid))
@@ -301,7 +305,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
     size = int(info["size"])
     orig_size = size
     orig_lh, orig_base = lh, base
-    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
+    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE)))
     while True:
         metrics = {}
         rects = []
@@ -314,7 +318,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
                 bbox = (0, 0, 0, 0)
                 adv = 0
             w = max(1, bbox[2] - bbox[0] + 2)
-            h = max(1, bbox[3] - bbox[1] + 2)
+            h = max(1, bbox[3] - bbox[1] + 3)  # 底 pad 2:涵蓋 1px 下伸
             metrics[cid] = (w, h, bbox, float(adv))
             rects.append((w, h))
         place = None
@@ -331,7 +335,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
             scale_lh = size / orig_size
             lh = max(8, round(orig_lh * scale_lh))
             base = max(6, round(orig_base * scale_lh))
-            font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
+            font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE)))
             print(f"  [{name}] 塞不下,降字體 {orig_size}->{size}px (lineHeight {orig_lh}->{lh}, base {orig_base}->{base})")
             continue
         break
