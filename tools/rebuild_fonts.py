@@ -27,7 +27,7 @@ ROOT = Path(__file__).resolve().parents[1]
 FONTS_DIR = ROOT / "ck2_chinese" / "gfx" / "fonts"
 
 FACES = {
-    "zh-hans-14": "SourceHanSerifTC-Bold.otf",
+    "zh-hans-14": "SourceHanSerifTC-Heavy.otf",  # 小字專用:更粗
     "zh-hans-16": "SourceHanSerifTC-Bold.otf",
     "zh-hans-18": "SourceHanSerifTC-Bold.otf",
     "zh-hans-24": "SourceHanSerifTC-Bold.otf",
@@ -37,7 +37,8 @@ FACES = {
 WIN_FONT_DIR = Path(r"/mnt/e/Projects/_GameTranslate/OTF/TraditionalChinese")
 
 # 思源宋字面率(滿格)比方正高 ~15%:光柵字號 ×0.90 讓墨跡大小回到原廠視覺
-RASTER_SCALE = 0.90
+RASTER_SCALE = {"zh-hans-14": 0.95, "zh-hans-16": 0.90, "zh-hans-18": 0.90, "zh-hans-24": 0.90,
+                "zh-hans-decorative": 0.90, "zh-hans-map": 0.90}
 # 下伸 1px(PIL bbox 與 FreeType 實繪差異,約 79% 字受惠)由「盒底 pad 2」涵蓋
 
 # CK2 文字解析器對單一 fnt 的字形數有 ~8192 緩衝上限(實錘:52 原廠六檔全部 ≤7461,
@@ -237,8 +238,8 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
     lh = int(common["lineHeight"])
     size = int(info["size"])
     face = FACES[name]
-    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE)))
-    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE)))
+    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE[name])))
+    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE[name])))
     # ── 字形集漏斗:corpus(繁體文本 100%)全保留;原廠字形按「碼序低=常用」補滿剩餘槽 ──
     # 視覺/相容:總數 ≦ MAX_GLYPH(遊戲 8192 緩衝,留安全餘量),文本 0 缺字。
     corpus_ids = set(extra_chars)
@@ -285,7 +286,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
             dy = []
             dx = []
             dadv = []
-            fhf0 = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE)))
+            fhf0 = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE[name])))
             for cid in ids:
                 if cid in need:
                     b = fhf0.getbbox(chr(cid))
@@ -305,7 +306,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
     size = int(info["size"])
     orig_size = size
     orig_lh, orig_base = lh, base
-    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE)))
+    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE[name])))
     while True:
         metrics = {}
         rects = []
@@ -335,7 +336,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
             scale_lh = size / orig_size
             lh = max(8, round(orig_lh * scale_lh))
             base = max(6, round(orig_base * scale_lh))
-            font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE)))
+            font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), max(6, round(size * RASTER_SCALE[name])))
             print(f"  [{name}] 塞不下,降字體 {orig_size}->{size}px (lineHeight {orig_lh}->{lh}, base {orig_base}->{base})")
             continue
         break
