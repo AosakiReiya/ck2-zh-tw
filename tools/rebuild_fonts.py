@@ -37,37 +37,9 @@ FACES = {
 WIN_FONT_DIR = Path(r"/mnt/e/Projects/_GameTranslate/Fonts/chiron-sung-hk-1.024/STATIC_OTF")
 
 # 思源宋字面率(滿格)比方正高 ~15%:光柵字號 ×0.90 讓墨跡大小回到原廠視覺
-RASTER_SCALE = {"zh-hans-14": 0.95, "zh-hans-16": 0.91, "zh-hans-18": 0.91, "zh-hans-24": 0.91,
+RASTER_SCALE = {"zh-hans-14": 0.95, "zh-hans-16": 0.90, "zh-hans-18": 0.90, "zh-hans-24": 0.90,
                 "zh-hans-decorative": 0.90, "zh-hans-map": 0.90}
 # 下伸 1px(PIL bbox 與 FreeType 實繪差異,約 79% 字受惠)由「盒底 pad 2」涵蓋
-
-# ── 字體加工參數 ──
-# 垂直 embolden(px,半影強度):宋體橫細豎粗 → 橫畫上下各擴張半影,解決「一/言/可」薄線
-EMBOLDEN_V = 1          # 文字檔專用(decor/map 大字不處理)
-EMBOLDEN_STRENGTH = 0.35
-# 字形盒高固定 = lineHeight(按鈕/文字垂直置中一致;不居中問題根治)
-FIXED_BOX_HEIGHT = True
-
-# 工具:crop 字形位圖後做垂直膨脹
-def vert_embolden(img):
-    px = img.load()
-    w, h = img.size
-    out = Image.new("RGBA", (w, h), (0, 0, 0, 0))
-    op = out.load()
-    for y in range(h):
-        for x in range(w):
-            a = px[x, y][3]
-            if a == 255:
-                op[x, y] = (255, 255, 255, 255)
-                continue
-            above = px[x, max(0, y - 1)][3] if y > 0 else 0
-            below = px[x, min(h - 1, y + 1)][3] if y < h - 1 else 0
-            nb = max(above, below)
-            if nb > 0 and a < nb:
-                # 鄰居不透明 → 本列併入半影(橫畫上下緣加厚)
-                a = max(a, int(nb * EMBOLDEN_STRENGTH))
-            op[x, y] = (255, 255, 255, a)
-    return out
 
 # CK2 文字解析器對單一 fnt 的字形數有 ~8192 緩衝上限(實錘:52 原廠六檔全部 ≤7461,
 # 我們全部 >8192 → 載入越界崩潰)。所有字型鎖 MAX_GLYPH=7000:保證相容。
@@ -234,9 +206,8 @@ def write_dds(path: Path, img: Image.Image, fourcc: str = "DXT3"):
     path.write_bytes(header + data)
 
 
-# ── 墨色增強(alpha floor):宋體細橫畫在低像素只剩半影(α≈2-7) →
-#    提升 1.8 倍(幾何零變動,不影響盒/居中/縮放;可秒回退)──
-ALPHA_FLOOR = True  # 幾何零變動:僅將半影(α2-7)提升至≥8,細橫畫由「接近消失」→「實線」
+# ── 墨色增強(alpha floor):細橫畫半影(α2-7)→ ≥8 實線(幾何零變動)──
+ALPHA_FLOOR = True
 
 def alpha_boost(img):
     px = img.load()
@@ -313,7 +284,6 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
     import statistics as _st
     ycomp = 0
     xcomp = 0
-    advcomp = 0
     try:
         rawh = _sp.run(["git", "-C", str(ROOT), "show",
                         f"simplified-src:ck2_chinese/gfx/fonts/{name}.fnt"],
@@ -325,7 +295,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
                 k = int(kv["id"])
                 if k in ids:
                     need[k] = (int(kv["yoffset"]), int(kv["xoffset"]),
-                               int(kv.get("xadvance", 0)))
+                               int(kv.get("xadvance", 0)), int(kv.get("height", 0)))
         if need:
             dy = []
             dx = []
@@ -334,8 +304,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
             for cid in ids:
                 if cid in need:
                     b = fhf0.getbbox(chr(cid))
-                    glyph_h = max(1, b[3] - b[1] + 3)
-                    dy.append(need[cid][0] - (((lh - glyph_h) // 2) + 1 - b[1] - 3))
+                    dy.append(need[cid][0] - (b[1] - 1 - 3))
                     dx.append(need[cid][1] - (b[0] - 1))
                     try:
                         adv = fhf0.getlength(chr(cid))
@@ -345,8 +314,20 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
             ycomp = round(_st.median(dy))
             xcomp = round(_st.median(dx))
             advcomp = round(_st.median(dadv))
-            print(f"  [{name}] 度量補償 y{ycomp:+d} x{xcomp:+d} xadv{advcomp:+d} (對 52 原廠)")
-    except Exception as _e:
+            ccorr = 0
+            if need[cid] if False else True:
+                diffs = []
+                for cid2 in ids:
+                    if cid2 in need:
+                        b = fhf0.getbbox(chr(cid2))
+                        gh = max(1, b[3] - b[1] + 3)
+                        h_out = max(1, gh - 2)
+                        cur_center = (b[1] - 1 - 3 + ycomp) + h_out / 2
+                        orig_center = need[cid2][0] + need[cid2][3] / 2
+                        diffs.append(orig_center - cur_center)
+                ccorr = round(_st.median(diffs))
+            print(f"  [{name}] 度量補償 y{ycomp:+d} x{xcomp:+d} xadv{advcomp:+d} 中心{ccorr:+d}")
+    except Exception:
         pass
     size = int(info["size"])
     orig_size = size
@@ -364,13 +345,8 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
                 bbox = (0, 0, 0, 0)
                 adv = 0
             w = max(1, bbox[2] - bbox[0] + 2)
-            glyph_h = max(1, bbox[3] - bbox[1] + 3)  # 底 pad 2:涵蓋 1px 下伸
-            # 盒 ≥ lineHeight 且 ≥ 字形:字形絕不越界(越界 → 渲染切半/異常)
-            if FIXED_BOX_HEIGHT and name not in ("zh-hans-decorative", "zh-hans-map"):
-                h = max(lh, glyph_h)
-            else:
-                h = glyph_h
-            metrics[cid] = (w, h, bbox, float(adv), glyph_h)
+            h = max(1, bbox[3] - bbox[1] + 3)  # 底 pad 2:涵蓋 1px 下伸
+            metrics[cid] = (w, h, bbox, float(adv))
             rects.append((w, h))
         place = None
         for scale_w, scale_h in cands[name]:
@@ -399,24 +375,21 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
     out_metrics = []
     for k, cid in enumerate(ids):
         x, y = place[k]
-        w, h, bbox, adv, glyph_h = metrics[cid]
-        # 塊內垂直置中:字形(lh 盒內)頂部偏移 = (h - glyph_h)//2
-        y0 = y + ((h - glyph_h) // 2) + 1 - bbox[1]
-        need_embolden = (EMBOLDEN_V and name not in ("zh-hans-decorative", "zh-hans-map"))
-        if need_embolden:
-            tmp = Image.new("RGBA", (w, glyph_h), (0, 0, 0, 0))
+        w, h, bbox, adv = metrics[cid]
+        if ALPHA_FLOOR and name not in ("zh-hans-decorative", "zh-hans-map"):
+            tmp = Image.new("RGBA", (w, h), (0, 0, 0, 0))
             ImageDraw.Draw(tmp).text((1 - bbox[0], 1 - bbox[1]), chr(cid), font=font_f, fill=(255, 255, 255, 255))
-            tmp = vert_embolden(tmp)
-            canvas.alpha_composite(tmp, (x, y0))
+            canvas.alpha_composite(alpha_boost(tmp), (x, y))
         else:
-            draw.text((x + 1 - bbox[0], y0), chr(cid), font=font_f, fill=(255, 255, 255, 255))
+            draw.text((x + 1 - bbox[0], y + 1 - bbox[1]), chr(cid), font=font_f, fill=(255, 255, 255, 255))
         # yoffset 校正:原廠(BMGlyph 度量)與 PIL bbox 對「字形在方格內位置」
         # 的定義差約 +3px → 全域 -3 對齊 52 原廠基準線(防文字下移/被裁殘形)
-        yoff = ((h - glyph_h) // 2) + 1 - bbox[1] + (0 - 3 + ycomp)  # 居中頂偏 + 原始基線校準
+        yoff = bbox[1] - 1 - 3 + ycomp + ccorr
         xoff = bbox[0] - 1 + xcomp
         xadv = max(1, int(adv) + 1 + advcomp)
-        # width/height 強制 ≥1;盒高 = 完整盒(含字形)不可減,否則字形被裁
-        out_metrics.append((cid, x, y, max(1, w - 2), h, xoff, yoff, xadv))
+        # width/height 強制 ≥1:0 尺寸字形(如空格)會讓遊戲
+        # CreateVertexBuffer 失敗 → 閃退(gfx_dx9.cpp:1490,52 原廠 space=3x1)
+        out_metrics.append((cid, x, y, max(1, w - 2), max(1, h - 2), xoff, yoff, xadv))
     for cid, x, y, w, h, xoff, yoff, xadv in out_metrics:
         fnt_lines.append(
             f"char id={cid:<5} x={x:<5} y={y:<5} width={w:<5} height={h:<5} xoffset={xoff:<5} yoffset={yoff:<5} xadvance={xadv:<5} page=0"

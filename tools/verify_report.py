@@ -410,14 +410,14 @@ def check_metrics_alignment():
         common = (set(ours) & set(orig)) - {32}
         if len(common) < 50:
             continue
-        dyo = statistics.median([ours[c][1] - orig[c][1] for c in common])
+        dyo = statistics.median([(ours[c][1] + ours[c][3] / 2) - (orig[c][1] + orig[c][3] / 2) for c in common])
         dxo = statistics.median([ours[c][0] - orig[c][0] for c in common])
         dhh = statistics.median([ours[c][3] - orig[c][3] for c in common])
         dax = statistics.median([ours[c][4] - orig[c][4] for c in common])
         tol_y = 3 if f.name in ('zh-hans-decorative.fnt', 'zh-hans-map.fnt') else 3  # 居中語意:全域一致偏移(行視覺無感)
         tol_ok = abs(dyo) <= tol_y and abs(dxo) <= 1 and abs(dax) <= 1  # decor/map 大字殘差 2px(70px 級 3%)
         if tol_ok:
-            ok(f"{f.name}: 度量差 y≈{dyo:+.1f} x≈{dxo:+.1f} xadv≈{dax:+.1f} (h差≈{dhh:+.1f} 屬字體差異) 共同 {len(common)} 字")
+            ok(f"{f.name}: 度量差 中心y≈{dyo:+.1f} x≈{dxo:+.1f} xadv≈{dax:+.1f} (h差≈{dhh:+.1f} 屬字體差異) 共同 {len(common)} 字")
         else:
             allok = False
             fail(f"{f.name}: 度量漂移 y≈{dyo:+.1f} x≈{dxo:+.1f} xadv≈{dax:+.1f} (>容差)")
