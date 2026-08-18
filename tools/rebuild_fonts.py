@@ -206,8 +206,31 @@ def write_dds(path: Path, img: Image.Image, fourcc: str = "DXT3"):
     path.write_bytes(header + data)
 
 
-# ── 墨色增強(alpha floor):細橫畫半影(α2-7)→ ≥8 實線(幾何零變動)──
-ALPHA_FLOOR = True
+# ── 字體加工 ──
+# alpha floor:關閉(會吃掉反鋸齒灰階 → 細畫發黑)
+ALPHA_FLOOR = False
+# 垂直 embolden(半影):宋體橫細豎粗 → 橫畫上下各加半影(幾何變厚、保留 AA 柔邊)
+EMBOLDEN_V = 1                 # 文字檔專用(decor/map 不處理)
+EMBOLDEN_STRENGTH = 0.35
+
+def vert_embolden(img):
+    px = img.load()
+    w, h = img.size
+    out = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    op = out.load()
+    for y in range(h):
+        for x in range(w):
+            a = px[x, y][3]
+            if a == 255:
+                op[x, y] = (255, 255, 255, 255)
+                continue
+            above = px[x, max(0, y - 1)][3] if y > 0 else 0
+            below = px[x, min(h - 1, y + 1)][3] if y < h - 1 else 0
+            nb = max(above, below)
+            if nb > 0 and a < nb:
+                a = max(a, int(nb * EMBOLDEN_STRENGTH))
+            op[x, y] = (255, 255, 255, a)
+    return out
 
 def alpha_boost(img):
     px = img.load()
@@ -376,10 +399,14 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
     for k, cid in enumerate(ids):
         x, y = place[k]
         w, h, bbox, adv = metrics[cid]
-        if ALPHA_FLOOR and name not in ("zh-hans-decorative", "zh-hans-map"):
+        if (EMBOLDEN_V or ALPHA_FLOOR) and name not in ("zh-hans-decorative", "zh-hans-map"):
             tmp = Image.new("RGBA", (w, h), (0, 0, 0, 0))
             ImageDraw.Draw(tmp).text((1 - bbox[0], 1 - bbox[1]), chr(cid), font=font_f, fill=(255, 255, 255, 255))
-            canvas.alpha_composite(alpha_boost(tmp), (x, y))
+            if EMBOLDEN_V:
+                tmp = vert_embolden(tmp)
+            if ALPHA_FLOOR:
+                tmp = alpha_boost(tmp)
+            canvas.alpha_composite(tmp, (x, y))
         else:
             draw.text((x + 1 - bbox[0], y + 1 - bbox[1]), chr(cid), font=font_f, fill=(255, 255, 255, 255))
         # yoffset 校正:原廠(BMGlyph 度量)與 PIL bbox 對「字形在方格內位置」
