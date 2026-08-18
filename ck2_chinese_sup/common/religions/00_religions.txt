@@ -28,7 +28,7 @@ christian = {
     "PkTGY"  # Eustace
     "¬U»l"  # George
     "M˜beu"  # Gregory
-    "1f¯e"  # Hans
+    "1o¯e"  # Hans
     "O’d<h"  # Isaac
     "å‚Nle"  # Joakim
     "Å–T>O"  # Jacob
@@ -55,7 +55,7 @@ christian = {
     "NôTÎ"  # Abraham
     "NwkqS'Y"  # Alexander
     "T<S>i"  # Daniel
-    "6wLq"  # Jesus
+    "6wLz"  # Jesus
     "t>O"  # Job
     "å‚†„S"  # Joshua
     "‰ï¯e"  # Cyrus
@@ -70,7 +70,7 @@ christian = {
     " R'Y‹wt"  # Catherine
     "GRßo)RN"  # Cecilia
     "úW¯ešR"  # Christina
-    "KQ„Œ‚„mZ"  # Clementia
+    "KQ„•‚„mZ"  # Clementia
     "TëXfW¯e"  # Constance
     "Y?†‰"  # Dorothy
     "O¦ƒŒv"  # Elisabeth
@@ -728,7 +728,7 @@ muslim = {
     "ÈTQh"  # Hasan
     "¯OàV"  # Hossein
     "¯OàV"  # Hussayn
-    "O¯ejtH"  # Ismail
+    "O¯ejtQ"  # Ismail
     "¬™ÈTƒ·V"  # Mahmud
     "FzUØ·V"  # Mohammed
     "Fz?–>i"  # Muammar
@@ -755,7 +755,7 @@ muslim = {
     "jt¦NÆY"  # Mariam
     "s|Z"  # Mina
     "ªRætÉb"  # Nuwwarrah
-    "*tt¬™ÈT"  # Qismah
+    "*tr}¬™ÈT"  # Qismah
     "2—aSON"  # Ruqayyah
     "©…ôT"  # Saba
     "ƒÕl?–"  # Safaa
@@ -1165,7 +1165,7 @@ pagan_group = {
     "3XKQ"  # Tyke
   }
   female_names = {
-    "?–tŞR<h"  # Aslaug
+    "?–r}ŞR<h"  # Aslaug
     "ZSyr^>i·V"  # Bothild
     "Ôkt<h"  # Björg
     "™‚…Å–"  # Freja
@@ -1174,7 +1174,7 @@ pagan_group = {
     "KQÉbaS"  # Kráka
     "jt>iÆY™‚¦·V"  # Malmfrid
     "ŠÉb"  # Thora
-    "Š>iêt"  # Thordis
+    "Š>iêr}"  # Thordis
     "‚„Èƒ"  # Thyra
     "g™‚áˆ·V"  # Ragnfrid
     "g^>i·V"  # Ragnhild
@@ -2489,7 +2489,7 @@ jewish_group = {
     ")R*g"  # Levi
     "jtÿb‰"  # Manasseh
     "<S¯e"  # Nisi
-    "‰ût"  # Simeon
+    "‰ì}"  # Simeon
     "N+Yê"  # Yavdi
     "‰^+P"  # Zebulun
   }
@@ -2503,7 +2503,7 @@ jewish_group = {
     "æt"  # Chana
     "YZ"  # Chava
     "·VƒlÉb"  # Devorah
-    "ÃWtyr"  # Esther
+    "ÃWr}yr"  # Esther
     "	T^X"  # Gisse
     "ÈTT©…"  # Hadassah
     ")RN"  # Leah
@@ -2513,7 +2513,7 @@ jewish_group = {
     "iO<SZ"  # Peninah
     "Éb,‹>i"  # Rachel
     "¦­taS"  # Rivkah
-    "2—t"  # Ruth
+    "2—r}"  # Ruth
     "ƒÉb"  # Sarah
     "ÖNjt"  # Tamar
     "—V’d"  # Tirtzah

@@ -3662,7 +3662,7 @@ character_event = {
                 }
               }
             }
-            set_name = "1fg"  # Han Empire
+            set_name = "1og"  # Han Empire
             set_title_flag = china_name_Han
           }
           1 = {
@@ -4039,7 +4039,7 @@ character_event = {
             }
           }
         }
-        set_name = "Lb—R"  # Qinzong
+        set_name = "Lk—R"  # Qinzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Qinzong
         }
@@ -4515,7 +4515,7 @@ character_event = {
             }
           }
         }
-        set_name = "ew—R"  # Shengzong
+        set_name = "e€—R"  # Shengzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Shengzong
         }
@@ -4613,7 +4613,7 @@ character_event = {
             }
           }
         }
-        set_name = "lh—R"  # Yangzong
+        set_name = "lq—R"  # Yangzong
         event_target:temple_name_title = {
           set_title_flag = temple_name_Yangzong
         }
@@ -4749,7 +4749,7 @@ character_event = {
             set_name = "hT"  # Zhou
           }
           china_name_Han = {
-            set_name = "1f"  # Han
+            set_name = "1o"  # Han
           }
           china_name_Qin = {
             set_name = "æy"  # Qin
@@ -4874,7 +4874,7 @@ character_event = {
             set_name = "hT"  # Zhou
           }
           china_name_Han = {
-            set_name = "1f"  # Han
+            set_name = "1o"  # Han
           }
           china_name_Qin = {
             set_name = "æy"  # Qin
@@ -5007,7 +5007,7 @@ character_event = {
             set_name = "hTg"  # Zhou Empire
           }
           china_name_Han = {
-            set_name = "1fg"  # Han Empire
+            set_name = "1og"  # Han Empire
           }
           china_name_Qin = {
             set_name = "æyg"  # Qin Empire
@@ -5113,7 +5113,7 @@ character_event = {
             set_name = "hTg"  # Zhou Empire
           }
           china_name_Han = {
-            set_name = "1fg"  # Han Empire
+            set_name = "1og"  # Han Empire
           }
           china_name_Qin = {
             set_name = "æyg"  # Qin Empire

@@ -10,22 +10,22 @@ c_lappland_adj;Ébnf-†;;;;;;;;;;;;x
 RENAME;Í‘ŒTT;;;;;;;;;;;;x
 NAME;T1z;;;;;;;;;;;;x
 ADJECTIVE;bV¹R^Š;;;;;;;;;;;;x
-POSSIBLE_PLOT_POWER;ïSıwgT0R„vp–‚›RÏ‘;;;;;;;;;;;;x
-AUTO_INVITE_PLOTTERS;êÕRËŠp–‚ÃS‚w;;;;;;;;;;;;x
-AUTO_STOP_PLOTS;ê|vkPbkp–‚;;;;;;;;;;;;x
-AUTO_STOPPED_PLOT_SETUP;p–‚«ˆíc|v;;;;;;;;;;;;x
+POSSIBLE_PLOT_POWER;ïSıwgT0R„vp–‹›RÏ‘;;;;;;;;;;;;x
+AUTO_INVITE_PLOTTERS;êÕRËŠp–‹ÃS‚w;;;;;;;;;;;;x
+AUTO_STOP_PLOTS;ê|vkPbkp–‹;;;;;;;;;;;;x
+AUTO_STOPPED_PLOT_SETUP;p–‹«ˆíc|v;;;;;;;;;;;;x
 AUTO_STOPPED_PLOT_LOG;§Y$PLOTTER$§!$PLOTTERJOB$ó`§Y$PLOTNAME$§!0;;;;;;;;;;;;x
-AUTO_STOPPED_PLOT_LETTER;bòT|vşs$PLOTTER$„YW$PLOTNAME$„vp–‚0bnNòT>múQNTOw“‹ÖN6eKb0\n\n¨`‹QS„v“•ëŠLu¡rÿ\n$SPYMASTER$;;;;;;;;;;;;x
-AUTO_STOP_PLOT_START_SETUP;“•ëŠLu¡r>múQáOO;;;;;;;;;;;;x
-AUTO_STOP_PLOT_START_LOG;$SPYMASTER$>múQáOO6Rbkp–‚|vÕRw;;;;;;;;;;;;x
-AUTO_STOP_PLOT_START_LETTER;bòTTOb	gòTåw„vÆR‚ÃS‚w>múQÆROÿ“‹ÖNPËzsSkPbkÆR‚0\n\n¨`‹QS„v“•ëŠLu¡rÿ\n$SPYMASTER$;;;;;;;;;;;;x
-siege_leader;NJecîc˜R;;;;;;;;;;;;x
-siege_leader_desc;dkÒ‰r‚„U¼ecîcNJekO0b0;;;;;;;;;;;;x
-SIEGE;NJe;;;;;;;;;;;;x
+AUTO_STOPPED_PLOT_LETTER;bòT|vşs$PLOTTER$„YW$PLOTNAME$„vp–‹0bnNòT>múQNTOw“‹ÖN6eKb0\n\n¨`‹QS„v“•ëŠL~¡rÿ\n$SPYMASTER$;;;;;;;;;;;;x
+AUTO_STOP_PLOT_START_SETUP;“•ëŠL~¡r>múQáOO;;;;;;;;;;;;x
+AUTO_STOP_PLOT_START_LOG;$SPYMASTER$>múQáOO6Rbkp–‹|vÕRw;;;;;;;;;;;;x
+AUTO_STOP_PLOT_START_LETTER;bòTTOb	gòTåw„vÆR‹ÃS‚w>múQÆROÿ“‹ÖNPËzsSkPbkÆR‹0\n\n¨`‹QS„v“•ëŠL~¡rÿ\n$SPYMASTER$;;;;;;;;;;;;x
+siege_leader;WJecîc˜R;;;;;;;;;;;;x
+siege_leader_desc;dkÒ‰r‚„U¼ecîcWJekO0b0;;;;;;;;;;;;x
+SIEGE;WJe;;;;;;;;;;;;x
 ADD_IP;ûm RIP0WOW;;;;;;;;;;;;x
 REMOVE_IP;nd–IP0WOW;;;;;;;;;;;;x
 PENDING_PLOT_REQUEST;IrPTr†‰0;;;;;;;;;;;;x
-ACCEPTED_PLOT_REQUEST;ck>ecp–‚0;;;;;;;;;;;;x
+ACCEPTED_PLOT_REQUEST;ck>ecp–‹0;;;;;;;;;;;;x
 LOADING_TIP_52;`OïSåN	cOO Alt u“†OÅPxÇdf‚Š–;;;;;;;;;;;;x
 EXIT;Ü•‰•;;;;;;;;;;;;x
 CUT;jR'Tÿ;;;;;;;;;;;;x
@@ -35,13 +35,13 @@ city_job_chancellor_arabic;'Y­tJŸ>i;;;;;;;;;;;;x
 city_job_chancellor_iranian;'Y­tJŸ>i;;;;;;;;;;;;x
 city_job_chancellor_turkish;'Y­tJŸ>i;;;;;;;;;;;;x
 city_job_chancellor_west_african;'Y­tJŸ>i;;;;;;;;;;;;x
-city_job_chancellor_greek;Lut'Yã;;;;;;;;;;;;x
+city_job_chancellor_greek;L~t'Yã;;;;;;;;;;;;x
 city_job_spymaster_greek;nj‰Øyøf;;;;;;;;;;;;x
 city_job_treasurer_greek;°Œ?e'Yã;;;;;;;;;;;;x
 city_job_chancellor_aztec;Ç†sY;;;;;;;;;;;;x
-city_job_treasurer_aztec;¢ŒæŒLu¡r;;;;;;;;;;;;x
+city_job_treasurer_aztec;¢ŒæŒL~¡r;;;;;;;;;;;;x
 city_job_spiritual_aztec;'YmyøS;;;;;;;;;;;;x
-city_job_spymaster_aztec;—f¿kˆRj;;;;;;;;;;;;x
+city_job_spymaster_aztec;—f¿kˆRjˆ;;;;;;;;;;;;x
 city_job_marshal_aztec;ºNm˜RrRw;;;;;;;;;;;;x
 city_job_chancellor_zoroastrian_group;?–¯eTXôT2ƒ;;;;;;;;;;;;x
 city_job_treasurer_zoroastrian_group;T›RKQ-^yr;;;;;;;;;;;;x

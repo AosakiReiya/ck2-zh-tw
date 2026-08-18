@@ -7,23 +7,23 @@ opinion_retracted_my_de_jure_vassal;6eÞVb„vÕltSã;;;;;;;;;;;;x
 opinion_retracted_a_vassal;6eÞVNTSã;;;;;;;;;;;;x
 opinion_retracted_a_de_jure_vassal;6eÞVNTÕltSã;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_TITLE;6eÞVSã;;;;;;;;;;;;x
-RETRACT_VASSAL_INTERACTION_DESC;­V§Y[Recipient.GetBestName]§!²áˆ6eÞVNTSã0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_DESC;ž_§Y[Recipient.GetBestName]§!²áˆ6eÞVNTSã0;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_LONG_DESC;`OïSåN6eÞV`ONPôvlSSã„vSã0ÖNPgSdka0RN…`ÿyr%R>fvl«ˆ6eÞV„vSã>fÖNP„vÕltSã„vBfP0;;;;;;;;;;;;x
-RETRACT_VASSAL_INTERACTION_0;xÇd‰­V§Y[Recipient.GetTitledFirstName]§!²áˆ6eÞV„vSã0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_0;xÇd‰ž_§Y[Recipient.GetTitledFirstName]§!²áˆ6eÞV„vSã0;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_1;“‹§Y[ThirdPartyCharacter.GetBestName]§!bÉp`O„vôvlSSã0§Y[Recipient.GetTitledFirstName]§!S`O„vŒYagM–NO§R$OPINION$§!0;;;;;;;;;;;;x
-RETRACT_VASSAL_INTERACTION_2;Yg†	g§Y$CROWN_TITLE$§!„v‹sbbZÿbP„vSã!qÕlÒbUt0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2;Yg†	g§Y$CROWN_TITLE$§!„v‹skkZÿbP„vSã!qÕlÒbUt0;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_2B;àVÉp§Y[Recipient.GetTitledFirstName]§!>fPÛS’VÿObåNbP„vSãNgÍSS0;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_2C;àVÉp§Y[Recipient.GetTitledFirstName]§!>fPplYe’VÿêS	gáOðN§Y[Recipient.Religion.GetName]§!„vSãgÍSSÿ§R$OPINION$§!	ÿ0;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_2D;¼žZPgUÌwSú^QYtÿ&NgO`OvQÖN„vSã1Ygÿ§R$OPINION$§!	ÿ0;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_2N;>fSSú^Õl„vUÌwÿSgO`O„v^—JgrSãa0RN…`ÿ§R$OPINION$§!	ÿ0;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_2E;bP„v^WLˆ?eÔš6RïS“‹bP6eÞVSãwNVw´ŒÏe„vÍSS0;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_ACCEPT_SETUP;SãòT6eÞV;;;;;;;;;;;;x
-RETRACT_VASSAL_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§WòTS§Y[ThirdPartyCharacter.GetBestName]§W„vSã0WMO­V§Y[Recipient.GetBestName]§WU†Iûyp0;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§WòTS§Y[ThirdPartyCharacter.GetBestName]§W„vSã0WMOž_§Y[Recipient.GetBestName]§WU†Iûyp0;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_LETTER;bPòT“tzlšR6eÞV[ThirdPartyCharacter.GetBestName]„v-˜œ’0ÒbUt¥c×SSV|v0b-r0;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_DECLINE_SETUP;6eÞVSãmÒb;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§!ÒbUt	c§Y[Actor.GetBestName]§!„v‰Bl6eÞVSã§Y[ThirdPartyCharacter.GetBestName]§!0;;;;;;;;;;;;x
 EVTDESC274;b„v˜JNÿb¥c×S¨`6eÞVb„vSã[Root.GetBestName]„vzlšRÿðm¡rg“‹b²`Ûu,„R0;;;;;;;;;;;;x
-EVTDESC275;`OS¼eSú^QYt„vÌwÓhNïS¥c×SÿbNÜ`N0bnN‰Mcjb„vSãÿ;;;;;;;;;;;;x
+EVTDESC275;`OS¼eSú^QYt„vÌwÄ_NïS¥c×SÿbNÜ`N0bnN‰Mcjˆb„vSãÿ;;;;;;;;;;;;x
 CANNOT_DESTROY_GAVELKIND_TITLE;Nýw(WGWR|ubÕlNÆ’Àk-˜œ’;;;;;;;;;;;;x
 INTERACTION_REQUIRES_PIETY;§Y[Actor.GetTitledFirstName]§!ïSåN ŒÔd§Y$COST$§![Player.Religion.GetPietyName];;;;;;;;;;;;x
 INTERACTION_REQUIRES_MONEY;§Y[Actor.GetTitledFirstName]§!ïSåN>eØN §Y$COST$§W¤;;;;;;;;;;;;x

@@ -59,17 +59,16 @@ CRITICAL_BYTES = {0x00, 0x0A, 0x0D}
 def encode_cp(prefix: int, cp: int):
     """把字元碼 cp 以某 prefix 編碼,回傳 (prefix, lo, hi)。
 
-    形式選擇:
-    1. 沿原 prefix,payload 兩字節都不在 DANGER_BYTES → 用
-    2. 否則依 (0x13, 0x12, 0x11, 0x10) 找「lo 不在 CRITICAL」的形式
-       (0x13 低字節偏移 0x0F、0x12 高字節 -9、0x11 低字節 +0x0F 輪流避)
-    3. 全部失敗 → 0x10 原碼(僅剩避諱級風險,不切行)
+    語意保留原則:0x10-0x13 是渲染語意分類(寬度/裝飾),不可亂換。
+    - 原 prefix 盡可能保留
+    - 需避開 DANGER 位元組時,只在同大類互換:0x10↔0x11、0x12↔0x13
+    - CRITICAL(0x00/0x0A/0x0D)必須避開時,同大類內以「低字節安全」優先
     """
     def make(p, c):
         raw = c - PREF_SHIFT.get(p, 0)
         return p, raw & 0xFF, (raw >> 8) & 0xFF
 
-    def full_safe(p, c):
+    def safe(p, c):
         if c < PREF_SHIFT.get(p, 0):
             return None
         _, lo, hi = make(p, c)
@@ -85,18 +84,22 @@ def encode_cp(prefix: int, cp: int):
             return None
         return p, lo, hi
 
-    r = full_safe(prefix, cp)
+    r = safe(prefix, cp)
     if r:
         return r
-    for alt in (0x13, 0x12, 0x11, 0x10):
-        r = full_safe(alt, cp)
+    if prefix in (0x10, 0x11):
+        alts = (0x10, 0x11)
+    else:
+        alts = (0x12, 0x13)
+    for a in alts:
+        r = safe(a, cp)
         if r:
             return r
-    for alt in (0x13, 0x12, 0x11, 0x10):
-        r = critical_safe(alt, cp)
+    for a in (prefix,) + alts:
+        r = critical_safe(a, cp)
         if r:
             return r
-    return make(0x10, cp)  # 只剩避諱級風險
+    return make(prefix, cp)  # 只剩避諱級風險
 
 
 # ---------- 解碼 / 編碼 ----------

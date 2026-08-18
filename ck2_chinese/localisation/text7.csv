@@ -15,7 +15,7 @@ alert_troops_in_foreign_territory_name;ÍŽŠ–ß™Nb(WWƒXY;;;;;;;;;;;;x
 alert_revoltrisk_in_provinces_name;ïSýwr|vÛS‚N;;;;;;;;;;;;x
 alert_available_decision_name;Í‘‰zlp‹;;;;;;;;;;;;x
 alert_noheir_name;’l	g|ubºN;;;;;;;;;;;;x
-alert_court_not_filled_name;šŒ>e„vgQ²Œ-^MO;;;;;;;;;;;;x
+alert_court_not_filled_name;šŒ>e„vgQ²•-^MO;;;;;;;;;;;;x
 alert_lose_title_on_succ_name;|ubBf1Y»S-˜œ’;;;;;;;;;;;;x
 alert_should_nominate_heir_name;cšR|ubºN;;;;;;;;;;;;x
 alert_you_can_create_titles_name;ïSåNuRËz-˜œ’;;;;;;;;;;;;x
@@ -29,9 +29,9 @@ alert_betrothed_should_marry_name;ŠZZwïSåNbZZ;;;;;;;;;;;;x
 alert_can_imprison_name;TÕlØby;;;;;;;;;;;;x
 alert_titles_may_pass_from_realm_name;Sã|ubqSnj;;;;;;;;;;;;x
 alert_can_call_vassals_to_arms_name;ïSåNìS©UMR˜JN„vSã;;;;;;;;;;;;x
-alert_available_plot_name;ïSåNVrƒR°ep–‚;;;;;;;;;;;;x
+alert_available_plot_name;ïSåNVrƒR°ep–‹;;;;;;;;;;;;x
 alert_vassal_levies_raised_long_name;SãèŠ–µVìSBf“•Nw•;;;;;;;;;;;;x
-alert_owns_wrong_settlement_type_name;ôvD˜gQ	g/“³„v0W1um˜‹W;;;;;;;;;;;;x
+alert_owns_wrong_settlement_type_name;ôvD˜gQ	g/“³Š„v0W1um˜‹W;;;;;;;;;;;;x
 alert_no_ambition_name;xÇdN˜Î‘ÃV;;;;;;;;;;;;x
 alert_dejure_claim_name;ïSåN1tÖSÕlt²R1z;;;;;;;;;;;;x
 alert_truce_expiring_name;ŒTtS0Rg;;;;;;;;;;;;x
@@ -41,8 +41,8 @@ ALERT_DISABLED;òTy(u;;;;;;;;;;;;x
 ALERT_DISABLED_TOOLTIP;òTy(u\n§YÞžÊdåNÍ‘°enU(u§!;;;;;;;;;;;;x
 ALERT_DISMISSED;ÖSˆm;;;;;;;;;;;;x
 ALERT_DISMISSED_TOOLTIP;òTÖSˆm\n§YÞžÊdåNÍ‘°enU(u§!;;;;;;;;;;;;x
-SAME_GUARDIAN_AS;‚›Vw	gf„øvT„vãv†‹ºN;;;;;;;;;;;;x
-NOT_SAME_GUARDIAN_AS;‚›Vw’l	gøvT„vãv†‹ºN;;;;;;;;;;;;x
+SAME_GUARDIAN_AS;‚Œ_w	gf„øvT„vãv†‹ºN;;;;;;;;;;;;x
+NOT_SAME_GUARDIAN_AS;‚Œ_w’l	gøvT„vãv†‹ºN;;;;;;;;;;;;x
 GARRISON_REINFORCE_PROVINCEVIEW_TOOLTIP;ÜˆáTÿ§Y+$NUM$§!/g;;;;;;;;;;;;x
 NO_LEVY_REINF_GARRISON;§R(WˆR™PèŠ–ÜˆEQŒRbuKNMRµVìSuQ!qÕl—V0RÜˆáT§!;;;;;;;;;;;;x
 d_ghilman;äSÉbÆY;;;;;;;;;;;;x
@@ -62,5 +62,5 @@ MSG_SETTING_OTHER_BUT;P	c’¶c6RvQÖNÜ•èlÒ‰r‚„vˆmo`;;;;;;;;;;;;x
 SPECIAL_INTEREST_CHARACTERS;yr%RÜ•èlÒ‰r‚;;;;;;;;;;;;x
 CIW_MESSAGES;§YjŠyr%RÜ•èlÒ‰r‚§!;;;;;;;;;;;;x
 CIW_MESSAGES_DEL;yr%RÜ•èlÒ‰r‚ôf¹Rf«ˆýdŽÿÖNP	gêñT„váOo`kŒTˆmo`-Šn0;;;;;;;;;;;;x
-EVTDESC24503;b„vvQ™øŠPR(Wýw›RNNýw‚[From.GetTitledFirstName]øvÐc&NÖŠ0ÖNåwS‚YUOORÿ&NS(WbŠk›VbÉpNTIP'Y„v[Root.GetTitle]0;;;;;;;;;;;;x
+EVTDESC24503;b„vvQ™øŠPR(Wýw›RNNýw‚[From.GetTitledFirstName]øvÐc&NÖŠ0ÖNåwS‚YUOORÿ&NS(WbŠkŒ_bÉpNTIP'Y„v[Root.GetTitle]0;;;;;;;;;;;;x
 EVTOPTD50006;FO>f&&bN>f>e†N`O¼žÿ;;;;;;;;;;;;x

@@ -1256,7 +1256,7 @@
   }
 }
 125524 = {
-  name = "T„"  # Ghazan
+  name = "T"  # Ghazan
   dynasty = 11100
   diplomacy = 8
   intrigue = 8
@@ -1277,7 +1277,7 @@
   }
   1295.6.16 = {
     religion = "sunni"
-    name = "¬™T‚ T„"  # Mahmud Ghazan
+    name = "¬™T‹ T"  # Mahmud Ghazan
     add_trait = "sympathy_christendom"
   }
   1304.5.11 = {
@@ -1455,7 +1455,7 @@
   }
 }
 477515 = {
-  name = "ŒR³fú"  # Oljat
+  name = "ŒR³oú"  # Oljat
   female = yes
   dynasty = 11100
   religion = "nestorian"
@@ -1546,7 +1546,7 @@
   }
 }
 478004 = {
-  name = "¬™T‚"  # Mahmud
+  name = "¬™T‹"  # Mahmud
   dynasty = 101912
   martial = 4
   diplomacy = 5
@@ -3318,7 +3318,7 @@
   }
 }
 34933 = {
-  name = "?–³f"  # Ajai
+  name = "?–³o"  # Ajai
   religion = "tengri_pagan"
   culture = "mongol"
   1280.1.1 = {
@@ -4681,7 +4681,7 @@
   }
 }
 217269 = {
-  name = "5”Fz3w ŒR³fär"  # Temür Öljeytü
+  name = "5”Fz3w ŒR³oär"  # Temür Öljeytü
   dynasty = 11100
   religion = "buddhist"
   culture = "mongol"
@@ -6856,7 +6856,7 @@
   }
 }
 166883 = {
-  name = "<h2‡ÒR"  # Gerel
+  name = "<h2ÒR"  # Gerel
   dynasty = 1041002
   religion = "nestorian"
   culture = "mongol"
@@ -7159,7 +7159,7 @@
   }
 }
 188997 = {
-  name = "¬™T‚"  # Muhammed
+  name = "¬™T‹"  # Muhammed
   female = yes
   dynasty = 11100
   religion = "tengri_pagan"
@@ -7436,7 +7436,7 @@
   }
 }
 166910 = {
-  name = "1YÈpŒ"  # Shiremun
+  name = "1YÈp•"  # Shiremun
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7546,7 +7546,7 @@
   }
 }
 166917 = {
-  name = "?–³f"  # Ajai
+  name = "?–³o"  # Ajai
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -7575,7 +7575,7 @@
   }
 }
 166919 = {
-  name = "Tr1YJßR"  # Danishmendji
+  name = "Tr1YJˆßR"  # Danishmendji
   dynasty = 11100
   religion = "sunni"
   culture = "mongol"
@@ -8202,7 +8202,7 @@
   }
 }
 188999 = {
-  name = "îv2‡"  # Molon
+  name = "îv2"  # Molon
   dynasty = 1051124
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8691,7 +8691,7 @@
   }
 }
 93084 = {
-  name = "N„"  # Buzan
+  name = "N"  # Buzan
   dynasty = 11100
   religion = "tengri_pagan"
   culture = "mongol"
@@ -8912,7 +8912,7 @@
   }
 }
 248182 = {
-  name = "?–³f"  # Ajai
+  name = "?–³o"  # Ajai
   dynasty = 1059026
   religion = "tengri_pagan"
   culture = "mongol"
@@ -9601,7 +9601,7 @@
   }
 }
 248241 = {
-  name = "1YÈpŒ"  # Siremun
+  name = "1YÈp•"  # Siremun
   dynasty = 1059034
   religion = tengri_pagan
   culture = mongol

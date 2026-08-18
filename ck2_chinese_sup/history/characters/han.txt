@@ -236,7 +236,7 @@
     name = "öZZ"  # Meiniang
   }
   655.1.1 = {
-    name = "õV"  # Hou
+    name = "å_"  # Hou
   }
   680.1.1 = {
     name = "Ãf"  # Zhao
@@ -261,7 +261,7 @@
     birth = yes
   }
   710.7.8 = {
-    name = "≥b^"  # Shang
+    name = "≥k^"  # Shang
   }
   714.9.5 = {
     death = {
@@ -759,7 +759,7 @@
 }
 217726 = {
   dynasty = 1051151
-  name = "è"  # Xu
+  name = "ò"  # Xu
   religion = taoist
   culture = han
   father = 217725
@@ -1469,7 +1469,7 @@
   }
 }
 248153 = {
-  name = "åç"  # Yang
+  name = "åñ"  # Yang
   dynasty = 1055055
   religion = "taoist"
   culture = "han"
@@ -1632,7 +1632,7 @@
     add_spouse = 247754
   }
   604.8.13 = {
-    name = "lh^"  # Yangdi
+    name = "lq^"  # Yangdi
   }
   618.4.11 = {
     death = {
@@ -2111,7 +2111,7 @@
 247756 = {
   female = yes
   dynasty = 105837
-  name = "WSåç"  # Nanyang
+  name = "WSåñ"  # Nanyang
   religion = buddhist
   culture = han
   father = 247726
@@ -2783,7 +2783,7 @@
 }
 247800 = {
   dynasty = 105837
-  name = "Át"  # Jian
+  name = "ÿ}"  # Jian
   religion = buddhist
   culture = han
   father = 247795
@@ -3608,7 +3608,7 @@
 247851 = {
   female = yes
   dynasty = 1051150
-  name = "s^åç"  # Pingyang
+  name = "s^åñ"  # Pingyang
   religion = taoist
   culture = han
   father = 217700
@@ -3677,7 +3677,7 @@
 247855 = {
   female = yes
   dynasty = 1051150
-  name = "Dâåç"  # Xiangyang
+  name = "Dâåñ"  # Xiangyang
   religion = taoist
   culture = han
   father = 217700
@@ -3830,7 +3830,7 @@
 }
 247865 = {
   dynasty = 1055110
-  name = "l"  # Chong
+  name = "là"  # Chong
   religion = taoist
   culture = han
   father = 247864
@@ -4330,7 +4330,7 @@
 247896 = {
   female = yes
   dynasty = 1051150
-  name = "ŒWåç"  # Chengyang
+  name = "ŒWåñ"  # Chengyang
   religion = taoist
   culture = han
   father = 217701
@@ -4383,7 +4383,7 @@
 247899 = {
   female = yes
   dynasty = 1051150
-  name = "ÿöåç"  # Gaoyang
+  name = "ÿöåñ"  # Gaoyang
   religion = taoist
   culture = han
   trait = deceitful
@@ -4541,7 +4541,7 @@
 }
 247909 = {
   dynasty = 1051150
-  name = "/tœr"  # Sujie
+  name = "/t¿{"  # Sujie
   religion = taoist
   culture = han
   father = 217702
@@ -4819,7 +4819,7 @@
 }
 247925 = {
   dynasty = 1055095
-  name = "H"  # Yi
+  name = "Q"  # Yi
   religion = taoist
   culture = han
   608.1.1 = {
@@ -5288,7 +5288,7 @@
 }
 247953 = {
   dynasty = 1051150
-  name = "”r"  # Fan
+  name = "ƒ{"  # Fan
   religion = taoist
   culture = han
   father = 217703
@@ -5534,7 +5534,7 @@
 }
 247968 = {
   dynasty = 105837
-  name = "hQœr"  # Quanjie
+  name = "hQ¿{"  # Quanjie
   religion = taoist
   culture = han
   father = 247800
@@ -5565,7 +5565,7 @@
 247970 = {
   female = yes
   dynasty = 105837
-  name = "¥å9R"  # Guipin
+  name = "¥å*["  # Guipin
   religion = taoist
   culture = han
   father = 247969
@@ -5658,7 +5658,7 @@
     birth = yes
   }
   725.1.1 = {
-    name = "Jî"  # Hong
+    name = "Jù"  # Hong
   }
   736.1.1 = {
     name = "jt"  # Ying
@@ -5828,7 +5828,7 @@
 }
 247983 = {
   dynasty = 1051150
-  name = "≥f"  # Yun
+  name = "≥o"  # Yun
   religion = taoist
   culture = han
   father = 217706
@@ -6252,7 +6252,7 @@
   }
 }
 242305 = {
-  name = "l"  # Chong
+  name = "là"  # Chong
   dynasty = 1053105
   religion = "taoist"
   culture = "han"

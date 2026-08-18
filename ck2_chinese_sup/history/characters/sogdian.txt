@@ -30,7 +30,7 @@
   }
 }
 188774 = {
-  name = "*uÉSæ"  # Wakhushakk
+  name = "~ÉSæ"  # Wakhushakk
   dynasty = 1042188
   religion = "khurmazta"
   culture = "sogdian"
@@ -108,7 +108,7 @@
   }
 }
 194324 = {
-  name = "‰Rû‚YŒ"  # Avyaman
+  name = "‰Rû‚Y•"  # Avyaman
   dynasty = 1045075
   religion = "manichean"
   culture = "sogdian"
@@ -121,7 +121,7 @@
   }
 }
 217193 = {
-  name = "*uÉSæ"  # Wakhushakk
+  name = "~ÉSæ"  # Wakhushakk
   dynasty = 1051113
   religion = manichean
   culture = sogdian
@@ -218,7 +218,7 @@
   }
 }
 217200 = {
-  name = "V‚Y„"  # Furuzan
+  name = "V‚Y"  # Furuzan
   dynasty = 1051114
   religion = manichean
   culture = sogdian
@@ -363,7 +363,7 @@
   }
 }
 217319 = {
-  name = "/PªR"  # Khunuk
+  name = "/YªR"  # Khunuk
   dynasty = 1051144
   religion = zoroastrian
   culture = sogdian
@@ -554,7 +554,7 @@
   }
 }
 248160 = {
-  name = "Lv„T"  # Pator
+  name = "L„T"  # Pator
   dynasty = 0
   religion = "nestorian"
   culture = "sogdian"
@@ -632,7 +632,7 @@
   }
 }
 248300 = {
-  name = "N1SŠJ"  # Kujula
+  name = "N1SŠS"  # Kujula
   dynasty = 1059100
   religion = buddhist
   culture = sogdian
@@ -827,7 +827,7 @@
   }
 }
 1059724 = {
-  name = "Lváˆ1t"  # Parsak
+  name = "Láˆ1t"  # Parsak
   religion = "nestorian"
   culture = "sogdian"
   trait = scholarly_theologian
