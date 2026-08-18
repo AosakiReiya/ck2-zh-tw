@@ -255,6 +255,16 @@ def check_keys():
 
 
 def check_fonts():
+    # 原廠規格(與遊戲 DX9 載入相容):文字 = DXT3 ≤2048x4096;
+    # decorative/map = DXT5 + 4096 寬 + ≤8192 高(8192² DXT3 會崩潰)
+    SPEC = {
+        "zh-hans-14.fnt": ("DXT3", 1024, 2048, 2048, 4096),
+        "zh-hans-16.fnt": ("DXT3", 1024, 2048, 2048, 4096),
+        "zh-hans-18.fnt": ("DXT3", 1024, 2048, 2048, 4096),
+        "zh-hans-24.fnt": ("DXT3", 1024, 2048, 2048, 4096),
+        "zh-hans-decorative.fnt": ("DXT5", 4096, 7000, 4096, 8192),
+        "zh-hans-map.fnt": ("DXT5", 4096, 7000, 4096, 8192),
+    }
     log("== F. 字型檔自檢 ==")
     for f in sorted((ROOT / "ck2_chinese/gfx/fonts").glob("*.fnt")):
         text = f.read_text(encoding="utf-8", errors="replace")
@@ -271,17 +281,30 @@ def check_fonts():
                     or int(kv["y"]) + int(kv["height"]) > sh):
                 oob += 1
         mc = re.search(r"chars count=(\d+)", text)
-        if oob or (mc and int(mc.group(1)) != ids):
+        bad = oob or (mc and int(mc.group(1)) != ids)
+
+        comma_ok = True
+        if f.name in SPEC:
+            want_fcc, w0, h0, w1, h1 = SPEC[f.name]
+            dds = f.with_suffix(".dds")
+            raw = dds.read_bytes()
+            fcc = raw[84:88].decode("ascii", errors="replace")
+            dw = struct.unpack_from("<I", raw, 16)[0]
+            dh = struct.unpack_from("<I", raw, 12)[0]
+            size_ok = (dw == sw and dh == sh and w0 <= dw <= w1 and h0 <= dh <= h1)
+            fmt_ok = fcc == want_fcc
+            # fnt 尺寸須與 dds 一致
+            if not (fmt_ok and size_ok):
+                bad = True
+                fail(f"{f.name}: spec 不符 (dds {dw}x{dh} {fcc}, 期待 {want_fcc} "
+                     + f"{w0}x{h0}~{w1}x{h1}, fnt {sw}x{sh})")
+                comma_ok = False
+        if not comma_ok:
+            continue
+        if bad:
             fail(f"{f.name}: 越界 {oob}, count 不符")
         else:
             ok(f"{f.name}: {ids} glyphs, atlas {sw}x{sh} 合格")
-        dds = f.with_suffix(".dds")
-        if dds.exists():
-            raw = dds.read_bytes()
-            w = struct.unpack_from("<I", raw, 16)[0]
-            h = struct.unpack_from("<I", raw, 12)[0]
-            if (w, h) != (sw, sh):
-                fail(f"{dds.name}: 尺寸 {w}x{h} ≠ fnt {sw}x{sh}")
 
 
 def main():

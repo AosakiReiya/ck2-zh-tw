@@ -86,10 +86,76 @@ def corpus_chars() -> set[int]:
     return chars
 
 
-# ---------- DXT3 writer ----------
+# ---------- DXT3 / DXT5 writer ----------
+
+def _color_dxt1(block):
+    """BC1 色塊:回傳 (c0, c1, idx_words)。與 DXT3 共用。"""
+    def to565(p):
+        return ((p[0] >> 3) << 11) | ((p[1] >> 3) << 5) | (p[2] >> 3)
+    def lum(p):
+        return p[0] * 299 + p[1] * 587 + p[2] * 114
+    colored = [b for b in block if b[3] > 128]
+    if not colored:
+        return 0, 0, 0
+    lo = min(colored, key=lum)
+    hi = max(colored, key=lum)
+    c0, c1 = to565(hi), to565(lo)
+    r0, g0, b0 = hi[0], hi[1], hi[2]
+    r1, g1, b1 = lo[0], lo[1], lo[2]
+    if c0 <= c1:
+        c0, c1 = c1, c0
+        r0, g0, b0, r1, g1, b1 = r1, g1, b1, r0, g0, b0
+        pal = [(r1, g1, b1), (r0, g0, b0),
+               ((2 * r0 + r1) // 3, (2 * g0 + g1) // 3, (2 * b0 + b1) // 3),
+               ((r0 + 2 * r1) // 3, (g0 + 2 * g1) // 3, (b0 + 2 * b1) // 3)]
+    else:
+        pal = [(r0, g0, b0), (r1, g1, b1),
+               ((2 * r0 + r1) // 3, (2 * g0 + g1) // 3, (2 * b0 + b1) // 3),
+               ((r0 + 2 * r1) // 3, (g0 + 2 * g1) // 3, (b0 + 2 * b1) // 3)]
+    words = 0
+    for i in range(16):
+        p = block[i]
+        if p[3] <= 128:
+            idx = 0
+        else:
+            best = min(range(4), key=lambda k: (p[0] - pal[k][0]) ** 2 + (p[1] - pal[k][1]) ** 2 + (p[2] - pal[k][2]) ** 2)
+            idx = best
+        words |= idx << (2 * i)
+    return c0, c1, words
+
 
 def rgba_to_dxt3(img: Image.Image) -> bytes:
-    """簡單 DXT3(BC2)編碼:色塊取 block 均值±擴張,alpha 為 4-bit 量化。"""
+    """DXT3(BC2):alpha 4-bit 量化 + BC1 色塊。"""
+    def encode(block):
+        abytes = bytearray(8)
+        for i in range(16):
+            abytes[i // 2] |= (round(block[i][3] / 255 * 15) & 0xF) << (4 * (i % 2))
+        c0, c1, words = _color_dxt1(block)
+        return bytes(abytes) + struct.pack("<HH", c0, c1) + struct.pack("<I", words)
+    return _encode_blocks(img, encode)
+
+
+def rgba_to_dxt5(img: Image.Image) -> bytes:
+    """DXT5(BC3):alpha 8-bit 兩端點 + 3-bit 逐步插值 + BC1 色塊(原廠 decorative/map 格式)。"""
+    def encode(block):
+        alphas = [b[3] for b in block]
+        a0 = max(alphas)
+        a1 = min(alphas)
+        if a0 > a1:
+            pal = [((7 - k) * a0 + k * a1) // 7 for k in range(8)]
+        else:
+            pal = [a0] + [((5 - k) * a0 + k * a1) // 5 for k in range(1, 6)] + [0, 255]
+        aindices = 0
+        for i in range(16):
+            best = min(range(8), key=lambda k: abs(alphas[i] - pal[k]))
+            aindices |= best << (3 * i)
+        c0, c1, words = _color_dxt1(block)
+        return bytes((a0, a1)) + aindices.to_bytes(6, "little") + struct.pack("<HH", c0, c1) + struct.pack("<I", words)
+    return _encode_blocks(img, encode)
+
+
+def _encode_blocks(img: Image.Image, blockfn):
+    """以 4x4 block 對整圖套用 blockfn(回傳 bytes),回傳壓縮資料。"""
     w, h = img.size
     pw, ph = math.ceil(w / 4) * 4, math.ceil(h / 4) * 4
     src = img.convert("RGBA")
@@ -102,57 +168,15 @@ def rgba_to_dxt3(img: Image.Image) -> bytes:
     for by in range(0, ph, 4):
         for bx in range(0, pw, 4):
             block = [px[bx + dx, by + dy] for dy in range(4) for dx in range(4)]
-            alphas = [b[3] for b in block]
-            # alpha 4-bit(row-major,LSB per pixel in byte)
-            abytes = bytearray(8)
-            for i in range(16):
-                abytes[i // 2] |= (round(alphas[i] / 255 * 15) & 0xF) << (4 * (i % 2))
-            # color: 565 端點 → 取亮度極值
-            def to565(p):
-                return ((p[0] >> 3) << 11) | ((p[1] >> 3) << 5) | (p[2] >> 3)
-            def lum(p):
-                return p[0] * 299 + p[1] * 587 + p[2] * 114
-            colored = [b for b in block if b[3] > 128]
-            if not colored:
-                c0 = c1 = 0
-                idx_words = 0
-            else:
-                lo = min(colored, key=lum)
-                hi = max(colored, key=lum)
-                c0, c1 = to565(hi), to565(lo)
-                # 端點插值
-                r0, g0, b0 = hi[0], hi[1], hi[2]
-                r1, g1, b1 = lo[0], lo[1], lo[2]
-                if c0 <= c1:
-                    c0, c1 = c1, c0
-                    r0, g0, b0, r1, g1, b1 = r1, g1, b1, r0, g0, b0
-                    pal = [(r1, g1, b1), (r0, g0, b0), ((2 * r0 + r1) // 3, (2 * g0 + g1) // 3, (2 * b0 + b1) // 3),
-                           ((r0 + 2 * r1) // 3, (g0 + 2 * g1) // 3, (b0 + 2 * b1) // 3)]
-                else:
-                    pal = [(r0, g0, b0), (r1, g1, b1), ((2 * r0 + r1) // 3, (2 * g0 + g1) // 3, (2 * b0 + b1) // 3),
-                           ((r0 + 2 * r1) // 3, (g0 + 2 * g1) // 3, (b0 + 2 * b1) // 3)]
-                idx_words = 0
-                for i, b in enumerate(colored + [None] * (16 - len(colored))):
-                    pass
-                words = 0
-                for i in range(16):
-                    p = block[i]
-                    if p[3] <= 128:
-                        idx = 0
-                    else:
-                        best = min(range(4), key=lambda k: (p[0] - pal[k][0]) ** 2 + (p[1] - pal[k][1]) ** 2 + (p[2] - pal[k][2]) ** 2)
-                        idx = best
-                    words |= idx << (2 * i)
-                idx_words = words
-            out += bytes(abytes)
-            out += struct.pack("<HH", c0, c1)
-            out += struct.pack("<I", idx_words)
+            out += blockfn(block)
     return bytes(out)
 
 
-def write_dds(path: Path, img: Image.Image):
+def write_dds(path: Path, img: Image.Image, fourcc: str = "DXT3"):
     w, h = img.size
-    data = rgba_to_dxt3(img)
+    # 原廠:decorative/map(DXT5)declared mipcount=1;文字(DXT3)mipcount=0
+    mips = 1 if fourcc == "DXT5" else 0
+    data = rgba_to_dxt5(img) if fourcc == "DXT5" else rgba_to_dxt3(img)
     header = struct.pack(
         "<4s7I11I2I4s5I5I",
         b"DDS ",                     # magic
@@ -160,10 +184,10 @@ def write_dds(path: Path, img: Image.Image):
         0x81007,                      # flags: CAPS|HEIGHT|WIDTH|PIXELFORMAT|LINEARSIZE
         h, w,                         # height, width
         (w * h) // 2,                 # linear size (8bpp DXT)
-        0, 0,                         # depth, mipcount
+        0, mips,                      # depth, mipmaps
         *([0] * 11),                  # reserved1
         32, 4,                        # pf size, pf flags (FOURCC)
-        b"DXT3",                      # fourcc
+        fourcc.encode("ascii"),       # fourcc
         0, 0, 0, 0, 0,                # rgba masks
         0x1000, 0, 0, 0, 0,           # caps: TEXTURE
     )
@@ -224,18 +248,49 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
         "zh-hans-16": [(1024, 2048), (2048, 2048), (2048, 4096)],
         "zh-hans-18": [(1024, 2048), (2048, 2048), (2048, 4096)],
         "zh-hans-24": [(1024, 2048), (2048, 2048), (2048, 4096), (4096, 4096)],
-        "zh-hans-decorative": [(4096, 7000), (4096, 8192), (8192, 8192)],
-        "zh-hans-map": [(4096, 8192), (8192, 8192)],
+        # 原廠規格:DXT5 + 4096 寬(遊戲 DX9 載入 8192² DXT3 會崩潰,勿放大)
+        "zh-hans-decorative": [(4096, 7000), (4096, 8192)],
+        "zh-hans-map": [(4096, 7000), (4096, 8192)],
     }
-    place = None
-    for scale_w, scale_h in cands[name]:
-        try:
-            place = skyline_pack(rects, scale_w, scale_h)
-            break
-        except RuntimeError:
+    fmt = "DXT5" if name in ("zh-hans-decorative", "zh-hans-map") else "DXT3"
+    # decorative/map 字集較原廠多 ~2700 字,畫布鎖原廠尺寸裝不下 → 自動降字體點數
+    size = int(info["size"])
+    orig_size = size
+    orig_lh, orig_base = lh, base
+    font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
+    while True:
+        metrics = {}
+        rects = []
+        for cid in ids:
+            ch = chr(cid)
+            try:
+                bbox = font_f.getbbox(ch)
+                adv = font_f.getlength(ch)
+            except Exception:
+                bbox = (0, 0, 0, 0)
+                adv = 0
+            w = max(1, bbox[2] - bbox[0] + 2)
+            h = max(1, bbox[3] - bbox[1] + 2)
+            metrics[cid] = (w, h, bbox, float(adv))
+            rects.append((w, h))
+        place = None
+        for scale_w, scale_h in cands[name]:
+            try:
+                place = skyline_pack(rects, scale_w, scale_h)
+                break
+            except RuntimeError:
+                continue
+        if place is None:
+            size -= 6
+            if size < 32:
+                raise RuntimeError(f"{name}: 畫布尺寸 + 字體點數都不夠 ({orig_size}->{size})")
+            scale_lh = size / orig_size
+            lh = max(8, round(orig_lh * scale_lh))
+            base = max(6, round(orig_base * scale_lh))
+            font_f = ImageFont.truetype(str(WIN_FONT_DIR / face), size)
+            print(f"  [{name}] 塞不下,降字體 {orig_size}->{size}px (lineHeight {orig_lh}->{lh}, base {orig_base}->{base})")
             continue
-    if place is None:
-        raise RuntimeError(f"{name}: 所有畫布尺寸都不夠")
+        break
 
     canvas = Image.new("RGBA", (scale_w, scale_h), (0, 0, 0, 0))
     draw = ImageDraw.Draw(canvas)
@@ -262,7 +317,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
     if dry:
         print(f"[dry] {name}: {len(ids)} glyphs, atlas {scale_w}x{scale_h}, DDS ~{round((scale_w*scale_h)//2/1e6,1)}MB")
         return
-    write_dds(FONTS_DIR / f"{name}.dds", canvas)
+    write_dds(FONTS_DIR / f"{name}.dds", canvas, fmt)
     (FONTS_DIR / f"{name}.fnt").write_text(fnt_text, encoding="utf-8")
     print(f"[ok] {name}: {len(ids)} glyphs -> {name}.dds/.fnt")
 
