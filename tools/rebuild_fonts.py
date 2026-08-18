@@ -27,10 +27,10 @@ ROOT = Path(__file__).resolve().parents[1]
 FONTS_DIR = ROOT / "ck2_chinese" / "gfx" / "fonts"
 
 FACES = {
-    "zh-hans-14": "SourceHanSerifTC-Medium.otf",
-    "zh-hans-16": "SourceHanSerifTC-Medium.otf",
-    "zh-hans-18": "SourceHanSerifTC-Medium.otf",
-    "zh-hans-24": "SourceHanSerifTC-Medium.otf",
+    "zh-hans-14": "SourceHanSerifTC-Bold.otf",
+    "zh-hans-16": "SourceHanSerifTC-Bold.otf",
+    "zh-hans-18": "SourceHanSerifTC-Bold.otf",
+    "zh-hans-24": "SourceHanSerifTC-Bold.otf",
     "zh-hans-decorative": "SourceHanSerifTC-Bold.otf",
     "zh-hans-map": "SourceHanSerifTC-Bold.otf",
 }
