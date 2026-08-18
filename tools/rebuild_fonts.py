@@ -298,6 +298,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
     import statistics as _st
     ycomp = 0
     xcomp = 0
+    advcomp = 0
     try:
         rawh = _sp.run(["git", "-C", str(ROOT), "show",
                         f"simplified-src:ck2_chinese/gfx/fonts/{name}.fnt"],
@@ -318,7 +319,8 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
             for cid in ids:
                 if cid in need:
                     b = fhf0.getbbox(chr(cid))
-                    dy.append(need[cid][0] - (b[1] - 1 - 3))
+                    glyph_h = max(1, b[3] - b[1] + 3)
+                    dy.append(need[cid][0] - (((lh - glyph_h) // 2) + 1 - b[1] - 3))
                     dx.append(need[cid][1] - (b[0] - 1))
                     try:
                         adv = fhf0.getlength(chr(cid))
@@ -329,7 +331,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
             xcomp = round(_st.median(dx))
             advcomp = round(_st.median(dadv))
             print(f"  [{name}] 度量補償 y{ycomp:+d} x{xcomp:+d} xadv{advcomp:+d} (對 52 原廠)")
-    except Exception:
+    except Exception as _e:
         pass
     size = int(info["size"])
     orig_size = size
