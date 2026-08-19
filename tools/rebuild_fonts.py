@@ -27,18 +27,18 @@ ROOT = Path(__file__).resolve().parents[1]
 FONTS_DIR = ROOT / "ck2_chinese" / "gfx" / "fonts"
 
 FACES = {
-    "zh-hans-14": "ChironSungHK-B.otf",
-    "zh-hans-16": "ChironSungHK-B.otf",
-    "zh-hans-18": "ChironSungHK-B.otf",
-    "zh-hans-24": "ChironSungHK-B.otf",
-    "zh-hans-decorative": "ChironSungHK-B.otf",
-    "zh-hans-map": "ChironSungHK-B.otf",
+    "zh-hans-14": "SourceHanSerifTC-Heavy.otf",
+    "zh-hans-16": "SourceHanSerifTC-Heavy.otf",
+    "zh-hans-18": "SourceHanSerifTC-Heavy.otf",
+    "zh-hans-24": "SourceHanSerifTC-Heavy.otf",
+    "zh-hans-decorative": "SourceHanSerifTC-Bold.otf",
+    "zh-hans-map": "SourceHanSerifTC-Bold.otf",
 }
-WIN_FONT_DIR = Path(r"/mnt/e/Projects/_GameTranslate/Fonts/chiron-sung-hk-1.024/STATIC_OTF")
+WIN_FONT_DIR = Path(r"/mnt/e/Projects/_GameTranslate/Fonts/OTF/TraditionalChinese")
 
 # 思源宋字面率(滿格)比方正高 ~15%:光柵字號 ×0.90 讓墨跡大小回到原廠視覺
 RASTER_SCALE = {"zh-hans-14": 0.95, "zh-hans-16": 0.90, "zh-hans-18": 0.90, "zh-hans-24": 0.90,
-                "zh-hans-decorative": 0.90, "zh-hans-map": 0.90}
+                "zh-hans-decorative": 0.90, "zh-hans-map": 0.90}  # 穩態
 # 下伸 1px(PIL bbox 與 FreeType 實繪差異,約 79% 字受惠)由「盒底 pad 2」涵蓋
 
 # CK2 文字解析器對單一 fnt 的字形數有 ~8192 緩衝上限(實錘:52 原廠六檔全部 ≤7461,
@@ -210,7 +210,7 @@ def write_dds(path: Path, img: Image.Image, fourcc: str = "DXT3"):
 # alpha floor:關閉(會吃掉反鋸齒灰階 → 細畫發黑)
 ALPHA_FLOOR = False
 # 垂直 embolden(半影):宋體橫細豎粗 → 橫畫上下各加半影(幾何變厚、保留 AA 柔邊)
-EMBOLDEN_V = 1                 # 文字檔專用(decor/map 不處理)
+EMBOLDEN_V = 0                 # 關閉(轉折處疊影發黑)
 EMBOLDEN_STRENGTH = 0.35
 
 def vert_embolden(img):
@@ -233,13 +233,14 @@ def vert_embolden(img):
     return out
 
 def alpha_boost(img):
+    # 溫和:只把「極淡」α1-4 提升到 6(可見);α5+ 灰階保留(轉折不疊黑)
     px = img.load()
     w, h = img.size
     for y in range(h):
         for x in range(w):
             a = px[x, y][3]
-            if 2 <= a <= 7:
-                px[x, y] = (255, 255, 255, min(15, max(8, int(a * 1.8))))
+            if 1 <= a <= 4:
+                px[x, y] = (255, 255, 255, 6)
     return img
 
 
