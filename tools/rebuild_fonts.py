@@ -208,7 +208,7 @@ def write_dds(path: Path, img: Image.Image, fourcc: str = "DXT3"):
 
 # ── 字體加工 ──
 # alpha floor:關閉(會吃掉反鋸齒灰階 → 細畫發黑)
-ALPHA_FLOOR = False
+ALPHA_FLOOR = True
 # 垂直 embolden(半影):宋體橫細豎粗 → 橫畫上下各加半影(幾何變厚、保留 AA 柔邊)
 EMBOLDEN_V = 0                 # 關閉(轉折處疊影發黑)
 EMBOLDEN_STRENGTH = 0.35
@@ -233,14 +233,15 @@ def vert_embolden(img):
     return out
 
 def alpha_boost(img):
-    # 方案C:α∈[1,7](薄處/半影)→ max(9, α×1.5)實白化;α≥8 完全不動(轉折不疊黑)
+    # 方案C(255 空間):薄處/半影 α∈[15,120](≈4-bit 1-7)→ ≥144(≈4-bit 9);
+    # α≥136(4-bit 8+,轉折/實心)完全不動 → 薄處實白、轉折不疊黑
     px = img.load()
     w, h = img.size
     for y in range(h):
         for x in range(w):
             a = px[x, y][3]
-            if 1 <= a <= 7:
-                px[x, y] = (255, 255, 255, min(15, max(9, int(a * 1.5))))
+            if 15 <= a <= 120:
+                px[x, y] = (255, 255, 255, min(255, max(144, int(a * 1.5))))
     return img
 
 
