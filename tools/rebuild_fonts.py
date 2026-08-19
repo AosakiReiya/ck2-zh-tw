@@ -233,14 +233,14 @@ def vert_embolden(img):
     return out
 
 def alpha_boost(img):
-    # 溫和:只把「極淡」α1-4 提升到 6(可見);α5+ 灰階保留(轉折不疊黑)
+    # 方案C:α∈[1,7](薄處/半影)→ max(9, α×1.5)實白化;α≥8 完全不動(轉折不疊黑)
     px = img.load()
     w, h = img.size
     for y in range(h):
         for x in range(w):
             a = px[x, y][3]
-            if 1 <= a <= 4:
-                px[x, y] = (255, 255, 255, 6)
+            if 1 <= a <= 7:
+                px[x, y] = (255, 255, 255, min(15, max(9, int(a * 1.5))))
     return img
 
 
