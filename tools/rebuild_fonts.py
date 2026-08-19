@@ -233,15 +233,15 @@ def vert_embolden(img):
     return out
 
 def alpha_boost(img):
-    # 方案C(255 空間):薄處/半影 α∈[15,120](≈4-bit 1-7)→ ≥144(≈4-bit 9);
-    # α≥136(4-bit 8+,轉折/實心)完全不動 → 薄處實白、轉折不疊黑
+    # 平滑化(非硬門檻):α∈[8,135](含微小縫隙)→ 連續斜坡 135→255;
+    # α≥136(實心/轉折)與 α<8(純背景)不動 → 無階梯/疊影,微縫被填
     px = img.load()
     w, h = img.size
     for y in range(h):
         for x in range(w):
             a = px[x, y][3]
-            if 15 <= a <= 120:
-                px[x, y] = (255, 255, 255, min(255, max(144, int(a * 1.5))))
+            if 8 <= a <= 135:
+                px[x, y] = (255, 255, 255, 135 + int((a - 8) * (255 - 135) / 127))
     return img
 
 
