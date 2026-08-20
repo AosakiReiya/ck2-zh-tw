@@ -337,7 +337,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
         "zh-hans-decorative": [(4096, 7000), (4096, 8192)],
         "zh-hans-map": [(4096, 7000), (4096, 8192)],
     }
-    fmt = "RGBA8" if name == "zh-hans-map" else ("DXT5" if name == "zh-hans-decorative" else "DXT3")
+    fmt = "DXT5" if name in ("zh-hans-decorative", "zh-hans-map") else "DXT3"  # 地圖改回 DXT5(遊戲不支援無壓縮 RGBA8,黑格)
     # ── 每檔 yoffset 自適應校正:與 52 原廠共同字形的 yoffset 中位差補償 ──
     import subprocess as _sp
     import statistics as _st

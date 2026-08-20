@@ -440,7 +440,7 @@ def check_fonts():
         "zh-hans-18.fnt": ("DXT3", 1024, 2048, 2048, 4096),
         "zh-hans-24.fnt": ("DXT3", 1024, 2048, 2048, 4096),
         "zh-hans-decorative.fnt": ("DXT5", 4096, 7000, 4096, 8192),
-        "zh-hans-map.fnt": ("RGBA8", 4096, 7000, 4096, 8192),
+        "zh-hans-map.fnt": ("DXT5", 4096, 7000, 4096, 8192),
     }
     log("== F. 字型檔自檢 ==")
     for f in sorted((ROOT / "ck2_chinese/gfx/fonts").glob("*.fnt")):
