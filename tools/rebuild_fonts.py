@@ -233,15 +233,24 @@ def vert_embolden(img):
     return out
 
 def alpha_boost(img):
-    # 平滑化(非硬門檻):α∈[8,135](含微小縫隙)→ 連續斜坡 135→255;
-    # α≥136(實心/轉折)與 α<8(純背景)不動 → 無階梯/疊影,微縫被填
-    px = img.load()
+    # Unsharp(反銳化遮罩,alpha 通道):a' = a + k·(a − blur3)
+    # 薄畫對比↑(60→90+),實畫不變,灰階連續(無階梯/無抹平/無像素感)
+    src = img.getchannel("A")
+    sp = src.load()
     w, h = img.size
+    out = src.copy()
+    op = out.load()
+    k = 0.6
     for y in range(h):
         for x in range(w):
-            a = px[x, y][3]
-            if 8 <= a <= 135:
-                px[x, y] = (255, 255, 255, 135 + int((a - 8) * (255 - 135) / 127))
+            v = sp[x, y]
+            s = 0
+            for dy in (-1, 0, 1):
+                for dx in (-1, 0, 1):
+                    s += sp[min(w - 1, max(0, x + dx)), min(h - 1, max(0, y + dy))]
+            nv = v + int(k * (v - s // 9))
+            op[x, y] = 0 if nv < 0 else (255 if nv > 255 else nv)
+    img.putalpha(out)
     return img
 
 
