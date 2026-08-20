@@ -23,10 +23,10 @@ import os
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 TOOLS = ROOT / "tools"
 
-MODS = [  # (repo 目錄, mod 名)
-    ("ck2_chinese", "ck2_chinese_tw"),
-    ("ck2_chinese_sup", "ck2_chinese_sup"),
-    ("chinese_gui_fix_3", "chinese_gui_fix_3"),
+MODS = [  # (repo 目錄, mod 名, 顯示名, tags)
+    ("ck2_chinese", "ck2_chinese_tw", "CK2 Traditional Chinese Localization 3.x (zh-TW)", "Language Localisation"),
+    ("ck2_chinese_sup", "ck2_chinese_sup", "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW)", "Translation"),
+    ("chinese_gui_fix_3", "chinese_gui_fix_3", "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW)", "Translation"),
 ]
 DEPLOY_DIRS = [
     pathlib.Path(r"/mnt/c/Users/samso/Documents/Paradox Interactive/Crusader Kings II/mod"),
@@ -42,38 +42,45 @@ def run(cmd, cwd=ROOT):
         sys.exit(r.returncode)
 
 
-def zipdir(src: pathlib.Path, dst: pathlib.Path):
-    """打包 mod 資料夾為 zip(排斥 .mod 描述檔與任何暫存/備份件)。"""
+def zipdir(src: pathlib.Path, dst: pathlib.Path, mod_name: str):
+    """打包 mod 內容為「官方 archive 格式」zip:
+    zip 根 = 內容(localisation/ gfx/ interface/ ...) + descriptor.mod(archive 自指)。
+    排斥 .mod 描述檔與任何暫存/備份件。"""
     skip_any = (".fonts_bak", "__pycache__", ".bak", "descriptor.mod")
     with zipfile.ZipFile(dst, "w", zipfile.ZIP_DEFLATED) as zf:
         for root, dirs, files in os.walk(src):
             dirs[:] = [d for d in dirs if d not in skip_any]
             for fn in files:
-                if fn in skip_any or any(s in fn for s in (".bak",)):
+                if fn in skip_any or fn.endswith(".mod") or any(s in fn for s in (".bak",)):
                     continue
                 p = os.path.join(root, fn)
                 info = zipfile.ZipInfo(os.path.relpath(p, src).replace(os.sep, "/"),
                                        (2024, 1, 1, 0, 0, 0))
                 info.compress_type = zipfile.ZIP_DEFLATED
                 zf.writestr(info, open(p, "rb").read())
+        names = {m[1]: m[2] for m in MODS}  # mod_name -> display name
+        tags = {m[1]: m[3] for m in MODS}
+        zf.writestr("descriptor.mod",
+                    f'name="{names[mod_name]}"\narchive="mod/{mod_name}.zip"\n'
+                    f'tags={{\n\t{tags[mod_name]}\n}}\npicture="thumb.jpg"\n')
 
 
 def deploy():
-    for base in DEPLOY_DIRS:
-        base.mkdir(parents=True, exist_ok=True)
-        for src_name, mod_name in MODS:
-            fdir = base / mod_name
-            if fdir.exists():
-                shutil.rmtree(fdir)
-            shutil.copytree(ROOT / src_name, fdir)
-            for junk in ("__pycache__",):
-                p = fdir / junk
-                if p.exists():
-                    shutil.rmtree(p)
-            # 對應 zip
-            out = ROOT / f"{mod_name}.zip"
-            zipdir(ROOT / src_name, out)
+    """產出 archive 格式 zip + .mod(archive=)並複製到兩 mod 目錄。"""
+    names = {m[1]: m[2] for m in MODS}
+    tags = {m[1]: m[3] for m in MODS}
+    for src_name, mod_name, _name, _tags in MODS:
+        out = ROOT / f"{mod_name}.zip"
+        zipdir(ROOT / src_name, out, mod_name)
+        desc = (f'name="{names[mod_name]}"\narchive="mod/{mod_name}.zip"\n'
+                f'tags={{\n\t{tags[mod_name]}\n}}\npicture="thumb.jpg"\n')
+        (ROOT / f"{mod_name}.mod").write_text(desc, encoding="utf-8")
+        for base in DEPLOY_DIRS:
+            base.mkdir(parents=True, exist_ok=True)
             shutil.copy(out, base / out.name)
+            shutil.copy(ROOT / f"{mod_name}.mod", base / f"{mod_name}.mod")
+        print(f"產包 {mod_name}.zip(archive)+.mod")
+    for base in DEPLOY_DIRS:
         print("已部署:", base)
 
 

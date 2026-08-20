@@ -1,46 +1,55 @@
-# CK2 繁體中文漢化 (ck2-zh-tw)
+# CK2 繁體中文漢化 (zh-TW)
 
-Crusader Kings II 3.3.x 繁體中文漢化(臺灣常用語調)。
-基於 52 漢化組的簡體版本以 OpenCC s2twp 轉換,保留遊戲 escape 格式。
+基於 52 漢化簡體的繁體中文化 — 台灣繁體、思源宋體、11 項自動檢查閘門防護。
 
-## 內容
-- `ck2_chinese/` 主體漢化(含顯示用字型 `.fnt/.dds`)
-- `ck2_chinese_sup/` 補充(文化/事件/人物/歷史)
-- `chinese_gui_fix_3/` UI 介面修正
-- `tools/` 轉換腳本、字型重建工具與術語表
+## 安裝
 
-## 分支
-- `main`: 最新遊戲版本(目前 3.3.x)
-- `simplified-src`: 原始簡體源
-- 舊遊戲版本會以 `archive/<版本>` 分支保留
+1. 下載三包(`ck2_chinese_tw.zip` / `ck2_chinese_sup.zip` / `chinese_gui_fix_3.zip`)與同名 `.mod`
+2. 放入 `Documents\Paradox Interactive\Crusader Kings II\mod\`
+   (本專案也內建部署工具,見下)
+3. 啟動遊戲前確認:
+   - 主模組 `ck2_chinese_tw` 必須啟用
+   - `ck2_chinese_sup`(補充文本)、`chinese_gui_fix_3`(界面修復)建議全開
+4. 進入設置畫面勾選三 mod → 啟動
 
-## 安裝(手動,Documents mod 目錄)
-```
-C:\Users\<你>\Documents\Paradox Interactive\Crusader Kings II\mod\
-├── ck2_chinese_tw.mod       ← descriptor(資料夾內同名檔,ASCII 無 BOM)
-├── ck2_chinese_tw\          ← 解壓內容(localisation、gfx/fonts…)
-├── ck2_chinese_sup.mod / ck2_chinese_sup\
-└── chinese_gui_fix_3.mod / chinese_gui_fix_3\
-```
-啟動器內啟用三個 mod 即可。GitHub Actions 的 zip 內含同名資料夾,解壓即用。
-
-## 注意事項
-- 語法檔(`.txt`)以位元組級等長替換轉換,escape 結構與簡體源完全一致
-- localisation(`.csv`)以 OpenCC 片語級轉換(克羅地亞→克羅埃西亞 等臺灣慣用音譯)
-- 字型以微軟正黑體重建,補上簡體字形集缺少的繁體字形
-
-## 重新轉換
-```bash
-pip install opencc-python-reimplemented
-git checkout simplified-src -- ck2_chinese ck2_chinese_sup chinese_gui_fix_3
-python3 tools/convert_tw.py          # 產出繁體(放在 main)
-python3 tools/convert_tw.py --dry-run  # 預覽統計
-```
+> 若使用 zip 形式安裝,`.mod` 檔內為 `archive="mod/xxx.zip"`(官方格式);
+> 不要改成 `path=`(會讀不到資源變成全英文)。
 
 ## 一鍵建置與自動檢測
+
 ```bash
 python3 tools/make_release.py
-# 1. 轉換 2. 重建字型 3. 自動驗證(6 大檢查) 4. 打包三 zip + 部署兩 mod 目錄
+# 1. convert_tw.py   簡體→繁體 byte 級 1:1
+# 2. rebuild_fonts.py 六字型重建(思源宋 TC;map 檔 DXT5)
+# 3. verify_report.py 11 項自動檢查(任一 FAIL 不產包)
+# 4. 打包 archive zip + .mod → 部署兩 mod 目錄
 ```
-- 任一檢查 FAIL → 不產包(tools/report.txt 看明細)
-- 檢查:字形覆蓋 100% / 結構等價 / prefix 語意守恆 / 簡體殘留 / KEY 完整 / 字型自檢
+
+### 檢查清單(verify_report.py)
+| # | 檢查 | 作用 |
+|---|---|---|
+| A | 字形覆蓋 100%(六字型)+ 字形數 <8192 | 防缺字 / 防解析器緩衝崩潰 |
+| B | 結構與簡體源逐位元組等價(換詞行除外) | 防結構破壞 |
+| C | prefix 語意守恆(0x10↔0x11、0x12↔0x13) | 防渲染語意錯亂 |
+| D | 簡體專用字殘留 | 防漏譯/殘留 |
+| E | KEY 完整性 | 防少 key |
+| F | 字型檔規格(header/尺寸/格式/mip) | 防遊戲載入崩潰 |
+| G | 字形白度(白字 RGB) | 防紫字/G 通道 bug |
+| H | 度量校準(中心 ±1px) | 防文字偏移/裁切 |
+| I | UI 標題 0x80xx 字元 | 防 chrome 渲染「ó」 |
+| J | 結構字符串骨架與簡體源一致 | 防 §/$/[]/數字 被誤改 |
+| K | CRITICAL payload(0x00/0A/0D 低字節) | 防換行/分隔字元破壞 |
+
+### 台灣本土化工具
+```bash
+python3 tools/taiwanize.py --dry-run     # 詞表替換預覽(等長 1:1)
+python3 tools/taiwanize.py               # 套用詞表(網路→網路、信息→訊息…)
+python3 tools/taiwanize_sent.py          # LLM 句級語感校訂(gemma-4-26b-a4b-it,
+                                         #  斷點續跑;僅接受等長變更)
+```
+
+## 目錄
+- `tools/` 全部建置/驗證/台灣化工具
+- `docs/HANDBOOK.md` 技術調查紀錄(崩潰根因、0x80xx ó 機制、交付規範)
+- `ck2_chinese/` 主模組(文本 + 字型);`ck2_chinese_sup/`、`chinese_gui_fix_3/` 擴充
+- `simplified-src` 分支 = 52 漢化簡體原版(比對金標準)

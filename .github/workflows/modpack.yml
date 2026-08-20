@@ -15,46 +15,32 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Zip three mods (folder-inside structure for manual install)
+      - name: Zip three mods (official archive format: content at zip root + descriptor.mod with archive=)
         shell: bash
         run: |
           set -e
-          for pair in "ck2_chinese ck2_chinese_tw" "ck2_chinese_sup ck2_chinese_sup" "chinese_gui_fix_3 chinese_gui_fix_3"; do
-            set -- $pair
-            src=$1; out=$2
-            mkdir -p "$out"
-            cp -r "$src/." "$out/"
-            zip -r "${out}.zip" "$out"
+          declare -A NAME=(
+            [ck2_chinese_tw]="CK2 Traditional Chinese Localization 3.x (zh-TW)"
+            [ck2_chinese_sup]="CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW)"
+            [chinese_gui_fix_3]="CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW)"
+          )
+          declare -A TAGS=(
+            [ck2_chinese_tw]="Language Localisation"
+            [ck2_chinese_sup]="Translation"
+            [chinese_gui_fix_3]="Translation"
+          )
+          for src in ck2_chinese ck2_chinese_sup chinese_gui_fix_3; do
+            out="${src}"; [ "$src" = "ck2_chinese" ] && out="ck2_chinese_tw"
+            (
+              cd "$src"
+              find . -path ./.git -prune -o -type f \
+                ! -name '*.mod' ! -name 'descriptor.mod' ! -name '*.bak' -print0 \
+                | while IFS= read -r -d '' f; do echo "$f"; done \
+                | zip -@ "../${out}.zip"
+              printf 'name="%s"\narchive="mod/%s.zip"\ntags={\n\t%s\n}\npicture="thumb.jpg"\n' \
+                "${NAME[$out]}" "$out" "${TAGS[$out]}" > descriptor.mod
+              zip -g "../${out}.zip" descriptor.mod
+              rm descriptor.mod
+            )
           done
           ls -la *.zip
-
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: mods
-          path: |
-            ck2_chinese_tw.zip
-            ck2_chinese_sup.zip
-            chinese_gui_fix_3.zip
-          if-no-files-found: error
-
-      - name: Publish release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: mods-${{ github.run_number }}
-          name: CK2 繁體漢化包 - build ${{ github.run_number }}
-          body: |
-            - ck2_chinese_tw.zip   主體漢化(含顯示用字型)
-            - ck2_chinese_sup.zip  補充漢化(文化/事件/人物)
-            - chinese_gui_fix_3.zip UI 修正
-
-            手動安裝(Documents mod 目錄):
-            1. 解壓,把 `ck2_chinese_tw/` 資料夾放進
-               `Documents\Paradox Interactive\Crusader Kings II\mod\`
-            2. 同時把資料夾內的 `descriptor.mod` 改名為 `ck2_chinese_tw.mod` 放同層
-            3. 啟動器啟用
-          files: |
-            ck2_chinese_tw.zip
-            ck2_chinese_sup.zip
-            chinese_gui_fix_3.zip
-          fail_on_unmatched_files: true
