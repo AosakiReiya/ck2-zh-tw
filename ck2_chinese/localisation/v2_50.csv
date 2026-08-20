@@ -160,7 +160,7 @@ EVTOPTA_ZE_9110;ïUÿw“‹b>eÃV0;;;;;;;;;;;;x
 EVTOPTB_ZE_9110;[From.GetSheHeCap](WªŠ‹ÿ;;;;;;;;;;;;x
 EVTDESC_ZE_9111;[Root.GetTitledFirstName]ÿ\n`O>fP[GetFromRootInsult]ŒTšPRÿbJT4Š`ObPKN“•„vTSp‹SNQuHeÿ»ŒûNN(Wb¹eÿNRı>f`OxYPŠ„vLˆÉpObSô„v0\n\n^g`OÊNŒ_uJm(Wæ‚ã–KN-Nÿ\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_ZE_9111;²P[GetRootFromInsult]ÿ;;;;;;;;;;;;x
-EVTDESC_ZE_9120;[Root.GetTitledFirstName]ÿ\n\nbÅV˜hˆfbNœŠT`ONNSáO„vªŠÕl0`O>fNc»ŒvQÖNºN†OámSêñT’lıw­tc˜0W‰RhQ„v/“³Š0êSg“‹`Oww†OÏPNP[GetFromRootInsult]0\n\nb^g`Oéeåe_OP÷W-N’‘Ÿ`ÿ\n[From.GetTitledName];;;;;;;;;;;;x
+EVTDESC_ZE_9120;[Root.GetTitledFirstName]ÿ\n\nbÅV˜hˆfbNœŠT`ONNSáO„vªŠÕl0`O>fNc»ŒvQÖNºN†OámSêñT’lıw­tc˜0W‰RhQ„v/“³Š0êSg“‹`Oww†OÏPNP[GetFromRootInsult]0\n\nb^g`Oéeåe_OP÷W-N’‘Ÿ`ÿ\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_ZE_9120;æT&&bÉarŠfŠf„îO¸_bPôv¥c„vÜ•û|&&;;;;;;;;;;;;x
 EVTOPTB_ZE_9120;P[GetRootFromInsult](W±–Ï…f„ÀN¼ÿ;;;;;;;;;;;;x
 ze_9120_soothing;‰Rpa'`„vŞV¸_0;;;;;;;;;;;;x
@@ -187,13 +187,13 @@ ASSIGN_VOTER_TITLE_INTERACTION_0;xÇdNP®iŒ‹-˜œ’ˆcˆNft§Y[Recipient.G
 ASSIGN_VOTER_TITLE_INTERACTION_1;Šb§Y[ThirdPartyTitle.GetFullName]§!„v-˜œ’ˆcˆN§Y[Recipient.GetTitledFirstName]§!0;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_2;gX R[Recipient.GetPossPronoun]S`O„v $OPINION|+$ ŞŒYa0;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_DESC;(uNP®iŒ‹-˜œ’†OûNŒTNPÒ‰r‚2eQgQ²•0;;;;;;;;;;;;x
-ASSIGN_VOTER_TITLE_INTERACTION_LONG_DESC;`OïSåNN|v>eNP®iŒ‹-˜œ’ŒTgQ²•-^MO†O‰R«d`O„vSã&NN“‹ÖNPNg ReQÍSS`O„v>mû|0;;;;;;;;;;;;x
+ASSIGN_VOTER_TITLE_INTERACTION_LONG_DESC;`OïSåNN|v>eNP®iŒ‹-˜œ’ŒTgQ²•-^MO†O‰R«d`O„vSã&NN“‹ÖNPNg ReQÍSS`O„v>mû|0;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_LETTER;\n\nb^gûNŒT`O2eQb„vgQ²•ÿàVwĞc›Oft`O§Y[ThirdPartyTitle.GetFullName]§!„v-˜œ’0;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_ACCEPT_SETUP;òTûNŒTgQ²•báT;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!Šb§Y[Recipient.GetBestName]§!ûNŒTÉp[ThirdPartyTitle.GetFullName];;;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_TITLE;šŒd–gQ²•báT;;;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_DESC;ŠbNPÒ‰r‚_`O„vgQ²•-NšŒd–;;;;;;;;;;;;x
-REVOKE_VOTER_TITLE_INTERACTION_LONG_DESC;`OïSåNNûyd–NPÒ‰r‚„vgQ²•-˜œ’†OŠbÖNP_gQ²•-NšŒúQ0;;;;;;;;;;;;x
+REVOKE_VOTER_TITLE_INTERACTION_LONG_DESC;`OïSåNNûyd–NPÒ‰r‚„vgQ²•-˜œ’†OŠbÖNP_gQ²•-NšŒúQ0;;;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_0;xÇd6eŞV§Y[Recipient.GetTitledFirstName]§!„vNP-˜œ’0;;;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_1;6eŞV§Y[Recipient.GetTitledFirstName]§!„v§Y[ThirdPartyTitle.GetFullName]§!-˜œ’0;;;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_2;gO[Recipient.GetPossPronoun]S`O„vŒYa9eŠ‹ §R$OPINION|+$§!0;;;;;;;;;;;;x
@@ -219,7 +219,7 @@ EVTTOOLTIP_ZE_2022;xRÒšŒËY0;;;;;;;;;;;;x
 EVTOPTB_ZE_2022;‚YœgÖNPNgªŠ[Root.Culture.GetName]Šÿ²¼ÖNP1S!qÜ•Êt‰0;;;;;;;;;;;;x
 EVTDESC_ZE_2024;àVÉpION[language_teacher.GetTitledFirstName]„v>ecÿ`O„vxRÒúW,gN’lÀN¼2US0`OŠ|va0RPèT'Yc0bSgÓX®W`O0;;;;;;;;;;;;x
 EVTOPTA_ZE_2024;óSbªR›R†N0;;;;;;;;;;;;x
-EVTDESC_ZE_2025;`O„vxÇdŒTªR›R	g†NŞV1X0NT[language_teacher.GetTitledFirstName]xRÒÿ`OïSåNAm)R0WªŠ^.z°e„vŠŠ0gX R`O(WYW®R÷^„vZgÿ;;;;;;;;;;;;x
+EVTDESC_ZE_2025;`O„vxÇdŒTªR›R	g†NŞV1X0NT[language_teacher.GetTitledFirstName]xRÒÿ`OïSåNAm)R0WªŠ^.z°e„vŠŠ0gX R`O(WYW®R÷^„vZgÿ;;;;;;;;;;;;x
 EVTOPTA_ZE_2025;b1SåwSbıwZP0Rÿ;;;;;;;;;;;;x
 EVTDESC_ZE_2026;`O(WxRÒNz-N<ONNN/YÆ–-N0g0s®U„vëVj<ONN>f±‚»ŒBf“•(Wct‹NNwN>fteY‹øf0vlhTWOb	g‹Nirı‚Ydk	g8TV›RBfÿ’l	gºNïSåNÆ–-N¾|^y0;;;;;;;;;;;;x
 EVTOPTA_ZE_2026;bêS‰xR0R^P^ŠDtNR1S>f<P—V„vÿ;;;;;;;;;;;;x
@@ -569,7 +569,7 @@ UNIT_NOT_REINFORCE;‚Yœg(WËSŒY˜WKNgQÿ>ex–ÍSrs—VÏkg $RE
 MODIFIER_DEFENSIVE_PLOT_POWER;p–‹›RÏ‘2–¡V;;;;;;;;;;;;x
 FORM_ALLIANCE_INTERACTION_TITLE;ú^ËzTßv;;;;;;;;;;;;x
 FORM_ALLIANCE_INTERACTION_DESC;ú^ËzNPTßv;;;;;;;;;;;;x
-FORM_ALLIANCE_INTERACTION_LONG_DESC;Nú^ËzNPTi„vTßvO—V`OP„vÜ•û|ôf RbrúV0;;;;;;;;;;;;x
+FORM_ALLIANCE_INTERACTION_LONG_DESC;Nú^ËzNPTi„vTßvO—V`OP„vÜ•û|ôf RbrúV0;;;;;;;;;;;;x
 FORM_ALLIANCE_INTERACTION_ACCEPT_SETUP;Tßvú^Ëz;;;;;;;;;;;;x
 FORM_ALLIANCE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§W‚§Y[Recipient.GetBestName]§WòT“tú^Ëz†NNPTßv0;;;;;;;;;;;;x
 FORM_ALLIANCE_INTERACTION_DECLINE_SETUP;ÒbUtTßvĞcp‹;;;;;;;;;;;;x
@@ -585,8 +585,8 @@ COUNCIL_VOTER_TITLE;$TITLE|Y$;;;;;;;;;;;;x
 COUNCIL_EMPTY_VOTER_TITLE;zz•bhyw-˜œ’;;;;;;;;;;;;x
 COUNCIL_POSITION_NUM_VOTERS;•bhywºNxeÿ$NUM|Y$;;;;;;;;;;;;x
 COUNCIL_CHANGE_POSITION_COOLDOWN;`OSıw(W $NUM|Y$ gŒ_Q!k9eŠ‹ËzCX0;;;;;;;;;;;;x
-COUNCIL_CHANGE_POSITION;NŞÊdLub—˜è„vËzCXïSåN9eŠ‹gQ²•ËzCX0;;;;;;;;;;;;x
-COUNCIL_CHANGE_POSITION_CLICK;§GNŞÊd†O9eŠ‹`O„vgQ²•ËzCXÉp$POSITION|Y$§!;;;;;;;;;;;;x
+COUNCIL_CHANGE_POSITION;NŞÊdLub—˜è„vËzCXïSåN9eŠ‹gQ²•ËzCX0;;;;;;;;;;;;x
+COUNCIL_CHANGE_POSITION_CLICK;§GNŞÊd†O9eŠ‹`O„vgQ²•ËzCXÉp$POSITION|Y$§!;;;;;;;;;;;;x
 COUNCIL_CHANGE_POSITION_TITLE;>f&T9eŠ‹gQ²•ËzCXÿ;;;;;;;;;;;;x
 COUNCIL_CHANGE_POSITION_CONFIRM;(W`O9eŠ‹ËzCXŒ_ÿ`OS(W $NUM|Y$ PggQ!qÕlQ!k9eŠ‹0\n`OºxšR9eŠ‹gQ²•ËzCXÉp$POSITION|Y$ÿ;;;;;;;;;;;;x
 ALL_DE_JURE_LIEGES_TITLES;Ob	gÕlt˜JN-˜œ’;;;;;;;;;;;;x
@@ -598,13 +598,13 @@ BUY_FAVOR_INTERACTION_DESC;>eØN§Y[Recipient.GetBestName]§! $GOLD|0Y$¤ åN$EFFE
 BUY_FAVOR_INTERACTION_LONG_DESC;ÃÑ‘(u†O„ºNÅ`bwrs—V*g†O„vºNÅ`0;;;;;;;;;;;;x
 CALL_IN_FAVOR_INTERACTION_DESC;‰BlLQşs[Recipient.GetBestName]/k`O„vºNÅ`0;;;;;;;;;;;;x
 CALL_IN_FAVOR_INTERACTION_LONG_DESC;‰BlLQşs[Recipient.GetBestName]/k`O„vºNÅ`0;;;;;;;;;;;;x
-CALL_IN_FAVOR_INTERACTION_0;N‰BlLQşsºNÅ`ÿ[Recipient.GetBestName]S(W $MONTHS$ ggQ•bhy>ec`O(WgQ²•„vLˆÕR0;;;;;;;;;;;;x
+CALL_IN_FAVOR_INTERACTION_0;N‰BlLQşsºNÅ`ÿ[Recipient.GetBestName]S(W $MONTHS$ ggQ•bhy>ec`O(WgQ²•„vLˆÕR0;;;;;;;;;;;;x
 RETURNING_FAVOR;§YŞV1XºNÅ`§!;;;;;;;;;;;;x
 RETURNING_FAVOR_TO;$WHO1|Y$ck(WŞV1XºNÅ`ft$WHO2|Y$0;;;;;;;;;;;;x
 VOTING_STARTER;§Y•bhy|vwºN§!;;;;;;;;;;;;x
 OWES_YOU_FAVOR;$WHO|Y$/k`ONPºNÅ`ÿ`OïSåN‰BlLQşs0;;;;;;;;;;;;x
 COUNCIL_VOTE_FOR_SETUP;•bhyb;;;;;;;;;;;;x
-COUNCIL_VOTE_FOR_LOG;$INTERACTION$\ngQ²••bhyNÿ\n$COUNCIL_RESULT$\n$CHARACTER_RESULT|Y$;;;;;;;;;;;;x
+COUNCIL_VOTE_FOR_LOG;$INTERACTION$\ngQ²••bhyNÿ\n$COUNCIL_RESULT$\n$CHARACTER_RESULT|Y$;;;;;;;;;;;;x
 COUNCIL_VOTE_AGAINST_SETUP;•bhyÍSS;;;;;;;;;;;;x
 COUNCIL_VOTE_AGAINST_LOG;$INTERACTION$\ngQ²••bhyÍSSÿ\n$COUNCIL_RESULT$\n$CHARACTER_RESULT|Y$•bhyÍSS0;;;;;;;;;;;;x
 COUNCIL_VOTE_ABSTAINED_SETUP;•bhyÄ_k;;;;;;;;;;;;x
@@ -657,9 +657,9 @@ EVTDESC520;b2k6q¥c×S`O„v®yirÿS†OgŠ—V`O„vŒYa0;;;;;;;;;
 EVTOPTA520;ŒR;;;;;;;;;;;;x
 EVTDESC521;`OÅV˜fŒv`ONıw¼f0W·Œ0Rb„vàV Š0bÒbUt`O„v®yir0;;;;;;;;;;;;x
 EVTOPTA521;gbÉpOUL˜;;;;;;;;;;;;x
-VOTE_RESULT_FOR;gQ²••bhy§GN§!0\n$FOR|Y$ •bhywbÿ$AGAINST|Y$ •bhywÍSS0\n`O„vgQ²•qQ	g $TOTAL|Y$ PwwMOÿvQ-NYxeÅV˜•bhyNÿw˜JNïSåNSb4xs^hy0\nzzI„vwwMOg«ˆ–‰Ép•bhyÍSS0;;;;;;;;;;;;x
-VOTE_RESULT_AGAINST;gQ²••bhy§R&Tzl§!0\n$FOR|Y$ •bhywbÿ$AGAINST|Y$ •bhywÍSS0\n`O„vgQ²•qQ	g $TOTAL|Y$ P-^MOÿvQ-NYxeÅV˜•bhyNÿw˜JNïSåNSb4xs^hy0\nzzI„vwwMOg«ˆ–‰Ép•bhyÍSS0\nUÌwgQ²•gOÖNPNÿnÿ&NSAQ1ŠÖNP ReQ>mû|0nNg«ˆ–‰Ép´fTLˆ‘Vÿ&NM–NOOb	g`OOb	gãlS`O„vŒYa $OPINION|R$0;;;;;;;;;;;;x
-VOTE_RESULT_TOGGLE;§GŞÊdRÛc•bhy0tÀ{—zãS§!;;;;;;;;;;;;x
+VOTE_RESULT_FOR;gQ²••bhy§GN§!0\n$FOR|Y$ •bhywbÿ$AGAINST|Y$ •bhywÍSS0\n`O„vgQ²•qQ	g $TOTAL|Y$ PwwMOÿvQ-NYxeÅV˜•bhyNÿw˜JNïSåNSb4xs^hy0\nzzI„vwwMOg«ˆ–‰Ép•bhyÍSS0;;;;;;;;;;;;x
+VOTE_RESULT_AGAINST;gQ²••bhy§R&Tzl§!0\n$FOR|Y$ •bhywbÿ$AGAINST|Y$ •bhywÍSS0\n`O„vgQ²•qQ	g $TOTAL|Y$ P-^MOÿvQ-NYxeÅV˜•bhyNÿw˜JNïSåNSb4xs^hy0\nzzI„vwwMOg«ˆ–‰Ép•bhyÍSS0\nUÌwgQ²•gOÖNPNÿnÿ&NSAQ1ŠÖNP ReQ>mû|0nNg«ˆ–‰Ép´fTLˆ‘Vÿ&NM–NOOb	g`OOb	gãlS`O„vŒYa $OPINION|R$0;;;;;;;;;;;;x
+VOTE_RESULT_TOGGLE;§GŞÊdRÛc•bhy0tÀ{–‰—z§!;;;;;;;;;;;;x
 VOTE_SWAYED;T•bhyºN(WPOUL˜N’l	gyršR„vÀ‰ŞNg×S0RvQÖN•bhyºN„vY³Nıw›RqVÿ—0;;;;;;;;;;;;x
 REQUEST_SUPPORT_INTERACTION_DESC;åNºNÅ`ÛcÖS[Recipient.GetBestName]„v>ec0;;;;;;;;;;;;x
 REQUEST_SUPPORT_INTERACTION_0;‚Yœg§Y[Recipient.GetBestName]§!¥c×S`O„vËŠBlÿ[Recipient.GetSubjectPronoun]S $MONTHS|Y$ PggQ(WgQ²••bhy-N‚`ONôÿN`OS/k[Recipient.GetObjectPronoun]NPºNÅ`0;;;;;;;;;;;;x

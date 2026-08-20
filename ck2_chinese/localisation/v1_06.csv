@@ -717,7 +717,7 @@ EVTOPTA88001;b1ärä¥VÖwSÖV?ñ©Öõè>mÜN&&;;;;;;;;;;;;x
 EVTDESC88002;®ñfÑgå_NP⁄dﬁûÑvwñLÑˇ?ñ©Öõè>mÌÅT-fWÑÑvIR¢RDtTuÚT(W®ò-Nàmce0SxeòkËû±ñ”YÀWTˇﬂÇˆ^òkòUˇä^Û`fÑ–g)YÑê˝wqgqSçQwç0;;;;;;;;;;;;x
 EVTNAME88002;?ñ©ÖõèàmceÜNˇ;;;;;;;;;;;;x
 EVTOPTA88002;÷NPÑv≈n°NÈeÚTËlöR0;;;;;;;;;;;;x
-EVTDESC88003;?ñ©Öõè>m»SﬁVÜOÜNˇêNê.z.zπe’lˇÉRÑvòkËû(WêõNt^·àbüR0Wb`∏_ÜNêPDtTufÂeÑvÆiIQ0û_ófqV-N˙Q dˇ÷NPyYﬁVÜN÷NPÑvNPÇÂe⁄dﬁû0˛s(W÷NPäÙt	g/tÑv…kKbçQ!köåÀYus…kÇ÷NP	g)R vlàÅzÑv∫N&&;;;;;;;;;;;;x
+EVTDESC88003;?ñ©Öõè>m»SﬁVÜOÜNˇêNê.z.zπe’lˇÉRÑvòkËû(WêõNt^·àbüR0Wb`∏_ÜNêPDtTufÂeÑvÆiIQ0û_ófqV-N˙Q dˇ÷NPyYﬁVÜN÷NPÑvNPÇÂe⁄dﬁû0˛s(W÷NPäÙt	g/tÑv…kKbçQ!köåÀYus…kÇ÷NP	g)R vlàÅzÑv∫N&&;;;;;;;;;;;;x
 EVTNAME88003;?ñ©ÖõèÕë˙QnlVnˇ;;;;;;;;;;;;x
 EVTOPTA88003;÷NPØwöRNbeˇbb`ºû2j0;;;;;;;;;;;;x
 EVTDESC88004;?ñ©Öõè>mÚTìt»Vï^àm1YÜN0®ñfÑ!XÿXÑväqäq'YkpˇNPP?ñ©ÖõèÑvôåRPÇY’Rir,Ç´à∑Qwë`S∞R0÷NP>UNÑvzêirˇøO>f≤êõN‹ïºe?ñ©ÖõèÑv¬P™äÜN0;;;;;;;;;;;;x
@@ -888,8 +888,8 @@ EVTOPTA7795;	UˇNLr0;;;;;;;;;;;;x
 EVTDESC7796;1YWeÜNˇ1Sór>f!q˝wˇ[From.GetTitledFirstName]nNbüR0W+cWeÜN≤êõN’P∫NŸb≤RÑv∫näk[From.GetHerHim]ÑvOW0åY(W÷NPÛÅSÑê	g≥ç/YÑvaXã≤éöåìbUc0;;;;;;;;;;;;x
 DEATH_YESTERDAY_FLANK;dkÔçÕéäñ(fÂeÑv∆P°N;;;;;;;;;;;;x
 NO_PRESTIGE_MUSLIM_MARRIAGE;FzØeógÑvZZ˚YNgûXnZg;;;;;;;;;;;;x
-CIW_GOTODIPLO;MRèVY≥NLubó\nÛS dSböåPR‹ÉÆU;;;;;;;;;;;;x
-CIW_GOTOCHAR;MRèV“ârÇLubó\nÛS dSböåPR‹ÉÆU;;;;;;;;;;;;x
+CIW_GOTODIPLO;MRèVY≥NLubó\nÛS dSböåPRxêÆU;;;;;;;;;;;;x
+CIW_GOTOCHAR;MRèV“ârÇLubó\nÛS dSböåPRxêÆU;;;;;;;;;;;;x
 OFFER_MARRIGE_INTERACTION_MUSLIM;–cpãßY[ActorExtra.GetTitledFirstName]ßWåTßY[RecipientExtra.GetTitledFirstName]ßWPtZZ0;;;;;;;;;;;;x
 EVTDESC7800;¬Pä™ä[Root.PlotTarget.GetTitledName]SÅâPWS9ÇªS≈eLà0b	gÔS`óÑvàmo`™ä[Root.PlotTarget.GetSheHe]ˇﬂçàVYRQÂzN2jˇílxRNêJêÛl0ÇYúg9Ç˚ÜN&&»Tˇê.zãN≈`NÙv(W|vuˇN>fºûˇ;;;;;;;;;;;;x
 EVTOPTA7800;bÑvTãgçb0RTiêÑv∫Nxê&&;;;;;;;;;;;;x
@@ -1064,5 +1064,5 @@ ENDGAME_TEXT_REPUBLIC;`ObÜNqQåTWÑvqtªlwˇ‡VdkNAQ1ä|uåuJê
 ENDGAME_TEXT_MUSLIM;`ObÜNFzØeógˇ‡VdkNAQ1ä|uåuJê2b0;;;;;;;;;;;;x
 EVTOPTB69060;Ìc|v˜^„ÅS˙WcwÑvN†ä;;;;;;;;;;;;x
 EVTDESC100110;bÛ`Åâ≤êPwwMOˇbÎèN SÖVÜNˇ[Root.Liege.GetTitledFirstName]Ng≈P≈P‡V…pbÛ`b…pgQ≤ïb·T1SftbêPwwMOˇbóÅâ™RõRÂTkOÜO÷SóVÉR0;;;;;;;;;;;;x
-EVTTOOLTIP100111;[Root.GetTitledFirstName]äÉRêNêÇ[This.GetTitledFirstName]b…pgÀSÜOgBtrsóV[This.GetJobTitle]êPwwMO&&;;;;;;;;;;;;x
+EVTTOOLTIP100111;[Root.GetTitledFirstName]äÉRêNêÇ[This.GetTitledFirstName]b…pgÀSÜOgBtrsóV[This.GetJobTitle]êPwwMO&&;;;;;;;;;;;;x
 EVTDESC100111;[From.GetTitledFirstName]ÇWémbÑv[Root.GetJobTitle]wwMOÚTìtN>fNPÿy∆RˇFO>fvl[From.GetSheHe]0RÜO[From.GetSheHe]&NTbSBlk^©RÑvBfPwìãbTZö0b…arääbgQU^JT4äft[From.GetTitledFirstName]6qå_ìã[From.GetHerHim]Ùfèf0Wû_bKb-NwPpçbÑv[Root.Liege.GetTitledFirstName]Ñv[Root.GetJobTitle]wwMOŒUˇ;;;;;;;;;;;;x

@@ -31,9 +31,9 @@ DEATH_DUNGEON_NO_KILLER;Šk¼eDs-N;;;;;;;;;;;;x
 DEATH_DUEL_NO_KILLER;(WPºNzl%›-N«ˆÉk;;;;;;;;;;;;x
 EVTOPTB3335;[Root.Liege.GetTitledFirstName]g’l‹N„v;;;;;;;;;;;;x
 plot_weaken_fellow_vassal_title;^gw0R[This.GetFullName]«ˆˆcˆNftNMO°e„vqt»lw;;;;;;;;;;;;x
-plot_weaken_fellow_vassal_desc;JR1V [This.Holder.GetTitledName]„v›RÏ‘úWyÿNRrR[This.Holder.GetHerHis]1umi&NˆcˆN[This.GetFullName]ft[This.Holder.GetHerHis]vQ-NNPSã0;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_desc;JR1V [This.Holder.GetTitledName]„v›RÏ‘úWyÿNRrR[This.Holder.GetHerHis]1umi&NˆcˆN[This.GetFullName]ft[This.Holder.GetHerHis]vQ-NNPSã0;;;;;;;;;;;;x
 plot_weaken_fellow_vassal_decision;[Root.GetPlot];;;;;;;;;;;;x
-plot_weaken_fellow_vassal_decision_desc;NT [Root.PlotTarget.GetTitledName]NTgŒ_RrÿŠbÆR‹ØNøŠLˆÕR0;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_decision_desc;NT [Root.PlotTarget.GetTitledName]NTgŒ_RrÿŠbÆR‹ØNøŠLˆÕR0;;;;;;;;;;;;x
 plot_weaken_fellow_vassal_decision_liege;SBl[Root.TopLiege.GetTitledFirstName]„v>ec0;;;;;;;;;;;;x
 plot_weaken_fellow_vassal_decision_liege_desc;T [Root.TopLiege.GetTitledFirstName]ë[NSáOÿSBl[Root.TopLiege.GetHerHim]„v>ecåNRrR [Root.PlotTarget.GetTitledName]„v˜W0‚Yœg[Root.TopLiege.GetTitle]N>ec˜ÆR‹ÿƒR1SˆVïSýw«ˆ)m2—0R®R÷^gQ&&;;;;;;;;;;;;x
 EVTDESC7500;b„v[Root.GetTitle]ÿSìbb(WgQ„v1ŠYàVæR„vSãýœŠÉp [From.PlotTarget.GetTitledName]+eÖS†N``…N[From.PlotTarget.GetHerHis]0WMO„vk›RŒT˜0W0‚Yœg¨`ýwËSŒY0Wú^p‹[From.PlotTarget.GetHerHim]Šb[From.PlotTargetTitle.GetFullName]„v-˜œ’I“‹ftÖN„vSã0²1SQŒYNN†NÿbPShQÃVhQa„v>ec`O0\n\ndkôÿ\n[From.GetTitledName];;;;;;;;;;;;x
@@ -68,7 +68,7 @@ EVTDESC7510;[Root.Liege.GetTitle]bŸR“‹ŸS†O„v˜JN“‹MO0þs(Wÿ1u[R
 EVTOPTA7510;ˆVŒY0;;;;;;;;;;;;x
 EVTDESC7511;[Root.PlotTarget.GetTitledFirstName]ÒbUt†N[Root.Liege.GetTitle]“‹úQ[Root.PlotTargetTitle.GetFullName]-˜œ’„vTt‰BlÿFOóS“‹`O„v˜JN	g†N(W*g†OlRyYP-˜œ’„vÕRnj0o˜6qÿþs(W`OSêSýw¥c×SP‰R’c0;;;;;;;;;;;;x
 EVTOPTA7511;1S2j'T0;;;;;;;;;;;;x
-EVTDESC7515;N´ŒÏePØyÆR„vp–‹ÿ[From.GetTitledName]«ˆëúQ“‹[From.GetHerHis]vQ-NNPlQW0“tNœŠwwnaÿWgQ„v˜JNPgBt-ŠÕlTbNôÿœŠÉp`O>fP-˜œ’g!qµOeu'`„vPxºN0m`œU`Oÿ[From.GetTitle]0;;;;;;;;;;;;x
+EVTDESC7515;N´ŒÏePØyÆR„vp–‹ÿ[From.GetTitledName]«ˆëúQ“‹[From.GetHerHis]vQ-NNPlQW0“tNœŠwwnaÿWgQ„v˜JNPgBt-ŠÕlTbNôÿœŠÉp`O>fP-˜œ’g!qµOeu'`„vPxºN0m`œU`Oÿ[From.GetTitle]0;;;;;;;;;;;;x
 EVTOPTA7515;ŒY‹NÅ`L~>f|vu(WX˜aIr…V„vºN«ŽN0;;;;;;;;;;;;x
 EVTDESC7517;[From.GetTitledName]’l	gTi„vSãýw¥c×SP-˜œ’ÿObåNƒRS«ˆˆcˆNft`Oÿ1u`OzlšR‚YUOU†n0;;;;;;;;;;;;x
 PLOT_TOOLTIP_WEAKEN_VASSAL;[This.Holder.GetTitledName]NQ>f[This.GetFullName]-˜œ’„vc	gw0;;;;;;;;;;;;x

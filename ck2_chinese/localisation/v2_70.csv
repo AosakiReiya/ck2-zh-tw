@@ -52,7 +52,7 @@ TRIGGER_ARTIFACT_OWNER;öRirJNºN;;;;;;;;;;;;x
 TRIGGER_ARTIFACT_ORIGINAL_OWNER;öRirŸSJNºN;;;;;;;;;;;;x
 INHERITANCE_LOST_ARTIFACTS_LOG;4O¨–f„k›R„v³N¥cÿ$CHARACTER$1Y»S†N$ARTIFACT$0;;;;;;;;;;;;x
 ask_wards_liege_to_allow_culture_religion_swap_desc;ft§Y[Root.Liege.GetTitledFirstName]§!NSáOÿËŠÖNAQ1Š`O9eŠ‹§Y[Root.GetFirstName]§!„vYe²wÍ‘ÃV0èla§YÂPqt§!„vÍ‘ÃVSO—V§Y[Root.GetFirstName]§!¥c×Sãv†‹ºN„v—RYeŒT‡eS0;;;;;;;;;;;;x
-change_wards_focus_to_heritage_desc;9eŠ‹§Y[Root.GetFirstName]§!„vùW™Í‘ÃV0Í‘ÃV-ŠnÉp§YÂPqt§!gO§Y[Root.GetFirstName]§!¥c×Sãv†‹w„v—RYeŒT‡eS0;;;;;;;;;;;;x
+change_wards_focus_to_heritage_desc;9eŠ‹§Y[Root.GetFirstName]§!„vùW™Í‘ÃV0Í‘ÃV-Šš[Ép§YÂPqt§!gO§Y[Root.GetFirstName]§!¥c×Sãv†‹w„v—RYeŒT‡eS0;;;;;;;;;;;;x
 EVTDESC_ZE_2131;ª‰a„v[Root.GetTitledNameWithNick]ÿ\n\n`OÜ•¼e[FromFrom.GetFirstName]ÂPqtYe²w„vĞcp‹bBlKNN—V0;;;;;;;;;;;;x
 EVTOPTA_ZE_2131;[FromFrom.GetSubjectPronounCap]Sg—V0Ro‚ŒY„vYe²w0;;;;;;;;;;;;x
 GIVE_ARTIFACT_INTERACTION_TITLE;ˆNöRir;;;;;;;;;;;;x
@@ -208,7 +208,7 @@ EVTOPTE_MNM_1855;bçRïSN0;;;;;;;;;;;;x
 destroy_all_ingredients_tt;Ob	g§YŸS™e§!S«ˆgdÀk&N_öR«^-Nûyd–0\n;;;;;;;;;;;;x
 random_ingredients_are_destroyed_tt;N›N§YŸS™e§!S«ˆgdÀk&N_öR«^-Nûyd–0\n;;;;;;;;;;;;x
 ingredients_are_sent_tt;N›N§YŸS™e§!S«ˆ_öR«^-NÖSúQÿ&Nó§Y[From.GetTitledFirstName]§!²áˆÉpQVZP–n™P0\nSgĞcGS`O„v“tWš0;;;;;;;;;;;;x
-EVTOPTB_MNM_1435_single_ingredient;bgM‘n0s®U„vå…4l0;;;;;;;;;;;;x
+EVTOPTB_MNM_1435_single_ingredient;bg-Šš[0s®U„vå…4l0;;;;;;;;;;;;x
 EVTDESC_MNM_5109_hermetic;bgÑ—V0R†N^.zIqÑ‘bˆ/tPg0kOÉpk3w¨X¯exRg„vNáTÿbó`bÉarŠŠbÖNPRm˜NN&&!qÖŠ‚YUOÿ.z[GetSelectedIngredient_1][GetSelectedIngredient_1_property]0;;;;;;;;;;;;x
 EVTDESC_MNM_5109_other_society;bgÑ—V0R†NN›NIqÑ‘ŸS™e0bNºxšR›NrŠ`¼(u0N¡r`2jÿ[GetSelectedIngredient_1][GetSelectedIngredient_1_property]0;;;;;;;;;;;;x
 EVTDESC_MNM_5109_no_society;Ñgb	g†NIqÑ‘„vÒcaÿå–6qbbœŠb	g›Nf„÷†Nÿ[GetSelectedIngredient_1][GetSelectedIngredient_1_property]0;;;;;;;;;;;;x
@@ -279,14 +279,14 @@ must_not_already_be_preparing_potion_tt;S*g–n™På…4l;;;;;;;;;;;;x
 EVTDESC_MNM_4950;±‚†N›NBf“•ŒT[From.GetTitledFirstName]³NÇŠŒ_ÿbòT“tT[From.GetHerHim]Ğc›O†N³/Y„v¾|^ycS†Ok^©R[From.GetHerHis]púQ®XL„„vuJm0;;;;;;;;;;;;x
 EVTDESC_MNM_4951;±‚†N›NBf“•ŒT[FromFrom.GetTitledFirstName]³NÇŠŒ_ÿbòT“taX‹0Rb„v/“³Šÿ&NOêñTúd+†Njá`0;;;;;;;;;;;;x
 EVTDESC_MNM_4960;[From.GetTitledFirstName](WbÉp[From.GetHerHim]‹ã‰‚YUOLˆ„UBf}€—V^—8^\èlÿ&NN[From.GetSheHe](WŒTb„vÇŠÖŠKNŒ_<ONNŠ‹b†NôfŒY„v[From.GetManWoman]0;;;;;;;;;;;;x
-EVTDESC_MNM_4961;[FromFrom.GetTitledFirstName]nZi0Wã‰Ë‘†N[From.GetSheHe]>f‚YUOLˆ„UåN¦^NBfw!qÅ`NÓX›RÍ‘Í‘„vuJm„v0N¾P}€[FromFrom.GetHerHim]„v‹ğÿbòT†Nã‰‚YUONLˆ„UåNôfŒY0WîO«™'`0;;;;;;;;;;;;x
+EVTDESC_MNM_4961;[FromFrom.GetTitledFirstName]nZi0Wã‰Ë‘†N[From.GetSheHe]>f‚YUOLˆ„UåN¦^NBfw!qÅ`NÓX›RÍ‘Í‘„vuJm„v0N¾P}€[FromFrom.GetHerHim]„v‹ğÿbòT†Nã‰‚YUONLˆ„UåNôfŒY0WîO«™'`0;;;;;;;;;;;;x
 monastic_orders_spiritual_guidance;ftˆN¾|^ycS;;;;;;;;;;;;x
 monastic_orders_spiritual_guidance_desc;`OåwS[Root.GetTitledFirstName]>fNPjºN0ObåN`OïSåNĞc›O¾|^yN„vcSk^©R[Root.GetHerHim]úd+[Root.GetHerHis]NPá`Ò0;;;;;;;;;;;;x
 monastic_orders_spiritual_guidance_power_desc;AQ1Š`O§GóSu“ŞÊd§!˜0W-N„v	g0WÒ‰r‚bw`O„vª‰b0`O„v>yWbáT%Y4Oÿ†O9e‰cÖNP„vá`Ò0`OêSıwûyd–`OêñTObNwQ™P„vá`Ò0;;;;;;;;;;;;x
 opinion_spiritual_guidance;×S0R¾|^ycS;;;;;;;;;;;;x
 spiritual_guidance_tooltip;	gf„§Y[From.GetTitledFirstName]§!’l	g„vjá`;;;;;;;;;;;;x
 monastic_orders_teach_virtue;ÂPˆc·V;;;;;;;;;;;;x
-monastic_orders_teach_virtue_desc;`Oèla0R†N[Root.GetTitledFirstName]	gBfˆVã–ZPckºx„v‹NÅ`0`OïSåNNYeS[Root.GetHerHim]`O>wY·VKNN†O9eŠ‹NşsaŒ0;;;;;;;;;;;;x
+monastic_orders_teach_virtue_desc;`Oèla0R†N[Root.GetTitledFirstName]	gBfˆVã–ZPckºx„v‹NÅ`0`OïSåNNYeS[Root.GetHerHim]`O>wY·VKNN†O9eŠ‹NşsaŒ0;;;;;;;;;;;;x
 monastic_orders_teach_virtue_power_desc;AQ1Š`O§GóSu“ŞÊd§!`O„v˜0W-N„v	g0WÒ‰r‚0`O„vª‰bbw`O„v>yWbáTT4O†OæŒˆNÖNPN.z°e„v·V0`OêSıwæŒˆN`OêñTObwQ™P„v·V0;;;;;;;;;;;;x
 opinion_teach_virtue;ÂPˆc†NNP·V;;;;;;;;;;;;x
 teach_virtue_tooltip;’l	g§Y[From.GetTitledFirstName]§!ObÁd	g„v·V;;;;;;;;;;;;x

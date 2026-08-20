@@ -2,7 +2,7 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 create_aragon_desc;(W›NW0Wú^Ëz?–Éb¢Œ‹sWÿbSšŒnUNP°etCQ0;;;;;;;;;;;;x
 create_portugal_desc;(W›NW0Wú^Ëza„„Yr‹sWÿbSšŒnUNP°etCQ0;;;;;;;;;;;;x
-create_castille_desc;N(W›NW0WNú^ËzaS¯e‚„)RžN‹sWÿbSšŒnUNP°etCQ0;;;;;;;;;;;;x
+create_castille_desc;N(W›NW0WNú^ËzaS¯e‚„)RžN‹sWÿbSšŒnUNP°etCQ0;;;;;;;;;;;;x
 EVTDESC_39617;ô[GetFromRootCompliment][Root.GetTitledFirstName]ÿ\n\nb„v˜JNÿ[GetRootFromCompliment][From.GetTitledNameWithNick]ÿ“tN[From.GetHerHis]IP'Yzfga`wŒ_ÿzlšRˆvO[From.Religion.GetName]áOðN0kOÉp[From.GetHerHis][From.GetLordSpiritualName]ÿbú^p‹`OnNwnaˆvOrŠáOðN0\n\nX˜×S[From.Religion.GetRandomGodName]EšVrÿ\n[convert_lord_spiritual.GetBestName]ÿ[From.PrimaryTitle.GetName]„v[From.GetLordSpiritualName];;;;;;;;;;;;x
 EVTOPTA_39617;ckTbaÿbgˆvON°e„váOðNÿ;;;;;;;;;;;;x
 EVTOPTB_39617;Nÿ[Root.Religion.GetRandomGodName]ËYBt‚bT(Wÿ;;;;;;;;;;;;x
@@ -159,14 +159,14 @@ ENEMY_SIEGES_INTERFACE_LABEL;§YueÍŽWJe§!;;;;;;;;;;;;x
 COMBATS_INTERFACE_LABEL;§Yx–0b§!;;;;;;;;;;;;x
 ARMIES_INTERFACE_LABEL;§YÍŽŠ–§!;;;;;;;;;;;;x
 NAVIES_INTERFACE_LABEL;§Yf‚Š–§!;;;;;;;;;;;;x
-MESSAGERULES_INTERFACE_LABEL;§YáOo`‰GR§!;;;;;;;;;;;;x
+MESSAGERULES_INTERFACE_LABEL;§YŠo`‰GR§!;;;;;;;;;;;;x
 SPECIAL_INTEREST_CHARACTERS_INTERFACE_LABEL;§Yyr%RÜ•èlÒ‰r‚§!;;;;;;;;;;;;x
 OL_MP_PLAYERLIST_INTERFACE_LABEL;§YYºNJ2b©s¶R§!;;;;;;;;;;;;x
 OL_DISABLED_ALERTS_INTERFACE_LABEL;§YòTy(uf‹JT§!;;;;;;;;;;;;x
-MESSWINDOW_HIGHPRIO_INTERFACE_LABEL;§YØš*QHQ)táOo`§!;;;;;;;;;;;;x
-MESSWINDOW_LOWPRIO_INTERFACE_LABEL;§YNO*QHQ)táOo`§!;;;;;;;;;;;;x
+MESSWINDOW_HIGHPRIO_INTERFACE_LABEL;§YØš*QHQ)tŠo`§!;;;;;;;;;;;;x
+MESSWINDOW_LOWPRIO_INTERFACE_LABEL;§YNO*QHQ)tŠo`§!;;;;;;;;;;;;x
 FC_FIND_CHARACTERS_INTERFACE_LABEL;§YSbÒ‰r‚§!;;;;;;;;;;;;x
-MAIN_MENU_INTERFACE_LABEL;§YJNÜƒ®U§!;;;;;;;;;;;;x
+MAIN_MENU_INTERFACE_LABEL;§YJNx®U§!;;;;;;;;;;;;x
 ZOOM_IN_INTERFACE_LABEL;§Yð“-˜ÉbÑ§!;;;;;;;;;;;;x
 ZOOM_OUT_INTERFACE_LABEL;§Yð“-˜¨c`§!;;;;;;;;;;;;x
 HOME_INTERFACE_LABEL;§YMRV¶R	‘wýN§!;;;;;;;;;;;;x
