@@ -349,6 +349,7 @@ def check_glyph_whiteness():
         w = struct.unpack_from("<I", raw, 16)[0]
         h = struct.unpack_from("<I", raw, 12)[0]
         fcc = raw[84:88]
+        pf_flags = struct.unpack_from("<I", raw, 80)[0] if len(raw) > 84 else 0
         fnt_path = f.with_suffix(".fnt")
         text = fnt_path.read_text(encoding="utf-8", errors="replace")
         rects = {}
@@ -364,6 +365,12 @@ def check_glyph_whiteness():
             if cw < 2 or chh < 2:
                 continue
             bx, by = x + cw // 2, y + chh // 2
+            if fcc.strip() == b"" and (struct.unpack_from("<I", raw, 80)[0] & 0x41) == 0x41:
+                off = 128 + (by * w + bx) * 4
+                r, g, b, a = struct.unpack_from("<4B", raw, off)
+                if a > 40:
+                    sampled.append((r, g, b))
+                continue
             off = 128 + ((by // 4) * (w // 4) + (bx // 4)) * 16
             c0, c1 = struct.unpack_from("<HH", raw, off + 8)
             p0, p1 = _decode_565(c0), _decode_565(c1)
@@ -433,7 +440,7 @@ def check_fonts():
         "zh-hans-18.fnt": ("DXT3", 1024, 2048, 2048, 4096),
         "zh-hans-24.fnt": ("DXT3", 1024, 2048, 2048, 4096),
         "zh-hans-decorative.fnt": ("DXT5", 4096, 7000, 4096, 8192),
-        "zh-hans-map.fnt": ("DXT5", 4096, 7000, 4096, 8192),
+        "zh-hans-map.fnt": ("RGBA8", 4096, 7000, 4096, 8192),
     }
     log("== F. 字型檔自檢 ==")
     for f in sorted((ROOT / "ck2_chinese/gfx/fonts").glob("*.fnt")):
@@ -465,10 +472,14 @@ def check_fonts():
             dds = f.with_suffix(".dds")
             raw = dds.read_bytes()
             fcc = raw[84:88].decode("ascii", errors="replace")
+            pf_flags = struct.unpack_from("<I", raw, 80)[0]
             dw = struct.unpack_from("<I", raw, 16)[0]
             dh = struct.unpack_from("<I", raw, 12)[0]
             size_ok = (dw == sw and dh == sh and w0 <= dw <= w1 and h0 <= dh <= h1)
-            fmt_ok = fcc == want_fcc
+            if want_fcc == "RGBA8":
+                fmt_ok = fcc.strip("\x00") == "" and (pf_flags & 0x41) == 0x41
+            else:
+                fmt_ok = fcc == want_fcc
             # fnt 尺寸須與 dds 一致
             if not (fmt_ok and size_ok):
                 bad = True

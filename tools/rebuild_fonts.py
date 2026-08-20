@@ -182,10 +182,35 @@ def _encode_blocks(img: Image.Image, blockfn):
     return bytes(out)
 
 
+def _dds_rgba8(img):
+    """32-bit 無壓縮(RGBA8888):消除 DXT 4×4 block 偽影(圓弧白灰方塊)。
+    header 結構與 DXT 版完全同構(flags 0x41 => RGB+ALPHAPIXELS,無 FOURCC)。"""
+    w, h = img.size
+    raw = img.convert("RGBA").tobytes()
+    header = struct.pack(
+        "<4s7I11I2I4s5I5I",
+        b"DDS ",                     # magic
+        124,                          # dwSize
+        0x1007,                       # CAPS|HEIGHT|WIDTH|PIXELFORMAT|LINEARSIZE
+        h, w,                         # height, width
+        w * h * 4,                    # linear size (32bpp)
+        0, 0,                         # depth, mipmaps
+        *([0] * 11),                  # reserved1
+        32, 0x41,                     # pf size, pf flags (RGB | ALPHAPIXELS)
+        b"\0\0\0\0",                # no fourcc
+        0x00ff0000, 0x0000ff00, 0x000000ff, 0xff000000, 0,  # rgba masks(+pad to 5I)
+        0x1000, 0, 0, 0, 0,           # caps: TEXTURE
+    )
+    return header + raw
+
+
 def write_dds(path: Path, img: Image.Image, fourcc: str = "DXT3"):
     w, h = img.size
     # 原廠 header 同構:decorative/map(DXT5)= flags 0xA1007 + mip=1 + depth=1;
     # 文字(DXT3)= flags 0x81007 + mip=0 + depth=1;linearSize = w*h(DXT3/DXT5 皆 8bpp)
+    if fourcc == "RGBA8":
+        path.write_bytes(_dds_rgba8(img))
+        return
     mips = 1 if fourcc == "DXT5" else 0
     flags = 0xA1007 if mips else 0x81007
     data = rgba_to_dxt5(img) if fourcc == "DXT5" else rgba_to_dxt3(img)
@@ -312,7 +337,7 @@ def rebuild_one(name: str, extra_chars: set[int], dry: bool = False):
         "zh-hans-decorative": [(4096, 7000), (4096, 8192)],
         "zh-hans-map": [(4096, 7000), (4096, 8192)],
     }
-    fmt = "DXT5" if name in ("zh-hans-decorative", "zh-hans-map") else "DXT3"
+    fmt = "RGBA8" if name == "zh-hans-map" else ("DXT5" if name == "zh-hans-decorative" else "DXT3")
     # ── 每檔 yoffset 自適應校正:與 52 原廠共同字形的 yoffset 中位差補償 ──
     import subprocess as _sp
     import statistics as _st
