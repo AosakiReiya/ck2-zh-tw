@@ -1,12 +1,12 @@
 ### ParaTranz ###
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-PROV1013;máˆ;;;;;;;;;;;;x
-PROV1112;idßƒ†O;;;;;;;;;;;;x
+PROV1013;m‰ƒ;;;;;;;;;;;;x
+PROV1112;idW„;;;;;;;;;;;;x
 PROV1113;ågË„;;;;;;;;;;;;x
 PROV1114;id|TO–6wÜˆ…;;;;;;;;;;;;x
 PROV1115;1g…üf|ƒ…;;;;;;;;;;;;x
 PROV1116;æŠ²æMS;;;;;;;;;;;;x
-PROV1117;äSáˆ;;;;;;;;;;;;x
+PROV1117;äSÌ‘;;;;;;;;;;;;x
 PROV1118;id<S6wÜˆ…;;;;;;;;;;;;x
 PROV1119;ú^×VÜˆ…;;;;;;;;;;;;x
 PROV1120;YLO-˜…;;;;;;;;;;;;x
@@ -226,7 +226,7 @@ PROV1338;(g>ifW;;;;;;;;;;;;x
 PROV1339;…Í•Üˆ…;;;;;;;;;;;;x
 PROV1340;æçv…;;;;;;;;;;;;x
 PROV1341;pkœUW;;;;;;;;;;;;x
-PROV1342;^ï™l^;;;;;;;;;;;;x
+PROV1342;^o›™l^*m;;;;;;;;;;;;x
 PROV1343;¬™©…æt;;;;;;;;;;;;x
 PROV1344;³oÉb;;;;;;;;;;;;x
 PROV1345;÷O–âlT;;;;;;;;;;;;x
@@ -247,7 +247,7 @@ PROV1361;9tÑyyr;;;;;;;;;;;;x
 PROV1362;ÉbT>i;;;;;;;;;;;;x
 PROV1363;Ğcâl…Üˆ…;;;;;;;;;;;;x
 PROV1364;^)RTu|ƒÎW;;;;;;;;;;;;x
-PROV1365;·Váˆ;;;;;;;;;;;;x
+PROV1365;·VÌ‘;;;;;;;;;;;;x
 PROV1366;¯‘Z…;;;;;;;;;;;;x
 PROV1367;©…ÖNål¼nO…;;;;;;;;;;;;x
 PROV1368;aŒÎW;;;;;;;;;;;;x
@@ -442,8 +442,8 @@ b_fanoidig;ÕlªRætê<h;;;;;;;;;;;;x
 b_kerat;ñQÉbyr;;;;;;;;;;;;x
 b_kerma;Ñy>ijt;;;;;;;;;;;;x
 b_shendi;Sê;;;;;;;;;;;;x
-k_somalia;1t¬™áˆ;;;;;;;;;;;;x
-k_somalia_adj;1t¬™áˆ;;;;;;;;;;;;x
+k_somalia;1t¬™)R;;;;;;;;;;;;x
+k_somalia_adj;1t¬™)R;;;;;;;;;;;;x
 d_sennar;?–m0WN;;;;;;;;;;;;x
 d_sennar_adj;?–m0WN;;;;;;;;;;;;x
 d_hayya;Ôk—gON;;;;;;;;;;;;x
@@ -475,15 +475,15 @@ b_yangikent;™	Ty^;;;;;;;;;;;;x
 b_djend;l„v;;;;;;;;;;;;x
 c_kyzylkum_adj;KQkRÒR«^ÆY;;;;;;;;;;;;x
 c_guryev_adj;?–yrŞR;;;;;;;;;;;;x
-c_kangly_adj;·^áˆ;;;;;;;;;;;;x
-b_kangly;·^áˆ;;;;;;;;;;;;x
+c_kangly_adj;·^Ì‘;;;;;;;;;;;;x
+b_kangly;·^Ì‘;;;;;;;;;;;;x
 c_sirjan_adj;+“>iyŠ;;;;;;;;;;;;x
 c_mandesh_adj;üf·VÀN;;;;;;;;;;;;x
 b_urgench;‰sŸ‘Pd;;;;;;;;;;;;x
 b_kyrkmolla;úW>iKQ«ƒÉb;;;;;;;;;;;;x
 b_kungrat;f<hÒR;;;;;;;;;;;;x
 b_kizil_agir;KQkR>i?–	T>i;;;;;;;;;;;;x
-b_khodjali;—SSáˆ;;;;;;;;;;;;x
+b_khodjali;—SSÌ‘;;;;;;;;;;;;x
 b_ulkun;ÏpÈpf;;;;;;;;;;;;x
 b_chaghcharan;ågkåg-†;;;;;;;;;;;;x
 b_banjikat;ís	TaSyr;;;;;;;;;;;;x
@@ -534,20 +534,20 @@ b_zahak;NbÈTKQ;;;;;;;;;;;;x
 c_saravan_adj;©…Éb,„;;;;;;;;;;;;x
 c_ashli_adj;?–ÀNÒR;;;;;;;;;;;;x
 c_qazan_adj;UqS;;;;;;;;;;;;x
-c_tobol_adj;ŠZS>i;;;;;;;;;;;;x
+c_tobol_adj;XbZS>i;;;;;;;;;;;;x
 b_sibir;1YÅVRQ;;;;;;;;;;;;x
 c_sibir_adj;1YÅVRQ;;;;;;;;;;;;x
 d_sibir;1YÅVRQ;;;;;;;;;;;;x
 d_sibir_adj;1YÅVRQ;;;;;;;;;;;;x
 c_ural_adj;ÏpÉb>i;;;;;;;;;;;;x
 b_ural;ÏpÉb>i;;;;;;;;;;;;x
-b_tobol;ŠZS>i;;;;;;;;;;;;x
+b_tobol;XbZS>i;;;;;;;;;;;;x
 d_yugra;3S<hÉb;;;;;;;;;;;;x
 d_yugra_adj;3S<hÉb;;;;;;;;;;;;x
 b_pecheneg;iOR…m<h;;;;;;;;;;;;x
 b_sangin;QhÑ‘;;;;;;;;;;;;x
-b_gereshk;<háˆÀNKQ;;;;;;;;;;;;x
-b_chaman;6ƒba;;;;;;;;;;;;x
+b_gereshk;<hÌ‘ÀNKQ;;;;;;;;;;;;x
+b_chaman;ågüf;;;;;;;;;;;;x
 b_chora;¬UÉb;;;;;;;;;;;;x
 b_panjwai;Xo‘PætO;;;;;;;;;;;;x
 b_milak;s|ÉbKQ;;;;;;;;;;;;x
@@ -555,7 +555,7 @@ b_bonjar;ZS<SN>i;;;;;;;;;;;;x
 b_nimeh;<S…h^;;;;;;;;;;;;x
 b_nahrain;²k—g;;;;;;;;;;;;x
 b_mogholan;™„åT-†;;;;;;;;;;;;x
-b_khomri;áwÆYáˆ;;;;;;;;;;;;x
+b_khomri;áwÆYÌ‘;;;;;;;;;;;;x
 b_gardez; R·V2ƒ;;;;;;;;;;;;x
 b_khost;Ê•‰`Y;;;;;;;;;;;;x
 b_loman;xœJœ;;;;;;;;;;;;x
@@ -573,7 +573,7 @@ b_osh;b1Y;;;;;;;;;;;;x
 b_uzkand;Šá—;;;;;;;;;;;;x
 b_andijan;úO„vy^;;;;;;;;;;;;x
 b_margilan;¬™>i<h-†;;;;;;;;;;;;x
-b_rishton;áˆÀN˜;;;;;;;;;;;;x
+b_rishton;Ì‘ÀN˜;;;;;;;;;;;;x
 d_zhetysu;N³l;;;;;;;;;;;;x
 d_zhetysu_adj;N³l;;;;;;;;;;;;x
 d_syr_darya;+“>i³l;;;;;;;;;;;;x
@@ -597,10 +597,10 @@ b_bishkek;ÔkÀNñQKQ;;;;;;;;;;;;x
 b_almatu;?–Éb(gW;;;;;;;;;;;;x
 b_taraz;`¯e;;;;;;;;;;;;x
 b_merke;Ån>iúW;;;;;;;;;;;;x
-b_tokmok;ŠKQ¬™KQ;;;;;;;;;;;;x
+b_tokmok;XbKQ¬™KQ;;;;;;;;;;;;x
 b_balasagun;ôˆ…SÍÎW;;;;;;;;;;;;x
 c_ili_adj;O¦;;;;;;;;;;;;x
-b_almaliq;?–›R»áˆ;;;;;;;;;;;;x
+b_almaliq;?–›R»Ì‘;;;;;;;;;;;;x
 b_kulja;úVÒRNb;;;;;;;;;;;;x
 b_koktal;ÑyKQTX>i;;;;;;;;;;;;x
 b_tekes;yrKQ¯e;;;;;;;;;;;;x
@@ -675,7 +675,7 @@ b_altay;?–>iğl;;;;;;;;;;;;x
 b_telengit;^o‚äSÕ`;;;;;;;;;;;;x
 b_tele;5”ÒR;;;;;;;;;;;;x
 b_osinniki;gY›<SúW;;;;;;;;;;;;x
-b_ket;KQcR;;;;;;;;;;;;x
+b_ket;KQJ–;;;;;;;;;;;;x
 b_asino;?–‰şŠ;;;;;;;;;;;;x
 b_ketkas;©a R¯e;;;;;;;;;;;;x
 b_sochur;1tN>i;;;;;;;;;;;;x
@@ -702,7 +702,7 @@ k_punjab;”N³l;;;;;;;;;;;;x
 d_multan;(g>ifW;;;;;;;;;;;;x
 d_lahore;ÉbT>i;;;;;;;;;;;;x
 d_gandhara;rO–…;;;;;;;;;;;;x
-k_delhi;·Váˆ;;;;;;;;;;;;x
+k_delhi;·VÌ‘;;;;;;;;;;;;x
 d_kuru;ñOçv;;;;;;;;;;;;x
 d_haritanaka;6Š)RY²æ;;;;;;;;;;;;x
 d_mathura;ãyßƒ…;;;;;;;;;;;;x
@@ -741,7 +741,7 @@ k_kamarupa;æid7~âl;;;;;;;;;;;;x
 d_kamarupanagara;æid7~âlÎW;;;;;;;;;;;;x
 d_para_lauhitya;âl…ŞR^•^6w;;;;;;;;;;;;x
 d_sutiya;†•^6w;;;;;;;;;;;;x
-k_orissa;Ïpáˆ‚;;;;;;;;;;;;x
+k_orissa;ÏpÌ‘‚;;;;;;;;;;;;x
 d_daksina_kosala;WSa©……;;;;;;;;;;;;x
 d_tosali;yw‚â–;;;;;;;;;;;;x
 d_kalinga;¯u–LO;;;;;;;;;;;;x
@@ -785,7 +785,7 @@ b_uraiyur;Ïp„3S>i;;;;;;;;;;;;x
 b_nagapattinam;²LOL¶N²;;;;;;;;;;;;x
 b_kannanur;u²…;;;;;;;;;;;;x
 b_gangaikondacolapuram;F`LOÍ|ƒ1g…ÜˆÍ…;;;;;;;;;;;;x
-b_srirangam;¯eáˆ2au;;;;;;;;;;;;x
+b_srirangam;¯eÌ‘<†aS;;;;;;;;;;;;x
 b_kumbhakarna;®RFZ¯…Ïb;;;;;;;;;;;;x
 c_tagadur;YLO-˜…;;;;;;;;;;;;x
 c_tagadur_adj;YLO-˜…;;;;;;;;;;;;x
@@ -795,10 +795,10 @@ b_jinji;Öew;;;;;;;;;;;;x
 b_tirukkovalur;ĞcçvLOFZçv;;;;;;;;;;;;x
 b_padaividu;âlY×kı;;;;;;;;;;;;x
 b_siyyamangalam;¯e6w•LO2a;;;;;;;;;;;;x
-c_madurai;idßƒ†O;;;;;;;;;;;;x
-c_madurai_adj;idßƒ†O;;;;;;;;;;;;x
-b_madurai;idßƒ†O;;;;;;;;;;;;x
-b_srivilliputtur;¯eáˆ×k)R^kg>i;;;;;;;;;;;;x
+c_madurai;idW„;;;;;;;;;;;;x
+c_madurai_adj;idW„;;;;;;;;;;;;x
+b_madurai;idW„;;;;;;;;;;;;x
+b_srivilliputtur;¯eÌ‘×k)R^kg>i;;;;;;;;;;;;x
 b_ramesvaram;…÷¼nOÍ…;;;;;;;;;;;;x
 b_kilakarai;	T…LO…;;;;;;;;;;;;x
 b_ramnadhapuram;2a²O–Üˆ2a;;;;;;;;;;;;x
@@ -866,8 +866,8 @@ b_kanya_kumari;¯å‚ øœid)R;;;;;;;;;;;;x
 b_anantasayanam;?–ã–YZ6wWSid;;;;;;;;;;;;x
 b_kandalur;uO–çv>i;;;;;;;;;;;;x
 b_nagercoil;tË„ÑyO>i;;;;;;;;;;;;x
-c_qalqut;äSáˆ;;;;;;;;;;;;x
-c_qalqut_adj;äSáˆ;;;;;;;;;;;;x
+c_qalqut;äSÌ‘;;;;;;;;;;;;x
+c_qalqut_adj;äSÌ‘;;;;;;;;;;;;x
 b_calicut;aS)RaSyr;;;;;;;;;;;;x
 b_nediyiruppu;gQê6wçvÜˆ;;;;;;;;;;;;x
 b_kannur;uªR>i;;;;;;;;;;;;x
@@ -936,7 +936,7 @@ b_narasamangala;²…Z+ƒLO…;;;;;;;;;;;;x
 b_nanjangud;ã–å‚²¿w|ƒ;;;;;;;;;;;;x
 c_manyapura;id<S6wÜˆ…;;;;;;;;;;;;x
 c_manyapura_adj;id<S6wÜˆ…;;;;;;;;;;;;x
-b_manyapura;üf6wÜˆ…;;;;;;;;;;;;x
+b_manyapura;üf6wâl…;;;;;;;;;;;;x
 b_aralaguppe;?–LR… RrQS;;;;;;;;;;;;x
 b_turuvekere;Wo›Ë—ñQ÷–;;;;;;;;;;;;x
 b_kikkeri;úWÑy)R;;;;;;;;;;;;x
@@ -1134,7 +1134,7 @@ b_nanded;ã–ĞcO–;;;;;;;;;;;;x
 b_aurad;gY…O–;;;;;;;;;;;;x
 b_qandhar;NWTÈT;;;;;;;;;;;;x
 b_shelgaon;âR…LO…id;;;;;;;;;;;;x
-b_pathri;^yráˆ;;;;;;;;;;;;x
+b_pathri;^yrÌ‘;;;;;;;;;;;;x
 b_parbhani;^>iZSN<S;;;;;;;;;;;;x
 c_parnakheta;JScQYT;;;;;;;;;;;;x
 c_parnakheta_adj;JScQYT;;;;;;;;;;;;x
@@ -1325,8 +1325,8 @@ c_rayapura;…6wÜˆ…;;;;;;;;;;;;x
 c_rayapura_adj;…6wÜˆ…;;;;;;;;;;;;x
 b_rayapura;…6wÜˆ…;;;;;;;;;;;;x
 b_rajim;…ÀNO;;;;;;;;;;;;x
-b_shivapura;¼nFZÎW;;;;;;;;;;;;x
-b_shivadurga;¼nFZzLO;;;;;;;;;;;;x
+b_shivapura;ÕoFZÎW;;;;;;;;;;;;x
+b_shivadurga;ÕoFZzLO;;;;;;;;;;;;x
 b_nandgram;ã–O–LO…id;;;;;;;;;;;;x
 c_suvarnapura;†OLR²Üˆ…;;;;;;;;;;;;x
 c_suvarnapura_adj;†OLR²Üˆ…;;;;;;;;;;;;x
@@ -1371,13 +1371,13 @@ c_khinjali_mandala;QY²Í•¨hüf|ƒ…;;;;;;;;;;;;x
 c_khinjali_mandala_adj;QY²Í•¨hüf|ƒ…;;;;;;;;;;;;x
 b_khinjali;QY²Í•¨h;;;;;;;;;;;;x
 b_nilamadhav;<S…idO–FZ;;;;;;;;;;;;x
-b_nayagarh;²6wŞY)RlT;;;;;;;;;;;;x
+b_nayagarh;²6w	T)R^;;;;;;;;;;;;x
 b_baramba;ôT-†ôT;;;;;;;;;;;;x
 c_kodalaka_mandala;ØbO–…æüf|ƒ…;;;;;;;;;;;;x
 c_kodalaka_mandala_adj;ØbO–…æ;;;;;;;;;;;;x
 b_kodalaka;ØbO–…æ;;;;;;;;;;;;x
 b_bajrakot;ôT R…ÑyTX;;;;;;;;;;;;x
-b_deogarh;ĞcFZŞY)RlT;;;;;;;;;;;;x
+b_deogarh;ĞcFZ	T)R^;;;;;;;;;;;;x
 b_talcher;TX>iR>i;;;;;;;;;;;;x
 b_dhenkanal;ŠvaSt>i;;;;;;;;;;;;x
 b_kapilash;aSiOÉbÀN;;;;;;;;;;;;x
@@ -1433,7 +1433,7 @@ b_barasuru;FZ…˜çv;;;;;;;;;;;;x
 c_nandapur;ã–O–ÎW;;;;;;;;;;;;x
 c_nandapur_adj;ã–O–ÎW;;;;;;;;;;;;x
 b_nandapur;ã–O–ÎW;;;;;;;;;;;;x
-b_dharamgarh;TidŞY)RlT;;;;;;;;;;;;x
+b_dharamgarh;Tid	T)R^;;;;;;;;;;;;x
 b_koraput;Øb…VY;;;;;;;;;;;;x
 b_junagarh;hT²ŞY)RlT;;;;;;;;;;;;x
 b_jeypore;Gy6wÎW;;;;;;;;;;;;x
@@ -1508,7 +1508,7 @@ b_mahasthangarh;id6Š©…JQ²ŞY)RlT;;;;;;;;;;;;x
 b_somapura_mahavihara;†idÜˆ… id6Š×k6Š…;;;;;;;;;;;;x
 b_totaram_panditer_dhap;FŒYÍ… ,‚Ğc‚„…WN;;;;;;;;;;;;x
 b_khulnar_dhap;N…WN;;;;;;;;;;;;x
-b_bhimer_jangal;×k©T… ìeæ…;;;;;;;;;;;;x
+b_bhimer_jangal;×k… ìeæ…;;;;;;;;;;;;x
 b_ghoraghat;¿w…LOT;;;;;;;;;;;;x
 c_suvarnagram;†OLR²LO…id;;;;;;;;;;;;x
 c_suvarnagram_adj;†OLR²LO…id;;;;;;;;;;;;x
@@ -1655,7 +1655,7 @@ b_siwan;+“,„;;;;;;;;;;;;x
 c_kusinagara;ØbMS²íc…;;;;;;;;;;;;x
 c_kusinagara_adj;ØbMS²íc…;;;;;;;;;;;;x
 b_kusinagara;ØbMS²íc…;;;;;;;;;;;;x
-b_lumbini;PT×k<S;;;;;;;;;;;;x
+b_lumbini;Í|×k<S;;;;;;;;;;;;x
 b_padrauna;LO–ŞR²;;;;;;;;;;;;x
 b_ramagrama;…idLO;;;;;;;;;;;;x
 b_pava;âlO;;;;;;;;;;;;x
@@ -1703,7 +1703,7 @@ b_kandra;ú^O–…;;;;;;;;;;;;x
 b_ambikapur;ôƒ×kæÎW;;;;;;;;;;;;x
 c_damin_i_koh;Çfl;;;;;;;;;;;;x
 c_damin_i_koh_adj;Çfl;;;;;;;;;;;;x
-b_deogarh2;ĞcFZŞY)RlT;;;;;;;;;;;;x
+b_deogarh2;ĞcFZ	T)R^;;;;;;;;;;;;x
 b_shikarji;MSIO…Bf;;;;;;;;;;;;x
 c_rajrappa;…bY…âl;;;;;;;;;;;;x
 c_rajrappa_adj;…bY…âl;;;;;;;;;;;;x
@@ -1851,8 +1851,8 @@ b_gurgi;äSçvw;;;;;;;;;;;;x
 b_satna;©…Y²;;;;;;;;;;;;x
 b_bathgahora;FZYæ|T…;;;;;;;;;;;;x
 b_chandrehi;ÃeO–¨h¯‘;;;;;;;;;;;;x
-c_delhi;·Váˆ;;;;;;;;;;;;x
-c_delhi_adj;·Váˆ;;;;;;;;;;;;x
+c_delhi;·VÌ‘;;;;;;;;;;;;x
+c_delhi_adj;·VÌ‘;;;;;;;;;;;;x
 b_indraprastha;àVO–…L…©…ÖN;;;;;;;;;;;;x
 b_dhilika;Ğc¨hæ;;;;;;;;;;;;x
 b_mehrauli;©T6Š…1›¨h;;;;;;;;;;;;x
@@ -2137,7 +2137,7 @@ b_bharuch;Ëy¯kTFZ;;;;;;;;;;;;x
 b_surat;†LRT;;;;;;;;;;;;x
 b_rander;-†Y>i;;;;;;;;;;;;x
 b_dharampur;T-†Üˆ…;;;;;;;;;;;;x
-b_variav;Oáˆæt;;;;;;;;;;;;x
+b_variav;OÌ‘æt;;;;;;;;;;;;x
 b_rajpipla;…Í•buL…;;;;;;;;;;;;x
 b_tadkeshwar;TŠ¼nO…;;;;;;;;;;;;x
 c_daman;O–üf²;;;;;;;;;;;;x
@@ -2327,7 +2327,7 @@ c_aror_adj;?–çv¨h;;;;;;;;;;;;x
 b_aror;?–çv¨h;;;;;;;;;;;;x
 b_sukkur;†«^>i;;;;;;;;;;;;x
 b_basmak;ôT¯e¬™KQ;;;;;;;;;;;;x
-b_siraj_ji_takri;¯e)R R-	T-TXKQáˆ;;;;;;;;;;;;x
+b_siraj_ji_takri;¯e)R R-	T-TXKQÌ‘;;;;;;;;;;;;x
 b_allah_abad;?–Éb ?–ôT·V;;;;;;;;;;;;x
 c_rajanpur;…ìeÜˆ…;;;;;;;;;;;;x
 c_rajanpur_adj;…ìeÜˆ…;;;;;;;;;;;;x
@@ -2370,7 +2370,7 @@ c_karur;LOçv…;;;;;;;;;;;;x
 c_karur_adj;LOçv…;;;;;;;;;;;;x
 b_karur;LOçv…;;;;;;;;;;;;x
 b_askhanda;?–¯eNWT;;;;;;;;;;;;x
-b_vehari;­tÈTáˆ;;;;;;;;;;;;x
+b_vehari;­tÈTÌ‘;;;;;;;;;;;;x
 b_chishtian;>e³R^ö^;;;;;;;;;;;;x
 b_marot;Ø…·V;;;;;;;;;;;;x
 c_karor;æçv…;;;;;;;;;;;;x
@@ -2459,12 +2459,12 @@ b_attak;?–TXKQ;;;;;;;;;;;;x
 b_mankiala;•	TN…;;;;;;;;;;;;x
 b_rawal;Ébæt>i;;;;;;;;;;;;x
 b_ohind;gY^·V;;;;;;;;;;;;x
-c_purushapura;^ï™l^;;;;;;;;;;;;x
-c_purushapura_adj;^ï™l^;;;;;;;;;;;;x
-b_purushapura;^ï™l^;;;;;;;;;;;;x
-b_shah_ji_dheri;™l-	T-,‹áˆ;;;;;;;;;;;;x
+c_purushapura;^o›™l^*m;;;;;;;;;;;;x
+c_purushapura_adj;^o›™l^*m;;;;;;;;;;;;x
+b_purushapura;^o›™l^*m;;;;;;;;;;;;x
+b_shah_ji_dheri;™l-	T-,‹Ì‘;;;;;;;;;;;;x
 b_nowshera;Yt,‹Éb;;;;;;;;;;;;x
-b_ali_masjid;?–áˆ ¥¯e	T·V;;;;;;;;;;;;x
+b_ali_masjid;?–Ì‘ ¥¯e	T·V;;;;;;;;;;;;x
 b_bajaur;ôT&q>i;;;;;;;;;;;;x
 b_mardan;¬™>i9N;;;;;;;;;;;;x
 b_shergarh;³R…ŞY)RlT;;;;;;;;;;;;x
@@ -2508,8 +2508,8 @@ b_pulatthinagara;Üˆ…‰`•^6w²íc…;;;;;;;;;;;;x
 b_gokanna;¿w¯…Ïb;;;;;;;;;;;;x
 b_sigiriya;¯ew)R6w;;;;;;;;;;;;x
 b_vatagiri;OYwĞ‘;;;;;;;;;;;;x
-b_trincomalee;­NïS¬™áˆ;;;;;;;;;;;;x
-b_girikandaka;wĞ‘ú^|ƒæ;;;;;;;;;;;;x
+b_trincomalee;­NïS¬™Ì‘;;;;;;;;;;;;x
+b_girikandaka;wéTú^|ƒæ;;;;;;;;;;;;x
 b_madakalapuva;idO–æ-†nmæt;;;;;;;;;;;;x
 c_dakhina_desa;WSßW;;;;;;;;;;;;x
 c_dakhina_desa_adj;WSßW;;;;;;;;;;;;x
@@ -2518,7 +2518,7 @@ b_samantakuta;	NüfYéwT;;;;;;;;;;;;x
 b_kalyani2;æ¨h6w<S;;;;;;;;;;;;x
 b_mahiyangana;idœUÚcLO²;;;;;;;;;;;;x
 b_jambudoni;ìeâlY<S;;;;;;;;;;;;x
-b_hatthigiripura;6Š‰`^wĞ‘Üˆ…;;;;;;;;;;;;x
+b_hatthigiripura;6Š‰`^wéTÜˆ…;;;;;;;;;;;;x
 b_kotte;HSİw;;;;;;;;;;;;x
 b_rayigama;…OLOid;;;;;;;;;;;;x
 c_rohana;çv6Šÿb;;;;;;;;;;;;x
@@ -2558,8 +2558,8 @@ c_armail;?–>i…h>i;;;;;;;;;;;;x
 c_armail_adj;?–>i…h>i;;;;;;;;;;;;x
 b_armail;N…h>i;;;;;;;;;;;;x
 b_hingula;›äSÉb;;;;;;;;;;;;x
-b_kambali;NWôTáˆ;;;;;;;;;;;;x
-b_yusli;²wáˆ;;;;;;;;;;;;x
+b_kambali;NWôTÌ‘;;;;;;;;;;;;x
+b_yusli;²wÌ‘;;;;;;;;;;;;x
 b_adinapur;²íc…UW;;;;;;;;;;;;x
 b_nagarahara;²íc…÷f;;;;;;;;;;;;x
 b_kapisa;æbufŠ;;;;;;;;;;;;x
@@ -2589,20 +2589,20 @@ b_bigeh;Ôk<h;;;;;;;;;;;;x
 b_dakkar;TaS;;;;;;;;;;;;x
 b_alemaya;?–ÒR¬™N;;;;;;;;;;;;x
 b_dandolo;9NYm;;;;;;;;;;;;x
-b_contarini;TRTXáˆ<S;;;;;;;;;;;;x
+b_contarini;TRTXÌ‘<S;;;;;;;;;;;;x
 b_faliero;ÕlR…;;;;;;;;;;;;x
 b_morosini;«ƒ…‰<S;;;;;;;;;;;;x
 b_ziani;JŸN<S;;;;;;;;;;;;x
 b_candiano;NWêNşŠ;;;;;;;;;;;;x
 b_orsoleo;gY1t÷–Pk;;;;;;;;;;;;x
 b_participazio;^ĞcQY^JŸgY;;;;;;;;;;;;x
-b_tribuno;yráˆ^şŠ;;;;;;;;;;;;x
+b_tribuno;yrÌ‘^şŠ;;;;;;;;;;;;x
 b_tradonico;yrÉbY<SÑy;;;;;;;;;;;;x
-b_doria;YáˆN;;;;;;;;;;;;x
+b_doria;Y)RN;;;;;;;;;;;;x
 b_spinola;¯e®vşŠÉb;;;;;;;;;;;;x
-b_grimaldi;<háˆ¬™>iê;;;;;;;;;;;;x
+b_grimaldi;<hÌ‘¬™>iê;;;;;;;;;;;;x
 b_fieschi;»Œ>i6w¯eGY;;;;;;;;;;;;x
-b_embriaco;i`^áˆNÑy;;;;;;;;;;;;x
+b_embriaco;i`^Ì‘NÑy;;;;;;;;;;;;x
 b_dappiano;T®vNşŠ;;;;;;;;;;;;x
 b_della_gherardesca;·VÉb <hÉb>iãN¯eaS;;;;;;;;;;;;x
 b_visconti;­t¯eTR‚„;;;;;;;;;;;;x
@@ -2638,7 +2638,7 @@ b_banan;ís‰R;;;;;;;;;;;;x
 b_shukla;ÔS…;;;;;;;;;;;;x
 b_tumanyan;WüfÚc;;;;;;;;;;;;x
 b_askiz;?–¯eúW2ƒ;;;;;;;;;;;;x
-b_arlik;‚áˆKQ;;;;;;;;;;;;x
+b_arlik;‚Ì‘KQ;;;;;;;;;;;;x
 b_dasu;T†;;;;;;;;;;;;x
 b_adar;?–T>i;;;;;;;;;;;;x
 b_masal;¬™©…Éb;;;;;;;;;;;;x

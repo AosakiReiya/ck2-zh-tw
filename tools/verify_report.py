@@ -26,6 +26,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 from convert_tw import (  # noqa: E402
+    decode_escape,
+    sniff,
     CRITICAL_BYTES, ESCAPES,
     _is_cjk_escape, decode_escape, escape_cp,
 )
@@ -279,6 +281,9 @@ def check_leftover_simplified():
         t = strip_placeholders(text_of(rel))
         for ch in t:
             if "\u4e00" <= ch <= "\u9fff":
+                # 正體多義/譯名常用字:里(里程村裡譯名)、托占征伙(正體本身)不算簡體殘留
+                if ch in ("里", "托", "占", "征", "伙", "後", "面", "只"):
+                    continue
                 r = OPENCC.convert(ch)
                 if len(r) == 1 and r != ch:
                     leftover[ch] += 1
@@ -531,6 +536,67 @@ def check_ui_title_zone80():
         ok("無 UI 標題級 0x80xx 字元(0 風險)")
     return allok
 
+
+
+def check_structured():
+    """J. 結構字符串驗證:含 §/$/[/£/數字/標點 等結構符號的行,
+    其「結構骨架」必須與簡體源逐字符一致(台灣化僅允許改 CJK 字元,
+    結構符號的位置/配對/順序不可變動 → 防 LLM 或誤改破壞變數與色彩碼)。"""
+    log("== J. 結構字符串驗證(骨架與簡體源一致) ==")
+    STRUCT = "§!$[]|£¥─—=+*%&0123456789，。！？；：、（）「」『』…·—"
+
+
+    def skeleton(text):
+        out = []
+        for ch in text:
+            if "\u4e00" <= ch <= "\u9fff":
+                out.append("中")
+            elif ch in STRUCT:
+                out.append(ch)
+            else:
+                out.append("·")
+        return "".join(out)
+
+    bad = 0
+    checked = 0
+    struct_rows = 0
+    for rel in collect_text_files():
+        cur = (ROOT / rel).read_bytes()
+        base = simp_src(rel)
+        if not base:
+            continue
+        if sniff(cur) != "escape":
+            continue
+        cs = decode_escape(cur)[0]
+        bs = decode_escape(base)[0]
+        crows = {}
+        for ln in cs.split("\n"):
+            if ";" in ln:
+                crows.setdefault(ln.split(";")[0], ln)
+        brows = {}
+        for ln in bs.split("\n"):
+            if ";" in ln:
+                brows.setdefault(ln.split(";")[0], ln)
+        for key, cln in crows.items():
+            if key not in brows:
+                continue
+            cval = cln.split(";")[1]
+            bval = brows[key].split(";")[1]
+            if not any(ch in cval for ch in "§$[|£%&0123456789"):
+                continue
+            struct_rows += 1
+            cs_, bs_ = skeleton(cval), skeleton(bval)
+            checked += 1
+            if cs_ != bs_:
+                bad += 1
+                fail(f"{rel.split('/')[-1]}:{key} 結構骨架不一致\n"
+                     + f"  簡體: {bval[:60]!r}\n  台灣: {cval[:60]!r}")
+    if bad:
+        log(f"  [INFO] 結構字符串共 {struct_rows} 條,不一致 {bad} 條")
+    else:
+        ok(f"結構字符串 {struct_rows} 條全數骨架與簡體源一致(§/$/[/數字/標點位置零變動)")
+    return bad == 0
+
 def main():
     log(f"CK2 繁體漢化 自動檢測報告 — {Path(ROOT).name}")
     log("=" * 60)
@@ -543,6 +609,7 @@ def main():
     check_glyph_whiteness()
     check_metrics_alignment()
     check_ui_title_zone80()
+    check_structured()
     log("=" * 60)
     (ROOT / "tools" / "report.txt").write_text("\n".join(REPORT) + "\n", encoding="utf-8")
     if FAILED:

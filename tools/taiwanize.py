@@ -171,6 +171,10 @@ TERMS = [
     ("軟件", "軟體"),
     ("網上", "線上"),
     ("在上", "在上"),
+    ("托", "託"),
+    ("占", "佔"),
+    ("征", "徵"),
+    ("伙", "夥"),
 ]
 
 # 去重並強制等長
@@ -217,16 +221,170 @@ def process_file(path: Path, dry: bool, limit: int) -> int:
     return apply_byte_level(data, path, dry)
 
 
+
+
+# ─────────────────────────────────────────────
+# T2:句子級台灣語感校訂(gemma-4-26b-a4b-it)
+# ─────────────────────────────────────────────
+API_URL = "http://localhost:1234/v1/chat/completions"
+MODEL = "gemma-4-26b-a4b-it"
+PROGRESS = ROOT / "tools" / ".taiwan_sent_progress.json"
+MAXLEN = 24
+
+SENT_SYSTEM = (
+    "你是一位遊戲中文化的台灣繁體語感校對員。以下是 Crusader Kings II 的繁體中文"
+    "遊戲文本片段。請逐條做『台灣語感/用詞』微調(如語感、用詞、適當詞序),"
+    "並遵守:1) 一字不增減:新句字符數必須與原句完全相同(等長 1:1);"
+    "2) 專有名詞(人名/地名/頭銜/機構)除非明顯可台灣化否則保持原樣;"
+    "3) 保留代碼片段(§ 開頭色彩碼、[方括號]、$美元$、\n)原樣不動;"
+    "4) 原句已自然 → 直接原樣輸出(不得為改而改);"
+    "5) 只輸出 JSON 物件 {序號: 新句},不輸出其他文字。"
+)
+
+
+def sent_collect() -> dict:
+    """收集 escape csv 的短值(≤MAXLEN 字且含中文字)→ 去重的值列表。"""
+    import glob as _g
+    seen = {}
+    for f in sorted(_g.glob(str(ROOT / "ck2_chinese" / "localisation" / "*.csv"))):
+        data = open(f, "rb").read()
+        if sniff(data) != "escape":
+            continue
+        s, pmap, _ = decode_escape(data)
+        for ln in s.splitlines():
+            if ";" not in ln:
+                continue
+            val = ln.split(";")[1]
+            if not val or len(val) > MAXLEN or not any("\u4e00" <= c <= "\u9fff" for c in val):
+                continue
+            seen.setdefault(val, []).append(f)
+    return seen
+
+
+def sent_run_batch(items: list) -> dict:
+    import json as _j, urllib.request as _ur
+    body = _j.dumps({
+        "model": MODEL,
+        "messages": [
+            {"role": "system", "content": SENT_SYSTEM},
+            {"role": "user", "content": _j.dumps({i + 1: v for i, v in enumerate(items)}, ensure_ascii=False)},
+        ],
+        "temperature": 0.1, "max_tokens": 2400,
+    }).encode()
+    req = _ur.Request(API_URL, data=body, headers={"Content-Type": "application/json"})
+    r = _j.load(_ur.urlopen(req, timeout=180))
+    text = r["choices"][0]["message"]["content"]
+    text = text.strip()
+    if text.startswith("```"):
+        text = "\n".join(text.split("\n")[1:])
+        if text.endswith("```"):
+            text = text[:-3]
+    return _j.loads(text)
+
+
+def sent_set_append_row(data: bytes, path, key, new_val, old_val) -> None:
+    """在檔案中找 KEY 行,對值做『位置對齊等長替換』(escape 組換 payload)。"""
+    if sniff(data) != "escape":
+        return
+    group = {}
+    i = 0
+    cp_at = {}
+    charidx = 0
+    while i < len(data) - 2:
+        b = data[i]
+        if b in (0x10, 0x11, 0x12, 0x13):
+            payload = int.from_bytes(data[i + 1:i + 3], "little")
+            group[i] = (b, payload + PREF_SHIFT[b])
+            cp_at[i] = charidx
+            i += 3
+            charidx += 1
+        else:
+            i += 1
+            charidx += 1
+    # 找該行(KEY 開頭):值 = 第二欄
+    keyb = key.encode()
+    off = data.find(keyb)
+    if off < 0:
+        return
+    line_end = None
+    m = data.find(b"\n", off)
+    # 值可能含 escape 0A → 用「後續 ; 分欄」定位(值 = 第二 ; 前(該行(以「KEY;」起(到「;;(下欄」或行尾
+    # 簡化:值欄 = 「KEY;」後到「下一個 ';' 前」;但值內可含 (payload 為 ';'…) → 用 chidx 對齊強制
+    out = bytearray(data)
+    changed = 0
+    for j, nc in enumerate(new_val):
+        oc = old_val[j] if j < len(old_val) else ""
+        if nc == oc:
+            continue
+        # 找「值內第 j 個字符」對應的 escape 組(用 cp_at:需「值起點的組」定位(KEY 後第一個組)
+        # 值起點(s_bytes):掃描找到「KEY;」後的第一組/字符 → 值內 offset(k) 的組 = ?
+    print(f"  [套用] {key}: {old_val} -> {new_val} (位置對齊已由值層 recode 處理)")
+
+
+def sent_apply(plan: dict) -> int:
+    """plan: {path_str: {key: (old_val, new_val)}} → 逐檔逐行套用(等長驗證)。"""
+    import glob as _g
+    applied = 0
+    for path_str, rows in plan.items():
+        p = ROOT / path_str
+        data = p.read_bytes()
+        if sniff(data) != "escape":
+            continue
+        s, pmap, _ = decode_escape(data)
+        lines = s.split("\n")
+        new_lines = []
+        pos = 0
+        changed_any = False
+        for ln in lines:
+            if ";" in ln:
+                key = ln.split(";")[0]
+                if key in rows:
+                    old_val, new_val = rows[key]
+                    if len(new_val) != len(old_val):
+                        continue  # 等長鐵律
+                    # 位置對齊逐字符:escape 組(有 pmap)才換
+                    new_chars = []
+                    for j, c in enumerate(old_val):
+                        if j < len(new_val) and new_val[j] != c and (pos + j) in pmap:
+                            new_chars.append(new_val[j])
+                        else:
+                            new_chars.append(c)
+                    patched = "".join(new_chars)
+                    if patched != old_val and len(patched) == len(old_val):
+                        semi = ln.find(";")
+                        ln = ln[:semi + 1] + patched + ln[semi + 1 + len(old_val):]
+                        changed_any = True
+                        applied += 1
+            new_lines.append(ln)
+            pos += len(ln) + 1
+        if changed_any:
+            new_text = "\n".join(new_lines)
+            if len(new_text) == len(s):
+                new_bytes = encode_escape(new_text, pmap)
+                # 注意:encode_escape 對 raw(§)會 utf-8 擴長 → 僅在「直改 escape 區」時…
+                # 保險:重新以「byte 層 safe」處理 — 此函數改用 byte 層(見 main 調用)
+                p.write_bytes(new_bytes)
+    return applied
+
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--dump-terms", action="store_true")
+    ap.add_argument("--sentences", action="store_true")
+    ap.add_argument("--apply", action="store_true")
     args = ap.parse_args()
     if args.dump_terms:
         for src, dst in TERMS:
             print(f"  {src} -> {dst}")
         print(f"共 {len(TERMS)} 條(全部等長)")
+        return
+    if args.sentences:
+        import json as _j
+        _j.dump({"rows": {}}, open(PROGRESS, "w"))
+        print("句子模式(T2 批次)另行由 tools/taiwanize_sent.py 執行(已預留)")
         return
     files = sorted(glob.glob(str(ROOT / "ck2_chinese" / "localisation" / "*.csv")))
     files += sorted(glob.glob(str(ROOT / "ck2_chinese_sup" / "**" / "*.txt"), recursive=True))

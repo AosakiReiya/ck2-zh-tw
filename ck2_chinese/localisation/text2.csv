@@ -714,7 +714,7 @@ MORALE_EFFECT;$SIDE$„vèŠ–—V0R $PERC$ ëX2l0\n;;;;;;;;;;;;x
 REINFORCE_EFFECT;$SIDE$„vèŠ–—V0R $PERC$ ÜˆáT0\n;;;;;;;;;;;;x
 INVERTREINFORCE_EFFECT;$SIDE$„vèŠ–b×S $PERC$ d1Y0\n;;;;;;;;;;;;x
 FLANK_SIDE_ATTACKER;JeÊd¹e;;;;;;;;;;;;x
-FLANK_SIDE_DEFENDER;2–¡V¹e;;;;;;;;;;;;x
+FLANK_SIDE_DEFENDER;2–¦p¹e;;;;;;;;;;;;x
 CANNOT_ACTUALLY_CALL_DESC_3;$CHAR$Nıw ReQ$CALLER$ÃS‚„vOb	g0b-r;;;;;;;;;;;;x
 ASK_FOR_INVASION_INTERACTION_DESC;ËŠBl§Y[Recipient.RelHead.GetTitledFirstName]§WAQ1ŠeQµO§Y[Recipient.GetTitledFirstName]§W0g±‚»Œ §R[GetPietyCost]§W [Player.Religion.GetPietyName]ÿFOgAQ1Š`O|vÕRyYÖS§Y[Recipient.PrimaryTitle.GetFullName]§W„v0b-r0;;;;;;;;;;;;x
 ASK_FOR_INVASION_INTERACTION_0;ËŠBl§Y[Recipient.GetTitledFirstName]§WAQ1ŠeQµO§Y[ThirdPartyCharacter.GetTitledFirstName]§W0g±‚»Œ §R[GetPietyCost]§! [Player.Religion.GetPietyName]ÿFOgAQ1Š`O|vÕRyYÖS§Y[ThirdPartyCharacter.PrimaryTitle.GetFullName]§W„v0b-r0;;;;;;;;;;;;x
@@ -1058,7 +1058,7 @@ EVTTOOLTIP3072;[Root.Liege.GetTitledFirstName]ÉarŠåwSbNg¹RÍV.z
 EVTDESC3072;vlbŒT[From.GetTitledFirstName]ÖNNwérus„vBfPÿbPSb0R†NˆVYusirÿàVdkbPzlšRãŒ‰cN›N0vlbPãŒŒRKNŒ_ÿbPàVÉp1“„vRM‘|vu†N-r÷W0;;;;;;;;;;;;x
 EVTOPTA3072;bP(Wb„vîh—gáˆSbusÿbÉarŠrs—VôfY„vÑ‘c^ÿ;;;;;;;;;;;;x
 COMBATEND_ATTACKERS;JeÊd¹e;;;;;;;;;;;;x
-COMBATEND_DEFENDERS;2–¡V¹e;;;;;;;;;;;;x
+COMBATEND_DEFENDERS;2–¦p¹e;;;;;;;;;;;;x
 COMBATEND_LEFT_AS_GARRISON;YukOˆR™PèŠ–;;;;;;;;;;;;x
 FE_VASSALS;Sãÿ;;;;;;;;;;;;x
 EVTDESC3662;0«spt>ftr‚„v\n+t…-†>fÍ…r‚„v\n*YŒ–TŒ¦!qÔkFOwck¦„v>f`O&&0\näNbZšŠ„v>fÿvl[From.GetSheHe]JT4Šb[From.GetHerHim]QnN’l	gôfYqg‰YebBfÿbèla0R†N(W[From.GetTitledFirstName]ÉN„v<wÚm0;;;;;;;;;;;;x

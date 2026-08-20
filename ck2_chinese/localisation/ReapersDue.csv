@@ -66,7 +66,7 @@ educated_court_physician;>fNPäÙt	g/tÑvÆR˜^∫ë+^\n;;;;;;;;;;;;x
 EVTOPTB39400;◊SjäíTÑvplYeíVˇ;;;;;;;;;;;;x
 become_vaishya;äã…p/TÇ.z”Y;;;;;;;;;;;;x
 CHRONICLE_BECAME_VAISHYA;[Root.GetTitledFirstNameWithNick]NGS0R/TÇ.z”Yˇ(W[Root.Religion.GetName]Ñvqtªlw-N…p[Root.GetHerHis]∂RœeçóV∞eÑvZg0;;;;;;;;;;;;x
-typhus;2óﬂq±q;;;;;;;;;;;;x
+typhus;‚Sóg±q;;;;;;;;;;;;x
 typhoid_fever;ba'`±q;;;;;;;;;;;;x
 dancing_plague;ÇHév´u;;;;;;;;;;;;x
 dancing_plague_desc;dk“ârÇa”gÜNÇHév´uˇÛçÇÛçóVkPNNÜO0ê>fP‰N∫NKr≤uõRmÑv¿rKa0;;;;;;;;;;;;x
@@ -557,7 +557,7 @@ depopulated_2_desc;dkw˝N‡V…p´u≈uw˙Q˛soòWÑÑv∫N„SxeœëNMñ0
 depopulated_3;∫N„Sxeœë%`áRNMñ;;;;;;;;;;;;x
 depopulated_3_desc;dkw˝N‡V…p´u≈uw˙Q˛s∫N„Sxeœë%`áRNMñ0ÂÇdkw˝N´u≈`óV0R∂c6RˇóÅâàVYt^Bfìïb`∏_∫N„S0;;;;;;;;;;;;x
 EVTNAME_RIP_10015;pS¶^v´uÜwPÜ;;;;;;;;;;;;x
-EVTOPTA_RIP_10015;¿NºûBfP>fP-òJUˇ;;;;;;;;;;;;x
+EVTOPTA_RIP_10015;¿NºûBfP\b0R-òJUˇ;;;;;;;;;;;;x
 EVTNAME_RIP_10016;‚lØev´uÜwPÜ;;;;;;;;;;;;x
 EVTNAME_RIP_10017;-Nqgv´uÜwPÜ;;;;;;;;;;;;x
 EVTNAME_RIP_10018;^ó2mv´uÜwPÜ;;;;;;;;;;;;x
@@ -1040,7 +1040,7 @@ EVTOPTA_RIP_11042;bÛ`ba∫âåYﬁûÜN0;;;;;;;;;;;;x
 EVTOPTB_RIP_11042;nN1äb…aräXc(uNõN%RÑvBv’l&&;;;;;;;;;;;;x
 EVTOPTA_RIP_11046;bàVÿöÇÒP(uÜN[FromFrom.GetFirstName]0;;;;;;;;;;;;x
 EVTOPTB_RIP_11046;bNÂwSê≤ê	g¿NºûHeúg0;;;;;;;;;;;;x
-has_typhus;2óﬂq±q;;;;;;;;;;;;x
+has_typhus;‚Sóg±q;;;;;;;;;;;;x
 has_tuberculosis;∫wFv;;;;;;;;;;;;x
 has_bubonic_plague;—ûäk≈u;;;;;;;;;;;;x
 has_measles;ªûπu;;;;;;;;;;;;x
@@ -3406,8 +3406,8 @@ HAS_LOOT_TRIGGER;´R†cÜNÛÅS $NEED|Y$§;;;;;;;;;;;;x
 HAS_LOOT_TRIGGER_NOT;´R†cÜNSºe $NEED|Y$§;;;;;;;;;;;;x
 HAS_REGIMENTS;ÚTìtDt˙^ÕéW;;;;;;;;;;;;x
 HAS_NOT_REGIMENTS;*gDt˙^ÕéW;;;;;;;;;;;;x
-LIEGE_IS_IN_THE_PROCESS_OF_ENFORCING_REALM_PEACE;òJN(WFV6RhQÉXåTs^Ñvzè^-N;;;;;;;;;;;;x
-LIEGE_IS_NOT_IN_THE_PROCESS_OF_ENFORCING_REALM_PEACE;òJN*g(WFV6RhQÉXåTs^Ñvzè^-N;;;;;;;;;;;;x
+LIEGE_IS_IN_THE_PROCESS_OF_ENFORCING_REALM_PEACE;òJN(WFV6RhQÉXåTs^Ñvz_-N;;;;;;;;;;;;x
+LIEGE_IS_NOT_IN_THE_PROCESS_OF_ENFORCING_REALM_PEACE;òJN*g(WFV6RhQÉXåTs^Ñvz_-N;;;;;;;;;;;;x
 HAS_NEWLY_ACQUIRED_TITLES;∞e—è÷SóV-òúí;;;;;;;;;;;;x
 DONT_HAS_NEWLY_ACQUIRED_TITLES;∞e—è*g÷SóV-òúí;;;;;;;;;;;;x
 NOT_ALLOWED_TO_PLAY_WITHOUT_DLC;íl	gßY$DLC$ß!DLCˇN˝wxê«dêP“ârÇ2êLàJê2bˇ;;;;;;;;;;;;x

@@ -5455,7 +5455,7 @@ baron_female;sY7u5r;;;;;;;;;;;;x
 emperor_king_christian;^ávJNYe;;;;;;;;;;;;x
 temple_king_christian;ãs5rJNYe;;;;;;;;;;;;x
 temple_king_orthodox;ãs5rJNYe;;;;;;;;;;;;x
-temple_king_muslim;»T·à|v;;;;;;;;;;;;x
+temple_king_muslim;»TÃë|v;;;;;;;;;;;;x
 temple_duke_christian;°cëê'YJNYe;;;;;;;;;;;;x
 temple_duke_orthodox;°cëê'YJNYe;;;;;;;;;;;;x
 temple_duke_sunni;'YFz+Y–c;;;;;;;;;;;;x
@@ -5655,7 +5655,7 @@ e_rebels_adj;€SÕé;;;;;;;;;;;;x
 e_pirates;wm‹v;;;;;;;;;;;;x
 e_hre;^yeÄÖ¨ô^W;;;;;;;;;;;;x
 e_hre_adj;^yeÄÖ¨ô;;;;;;;;;;;;x
-e_byzantium;‹bTO≠^^W;;;;;;;;;;;;x
+e_byzantium;‹b`S≠^^W;;;;;;;;;;;;x
 e_byzantium_adj;‹bTO≠^;;;;;;;;;;;;x
 e_latin_empire;…bN^W;;;;;;;;;;;;x
 e_latin_empire_adj;…bN;;;;;;;;;;;;x
@@ -5704,7 +5704,7 @@ b_sinope;+ì˛äÆv;;;;;;;;;;;;x
 b_pompeiopolis;êüùå‚l)RØe;;;;;;;;;;;;x
 b_germanicopolis;Âe>i¸f<S—y‚l)RØe;;;;;;;;;;;;x
 b_aboniteichos;?ñÉl™RÇÑóØe;;;;;;;;;;;;x
-b_amastris;?ñ¨ôØeyr·àØe;;;;;;;;;;;;x
+b_amastris;?ñ¨ôØeyrÃëØe;;;;;;;;;;;;x
 b_comana;—y¨ôt;;;;;;;;;;;;x
 b_talaura;TXﬁR…b;;;;;;;;;;;;x
 b_themiscyra;“VLVØe´^…b;;;;;;;;;;;;x
@@ -5959,21 +5959,21 @@ b_trikkala;yr·àaS…b;;;;;;;;;;;;x
 b_stagi;ØeTX˙W;;;;;;;;;;;;x
 d_dyrrachion;˝ê…bJü¡;;;;;;;;;;;;x
 d_dyrrachion_adj;˝ê…bJü¡;;;;;;;;;;;;x
-c_strymon_adj;Øeyr·àôÑ;;;;;;;;;;;;x
+c_strymon_adj;ØeyrÃëôÑ;;;;;;;;;;;;x
 b_skopje;Øe—ynf·à;;;;;;;;;;;;x
 b_strumica;Øeyroõs|ﬂR;;;;;;;;;;;;x
 b_veles;ÀóÑØe;;;;;;;;;;;;x
-b_prilep;nf·àÑnf;;;;;;;;;;;;x
+b_prilep;nfÃëÑnf;;;;;;;;;;;;x
 b_prosek;nfÖ^XKQ;;;;;;;;;;;;x
 b_trikves;ÇÑKQÀó¿N;;;;;;;;;;;;x
 b_kocane;—yÂggQ;;;;;;;;;;;;x
 b_kratovo;KQ…bäÉl;;;;;;;;;;;;x
-b_ohrid;gYkç·à∑V;;;;;;;;;;;;x
+b_ohrid;gYkçÃë∑V;;;;;;;;;;;;x
 b_debar;∑VÙT>i;;;;;;;;;;;;x
-b_kastoria;aSØeä·àûN;;;;;;;;;;;;x
+b_kastoria;aSØeXbÃëûN;;;;;;;;;;;;x
 b_kicevo;˙WRÉl;;;;;;;;;;;;x
 b_svetigrad;ØeÀóÇÑ<h…b∑V;;;;;;;;;;;;x
-b_bitola;‘kä…b;;;;;;;;;;;;x
+b_bitola;‘kXb…b;;;;;;;;;;;;x
 b_tomot;Wÿûyr;;;;;;;;;;;;x
 b_krusevo;KQoõÇÉl;;;;;;;;;;;;x
 c_dyrrachion_adj;˝ê…bJü¡;;;;;;;;;;;;x
@@ -6023,7 +6023,7 @@ b_levadhia;ÑÊt»å;;;;;;;;;;;;x
 b_demetrias;∑Vs|yr·à?ñØe;;;;;;;;;;;;x
 b_ravennika;…báe<SaS;;;;;;;;;;;;x
 b_gravia;<h…b≠tûN;;;;;;;;;;;;x
-b_naupaktos;t+Y^KQäØe;;;;;;;;;;;;x
+b_naupaktos;t+Y^KQXbØe;;;;;;;;;;;;x
 b_amphissa;âRÚÉ©Ö;;;;;;;;;;;;x
 b_lidoriki;)RPO·à˙W;;;;;;;;;;;;x
 b_kastrinitsi;aSØeyr·à<SJü;;;;;;;;;;;;x
@@ -6528,8 +6528,8 @@ b_waldeck;Êt>i∑VKQ;;;;;;;;;;;;x
 b_wolfenbuttel;Él>i¨Ç‘kyr>i;;;;;;;;;;;;x
 b_helmstedt;—û>i∆YÃelyr;;;;;;;;;;;;x
 b_gandersheim;u∑VØewm∆Y;;;;;;;;;;;;x
-d_brandenburg;√R-Üäv!X;;;;;;;;;;;;x
-d_brandenburg_adj;√R-Üäv!X;;;;;;;;;;;;x
+d_brandenburg;^-Üäv!X;;;;;;;;;;;;x
+d_brandenburg_adj;^-Üäv!X;;;;;;;;;;;;x
 b_werben;Àó,g;;;;;;;;;;;;x
 b_halberstedt;»T>i>OÃeTXyr;;;;;;;;;;;;x
 b_walbeck;Êt>iùåKQ;;;;;;;;;;;;x
@@ -6546,8 +6546,8 @@ b_dessau;∑V9t;;;;;;;;;;;;x
 b_arnstein;?ñi`Ãel‡V;;;;;;;;;;;;x
 b_querfurt;NY>iÃRyr;;;;;;;;;;;;x
 b_bernburg;ùåi`!X;;;;;;;;;;;;x
-b_brandenburg_adj;√R-Üäv!X;;;;;;;;;;;;x
-b_brandenburg;√R-Üäv!X;;;;;;;;;;;;x
+b_brandenburg_adj;^-Üäv!X;;;;;;;;;;;;x
+b_brandenburg;^-Üäv!X;;;;;;;;;;;;x
 b_havelberg;»TV>iùå<h;;;;;;;;;;;;x
 b_berlin;œgóg;;;;;;;;;;;;x
 b_juterborg;ºeyrZS<h;;;;;;;;;;;;x
@@ -6755,9 +6755,9 @@ b_roermond;oõ>iôÑ∑V;;;;;;;;;;;;x
 b_duren;Íè+P;;;;;;;;;;;;x
 b_moers;ÿû>iØe;;;;;;;;;;;;x
 b_monschau;ôÑ9t;;;;;;;;;;;;x
-c_trier_adj;yr·à>i;;;;;;;;;;;;x
+c_trier_adj;yrÃë>i;;;;;;;;;;;;x
 b_andernach;âR∑Vtkç;;;;;;;;;;;;x
-b_trier;yr·à>i;;;;;;;;;;;;x
+b_trier;yrÃë>i;;;;;;;;;;;;x
 b_coblenz;—y^+P(É;;;;;;;;;;;;x
 b_sponheim;ÃeÏÑwm∆Y;;;;;;;;;;;;x
 b_wittlich;≠tyr)R^;;;;;;;;;;;;x
@@ -6905,8 +6905,8 @@ b_sterzing;Ãel>iRó;;;;;;;;;;;;x
 b_ried;·à∑V;;;;;;;;;;;;x
 b_imst;O∆YØeyr;;;;;;;;;;;;x
 b_nenzing;ÈZRó;;;;;;;;;;;;x
-c_trent_adj;yr+Pä;;;;;;;;;;;;x
-b_trento;yr+Pä;;;;;;;;;;;;x
+c_trent_adj;yr+PXb;;;;;;;;;;;;x
+b_trento;yr+PXb;;;;;;;;;;;;x
 b_brixen;^·à3u;;;;;;;;;;;;x
 b_schlanders;Ãe-Ü∑VØe;;;;;;;;;;;;x
 b_bruneck;^oõgQKQ;;;;;;;;;;;;x
@@ -6970,7 +6970,7 @@ d_bavaria_adj;ÙTO)RûN;;;;;;;;;;;;x
 b_kempten;Øwnf’n;;;;;;;;;;;;x
 b_zumarshausen;ZiØe¨ôØejåÓh;;;;;;;;;;;;x
 b_donauworth;YYtÉlyr;;;;;;;;;;;;x
-b_friedberg;V·à∑Vùå<h;;;;;;;;;;;;x
+b_friedberg;VÃë∑Vùå<h;;;;;;;;;;;;x
 b_hochstadt;kç^ÃeTXyr;;;;;;;;;;;;x
 b_rain;Ùåi`;;;;;;;;;;;;x
 b_munchen;Ua<S—û;;;;;;;;;;;;x
@@ -7237,7 +7237,7 @@ b_skomanten;Øe—y¸f’n;;;;;;;;;;;;x
 c_sambia_adj;Qh‘kûN;;;;;;;;;;;;x
 b_konigsberg;Ôg<SØe!X;;;;;;;;;;;;x
 b_fischhausen;ÚÉÃejåÓh;;;;;;;;;;;;x
-b_sambrandenburg;√R-Üäv!X;;;;;;;;;;;;x
+b_sambrandenburg;^-Üäv!X;;;;;;;;;;;;x
 b_tapiau;TXÆvgY;;;;;;;;;;;;x
 b_labiau;…b‘kgY;;;;;;;;;;;;x
 b_frombork;Vçü!X;;;;;;;;;;;;x
@@ -7361,7 +7361,7 @@ d_vitebsk_adj;≠twc^ØeKQ;;;;;;;;;;;;x
 c_minsk_adj;fØeKQ;;;;;;;;;;;;x
 b_minsk;fØeKQ;;;;;;;;;;;;x
 b_maladzyechna;´ÉmëPGY˛ä;;;;;;;;;;;;x
-b_borisow;ëõ·à1t+Y;;;;;;;;;;;;x
+b_borisow;ëõÃë1t+Y;;;;;;;;;;;;x
 b_kletsk;KQR(ÉKQ;;;;;;;;;;;;x
 b_berezino;%RR%m˛ä;;;;;;;;;;;;x
 b_nesvizh;ÖmØe≠tÂe;;;;;;;;;;;;x
@@ -7388,7 +7388,7 @@ b_baroniki;ZSÖ<S˙W;;;;;;;;;;;;x
 d_courland;´^>i-Ü;;;;;;;;;;;;x
 d_courland_adj;´^>i-Ü;;;;;;;;;;;;x
 c_zemigalians_adj;≥o∆Y†RÑ;;;;;;;;;;;;x
-b_riga;·à†R;;;;;;;;;;;;x
+b_riga;Ãë†R;;;;;;;;;;;;x
 b_bauska;SØeaS;;;;;;;;;;;;x
 b_skaistkalne;ØeÒQØeyraS>igQ;;;;;;;;;;;;x
 b_mezotne;ÖhÂÇyrgQ;;;;;;;;;;;;x
@@ -7925,7 +7925,7 @@ b_glukhovichi;<hÁvó≠tGY;;;;;;;;;;;;x
 b_zaraysk;NbÙåØeKQ;;;;;;;;;;;;x
 b_bronnitsy;^çü<SJü;;;;;;;;;;;;x
 b_ramenskoye;…bÏ}Øe—y6w;;;;;;;;;;;;x
-b_egorevsk;IÑb·à6w+YØeKQ;;;;;;;;;;;;x
+b_egorevsk;IÑbÃë6w+YØeKQ;;;;;;;;;;;;x
 b_peski;iOØe˙W;;;;;;;;;;;;x
 b_cherkizovo;R>i˙WPOÉl;;;;;;;;;;;;x
 d_moskva;´ÉØe—y;;;;;;;;;;;;x
@@ -8010,11 +8010,11 @@ b_buchach;^p`GY;;;;;;;;;;;;x
 b_zalischyky;NbR^˙W;;;;;;;;;;;;x
 c_kiev_adj;˙Wè;;;;;;;;;;;;x
 b_kiev;˙Wè;;;;;;;;;;;;x
-b_yuriev;3S·à6w+Y;;;;;;;;;;;;x
+b_yuriev;3SÃë6w+Y;;;;;;;;;;;;x
 b_iskorosten;OØe—yÖØeX;;;;;;;;;;;;x
 b_vyshhorod;≠t¿NbÖ∑V;;;;;;;;;;;;x
 b_ovruch;gY+YoõGY;;;;;;;;;;;;x
-b_zhitomir;Âeäs|>i;;;;;;;;;;;;x
+b_zhitomir;ÂeXbs|>i;;;;;;;;;;;;x
 b_malyn;¨ôóg;;;;;;;;;;;;x
 b_fastiv;’lØeä+Y;;;;;;;;;;;;x
 d_galich;†R)RGY;;;;;;;;;;;;x
@@ -8317,8 +8317,8 @@ b_izyum;OEN∆Y;;;;;;;;;;;;x
 b_balakliia;ÙT…bKQRûN;;;;;;;;;;;;x
 b_kupyansk;´^nf⁄cØeKQ;;;;;;;;;;;;x
 b_lyubotin;ÛgZS¨N;;;;;;;;;;;;x
-d_crimea;KQ·às|ûN;;;;;;;;;;;;x
-d_crimea_adj;KQ·às|ûN;;;;;;;;;;;;x
+d_crimea;KQÃës|ûN;;;;;;;;;;;;x
+d_crimea_adj;KQÃës|ûN;;;;;;;;;;;;x
 c_lower_don_adj;Nò≥l;;;;;;;;;;;;x
 b_taganrog;TXuÖ<h;;;;;;;;;;;;x
 b_matveevkurgan;¨ôyrÀó6w+Y-´^>iy^;;;;;;;;;;;;x
@@ -8357,10 +8357,10 @@ b_dnieprkherson;kç>içg;;;;;;;;;;;;x
 b_kyzylyar;KQkR“RûN>i;;;;;;;;;;;;x
 b_shagingirei;ôl—ë-	T˜ñ;;;;;;;;;;;;x
 b_kuturogly;´^W>i-gY<h˜ñ;;;;;;;;;;;;x
-b_tokmak;äKQ¨ôKQ;;;;;;;;;;;;x
+b_tokmak;XbKQ¨ôKQ;;;;;;;;;;;;x
 b_pryazovske;nf·à?ñPO+YâKQ;;;;;;;;;;;;x
 b_bilozerka;%Rm&q>iaS;;;;;;;;;;;;x
-c_crimea_adj;KQ·às|ûN;;;;;;;;;;;;x
+c_crimea_adj;KQÃës|ûN;;;;;;;;;;;;x
 b_bakhchisaray;ÙTkçGY©ÖÙå;;;;;;;;;;;;x
 b_aqmescit;?ñKQÖhØe	Tyr;;;;;;;;;;;;x
 b_dzhankoy;TO—yO;;;;;;;;;;;;x
@@ -8486,8 +8486,8 @@ b_birlik;‘k>i)RKQ;;;;;;;;;;;;x
 b_karabatyr;»T…bÙTyr>i;;;;;;;;;;;;x
 b_mantyube;¸fW‘k;;;;;;;;;;;;x
 b_besikty;‘k,ãKQyr;;;;;;;;;;;;x
-c_aqtobe_adj;?ñKQä%R;;;;;;;;;;;;x
-b_aqtobe;?ñKQä%R;;;;;;;;;;;;x
+c_aqtobe_adj;?ñKQXb%R;;;;;;;;;;;;x
+b_aqtobe;?ñKQXb%R;;;;;;;;;;;;x
 b_ashchesay;?ñ,ã-ç;;;;;;;;;;;;x
 b_burta;^>iTX;;;;;;;;;;;;x
 b_sibiryak;1Y≈VRQ≈ñKQ;;;;;;;;;;;;x
@@ -9254,7 +9254,7 @@ b_ramadi;…b¨ôÍè;;;;;;;;;;;;x
 b_kasra;aSïd…b;;;;;;;;;;;;x
 b_nehardea;<Skçï^;;;;;;;;;;;;x
 b_bayji;‹b	T;;;;;;;;;;;;x
-b_tagrit;–cKQ·àyr;;;;;;;;;;;;x
+b_tagrit;–cKQÃëyr;;;;;;;;;;;;x
 b_samarra;©ÖÅê…b;;;;;;;;;;;;x
 b_balad;‹bÑ∑V;;;;;;;;;;;;x
 b_dujail;kg»å>i;;;;;;;;;;;;x
@@ -9405,7 +9405,7 @@ b_aghtamar;?ñkçTX¨ô>i;;;;;;;;;;;;x
 b_bakear;ÙTKQ>i;;;;;;;;;;;;x
 b_hadamakert;»TTê¨ôKQyr;;;;;;;;;;;;x
 c_dwin_adj;∑V´n;;;;;;;;;;;;x
-b_lori;m·à;;;;;;;;;;;;x
+b_lori;mâÉ;;;;;;;;;;;;x
 b_dvin;∑V´n;;;;;;;;;;;;x
 b_etchmiadzin;√WGYs|?ñ%m;;;;;;;;;;;;x
 b_erebuni;√W˜ñ^<S;;;;;;;;;;;;x
@@ -9572,7 +9572,7 @@ b_satala;©ÖTX…b;;;;;;;;;;;;x
 b_thera;yr˜ñ;;;;;;;;;;;;x
 b_oukhiti;áäâ–c;;;;;;;;;;;;x
 b_askale;?ñ¿NaSÑ;;;;;;;;;;;;x
-b_tortum;ä>iW∆Y;;;;;;;;;;;;x
+b_tortum;Xb>iW∆Y;;;;;;;;;;;;x
 c_trapezous_adj;yr…biOVyØe;;;;;;;;;;;;x
 b_trapezous;yr…biOVyØe;;;;;;;;;;;;x
 b_koralla;ó˜ñ…b;;;;;;;;;;;;x
@@ -9685,7 +9685,7 @@ b_tskhoumi;(É·ws|;;;;;;;;;;;;x
 b_pitsunda;ÆvpwTê;;;;;;;;;;;;x
 b_anakopia;?ñt—yÆvûN;;;;;;;;;;;;x
 b_gagra;†R<h…b;;;;;;;;;;;;x
-b_egrisi;√W<h·àâ;;;;;;;;;;;;x
+b_egrisi;√W<hÃëâ;;;;;;;;;;;;x
 b_bzyb;^2ÉÆv;;;;;;;;;;;;x
 b_zugdidi;Vy<hÍèÍè;;;;;;;;;;;;x
 k_bulgaria;›O†R)RûN;;;;;;;;;;;;x
@@ -10265,7 +10265,7 @@ b_illanz;O-Ü(É;;;;;;;;;;;;x
 b_thusis;WâØe;;;;;;;;;;;;x
 b_glurns;<hÁvi`Øe;;;;;;;;;;;;x
 b_zuoz;ZigY(É;;;;;;;;;;;;x
-c_grisons_adj;<h·àçg;;;;;;;;;;;;x
+c_grisons_adj;<hÃëçg;;;;;;;;;;;;x
 b_disentis;ÍèÓhÇÑØe;;;;;;;;;;;;x
 b_mendrisio;èï∑V·àâgY;;;;;;;;;;;;x
 c_pavia_adj;^≠tûN;;;;;;;;;;;;x
@@ -10273,7 +10273,7 @@ b_pavia;^≠tûN;;;;;;;;;;;;x
 b_bobbio;ZS‘kgY;;;;;;;;;;;;x
 b_piacenza;ÆvûN4tﬂR;;;;;;;;;;;;x
 b_voghera;ÉlÀÑ…b;;;;;;;;;;;;x
-b_alessandria;ûNwkqS∑V·àûN;;;;;;;;;;;;x
+b_alessandria;ûNwkqS∑VÃëûN;;;;;;;;;;;;x
 b_casteggio;aSØel&q;;;;;;;;;;;;x
 b_colorno;—ym>i˛ä;;;;;;;;;;;;x
 b_montebello;ôÑyrùåm;;;;;;;;;;;;x
@@ -10414,7 +10414,7 @@ d_ancona;âR—yt;;;;;;;;;;;;x
 d_ancona_adj;âR—yt;;;;;;;;;;;;x
 b_ancona;âR—yt;;;;;;;;;;;;x
 b_pesaro;iO©ÖÖ;;;;;;;;;;;;x
-b_rimini;·às|<S;;;;;;;;;;;;x
+b_rimini;Ãës|<S;;;;;;;;;;;;x
 b_matelica;¨ôl)RaS;;;;;;;;;;;;x
 b_osimo;gYâ´É;;;;;;;;;;;;x
 b_fermo;ªå>i´É;;;;;;;;;;;;x
@@ -10955,7 +10955,7 @@ b_tournoel;W>it>i;;;;;;;;;;;;x
 b_clermont;KQÑôÑ;;;;;;;;;;;;x
 b_mozac;´ÉNbKQ;;;;;;;;;;;;x
 b_murol;s|Ö“R;;;;;;;;;;;;x
-b_aurillac;Pk·àûNKQ;;;;;;;;;;;;x
+b_aurillac;PkÃëûNKQ;;;;;;;;;;;;x
 b_carlat;aS>i…b;;;;;;;;;;;;x
 b_brioude;^·àœp∑V;;;;;;;;;;;;x
 b_domeyrat;YÖh…b;;;;;;;;;;;;x
@@ -11885,8 +11885,8 @@ b_montereal;ôÑÇÑ˜ñûN>i;;;;;;;;;;;;x
 b_penela;iOgQ…b;;;;;;;;;;;;x
 d_beja;ùå≈ñ;;;;;;;;;;;;x
 d_beja_adj;ùå≈ñ;;;;;;;;;;;;x
-c_lisboa_adj;·àØe,g;;;;;;;;;;;;x
-b_lisboa;·àØe,g;;;;;;;;;;;;x
+c_lisboa_adj;ÃëØe,g;;;;;;;;;;;;x
+b_lisboa;ÃëØe,g;;;;;;;;;;;;x
 b_alcobaca;?ñ>i—yÙT©Ö;;;;;;;;;;;;x
 b_setubal;^XWÙT>i;;;;;;;;;;;;x
 b_batalha;ÙTTX)RûN;;;;;;;;;;;;x
@@ -12237,9 +12237,9 @@ b_aljanain;ëPt‡V;;;;;;;;;;;;x
 b_haddej;»T∑V»å;;;;;;;;;;;;x
 b_steftimi;^X+Y–cs|;;;;;;;;;;;;x
 b_alqalah;aS…bU;;;;;;;;;;;;x
-d_tripolitania;ÑvŒû‚l·àTX<SûN;;;;;;;;;;;;x
-d_tripolitana_adj;ÑvŒû‚l·àTX<SûN;;;;;;;;;;;;x
-c_tripolitana_adj;ÑvŒû‚l·àTX<SûN;;;;;;;;;;;;x
+d_tripolitania;ÑvŒû‚lÃëTX<SûN;;;;;;;;;;;;x
+d_tripolitana_adj;ÑvŒû‚lÃëTX<SûN;;;;;;;;;;;;x
+c_tripolitana_adj;ÑvŒû‚lÃëTX<SûN;;;;;;;;;;;;x
 b_libtripoli;ÑvŒû‚l·à;;;;;;;;;;;;x
 b_sabratah;^XkS…bl;;;;;;;;;;;;x
 b_nalut;tÁvyr;;;;;;;;;;;;x
@@ -12282,7 +12282,7 @@ b_cyrene;f-Ü<S;;;;;;;;;;;;x
 b_marsasusah;Ü^X>n;;;;;;;;;;;;x
 b_derna;∑V>it;;;;;;;;;;;;x
 b_altamimi;ls|s|;;;;;;;;;;;;x
-b_alqubbah;ÒbS;;;;;;;;;;;;x
+b_alqubbah;ÒbÄï;;;;;;;;;;;;x
 b_athrun;?ñyr+P;;;;;;;;;;;;x
 b_mukhayta;Fz»TûNyr;;;;;;;;;;;;x
 b_khadra;aS»TTê…b;;;;;;;;;;;;x
@@ -12345,7 +12345,7 @@ b_alamelshwawish;?ñ…b∆Yôl+ì;;;;;;;;;;;;x
 b_ziwaelbahari;ﬂoÊtÙT»T·à;;;;;;;;;;;;x
 b_mut;Fzyr;;;;;;;;;;;;x
 b_qasrfarfra;ªå…bÚÉ…b!X;;;;;;;;;;;;x
-b_elkharga;»T·àëP;;;;;;;;;;;;x
+b_elkharga;»TÃëëP;;;;;;;;;;;;x
 b_baris;ÙT·àØe;;;;;;;;;;;;x
 b_budhkula;^kç´^…b;;;;;;;;;;;;x
 b_abuminqar;?ñ^l†R>i;;;;;;;;;;;;x
@@ -13643,7 +13643,7 @@ b_inverurie;‡VVoõ·à;;;;;;;;;;;;x
 b_fyvie;’l≠t;;;;;;;;;;;;x
 b_ellon;√W+P;;;;;;;;;;;;x
 b_st_machar;eÄ¨ô»T>i;;;;;;;;;;;;x
-d_moray;¨ô·à;;;;;;;;;;;;x
+d_moray;¨ôÃë;;;;;;;;;;;;x
 b_forres;èy·àØe;;;;;;;;;;;;x
 b_cawdor;w∑V;;;;;;;;;;;;x
 b_elgin;√W>i—ë;;;;;;;;;;;;x
@@ -13707,7 +13707,7 @@ b_coleraine;—y>i˜ñi`;;;;;;;;;;;;x
 b_dungannon;'ëuÈZ;;;;;;;;;;;;x
 b_aileach;çÇ¶ûkç;;;;;;;;;;;;x
 b_maghera;¨ôkç…b;;;;;;;;;;;;x
-b_derry;∑V·à;;;;;;;;;;;;x
+b_derry;∑VÃë;;;;;;;;;;;;x
 b_omagh;gY¨ô;;;;;;;;;;;;x
 b_tullyhogue;W·àó<h;;;;;;;;;;;;x
 b_dungiven;'ë	Táe;;;;;;;;;;;;x
@@ -14033,7 +14033,7 @@ b_trutnov;yroõyr˛ä+Y;;;;;;;;;;;;x
 b_kamieniec;aSÏ}Öm(É;;;;;;;;;;;;x
 b_jaromer;ûNÖÖhÂe;;;;;;;;;;;;x
 b_turnov;W>i˛ä+Y;;;;;;;;;;;;x
-c_litomerice_adj;)RäÖhÂe°c;;;;;;;;;;;;x
+c_litomerice_adj;)RXbÖhÂe°c;;;;;;;;;;;;x
 b_usti;œpØecR;;;;;;;;;;;;x
 b_zatec;Nbl(É;;;;;;;;;;;;x
 b_jachymov;ûN^´É+Y;;;;;;;;;;;;x
@@ -14277,9 +14277,9 @@ k_papal_state_adj;Ye˜^;;;;;;;;;;;;x
 k_orthodox;nfNgrñôYe∂^;;;;;;;;;;;;x
 k_orthodox_adj;grñô;;;;;;;;;;;;x
 e_sunni;kê<S>m»T·à|vW;;;;;;;;;;;;x
-e_sunni_adj;»T·à|v;;;;;;;;;;;;x
+e_sunni_adj;»TÃë|v;;;;;;;;;;;;x
 e_shiite;¿NIÑ>m»T·à|vW;;;;;;;;;;;;x
-e_shiite_adj;»T·à|v;;;;;;;;;;;;x
+e_shiite_adj;»TÃë|v;;;;;;;;;;;;x
 d_hashshashin_adj;ªåTê‡V;;;;;;;;;;;;x
 d_sunni_cuman_company;kê<S>mÔS©Ö≠PuQW;;;;;;;;;;;;x
 d_sunni_cuman_company_adj;kê<S>mÔS©Ö≠PuQW;;;;;;;;;;;;x
@@ -14500,7 +14500,7 @@ LEDGER_INDSTATE_ARMY;Õéäñ;;;;;;;;;;;;x
 LEDGER_WARS_WARSCORE;0b-rRxe;;;;;;;;;;;;x
 LEDGER_WARS_STARTDATE;öåÀYÂeg;;;;;;;;;;;;x
 LEDGER_WARS_ATTACKER;2êJeπe;;;;;;;;;;;;x
-LEDGER_WARS_DEFENDER;2ñ°Vπe;;;;;;;;;;;;x
+LEDGER_WARS_DEFENDER;2ñ¶pπe;;;;;;;;;;;;x
 LOADING_TIP_1;t^wïw|ub’l>fowT∂RœeW0WÑv	gHeπe’lˇFO˙Qºe–g.züS‡V`OÑvòg˝OåTnNgnS;;;;;;;;;;;;x
 LOADING_TIP_2;ÛSuìﬁû d“ârÇ-òœPg˙Q˛sÎVwcxêÆU;;;;;;;;;;;;x
 LOADING_TIP_4;(WeQçZZ˚Y-N˙QuÑviRPRlSºeÕk™âÑv∂Rœe;;;;;;;;;;;;x
@@ -15865,7 +15865,7 @@ LEDGER_CB;≤R0bt1u;;;;;;;;;;;;x
 LEDGER_CURRENT_WARS;vlMR0b-r;;;;;;;;;;;;x
 LEDGER_WAR;0b-r;;;;;;;;;;;;x
 LEDGER_ATTACKER;2êJeπe;;;;;;;;;;;;x
-LEDGER_DEFENDER;2ñ°Vπe;;;;;;;;;;;;x
+LEDGER_DEFENDER;2ñ¶pπe;;;;;;;;;;;;x
 LEDGER_SCORE;óVR;;;;;;;;;;;;x
 LEDGER_HOME;w˝N;;;;;;;;;;;;x
 LEDGER_TECH_GROUP;—yèbDt;;;;;;;;;;;;x
@@ -16497,7 +16497,7 @@ PROV36;gYKQ<S;;;;;;;;;;;;x
 PROV37;ÒQØegQØe;;;;;;;;;;;;x
 PROV38;ÇÑ≠tÑSyr„N>i;;;;;;;;;;;;x
 PROV39;ÖØe;;;;;;;;;;;;x
-PROV40;¨ô·à;;;;;;;;;;;;x
+PROV40;¨ôÃë;;;;;;;;;;;;x
 PROV41;ÙTØw;;;;;;;;;;;;x
 PROV42;Øeyr…bÓh;;;;;;;;;;;;x
 PROV43;ÿö·à;;;;;;;;;;;;x
@@ -16575,7 +16575,7 @@ PROV114;-ÜØe;;;;;;;;;;;;x
 PROV115;ÁvÓh!X;;;;;;;;;;;;x
 PROV116;RÂe;;;;;;;;;;;;x
 PROV117;^…bÌsyr;;;;;;;;;;;;x
-PROV118;yr·à>i;;;;;;;;;;;;x
+PROV118;yrÃë>i;;;;;;;;;;;;x
 PROV119;—yÜñ;;;;;;;;;;;;x
 PROV123;é‡V(É;;;;;;;;;;;;x
 PROV125;ÙTäv;;;;;;;;;;;;x
@@ -16612,7 +16612,7 @@ PROV156;—yoõ<SûN;;;;;;;;;;;;x
 PROV157;eÄ0WûNÂT;;;;;;;;;;;;x
 PROV158;‚l>iW;;;;;;;;;;;;x
 PROV159;—yÒÇ^…b;;;;;;;;;;;;x
-PROV160;·àØe,g;;;;;;;;;;;;x
+PROV160;ÃëØe,g;;;;;;;;;;;;x
 PROV161;©Ö>i!X;;;;;;;;;;;;x
 PROV162;+ì>i≠t¿N;;;;;;;;;;;;x
 PROV163;’loõ;;;;;;;;;;;;x
@@ -16749,7 +16749,7 @@ PROV308;Él>i†RØeyr;;;;;;;;;;;;x
 PROV312;ÅêÓh;;;;;;;;;;;;x
 PROV313;Ìsùå<h;;;;;;;;;;;;x
 PROV314;t+P!X;;;;;;;;;;;;x
-PROV317;yr+Pä;;;;;;;;;;;;x
+PROV317;yr+PXb;;;;;;;;;;;;x
 PROV318;^˜ñâûN;;;;;;;;;;;;x
 PROV319;≠tÖt;;;;;;;;;;;;x
 PROV320;KQ˜ñ´Ét;;;;;;;;;;;;x
@@ -16790,9 +16790,9 @@ PROV356;Z<SØe;;;;;;;;;;;;x
 PROV357;yr˜ñ≠t1t;;;;;;;;;;;;x
 PROV358;?ñNYÑûN;;;;;;;;;;;;x
 PROV359;‡VØe^oõKQ;;;;;;;;;;;;x
-PROV363;)RäÖhÂe°c;;;;;;;;;;;;x
+PROV363;)RXbÖhÂe°c;;;;;;;;;;;;x
 PROV364;ﬁRâ(É;;;;;;;;;;;;x
-PROV365;√R-Üäv!X;;;;;;;;;;;;x
+PROV365;^-Üäv!X;;;;;;;;;;;;x
 PROV366;Øe∑VN;;;;;;;;;;;;x
 PROV367;ØefknfØeKQ;;;;;;;;;;;;x
 PROV368;FO≥o;;;;;;;;;;;;x
@@ -16880,7 +16880,7 @@ PROV467;Øenf)Ryr;;;;;;;;;;;;x
 PROV468;…b‰S©Ö;;;;;;;;;;;;x
 PROV469;≥oTX;;;;;;;;;;;;x
 PROV470;˝ê…bJü¡;;;;;;;;;;;;x
-PROV471;gYkç·à∑V;;;;;;;;;;;;x
+PROV471;gYkçÃë∑V;;;;;;;;;;;;x
 PROV472;Oá^oõØe;;;;;;;;;;;;x
 PROV473;?ñ>iTX;;;;;;;;;;;;x
 PROV474;ÒQ’lm<SûN;;;;;;;;;;;;x
@@ -16900,7 +16900,7 @@ PROV488;∑Vs|yr·à?ñØe;;;;;;;;;;;;x
 PROV489;rÇ©Ö)R;;;;;;;;;;;;x
 PROV490;^X©Öm<S˙W;;;;;;;;;;;;x
 PROV491;»T>i˙WcR˙W;;;;;;;;;;;;x
-PROV492;Øeyr·àôÑ;;;;;;;;;;;;x
+PROV492;ØeyrÃëôÑ;;;;;;;;;;;;x
 PROV493;SÅ)R‚l‚l)RØe;;;;;;;;;;;;x
 PROV494;»T∑VoÇ‚l)RØe;;;;;;;;;;;;x
 PROV495;aS)RgY‚l)RØe;;;;;;;;;;;;x
@@ -16956,7 +16956,7 @@ PROV554;R>i<Sb+Y;;;;;;;;;;;;x
 PROV555;iORûNØe…b+Y>i;;;;;;;;;;;;x
 PROV556;ó>icRﬂR;;;;;;;;;;;;x
 PROV557;Áv—y´É·à6w;;;;;;;;;;;;x
-PROV559;KQ·às|ûN;;;;;;;;;;;;x
+PROV559;KQÃës|ûN;;;;;;;;;;;;x
 PROV560;kç>içg;;;;;;;;;;;;x
 PROV561;ƒrgYYâûN;;;;;;;;;;;;x
 PROV562;JRdç;;;;;;;;;;;;x
@@ -17013,7 +17013,7 @@ PROV617;œp%m;;;;;;;;;;;;x
 PROV618;?ñyrﬁR;;;;;;;;;;;;x
 PROV619;©ÖÙå;;;;;;;;;;;;x
 PROV620;?ñóV;;;;;;;;;;;;x
-PROV621;∑^·à;;;;;;;;;;;;x
+PROV621;∑^Ãë;;;;;;;;;;;;x
 PROV624;¸f<h¿N…bKQ;;;;;;;;;;;;x
 PROV625;œpØeÀy>iyr;;;;;;;;;;;;x
 PROV626;^Êt;;;;;;;;;;;;x
@@ -17164,7 +17164,7 @@ PROV807;^X™Râ;;;;;;;;;;;;x
 PROV808;Ìs†Râ;;;;;;;;;;;;x
 PROV809;Ü>iyr;;;;;;;;;;;;x
 PROV810;'YÑ‚lÇÑØe;;;;;;;;;;;;x
-PROV811;ÑvŒû‚l·àTX<SûN;;;;;;;;;;;;x
+PROV811;ÑvŒû‚lÃëTX<SûN;;;;;;;;;;;;x
 PROV812;¨ô3w÷N;;;;;;;;;;;;x
 PROV813;ëP>iÙT;;;;;;;;;;;;x
 PROV814;†RùåØe;;;;;;;;;;;;x
@@ -17226,8 +17226,8 @@ PROV890;1oyr;;;;;;;;;;;;x
 PROV892;¸fâ;;;;;;;;;;;;x
 PROV894;©Ö…b,Ñ;;;;;;;;;;;;x
 PROV895;ûNOKQ;;;;;;;;;;;;x
-PROV896;?ñKQä%R;;;;;;;;;;;;x
-PROV898;äZS>i;;;;;;;;;;;;x
+PROV896;?ñKQXb%R;;;;;;;;;;;;x
+PROV898;XbZS>i;;;;;;;;;;;;x
 PROV899;ÇÑØe;;;;;;;;;;;;x
 PROV902;Tê¿Nófk2É;;;;;;;;;;;;x
 PROV903;íd¨ô>iU;;;;;;;;;;;;x
@@ -17242,7 +17242,7 @@ PROV1018;>mˆ^HYVn;;;;;;;;;;;;x
 PROV1019;a>i-Üwm;;;;;;;;;;;;x
 PROV1020;â0W-Nwm;;;;;;;;;;;;x
 PROV1021;Êt+PâûNrp;;;;;;;;;;;;x
-PROV1022;ÙT)R?ñ·à≥ˆS;;;;;;;;;;;;x
+PROV1022;ÙT)R?ñÃë≥ˆS;;;;;;;;;;;;x
 PROV1023;â*ÇSê;;;;;;;;;;;;x
 PROV1024;0W-Nwm;;;;;;;;;;;;x
 PROV1025;)R¡rp;;;;;;;;;;;;x
@@ -17536,7 +17536,7 @@ STAT_WEALTH;∞åÃR;;;;;;;;;;;;x
 OF; ;;;;;;;;;;;;x
 COURT_TAB;ÆR˜^;;;;;;;;;;;;x
 MAN;7u∫N;;;;;;;;;;;;x
-WOMAN;sY∫N;;;;;;;;;;;;x
+WOMAN;sY'`;;;;;;;;;;;;x
 REGENT;e?ew;;;;;;;;;;;;x
 NEW_SETTLEMENT;∞e0W1u;;;;;;;;;;;;x
 hold_grand_hunt;	Ç¶èÈrus;;;;;;;;;;;;x
@@ -17580,7 +17580,7 @@ HIGH_CHIEF_FOA;'YKëwï;;;;;;;;;;;;x
 TRIBE_OF;ËêLÑ;;;;;;;;;;;;x
 ECUMENICAL_PATRIARCH;nfNgrñô;;;;;;;;;;;;x
 ECUMENICAL_PATRIARCH_FOA;grñôjñN;;;;;;;;;;;;x
-CALIPH;»T·à|v;;;;;;;;;;;;x
+CALIPH;»TÃë|v;;;;;;;;;;;;x
 CALIPH_FOA;»T·à|vjñN;;;;;;;;;;;;x
 GRANDMASTER;'YWwï;;;;;;;;;;;;x
 GRANDMASTER_FOA;≤ïN;;;;;;;;;;;;x
@@ -18165,7 +18165,7 @@ SM_CAMERA_SPEED;ñâ“âs^—n;;;;;;;;;;;;x
 SM_CENTERED_ZOOM_IN;T8nj.~>e;;;;;;;;;;;;x
 SM_CENTERED_ZOOM_OUT;û_‡n üUÜ.~S;;;;;;;;;;;;x
 SIEGE_ATTACKERS;Je dπe;;;;;;;;;;;;x
-SIEGE_DEFENDERS;2ñ°Vπe;;;;;;;;;;;;x
+SIEGE_DEFENDERS;2ñ¶pπe;;;;;;;;;;;;x
 CONFIRM_DISBAND_TITLE;∫xöRÅâ„âceêPÆUMOŒUˇ;;;;;;;;;;;;x
 CONFIRM_DISBAND_DESC;$NAME$S„âce&Ncê‘èOb	gÎXuQ0;;;;;;;;;;;;x
 SIEGE_OF;$PROVINCE$WŒW0b;;;;;;;;;;;;x
@@ -18408,7 +18408,7 @@ CLICK_TO_APPOINT_LEADER;ﬁû d˚NåTSò;;;;;;;;;;;;x
 LEADER_APP_NEEDS_LAW;ßY$TITLE$ß!Ñv¥åœe	gk)R“bUtÙf€cSò0\nˇãskIr)t*YNO	ˇ;;;;;;;;;;;;x
 WRONG_GOVERNMENT_TYPE;ßR/ì≥äÑvñôú^0W1umòãWˇß!;;;;;;;;;;;;x
 COMBAT_TACTICS_AVAILABLE;dkÔçÕéäñÔSÂN(uNR0bbàˇ;;;;;;;;;;;;x
-COMBAT_DEFENDERS;2ñ°Vπe;;;;;;;;;;;;x
+COMBAT_DEFENDERS;2ñ¶pπe;;;;;;;;;;;;x
 COMBAT_ATTACKERS;2êJeπe;;;;;;;;;;;;x
 PLOT_PLOT_POWER;pñãõRœë;;;;;;;;;;;;x
 PLOT_TARGET;Óvj;;;;;;;;;;;;x
@@ -18512,11 +18512,11 @@ arbitrary;\∑e;;;;;;;;;;;;x
 arbitrary_desc;dk∫NSlQs^NQSNvòˇS„ÅåT˜^„ÅPSdk&NN2kﬁå0;;;;;;;;;;;;x
 incapable;!q˝w;;;;;;;;;;;;x
 incapable_desc;1uºet^ãNÚTÿöˇ-òËê◊S∆Pb>fæ|^y1Y8^ˇdk∫N!q’lb‘dck8^ÂTkO0!q˝wÑvqtªlw≈Vò1u÷N∫Ne?e0;;;;;;;;;;;;x
-lustful;rÇ2k;;;;;;;;;;;;x
+lustful;rÇ~a;;;;;;;;;;;;x
 lustful_desc;rÇ2kˇsS0Luxuria0ˇ∫NgRÑvüSjˇck(W|p“qfÑdk∫N0âlxmâw2kS…póRYe∫NÎXOb>Uƒ_ˇnNgSdñÜNä^NèbÁTKNYÑvvQ÷Nèb˝w1uuàmuiqVˇó&&;;;;;;;;;;;;x
 chaste;‡Vûå;;;;;;;;;;;;x
 chaste_desc;‡VûåˇsS0Castitas0ˇ>fN.zé∑VKNñô0‡VûåKN∫N‡VvQ∑VLàw„^◊S1zçˇN'YÔS˝w|vu˙QÃéLà…p0;;;;;;;;;;;;x
-proud;Uö≤P;;;;;;;;;;;;x
+proud;≤Pba;;;;;;;;;;;;x
 proud_desc;Uö≤PˇsS0Superbia0ˇYegObè∫NÑv,rNóRj0NNêˇUö≤PKN∫NèVèVŒë√V√R√Rˇg…pÜN–cÿöZgwÙf†R™RõRÂTkO0;;;;;;;;;;;;x
 humble;ãQS;;;;;;;;;;;;x
 humble_desc;ãQSˇsS0Humilitas0ˇ>f,rN.zé∑VˇnN>fUö≤PÑvSÀzbó0ãQSwrsóV[Player.Religion.GetPietyName]ˇUö≤PwGRóV0RZg0ãQSwNúUpkUö≤PÑv∫N0;;;;;;;;;;;;x
