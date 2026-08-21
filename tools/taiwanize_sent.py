@@ -65,6 +65,40 @@ def collect_values():
     return values
 
 
+def parse_json_robust(text: str):
+    """寬容 JSON:取第一個完整 {..} 物件(容許尾隨資料/註釋/重複輸出)。"""
+    text = text.strip()
+    if text.startswith("```"):
+        text = "\n".join(text.split("\n")[1:])
+        if text.endswith("```"):
+            text = text[:-3]
+    dec = json.JSONDecoder()
+    try:
+        text = text[text.index("{"):]
+    except ValueError:
+        return None
+    try:
+        obj, _ = dec.raw_decode(text)
+        return obj
+    except Exception:
+        pass
+    # 找配對大括號
+    for i, ch in enumerate(text):
+        if ch == "{":
+            depth = 0
+            for j in range(i, len(text)):
+                if text[j] == "{":
+                    depth += 1
+                elif text[j] == "}":
+                    depth -= 1
+                    if depth == 0:
+                        try:
+                            return json.loads(text[i:j + 1])
+                        except Exception:
+                            break
+    return None
+
+
 def llm_batch(items):
     body = json.dumps({
         "model": MODEL,
@@ -78,15 +112,14 @@ def llm_batch(items):
         try:
             req = urllib.request.Request(API_URL, data=body, headers={"Content-Type": "application/json"})
             r = json.load(urllib.request.urlopen(req, timeout=240))
-            text = r["choices"][0]["message"]["content"].strip()
-            if text.startswith("```"):
-                text = "\n".join(text.split("\n")[1:])
-                if text.endswith("```"):
-                    text = text[:-3]
-            return json.loads(text)
+            text = r["choices"][0]["message"]["content"]
+            parsed = parse_json_robust(text)
+            if parsed is not None:
+                return parsed
+            print(f"  [retry {attempt + 1}] 非 JSON 回覆: {str(text)[:60]!r}")
         except Exception as e:
             print(f"  [retry {attempt + 1}] {str(e)[:80]}")
-            time.sleep(3)
+        time.sleep(3)
     return None
 
 
@@ -167,12 +200,14 @@ def main():
     plan = {}
     total = len(items)
     done = 0
+    failed = []
     for i in range(0, total, BATCH):
         chunk = items[i:i + BATCH]
         resp = llm_batch(chunk)
         if resp is None:
-            print("  批次失敗(重試後仍失敗),暫停存檔。(可重跑續)")
-            break
+            failed.append(i)
+            print(f"  批次失敗(跳過,批@{i},完成後可重跑),繼續下一批 ...")
+            continue
         for k, new_val in resp.items():
             try:
                 idx = int(k) - 1
@@ -193,6 +228,8 @@ def main():
         PROGRESS.write_text(json.dumps(progress, ensure_ascii=False), encoding="utf-8")
         print(f"  進度 {done}/{total} (距批次剩 {len(plan)} 行變更)")
         time.sleep(1)
+    if failed:
+        print(f"失敗批次 {len(failed)} 個(索引 {failed[:5]}…),重跑本腳本即續跑(斷點已存)。")
     if plan:
         print(f"待套用變更(等長): {sum(len(v) for v in plan.values())} 行")
         applied = apply_plan(plan)
