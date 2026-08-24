@@ -29,7 +29,7 @@ API_URL = "http://localhost:1234/v1/chat/completions"
 MODEL = "gemma-4-26b-a4b-it"
 PROGRESS = ROOT / "tools" / ".taiwan_sent_progress.json"
 MAXLEN = 24
-BATCH = 40
+BATCH = 50
 
 SYSTEM = (
     "你是一位遊戲中文化的台灣繁體語感校對員。以下是 Crusader Kings II 的繁體中文遊戲"
@@ -59,7 +59,8 @@ def collect_values():
                     or not any("\u4e00" <= c <= "\u9fff" for c in val)):
                 continue
             # 階段閘:純淨短值(≤16 字、無變數/色彩/數字/括號)→ 高語感收益
-            if len(val) > 16 or any(ch in val for ch in "§$/@%0123456789[\[]∣|"):
+            if len(val) > 16 or any(ch in val for ch in "§$/@%0123456789") \
+                or "[" in val or "]" in val or "\\" in val or "∣" in val or "|" in val:
                 continue
             values.setdefault(val, []).append((f, key))
     return values
@@ -106,7 +107,8 @@ def llm_batch(items):
             {"role": "system", "content": SYSTEM},
             {"role": "user", "content": json.dumps({i + 1: v for i, v in enumerate(items)}, ensure_ascii=False)},
         ],
-        "temperature": 0.1, "max_tokens": 2800,
+        "temperature": 0.1, "max_tokens": 2500,
+        "n": 1,
     }).encode()
     for attempt in range(3):
         try:
@@ -220,10 +222,13 @@ def main():
                 continue
             new_val = new_val.strip()
             if new_val == old_val or len(new_val) != len(old_val):
+                progress[old_val] = old_val  # 原樣也視為已處理(斷點,防重跑)
                 continue
             for path_str, key in values[old_val]:
                 plan.setdefault(path_str, {})[key] = (old_val, new_val)
             progress[old_val] = new_val
+        for v in chunk:  # 批次內所有值皆標記已處理(含 LLM 漏回者,預設原樣)
+            progress.setdefault(v, v)
         done += len(chunk)
         PROGRESS.write_text(json.dumps(progress, ensure_ascii=False), encoding="utf-8")
         print(f"  進度 {done}/{total} (距批次剩 {len(plan)} 行變更)")

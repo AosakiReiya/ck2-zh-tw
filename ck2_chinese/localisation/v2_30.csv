@@ -1,8 +1,8 @@
 ### ParaTranz ###
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-ACQUISITION_CLAIM;kO…p≤R1zwwµVg;;;;;;;;;;;;x
-ACQUISITION_HOST;kO…píQ™ñwwµVg;;;;;;;;;;;;x
-ACQUISITION_REVOLT;kO…p€SÇNòñàwµVg;;;;;;;;;;;;x
+ACQUISITION_CLAIM;kO…p≤R1zwwÅVg;;;;;;;;;;;;x
+ACQUISITION_HOST;kO…píQ™ñwwÅVg;;;;;;;;;;;;x
+ACQUISITION_REVOLT;kO…p€SÇNòñàwÅVg;;;;;;;;;;;;x
 ACQUISITION_USURP;åTs^0W·ryY;;;;;;;;;;;;x
 ACQUISITION_FACTION_DEMAND;´à>m˚|Ob¡dÀz;;;;;;;;;;;;x
 PERSONAL_OPINION_LOWER_THAN;P∫NåYaNOºe;;;;;;;;;;;;x
@@ -23,7 +23,7 @@ ADULTERESS;ÎmfZ;;;;;;;;;;;;x
 nick_the_unfaithful;N‡Vw;;;;;;;;;;;;x
 nick_the_beguiling;˜è∫Nw;;;;;;;;;;;;x
 nick_the_temptress;Eõ—`w;;;;;;;;;;;;x
-nick_the_seducer;˛RVw;;;;;;;;;;;;x
+nick_the_seducer;òä—Ww;;;;;;;;;;;;x
 nick_the_lewd;%sJâw;;;;;;;;;;;;x
 nick_the_lecher;rÇ<õ;;;;;;;;;;;;x
 nick_the_unchaste;NûåTow;;;;;;;;;;;;x
@@ -33,7 +33,7 @@ COMPL_LADY;+Y∫N;;;;;;;;;;;;x
 AIREASON_UNFAITHFULNESS;N‡V;;;;;;;;;;;;x
 HAS_NOT_POLYGAMY;íl	gN+YYªY6R;;;;;;;;;;;;x
 HAS_POLYGAMY;	gN+YYªY6R;;;;;;;;;;;;x
-HAS_NOT_CONCUBINAGE;íl	gtæY6R;;;;;;;;;;;;x
+HAS_NOT_CONCUBINAGE;!q}ÕP6R¶^;;;;;;;;;;;;x
 HAS_CONCUBINAGE;	gtæY6R;;;;;;;;;;;;x
 DIVORCE_INTERACTION_2;ÇßY[Recipient.GetTitledFirstName]ß!‚ñZZ‡V…p[Recipient.GetPossPronoun]´àIãfN‡Vˇ[Recipient.GetPossPronounCap]—è™âÕNS´àÆO±èˇßR$OPINION$ß! åYa	ˇ&&;;;;;;;;;;;;x
 EVTOPTA301_DESC;ßY[From.GetFirstName]ß!´à≤RJT…p¡d	gåRhQ|ubkÑvT’l[From.GetSonDaughter]0\n;;;;;;;;;;;;x
@@ -92,16 +92,16 @@ adulterer;xY+Y;;;;;;;;;;;;x
 adulteress;ÎmfZ;;;;;;;;;;;;x
 known_sodomite;´à|v˛sÑvﬁñxYw;;;;;;;;;;;;x
 cradle_robber;TÈZIÉÑvwjr;;;;;;;;;;;;x
-incestuous_adulterer;ÇN+PêxYw;;;;;;;;;;;;x
-incestuous_adulteress;ÇN+PêxYw;;;;;;;;;;;;x
-opinion_suspected_adultery;âmÃZêxY;;;;;;;;;;;;x
+incestuous_adulterer;ÇN+PêÊYw;;;;;;;;;;;;x
+incestuous_adulteress;ÇN+PêÊYw;;;;;;;;;;;;x
+opinion_suspected_adultery;âmÃZêÊY;;;;;;;;;;;;x
 opinion_regrets_accusation;‰N∫N aî`Ñvc∂c;;;;;;;;;;;;x
 opinion_advance_rejected;“bUtÙf2êNek;;;;;;;;;;;;x
 opinion_killed_lover;…k≥RbÑv≈`∫N;;;;;;;;;;;;x
-adulterous_priest;êxYÑvYeÎX;;;;;;;;;;;;x
-wol_seducer_1;eQèïÑv˛RVw;;;;;;;;;;;;x
+adulterous_priest;êÊYÑvYeÎX;;;;;;;;;;;;x
+wol_seducer_1;eQèïÑvòä—Ww;;;;;;;;;;;;x
 desc_wol_seducer_1;êP“ârÇck(WxR“òä—`Ñv›ÖbàåT˛RVÑvÇnY&&;;;;;;;;;;;;x
-wol_seducer_2;˛RVw;;;;;;;;;;;;x
+wol_seducer_2;òä—Ww;;;;;;;;;;;;x
 desc_wol_seducer_2;êP“ârÇÂNvQkO…pNP˛RVwåT†å√V∫Nw^ÄT0;;;;;;;;;;;;x
 wol_court_tomcat;ÆR˜^.z¨ô;;;;;;;;;;;;x
 desc_wol_court_tomcat;êP7u∫N>fNPÌÅT-fWÑÑv>S®ñwˇ(W…ZíYÑvN+YPåT≈`∫NPKNìïJêR	gô0;;;;;;;;;;;;x
@@ -140,7 +140,7 @@ WAR_FOCUS;0b-ruJmÕë√V;;;;;;;;;;;;x
 focus_carousing_title;¬rpk;;;;;;;;;;;;x
 focus_carousing_desc;[This.GetTitledFirstName]™RõRêNê	Ç¶è¬rŒëÑv>mSOÍÅÒTäãóVÙf†R◊SpkŒèåTa≥Nõñ0êPuJmÕë√V„âñìßYèêÀä¬rpkß!êNíN’Rxêòˇìã`OèêÀäTiêÑvSaå√S†R>mS0;;;;;;;;;;;;x
 CAROUSING_FOCUS;¬rpkuJmÕë√V;;;;;;;;;;;;x
-focus_family_title;∂R≠^;;;;;;;;;;;;x
+focus_family_title;∂Rœe;;;;;;;;;;;;x
 focus_family_desc;[This.GetTitledFirstName]∆ñ-Næ|õR0R∂R≠^uJmˇ∫x›OÍÅÒTOb	g∂R≠^b·TKNìï˝w/Y	gÙfåYÑv‹ï˚|0;;;;;;;;;;;;x
 FAMILY_FOCUS;∂R≠^uJmÕë√V;;;;;;;;;;;;x
 focus_scholarship_title;xRbà;;;;;;;;;;;;x
@@ -171,8 +171,8 @@ socializer_desc;êP“ârÇ´àúä…p◊S0R'Y>wÑvpkŒèˇ&N±Çªå'YËêR
 schemer_desc;êP“ârÇNêfÑEQˇn∆RãåTÕd1u÷N∫NÑvuJm0;;;;;;;;;;;;x
 HAS_ANY_OPINION_MOD;˚NUO∫NS`O	g0ßY$MOD$ß!0êNåYaÓOck;;;;;;;;;;;;x
 HAS_NO_OPINION_MOD;íl	g∫NS`O	g0ßY$MOD$ß!0êNåYaÓOck;;;;;;;;;;;;x
-AGE_DIFF_AT_LEAST;t^aüÓTplÛÅS	g;;;;;;;;;;;;x
-AGE_DIFF_LESS_THAN;t^aüÓTplSºe;;;;;;;;;;;;x
+AGE_DIFF_AT_LEAST;t^aüÓT›ÑÛÅS	g;;;;;;;;;;;;x
+AGE_DIFF_LESS_THAN;t^aüÓT›ÑSºe;;;;;;;;;;;;x
 EVTTITLE_WOL_55;Øë“öÑvÿy∆R;;;;;;;;;;;;x
 EVTDESC_WOL_55;1S(WMRç^)YbÇY8^0WjoOÜNwçÜObäb[FromFrom.GetTitledName]åTbÑv[GetFromRelation][From.GetFirstName]ìbP˛sLàˇ1uºeâlxm(W¿o≈`KN-Nˇ÷NP&Níl	gËla0RbˇFObùO6qa0R^ó8^óZöˇ;;;;;;;;;;;;x
 EVTDESC_WOL_55_CR;1S(WMRç^)YbÇY8^0WjoOÜNwçÜObäb[FromFrom.GetTitledName]åTbÑv[GetFromRelation][From.GetFirstName]ìbP˛sLàˇb0sÙvNbe¯v·O&&[GetFromVsFromFromRelation]åT[GetFromFromVsFromRelation]ˇ÷NP&Níl	gËla0RbˇFObùO6qa0R^ó8^óZöˇ;;;;;;;;;;;;x
@@ -199,7 +199,7 @@ EVTOPTA_WOL_57;∫z¢c%R∫NnN˝wrsóVÇYdkNsıRˇ;;;;;;;;;;;;x
 EVTDESC_WOL_59;ÙÅ[GetFromFromRootInsult][Root.GetFirstName]0êór¿NºûäãKa©srˇ[From.GetFirstName]Ñv¡T∑Víl∫N˝w/YÍåëuˇ`O1S…pOb2k…p'TˇÕSck!q÷äÇYUO˝êíl∫Ng¯v·O`OÑvãä0\n\n[FromFrom.GetFirstName];;;;;;;;;;;;x
 EVTOPTA_WOL_59;àVåY0búUpkê2jˇ;;;;;;;;;;;;x
 EVTOPTB_WOL_59;Âñ6qê<PóVNfäˇFObíl	g≤êºûòkÕV0;;;;;;;;;;;;x
-EVTTITLE_WOL_60;êxYúë^Ä;;;;;;;;;;;;x
+EVTTITLE_WOL_60;êÊYúë^Ä;;;;;;;;;;;;x
 EVTDESC_WOL_60;[From.GetBestName]JT4äOb	g∫Nˇ[From.GetSubjectPronoun]wãâbåT[FromFrom.GetFirstName]êxY0êPúë^ÄÑv∫x>fãNÊR0;;;;;;;;;;;;x
 EVTOPTA_WOL_60_F;ÔSêaÑv[FromFrom.GetFirstName]0b&N^óSbórÅâ∆P≥R[FromFrom.GetObjectPronoun]0;;;;;;;;;;;;x
 EVTOPTA_WOL_60_M;bVˇåY'T0ê1S>f-NNtˇ;;;;;;;;;;;;x
@@ -215,7 +215,7 @@ EVTDESC_WOL_81_M;·lûYÔS>fNˆNqS™ñÑvÂTkO0ÑUíYÑvN+Yˇfã’`Ñv
 EVTDESC_WOL_81_HOMO;(WêPa'fÑvBf„Nˇ˝èBlvQ÷N[Root.GetMenWomen]>fEQˇnqS™ñÑv0sSøOÇYdkˇ´à¬Púë^ÄÑv®ò™ñìãêNRÙf‰N∫NÇnY0dñdkÂNYˇêÔSíl	gaYbURÑv®ò™ñˇ;;;;;;;;;;;;x
 EVTOPTA_WOL_81;bYSxRgÜNNõN‹ïºe∆RãÑvqgâˇ;;;;;;;;;;;;x
 EVTDESC_WOL_99;bÑvÍÅ·OÇYqSN2jÿöˇbÑvEõõRNÔSób“bˇbÑvüR>u1SœP¬PGYN,Ç0b1S>f[Root.GetFirstName]Eõ—`ÑvS´é0;;;;;;;;;;;;x
-EVTOPTA_WOL_99;›INê√W STåå_ˇ;;;;;;;;;;;;x
+EVTOPTA_WOL_99;›INê√W STåTˇ;;;;;;;;;;;;x
 EVTOPTA_WOL_99_PERS;›INê,ãkç…béÉ∑Vˇ;;;;;;;;;;;;x
 EVTOPTB_WOL_99;b„ñÂNµbÀdÍÅÒTÑvEõõRˇ;;;;;;;;;;;;x
 EVTOPTC_WOL_99;FO&&êNNÑê	gÇYdk>wYÑvj·`IrÖVbªS¢c1tˇ;;;;;;;;;;;;x
@@ -309,7 +309,7 @@ EVTDESC_WOL_300_CR;bÑv[GetFromRelation][From.GetFirstName]teZfÇbqQÇ
 EVTDESC_WOL_300_M;êPSSÑv>y≥NJm’RNNê>fˆNØgÂq!qsTÑvãN≈`ˇFO[From.GetTitledName]jRjR»SSfÑbÉcÜNç^NyYÍÅÒTÑv¯wËê0yY>fN>f(Wﬂçbøä≈`&&ˇ≤êUtS>f(WSbSb<wrÇˇû_êNJRöåÀYˇê·àäãóVäçÜOäç	g≤çÜNˇ;;;;;;;;;;;;x
 EVTOPTA_WOL_300;™äõN	g≤çÑvãN≈`ˇ;;;;;;;;;;;;x
 EVTOPTA_WOL_300_F;g[From.GetObjectPronoun]ÔdÔd¯wËê&&;;;;;;;;;;;;x
-EVTOPTA_WOL_300_CR;é¶ûÑvj·`ˇzÆVäbKb˙dNNﬁû&&;;;;;;;;;;;;x
+EVTOPTA_WOL_300_CR;é¶ûÑvj·`ˇzÆVäbKb˙dNONﬁû&&;;;;;;;;;;;;x
 EVTOPTB_WOL_300;ìã[From.GetObjectPronoun]ÍÅäíl≤ç0;;;;;;;;;;;;x
 EVTOPTB_WOL_300_MAR;b>fP	g∂R≥RÑv[Root.GetManWoman]ˇÀäAQ1äb‚ñöåNN0;;;;;;;;;;;;x
 EVTOPTB_WOL_300_OLD;[From.GetSubjectPronounCap]Sbwä*YNêt^èÜNˇ;;;;;;;;;;;;x
@@ -349,7 +349,7 @@ EVTOPTB_WOL_307;bíl	gêPw√V;;;;;;;;;;;;x
 EVTDESC_WOL_308;bÂN…p[From.GetFirstName]ÚTìt´àb˜èOOÜNˇFO>fvlb˙^pãxQ∫NNwç‚ñöåBfˇ[From.GetSubjectPronoun]äS'YrÄÑv2VVb&NNåT[From.GetPossPronoun]âë∫ë∫ëÑvçOû_pçöåÜN0;;;;;;;;;;;;x
 EVTOPTA_WOL_308;»T0bÑvusirw>f-rFVåY›Iˇ;;;;;;;;;;;;x
 EVTOPTB_WOL_308;b◊S/YÜNêPQofZˇ;;;;;;;;;;;;x
-EVTOPTB_WOL_308_F;b◊S/YÜNêPSúëˇ;;;;;;;;;;;;x
+EVTOPTB_WOL_308_F;b◊S/YÜNêPSNˇ;;;;;;;;;;;;x
 EVTTITLE_WOL_351;N˝NµRY;;;;;;;;;;;;x
 EVTDESC_WOL_351;b0vP6q0åT[From.GetFirstName](W[From.GetSubjectPronoun]ca8^ªS⁄^?bçb[From.GetPossPronoun]YµRBf∞xNÜN0bP	aÎVÑvJw)Yˇç^PSBfNêªSÜNˇbÂwSêa≈`ÚTìtÑu0bO¸vÍÅÒTgÜN[From.GetObjectPronoun]ÑvaˇMRæP`ó0R[From.GetPossPronoun]3wäê&&;;;;;;;;;;;;x
 EVTDESC_WOL_351_DISTANT;ªSèV[From.Employer.GetTitledName]ÆR˜^Ñv≈ezASRØgÂqˇFOb0vP6q0åT[From.GetFirstName](W[From.GetSubjectPronoun]ca8^ªS⁄^?bçb[From.GetPossPronoun]YµRBf∞xNÜN0bP	aÎVÑvJw)Yˇç^PSBfNêªSÜNˇbÂwSê[From.GetSubjectPronoun]Ñva≈`ÚTìtÑu0bO¸vÍÅÒTgÜN[From.GetObjectPronoun]ÑvaˇMRæP`ó0R[From.GetPossPronoun]3wäê&&;;;;;;;;;;;;x
@@ -373,7 +373,7 @@ EVTTOOLTIP_WoL_306_2;ﬂçfÑ[This.GetFirstName]NÜNä^&&;;;;;;;;;;;;x
 EVTOPTB_WOL_352_POET;iäLkˇb9h,gN(WNNê2jÑv‚^qäˇ;;;;;;;;;;;;x
 EVTOPTB_WOL_352_LEWD;Yºû!qÆyˇb„ñÂNÛ`aå	gê2j%sJâÑv^äûäXR(Wˇ;;;;;;;;;;;;x
 EVTOPTB_WOL_352_LOVE;aÑvhàåvˇYºû|^zÑv‚^qäˇ;;;;;;;;;;;;x
-EVTOPTB_WOL_352_BREATH;2kg˘mílÜNbˇFOb≈VòÅâXFVˇ;;;;;;;;;;;;x
+EVTOPTB_WOL_352_BREATH;~ag˘mílÜNbˇFOb≈VòÅâXFVˇ;;;;;;;;;;;;x
 EVTDESC_WOL_353;[From.GetFirstName]‚ñöåÜNbˇ(W‚ñöåKNMRNäêtfÑ…ÅNäêPtPtÙTÙT0W™ä±bIk0;;;;;;;;;;;;x
 EVTDESC_WOL_353_CR;[From.GetFirstName]6^fÑóZöåT≠S·`Ñvhà≈`s0W‚ñöåbˇ&NZö|TSê0w(W[From.Religion.GetRandomGodName]Ñv˝NNˇ[Root.GetFirstName]ˇbÔS>f`OÑv[GetFromRelation]ˇ0;;;;;;;;;;;;x
 EVTDESC_WOL_353_OLD_M;[From.GetFirstName]s0W`ê‚ñb&N2ó˙QÜNTZöÑvhà≈`ˇaVSê0[Root.GetTitledFirstNameNoRegnal]ˇ`OwÑv≥çÂNZPbÑv6r™âˇ06qå_[From.GetSubjectPronoun]ØTØT0WrfÑ—çöåÜN0;;;;;;;;;;;;x
@@ -410,7 +410,7 @@ EVTOPTA_WOL_414;bNgèf>eƒ_Ñvˇ;;;;;;;;;;;;x
 EVTDESC_WOL_415;(WN!kŒëY êJêJm’R-Nˇb|v˛sbåT[From.GetTitledFirstNameNoRegnal]«äÜNàVY0b∫âóVb´à[GetRootFromCompliment]8TVÜNˇ;;;;;;;;;;;;x
 EVTDESC_WOL_415_DISTANT;(WN!kŒëY êJêJm’R-NˇbTck(WbPÑvÆR˜^kO¢RÑv[From.GetTitledFirstNameNoRegnal]«äÜNàVY0b∫âóVÍÅÒT´à[GetRootFromCompliment]8TVÜNˇ;;;;;;;;;;;;x
 EVTDESC_WOL_416;m°ríl	gnjgåT[From.GetTitledFirstNameNoRegnal]ÆUhs¯vUÜˇbÑê>f¯v·ObÑvP'`ft[From.GetObjectPronoun]YuNÜNÒmJRpSaåˇ;;;;;;;;;;;;x
-EVTOPTA_WOL_416;bóÅâNP∞eÑväÉRˇ;;;;;;;;;;;;x
+EVTOPTA_WOL_416;bóÅâNP∞eÑväkuˇ;;;;;;;;;;;;x
 EVTDESC_WOL_418;(WN!kŒëY êJêJm’R-Nˇb(W3^˜rhTWÑv±Ç‚S-N|v˛sÜNNùhäo`ˇÉRÅâBlbªSS™n¡eªSãâ[FromFrom.GetTitledFirstNameNoRegnal]ˇ1SbNP∫Nˇ;;;;;;;;;;;;x
 EVTDESC_WOL_418_DISTANT;(WN!kŒëY êJêJm’R-Nˇb(W3^˜rhTWÑv±Ç‚S-N|v˛sÜNNùhäo`ˇÉRÅâBlbªSS™n¡eªSãâbP`êπeÑvÜO¢Rˇ[FromFrom.GetTitledFirstNameNoRegnal]ˇ1SbNP∫Nˇ;;;;;;;;;;;;x
 EVTOPTA_WOL_418_F;Yºûìã∫NÇnYˇbÑv≠P∫NÔSÂN©cÜãb0;;;;;;;;;;;;x
@@ -592,13 +592,13 @@ action_build_legend_desc;ìã`OÑv[GetTreasurerName](W∫Nl-N≤R¬P`OÑv¬P
 INSULT_OLD;wNäk;;;;;;;;;;;;x
 INSULT_HARELIP;TQURQ;;;;;;;;;;;;x
 COMPL_SWEET;ˆRùåRQ;;;;;;;;;;;;x
-COMPL_SEDUCER;òäxYw;;;;;;;;;;;;x
+COMPL_SEDUCER;òäÊYw;;;;;;;;;;;;x
 INSULT_TADPOLE;SLá™Ü;;;;;;;;;;;;x
 INSULT_CHILD;SASiR;;;;;;;;;;;;x
 INSULT_VILE;QSëÑv;;;;;;;;;;;;x
 INSULT_FOUL;Øë“öÑv;;;;;;;;;;;;x
 INSULT_FILTHY;NAmÑv;;;;;;;;;;;;x
-INSULT_CLOWN;Súë;;;;;;;;;;;;x
+INSULT_CLOWN;SN;;;;;;;;;;;;x
 INSULT_COW;jr;;;;;;;;;;;;x
 INSULT_INFIDEL;plYeíV;;;;;;;;;;;;x
 INSULT_HERETIC;plÔzw;;;;;;;;;;;;x
@@ -610,10 +610,10 @@ INSULT_BASTARD;‹ñ.z;;;;;;;;;;;;x
 INSULT_BASEBORN;QSÆVÑv;;;;;;;;;;;;x
 INSULT_KINSLAYER;V™âÃyás;;;;;;;;;;;;x
 INSULT_SODOMITE;ﬁñxYw;;;;;;;;;;;;x
-INSULT_DULLARD;>Y®å;;;;;;;;;;;;x
+INSULT_DULLARD;7{ÀÜ;;;;;;;;;;;;x
 INSULT_DIM;ªPPR;;;;;;;;;;;;x
 INSULT_VACUOUS;zzjÜÑv;;;;;;;;;;;;x
-INSULT_NITWIT;(rÀÜ;;;;;;;;;;;;x
+INSULT_NITWIT;"®å;;;;;;;;;;;;x
 INSULT_IMBECILE;åvÙu;;;;;;;;;;;;x
 INSULT_FREAK;*`Œw;;;;;;;;;;;;x
 INSULT_ABOMINATION;ÔSéaKN∫N;;;;;;;;;;;;x
@@ -627,24 +627,24 @@ INSULT_LISPER;'YÇ-ò;;;;;;;;;;;;x
 INSULT_FALTERING;>e>e>T>TÑv;;;;;;;;;;;;x
 INSULT_STUTTERING;„STÑv;;;;;;;;;;;;x
 INSULT_GORGON;sYñY;;;;;;;;;;;;x
-INSULT_IDIOT;(rÀÜ;;;;;;;;;;;;x
+INSULT_IDIOT;"®å;;;;;;;;;;;;x
 INSULT_TORTURER;PÜÖVw;;;;;;;;;;;;x
 INSULT_LECHER;rÇ<õ;;;;;;;;;;;;x
 INSULT_LECHEROUS;åYrÇÑv;;;;;;;;;;;;x
 INSULT_GLUTTON;™åTw;;;;;;;;;;;;x
-INSULT_GORGING;¸rTNÜÃTÑv;;;;;;;;;;;;x
+INSULT_GORGING;¸rTNÜ¥VÑv;;;;;;;;;;;;x
 INSULT_VENAL;ãâ)RÿV©Ñv;;;;;;;;;;;;x
 INSULT_INDOLENT;ˆa`Ñv;;;;;;;;;;;;x
 INSULT_EVIL;·`Tõ;;;;;;;;;;;;x
-INSULT_ENVIOUS;íYÃVÑv;;;;;;;;;;;;x
+INSULT_ENVIOUS;…ZíPÑv;;;;;;;;;;;;x
 INSULT_HARRIDAN;QofZ;;;;;;;;;;;;x
 INSULT_RAGING;¥f`Ñv;;;;;;;;;;;;x
 INSULT_DECEITFUL;·rPäÑv;;;;;;;;;;;;x
 INSULT_CRAVEN;>`ÊaÑv;;;;;;;;;;;;x
 INSULT_COWARD;Êa+Y;;;;;;;;;;;;x
 INSULT_SCATTERBRAIN; |WX<õ;;;;;;;;;;;;x
-INSULT_ERRATIC;ÕS∏_!q8^Ñv;;;;;;;;;;;;x
-INSULT_BIGOT;OP˜Ww;;;;;;;;;;;;x
+INSULT_ERRATIC;ÕSïâ!q8^Ñv;;;;;;;;;;;;x
+INSULT_BIGOT;OP˜W¬i;;;;;;;;;;;;x
 INSULT_BIGOTED;OP˜WÑv;;;;;;;;;;;;x
 INSULT_PARANOID;ÑYÛ`«u;;;;;;;;;;;;x
 INSULT_FOOL;ªP‹t;;;;;;;;;;;;x
@@ -655,32 +655,32 @@ INSULT_FIEND;Tõ-ò;;;;;;;;;;;;x
 INSULT_CALLOUS;∑Qwë!q≈`Ñv;;;;;;;;;;;;x
 INSULT_WANTON;>eÜwÑv;;;;;;;;;;;;x
 INSULT_SENILE;w |WX;;;;;;;;;;;;x
-INSULT_CRIPPLE;8vPR;;;;;;;;;;;;x
+INSULT_CRIPPLE;€çPR;;;;;;;;;;;;x
 INSULT_VEGETABLE;iir∫N;;;;;;;;;;;;x
 INSULT_BESOTTED; |WXÑv;;;;;;;;;;;;x
 INSULT_DRUNKARD;Rë<õ;;;;;;;;;;;;x
-INSULT_UNCLEAN;YlbzÑv;;;;;;;;;;;;x
+INSULT_UNCLEAN;albzÑv;;;;;;;;;;;;x
 INSULT_LEPER;ªû®ò<õ;;;;;;;;;;;;x
 INSULT_BAT;Yá`á;;;;;;;;;;;;x
 INSULT_DEMONIC;·`Tõ,ÇÑv;;;;;;;;;;;;x
-INSULT_DEMENTED;ÙuFTÑv;;;;;;;;;;;;x
+INSULT_DEMENTED;1YzfÑv;;;;;;;;;;;;x
 INSULT_LUNATIC;vPR;;;;;;;;;;;;x
 INSULT_LUGUBRIOUS;™U2l…Å;;;;;;;;;;;;x
 INSULT_CRAZED;|v¬rÑv;;;;;;;;;;;;x
-INSULT_DEVIL_WOMAN;<õFZ;;;;;;;;;;;;x
-INSULT_WARLOCK;7uÎT;;;;;;;;;;;;x
+INSULT_DEVIL_WOMAN;sYÎ];;;;;;;;;;;;x
+INSULT_WARLOCK;Î]+U;;;;;;;;;;;;x
 INSULT_EFFEMINATE;ZZTÅÑv;;;;;;;;;;;;x
 INSULT_UNMANNED;´àπïÑv;;;;;;;;;;;;x
 INSULT_EUNUCH;πï∫N;;;;;;;;;;;;x
-INSULT_BLIND;éwPR;;;;;;;;;;;;x
+INSULT_BLIND;Úv∫E;;;;;;;;;;;;x
 INSULT_PEASANT;	ëÙTlO;;;;;;;;;;;;x
 INSULT_PEASANT_WOMAN;≤èfZ;;;;;;;;;;;;x
 INSULT_LOWBORN;‰ål;;;;;;;;;;;;x
-INSULT_HERESIARCH;plÔz-òÓv;;;;;;;;;;;;x
+INSULT_HERESIARCH;plÔzñôò;;;;;;;;;;;;x
 INSULT_SYBARITE;±Ç)YRë0WÑv;;;;;;;;;;;;x
 INSULT_DECADENT;ÆXLÑw;;;;;;;;;;;;x
 INSULT_WHOREMONGER;÷Z¢R;;;;;;;;;;;;x
-INSULT_WHORING;<ZìY;;;;;;;;;;;;x
+INSULT_WHORING;ìYsY;;;;;;;;;;;;x
 INSULT_DEBASED;N‰åÑv;;;;;;;;;;;;x
 INSULT_TEMPTRESS;iÖfZ;;;;;;;;;;;;x
 INSULT_DODDERER;ekeScé⁄çw;;;;;;;;;;;;x
@@ -688,8 +688,8 @@ INSULT_DEBAUCHER;>eiÖw;;;;;;;;;;;;x
 INSULT_LITTLE;SPR;;;;;;;;;;;;x
 INSULT_DEGENERATE;ÆXLÑÑv;;;;;;;;;;;;x
 INSULT_PERVERTED;äãKaÑv;;;;;;;;;;;;x
-INSULT_TROLLOP;<ZfZ;;;;;;;;;;;;x
-INSULT_PRUNE;wíl≤ç;;;;;;;;;;;;x
+INSULT_TROLLOP;ìYsY;;;;;;;;;;;;x
+INSULT_PRUNE;n!q≤ç;;;;;;;;;;;;x
 INSULT_PRUDE;GPckìt;;;;;;;;;;;;x
 INSULT_PRUDISH;àRÇÑv;;;;;;;;;;;;x
 INSULT_BORE;ä≠S<õ;;;;;;;;;;;;x
@@ -699,11 +699,11 @@ INSULT_SOFT;ﬂé®ö-ò;;;;;;;;;;;;x
 INSULT_SPIDER;á€Ü;;;;;;;;;;;;x
 INSULT_WUSSY;1Vﬁñ;;;;;;;;;;;;x
 INSULT_TIMID;ÃxSÑv;;;;;;;;;;;;x
-INSULT_COY;¯V)`Ñv;;;;;;;;;;;;x
+INSULT_COY;ûv/`Ñv;;;;;;;;;;;;x
 INSULT_RAPACIOUS;FV÷SÑv;;;;;;;;;;;;x
 INSULT_GRASPING;™åóV!q≠SÑv;;;;;;;;;;;;x
 INSULT_NARROWMINDED;S√V<wÑv;;;;;;;;;;;;x
-COMPL_VIVACIOUS;u2l√R√RÑv;;;;;;;;;;;;x
+COMPL_VIVACIOUS;unj√R√RÑv;;;;;;;;;;;;x
 COMPL_DEMURE;ÔzäÉÑv;;;;;;;;;;;;x
 COMPL_SINCERE;w†äÑv;;;;;;;;;;;;x
 COMPL_FORTHRIGHT;ÙvásÑv;;;;;;;;;;;;x

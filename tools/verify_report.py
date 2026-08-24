@@ -282,7 +282,7 @@ def check_leftover_simplified():
         for ch in t:
             if "\u4e00" <= ch <= "\u9fff":
                 # 正體多義/譯名常用字:里(里程村裡譯名)、托占征伙(正體本身)不算簡體殘留
-                if ch in ("里", "托", "占", "征", "伙", "後", "面", "只"):
+                if ch in ("里", "托", "占", "征", "伙", "後", "面", "只", "准", "干", "后", "丑", "采", "岩"):
                     continue
                 r = OPENCC.convert(ch)
                 if len(r) == 1 and r != ch:
