@@ -10,20 +10,20 @@ wol_schemer_1;mi™„v‹ëX;;;;;;;;;;;;x
 desc_wol_schemer_1;dkºNÎ‘ÃVÃRÃRÿ>fNMOOWN±‚ŠçTŠ†OÍd¶cÖNºN„vp–‹¶R0;;;;;;;;;;;;x
 wol_schemer_2;‹ëX;;;;;;;;;;;;x
 desc_wol_schemer_2;PÒ‰r‚>fNMO“tWšwS„v‹ëXÿÆR‹VrƒRwŒT—f-NÍd¶cºN0;;;;;;;;;;;;x
-wol_patriarch_1;¶R­U7uºN;;;;;;;;;;;;x
+wol_patriarch_1;ES¶R7uºN;;;;;;;;;;;;x
 desc_wol_patriarch_1;ÖNuX˜Ép¶R­^„vŒTfwx^yIYŠsNR0;;;;;;;;;;;;x
 wol_patriarch_2;Ïew•;;;;;;;;;;;;x
 desc_wol_patriarch_2;ÖN>f¶RÏe-N!qïS-rp‹„v˜Swÿ¡c(ujRÔg&Nßo„vKbµkã‰zllˆz0;;;;;;;;;;;;x
-wol_matriarch_1;¶R­U;NfZ;;;;;;;;;;;;x
+wol_matriarch_1;ES¶RsYºN;;;;;;;;;;;;x
 desc_wol_matriarch_1;yYuX˜Ép¶R­^„vŒTfwx^yIYŠsNR0;;;;;;;;;;;;x
 wol_matriarch_2;sYÏew•;;;;;;;;;;;;x
 desc_wol_matriarch_2;yY>f¶RÏe-N!qïS-rp‹„v˜Swÿ¡c(ujRÔg&Nßo„vKbµkã‰zllˆz0;;;;;;;;;;;;x
 schemer;ÆR‹'Y+^;;;;;;;;;;;;x
 break_up_with_lover;RKb;;;;;;;;;;;;x
 break_up_with_lover_desc;`OŒT §Y[Root.GetTitledFirstNameNoRegnal]§! „vbaÜ•û|Ptng†N0;;;;;;;;;;;;x
-opinion_whorespawn;“YsYObu;;;;;;;;;;;;x
+opinion_whorespawn;<ZfZObu;;;;;;;;;;;;x
 opinion_seduced_once;«ˆşRV;;;;;;;;;;;;x
-opinion_seduced_lustful_worship;r‚~aTÜb;;;;;;;;;;;;x
+opinion_seduced_lustful_worship;r‚2kTÜb;;;;;;;;;;;;x
 opinion_seducing_concubine;˜ŠÑ`;;;;;;;;;;;;x
 opinion_regicide_traitor;VTÛS’V;;;;;;;;;;;;x
 seduced_loyal_bodyguard;İOâ“Å`ºN;;;;;;;;;;;;x
@@ -62,7 +62,7 @@ EVTDESC_WOL_562;ÊN)YÿÕPºNP(W«spt±‚âS-N„vNPCsPráˆÿ|vşs
 EVTOPTA_WOL_562;T'Y¶R²R^S[target_baby.GetFirstName]>fb„v[target_baby.GetSonDaughter]ÿ;;;;;;;;;;;;x
 EVTOPTB_WOL_562;bgŒYugqv˜[target_baby.GetFirstName]„v0;;;;;;;;;;;;x
 EVTDESC_WOL_570;JSºN¬™`—Ñ†NbÿNVòf„vŒw‰wo†Pt	g›R0b_*g‹‰N¼	g7uºNsT„vºNÿ;;;;;;;;;;;;x
-EVTOPTA_WOL_570;b«ˆÖN„v™™sTObVg0;;;;;;;;;;;;x
+EVTOPTA_WOL_570;b«ˆÖN„v™™sTObµVg0;;;;;;;;;;;;x
 EVTOPTB_WOL_570;IrIr&&N-˜JSºN¬™ÿ(Wb„v¬™Ä^áˆÿÿ;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_571;HS_¼e`O„v2kg0;;;;;;;;;;;;x
 EVTDESC_WOL_571;b’‘†OBfaº‰x^y!qÔkÿÿnfPRı>f²-˜%^FT†N„vJSºN¬™ŒTbP²Æ’B›„vNY0;;;;;;;;;;;;x
@@ -83,7 +83,7 @@ EVTOPTA_WOL_584;[GetRootFromInsult]ÿb‰Šk(W†Nÿ&&;;;;;;;;;;;;x
 EVTDESC_WOL_585;DsRSSbšŒbr`sÿëmrf„p†N2†O01S(WÖNšŒËY«dxdb„vBfPÿbTÖNú^p‹0RNPôfèU„v0W¹e0DsRSËzJR6^f„bšN†NxeTˆRjˆÿœn0R†NÖN„vSKS0(W²ÿbN—VNZP›N„v‹NÅ`ÿ6qŒ_b(uNP'YPs8x†NÖN„v-˜ÿyYp†NÖN„vp”SŒTLˆ-˜ÿšŒËY†N¡NKNÅeÿ;;;;;;;;;;;;x
 EVTOPTA_WOL_585;ê1u†Nÿ;;;;;;;;;;;;x
 EVTDESC_WOL_586;b„vbr-˜«ˆ²PárPŠ„vSJZ8x[From.GetTitledName]şROO†NB›0ÖNŠbyY6^0R†NêñT„vOOU†ÿ„«ˆ²PÚV¯r(uR‘P8x†N-˜Ñ‰c†Nÿ;;;;;;;;;;;;x
-EVTOPTA_WOL_586;Šb²P1ˆ¨ŒTb20Nbrÿ;;;;;;;;;;;;x
+EVTOPTA_WOL_586;Šb²P1ˆ¨ŒTb2ÆRbrÿ;;;;;;;;;;;;x
 EVTDESC_WOL_590;b„vS¾Y[target_consort.GetTitledFirstNameNoRegnal]N'YœUpkb0å–6qbPKN“•&NNNšR—‰aÿFO„>fó`w0RyY„vo®NÉË†NnmşsúQr¹R&&ObåNbzlšRßyY©s©sjm+oÿ;;;;;;;;;;;;x
 EVTOPTA_WOL_590;ÌeUSE››R;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_591;şRV[This.GetFirstName]„vLˆÕRšŒËY†Nÿ;;;;;;;;;;;;x
@@ -98,7 +98,7 @@ EVTDESC_WOL_595;b„v[GetFromRelation][From.GetFirstName]Sb&N’l	g1uu
 EVTOPTA_WOL_595;bgXcN»S„vÿ;;;;;;;;;;;;x
 EVTOPTB_WOL_595;b>eÄ_0b1ŠÉarŠŠbyYSbeQ·Q®R&&;;;;;;;;;;;;x
 EVTDESC_WOL_1150;TBfÁd	g>wYÅ`ºN“‹ba0Râe‚nYÈSÿn³0b„vÅ`ºNPPP‚Yür<ON†ÿSaEQÿn2kg&&FO>fbNïSıwb—b—ñO0R0aº‰w•dkåNVN»SbˆVëV1Sg¹lğmÈq¯g0;;;;;;;;;;;;x
-EVTOPTA_WOL_1150;bd—VOOÿ;;;;;;;;;;;;x
+EVTOPTA_WOL_1150;bT—Vˆmÿ;;;;;;;;;;;;x
 EVTOPTB_WOL_1150;ŒT[first_lover.GetTitledFirstNameNoRegnal]RKb;;;;;;;;;;;;x
 EVTOPTC_WOL_1150;ŒT[second_lover.GetTitledFirstNameNoRegnal]RKb;;;;;;;;;;;;x
 EVTOPTD_WOL_1150;ŒT[third_lover.GetTitledFirstNameNoRegnal]RKb;;;;;;;;;;;;x
@@ -109,14 +109,14 @@ EVTTOOLTIP_WoL_1161;bĞcúQ†Nú^p‹01SIr[This.GetTitledFirstNameNoRegnal]
 EVTDESC_WOL_1161;obŞX„v•g-˜ÿ4xr„v¶RwQÿ„	gxÂˆ„vætP&&bŒT[Root.Spouse.GetFirstName]„vZZûY-NêS	g!qğm„v˜bèxŒTÀoÈp„v-r5T0b,gSb—r1Sdkˆm‰lÿ6qwb„vÅ`ºNÿ[From.GetTitledFirstNameNoRegnal]ÿTbú^p‹»S	‘N†ONCX!q‚X!qnaÿjm+owÈSÌR	gÀoÅ`„vÅeLˆÿ;;;;;;;;;;;;x
 EVTOPTA_WOL_1161;ªŠp1Spÿ;;;;;;;;;;;;x
 EVTOPTB_WOL_1161;N&&“‹bP1S(Wáˆÿ(W[Root.Spouse.GetFirstName]„v<w®v•^Nÿ;;;;;;;;;;;;x
-EVTOPTC_WOL_1161;bºxæ[ó`&&FONbe’QPª–0;;;;;;;;;;;;x
+EVTOPTC_WOL_1161;b„vºxó`&&FONbe’QPª–0;;;;;;;;;;;;x
 EVTOPTD_WOL_1161;bPNıw2jÿ	gºN&&Nôvïvf„bPÿ;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_1162;bP’Qf„«ˆ[Root.Spouse.GetFirstName]|vşs„v¨˜ª–0;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_1163;[Root.Spouse.GetFirstName]9h,g|vşsN†NbP0;;;;;;;;;;;;x
 EVTDESC_WOL_1162;[From.GetFirstName]ªŠgbYu(W[From.Capital.Capital.GetName]02jbP1Sıw(W[From.Spouse.GetTitledFirstNameNoRegnal]„v<w®v•^NTES†N0bPuó(W[From.Spouse.GetPossPronoun]Š^NZPaÿ;;;;;;;;;;;;x
 EVTOPTA_WOL_1162;ÛbbœUpk&&;;;;;;;;;;;;x
 EVTDESC_WOL_1163;b„v[GetFromRelation][From.GetFirstName]ŒTb(W`â–[From.Spouse.GetTitledFirstNameNoRegnal]„v<wÚtãv–‰„v	‘Qg-N¦^N†Njm+owÈSÀoÅ`„v^)Y&&;;;;;;;;;;;;x
-EVTOPTA_WOL_1163;bŒYx^yÿaº‰NİI#kœU&&;;;;;;;;;;;;x
+EVTOPTA_WOL_1163;bŒYx^yÿaº‰NİIp›R&&;;;;;;;;;;;;x
 EVTDESC_WOL_1164;b„v[GetFromRelation][From.GetFirstName]ÒbUt†NbĞcúQ„v»S	‘QgqQ¦^^åe„vú^p‹ÿêSàV`ù`ñ`†N[From.GetPossPronoun][From.Spouse.GetHusbandWife]0;;;;;;;;;;;;x
 EVTOPTA_WOL_1164;w>fjm»Œnjgÿ;;;;;;;;;;;;x
 EVTDESC_WOL_1164_MAD;b„v[GetFromRelation][From.GetFirstName]ÒbUt†NbĞcúQ„v»S	‘QgqQ¦^^åe„vú^p‹ÿ•TeVf„ªŠ	gºNNôv(Wïvf„bP&&;;;;;;;;;;;;x
@@ -255,7 +255,7 @@ EVTOPTA_WOL_2302;¬™N.Uc[Root.job_spymaster.GetTitledFirstNameNoRegnal]ÿ;
 EVTOPTB_WOL_2302;HQIrIr0bNµkBf“•QU†t‹N0;;;;;;;;;;;;x
 EVTDESC_WOL_2303;b²Pa¡r’•‹N„v[GetFromRelation]ÿ[From.GetTitledFirstName]ÿvP6q“•}€ªŠ†Nb„v‹ÉkŠƒRÿ&NhˆIy†NÍSS0şs(Wb«ˆ“bw†O†Nÿ;;;;;;;;;;;;x
 EVTDESC_WOL_2304;(WN»S„vNhTáˆÿbNôv(WÔN0tÀ‰ßRf„b„v“•ëŠL~¡r[Root.job_spymaster.GetFirstName]ÿFO&N’l	g|vº‰ÀN¼ïS‘uKNU†0nN1ŠLˆÉpäS*`„vºN>fbMbS&&;;;;;;;;;;;;x
-EVTOPTA_WOL_2304;b„	gôfÍ‘‰„v‹N‰ZP0;;;;;;;;;;;;x
+EVTOPTA_WOL_2304;b„	gôfÍ‘‰„v‹N»SZP0;;;;;;;;;;;;x
 EVTOPTB_WOL_2304;bïSNó`ÃVXRåPx^0Šb[Root.job_spymaster.GetObjectPronoun]Ûc‰c0;;;;;;;;;;;;x
 EVTDESC_WOL_2305;gÑb|vşsb„v[GetFromRelation][From.GetTitledFirstName]Nôv(W(rÙb0W¿Šågf„b0NšRŒT[From.GetPossPronoun]Sdp–‹„vÅuKa„v÷Wf„åNÊS²F˜N¼eYna„vfPR	gÜ•0brŠSÃVÉaØN0;;;;;;;;;;;;x
 EVTOPTA_WOL_2305;“‹[From.GetObjectPronoun]ØšØš‚‚0W«ˆŒrf„WWI'Tÿ;;;;;;;;;;;;x
@@ -283,7 +283,7 @@ EVTDESC_WOL_3054;b„v[GetFromRelation][From.GetTitledFirstNameNoRegnal]ÒbUt
 EVTDESC_WOL_3055;b„v[GetFromRelation][From.GetTitledFirstNameNoRegnal]ÒbUt†N[target_initiator.GetTitledFirstNameNoRegnal]„v“‹bPNw(W[target_initiator.Capital.Capital.GetName]¦^NNµkŒY¶R­^BfIQ„vËŠ&&;;;;;;;;;;;;x
 EVTOPTA_WOL_3055;[From.GetObjectPronoun]w>f*Y»P†Nÿ;;;;;;;;;;;;x
 EVTDESC_WOL_3056;[From.GetTitledFirstNameNoRegnal]ÿ[target_initiator.GetFirstName]ŒTb(WNw¦^N†NNµkŒY„vBfIQÿbaº‰bPNw RFV†N¶RÏe„vª‰Å`0;;;;;;;;;;;;x
-EVTOPTA_WOL_3056;NµkBf“•bPQ†ON!k'T0;;;;;;;;;;;;x
+EVTOPTA_WOL_3056;NµkBf“•±TPQ†ON!k'T0;;;;;;;;;;;;x
 EVTDESC_WOL_3057;[From.GetFirstName]ÿ[FromFrom.GetFirstName]ŒTb(WNw¦^N†NNµkŒY„vBfIQÿbºxšRÖNPôf RœUpk|Vdk†N0;;;;;;;;;;;;x
 EVTDESC_WOL_3060;N·e„v-r%›ŒTá`kO‡Rb„vxQPiRPR[target_second.GetFirstName]ŒT[target_first.GetFirstName]1S>f’l¦ÕlŒTçŠqQU†ÿFO>fbÉp†N“‹ÖNP|Vdkøvleøva„vªR›RBt¼ePtúQ†NœgæR0vlbâ–N„vBfPıNËSËŠS“‹ÖNP×SÊv*Súm&&;;;;;;;;;;;;x
 EVTOPTA_WOL_3060;d–†N`O„vDQVĞY¹Yÿ`O„ıwáOûN°ŠbTÿ;;;;;;;;;;;;x
@@ -306,7 +306,7 @@ decision_break_free;_ÚVy-NË‘>e;;;;;;;;;;;;x
 decision_break_free_desc;NÆR‹S§Y[This.GetTitledFirstName]§!_`s-NË‘>e0ïSıw—‰ˆVw•„vNµkBf“•0—‰§YÆR‹uJmÍ‘ÃV§!0;;;;;;;;;;;;x
 decision_spy_on;ßd¿Šåg;;;;;;;;;;;;x
 decision_spy_on_desc;ïvÊt§Y[This.GetTitledName]§!^gıw|vşs[This.GetPossPronoun]gÑ—f„vØyÆR0ïSıwAQ1Š`OÒR1tÿbåN‹ÍSj¶c4Šÿuó>fÉk‰c[This.GetObjectPronoun]0‰Bl§YÆR‹uJmÍ‘ÃV§!0;;;;;;;;;;;;x
-opinion_declined_romance;ÒbUtbÅ`;;;;;;;;;;;;x
+opinion_declined_romance;ÒbUtjm+o;;;;;;;;;;;;x
 opinion_charge_heresiarch;c¶cÿplïz˜–ˆ;;;;;;;;;;;;x
 opinion_charge_infidel;c¶cÿplYeÂP­dw;;;;;;;;;;;;x
 opinion_charge_deviant;c¶cÿâ–“tÛSS;;;;;;;;;;;;x
@@ -320,7 +320,7 @@ opinion_marital_love;øva;;;;;;;;;;;;x
 opinion_family_love;ª‰Å`;;;;;;;;;;;;x
 failed_escape;Ñ1YWe;;;;;;;;;;;;x
 attempted_murder_of_parent;fŠW‹Ék6rÍk;;;;;;;;;;;;x
-attempted_murder_of_sibling;fŠW‹ÉkDQVÊY¹Y;;;;;;;;;;;;x
+attempted_murder_of_sibling;fŠW‹ÉkDQVĞY¹Y;;;;;;;;;;;;x
 vicious_rumors;á`Òk„v/‹Š;;;;;;;;;;;;x
 desc_vicious_rumors;Ü•¼erŠÒ‰r‚XR(Wf„xeNİIxe„vj†GP/‹ŠÿˆVïSıw>fN›NÇNueÂP­dúQ†O„v0;;;;;;;;;;;;x
 known_murderer;ºNğm†våw„v‹Ék¯r;;;;;;;;;;;;x
@@ -359,7 +359,7 @@ EVTDESC_WoL_5001_bear;gÑÿ`ON·e0W_Î‘Y„v²lŒTÅeLˆwãS-N
 EVTDESC_WoL_5001_tiger;gÑÿ`ON·e0W_Î‘Y„v²lŒTÅeLˆwãS-N—V0RÂPŠÿNêSL–u„v^y‡súQşs(W†N`O„vW¶Ráˆ0²>fN-˜ŒvN†ÿFV'YwÈSã–åNSbÿJW“•ÂP^€ƒR†OêæSYNPNLuÿw.0RƒR„vusKbSgrs—V^ye€„v›RÏ‘0;;;;;;;;;;;;x
 EVTDESC_WoL_5001_lion;gÑÿ`ON·e0W_Î‘Y„v²lŒTÅeLˆwãS-N—V0RÂPŠÿNêSL–u„v^y‡súQşs(W†N`O„vW¶Ráˆ0²>fN-˜ŒvEsÿFV'YwÈSã–åNSbÿJW“•ÂP^€ƒR†OêæSYNPNLuÿw.0RƒR„vusKbSgrs—V^ye€„v›RÏ‘0;;;;;;;;;;;;x
 EVTOPTA_WoL_5001;bÅV˜>múQºNKbSbƒRÿ;;;;;;;;;;;;x
-EVTOPTB_WoL_5001;b’lzztg›N/‹ŠŒT1YqŠ0;;;;;;;;;;;;x
+EVTOPTB_WoL_5001;b’lzzU†t›N/‹ŠŒT1YqŠ0;;;;;;;;;;;;x
 EVTDESC_WoL_5004_stag;ŒYˆmo`ÿb„v[Root.GetLordLady]ÿbP6e0R†NïS`—„v1XJTÿgÑ	gºN(W[From.GetName]w0R†N©x'Y„vŒv0;;;;;;;;;;;;x
 EVTDESC_WoL_5004_bear;ŒYˆmo`ÿb„v[Root.GetLordLady]ÿbP6e0R†NïS`—„v1XJTÿgÑ	gºN(W[From.GetName]w0R†N©x'Y„vŒvŠq0;;;;;;;;;;;;x
 EVTDESC_WoL_5004_tiger;ŒYˆmo`ÿb„v[Root.GetLordLady]ÿbP6e0R†NïS`—„v1XJTÿgÑ	gºN(W[From.GetName]w0R†N©x'Y„vŒvN†0;;;;;;;;;;;;x
@@ -395,7 +395,7 @@ EVTOPTC_WoL_5040;NPöz-rwÖNÅV˜Škÿ;;;;;;;;;;;;x
 EVTDESC_WoL_5045;`O(WRƒÎ‘±‚†NxehT„vBf“•dSusir„vdáÿŠS’VŞR!qŸRÿêS	gxeNn„vò‡Ç†ŒT!qğm„v¼uÛu0;;;;;;;;;;;;x
 EVTOPTA_WoL_5045;0sôvëk!qa©&&;;;;;;;;;;;;x
 EVTDESC_WoL_5050;`O(WRƒÎ‘±‚†NxehT„vBf“•dSusir„vdáÿŠS’VŞR!qŸRÿNN`O|vşsêñTˆVœUpk(WÎ‘Y„vBfIQ0åe¸_Nåe„vÔš›RJmÕR“‹`Oaº‰0R&&ôfFV0;;;;;;;;;;;;x
-EVTOPTA_WoL_5050;w>f*YÒh†Nÿ;;;;;;;;;;;;x
+EVTOPTA_WoL_5050;w>fÒhui†Nÿ;;;;;;;;;;;;x
 EVTDESC_WoL_5055;`O(WRƒÎ‘±‚†NxehT„vBf“•dSusir„vdáÿFOŠSêSŒYzzKbwxb0`OºxáO’lºNg(WNN!k1YWe„v¢cª–0;;;;;;;;;;;;x
 EVTOPTA_WoL_5055;>fbPºN„v1YWe0;;;;;;;;;;;;x
 EVTOPTB_WoL_5055;ı*`b²k^’l(u„vO_ÿ;;;;;;;;;;;;x
@@ -439,8 +439,8 @@ EVTOPTA_WoL_5203;àV Š0;;;;;;;;;;;;x
 EVTOPTB_WoL_5203;usKb0;;;;;;;;;;;;x
 EVTOPTC_WoL_5203;ár>s0;;;;;;;;;;;;x
 EVTOPTD_WoL_5203;ï‰Õl0;;;;;;;;;;;;x
-EVTOPTE_WoL_5203;’dæe0;;;;;;;;;;;;x
-EVTOPTF_WoL_5203;¬‚Ì‘>i0;;;;;;;;;;;;x
+EVTOPTE_WoL_5203;pˆæe0;;;;;;;;;;;;x
+EVTOPTF_WoL_5203;¬‚áˆ>i0;;;;;;;;;;;;x
 EVTOPTG_WoL_5203;>i›RKQ0;;;;;;;;;;;;x
 EVTOPTH_WoL_5203;Ë—>i<SN¯e0;;;;;;;;;;;;x
 EVTOPTI_WoL_5203;WgY<S0;;;;;;;;;;;;x
@@ -448,11 +448,11 @@ EVTOPTJ_WoL_5203;–wmyr>i0;;;;;;;;;;;;x
 EVTOPTK_WoL_5203;Ë—R¯e0;;;;;;;;;;;;x
 EVTOPTL_WoL_5203;äSo›^0;;;;;;;;;;;;x
 EVTOPTM_WoL_5203;Ñ—f0;;;;;;;;;;;;x
-EVTOPTN_WoL_5203;?–Ì‘üf0;;;;;;;;;;;;x
+EVTOPTN_WoL_5203;?–áˆüf0;;;;;;;;;;;;x
 EVTOPTO_WoL_5203;’dæe0;;;;;;;;;;;;x
 EVTOPTP_WoL_5203;×k²Yæ0;;;;;;;;;;;;x
 EVTOPTQ_WoL_5203;T›…0;;;;;;;;;;;;x
-EVTOPTR_WoL_5203;bpw0;;;;;;;;;;;;x
+EVTOPTR_WoL_5203;Ìepw0;;;;;;;;;;;;x
 EVTDESC_WoL_5204_good;`O„v×rw•„vˆVëVÿòT“tNQ>fNhS×r†N0ÖNTYÑÅÿÅUº‰H—Oe0`O„vŠ¬r+^nN'Y'Y‡Šw†NêñTNju0;;;;;;;;;;;;x
 EVTDESC_WoL_5204_bad;`O„v×rw•„vˆVëVÿòT“tNQ>fNhS×r†N0ÖNTYÑÅÿÅUº‰H—Oe0ÖNnN“t8^¬TºNÿ	gŒY^MOŠ¬r+^ïSåNkOI‹0;;;;;;;;;;;;x
 EVTOPTA_WoL_5204;ŒY×r×rÿ;;;;;;;;;;;;x
@@ -462,7 +462,7 @@ opinion_nice_dog_children;N/“„v×r;;;;;;;;;;;;x
 EVTDESC_WoL_5210;`OàV Š„vus×rL~>f(W`O«Šÿ(uëVj„v<w^ywf„`O0	g¼NP<P—VáOôŒ„vgËSwŒY0;;;;;;;;;;;;x
 EVTOPTA_WoL_5210;‰>fºNm˜KN“•nNıw	g2j„vøv’NáOûNrŠYŒYJU0;;;;;;;;;;;;x
 EVTDESC_WoL_5211;®R÷^-N„vÏkPºNıˆVœUpk`O„v×r03SvQ>fiRPRPÿ(WŒTÖN©sw„vNz-Nb0R†N1ŠYj²0;;;;;;;;;;;;x
-EVTOPTA_WoL_5211;wNÖNnNœUpk`rP0;;;;;;;;;;;;x
+EVTOPTA_WoL_5211;wNÖNnNœUpkÖNP0;;;;;;;;;;;;x
 EVTDESC_WoL_5220;Ép†Nıw/Y(WérusNz-NhˆşsúQr‚ÿ`O„vus×r—‰ivl„vŠôt0nN1ŠöN‹N`OrŠª‰êÍdRÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_5220;’l/“ÿbgª‰êŠôtÖN0;;;;;;;;;;;;x
 EVTOPTB_WoL_5220;NÿbòT“tñPºN†Oy^öN‹N†N0;;;;;;;;;;;;x
@@ -472,8 +472,8 @@ EVTOPTA_WoL_5221;àV Šÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTB_WoL_5221;usKbÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTC_WoL_5221;ár>sÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTD_WoL_5221;ï‰Õlÿ“bOOÖNÿ;;;;;;;;;;;;x
-EVTOPTE_WoL_5221;’dæeÿ“bOOÖNÿ;;;;;;;;;;;;x
-EVTOPTF_WoL_5221;¬‚Ì‘>iÿ“bOOÖNÿ;;;;;;;;;;;;x
+EVTOPTE_WoL_5221;pˆæeÿ“bOOÖNÿ;;;;;;;;;;;;x
+EVTOPTF_WoL_5221;¬‚áˆ>iÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTG_WoL_5221;>i›RKQÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTH_WoL_5221;Ë—>i<SN¯eÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTI_WoL_5221;WgY<Sÿ“bOOÖNÿ;;;;;;;;;;;;x
@@ -481,11 +481,11 @@ EVTOPTJ_WoL_5221;–wmyr>iÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTK_WoL_5221;Ë—R¯eÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTL_WoL_5221;äSo›^ÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTM_WoL_5221;Ñ—fÿ“bOOÖNÿ;;;;;;;;;;;;x
-EVTOPTN_WoL_5221;?–Ì‘üfÿ“bOOÖNÿ;;;;;;;;;;;;x
+EVTOPTN_WoL_5221;?–áˆüfÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTO_WoL_5221;’dæeÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTP_WoL_5221;×k²Yæÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTOPTQ_WoL_5221;T›…ÿ“bOOÖNÿ;;;;;;;;;;;;x
-EVTOPTR_WoL_5221;bpwÿ“bOOÖNÿ;;;;;;;;;;;;x
+EVTOPTR_WoL_5221;Ìepwÿ“bOOÖNÿ;;;;;;;;;;;;x
 EVTDESC_WoL_5230;`O„vus×rÑ0RÎW!X-Nceek»S†N0ÖNJeÊd'`AS³ÿı•f„^PÕPºNÿ“‹ÖNP(WP`üaKN-NÑ‰c†N06qŒ_ÖN†O0R†N`O„vĞgP÷^ã„vgœUa„v×r×rb—MRÿJeÊdSvQôŠk0;;;;;;;;;;;;x
 EVTDESC_WoL_5231;ÊN)Y(W®R÷^ÿ`O„vus×rz6qšŒËY'Y|v÷–—ÿÛVU†•dob„JeÊd†N`O„vNP÷^ãÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_5231;ßN†Oÿ;;;;;;;;;;;;x
@@ -497,8 +497,8 @@ EVTOPTC_WoL_5290;ÉpàV ŠË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTD_WoL_5290;ÉpusKbË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTE_WoL_5290;Épár>sË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTF_WoL_5290;Épï‰ÕlË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
-EVTOPTG_WoL_5290;Ép’dæeË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
-EVTOPTH_WoL_5290;Ép¬‚Ì‘>iË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
+EVTOPTG_WoL_5290;ÉppˆæeË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
+EVTOPTH_WoL_5290;Ép¬‚áˆ>iË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTI_WoL_5290;Ép>i›RKQË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTJ_WoL_5290;ÉpË—>i<SN¯eË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTK_WoL_5290;ÉpWgY<SË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
@@ -506,7 +506,7 @@ EVTOPTL_WoL_5290;Ép–wmyr>iË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTM_WoL_5290;ÉpË—R¯eË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTN_WoL_5290;ÉpäSo›^Ë„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTO_WoL_5290;ÉpÑ—fË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
-EVTOPTP_WoL_5290;Ép?–Ì‘üfË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
+EVTOPTP_WoL_5290;Ép?–áˆüfË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTQ_WoL_5290;Ép’dæeË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTR_WoL_5290;Ép×k²YæË„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
 EVTOPTS_WoL_5290;ÉpT›…Ë„N¶^Ñ‘WRTXÿ;;;;;;;;;;;;x
@@ -532,7 +532,7 @@ beaten_up;«ˆÛuAb;;;;;;;;;;;;x
 beaten_up_desc;rŠÒ‰r‚şfÃS‚Sb%›ÿ«ˆºN¶RÍc„vJŸR—Ékx0;;;;;;;;;;;;x
 vice_royalty_duke_female_byzantine;sYSÍ;;;;;;;;;;;;x
 vice_royalty_king_female_byzantine;sYıcw;;;;;;;;;;;;x
-epic_hangover;´VÍ‘¿R‰‘;;;;;;;;;;;;x
+epic_hangover;Í‘¦^¿R‰‘;;;;;;;;;;;;x
 epic_hangover_desc;	gBf`OUR‘kOjgN†N-˜ÿBfP1S‰ØNúQãNùP0;;;;;;;;;;;;x
 EVTDESC_WoL_4000;ª‰a„v[Root.GetFirstName]ÿ\nbó`ËŠ`OÃS Rb	‚¦„vNCXgËS“•„vSZwgÿ(Wå‰Ls³N/“KN-N>eN×ON„viqñ`0^g`OıwY?šúQ^)YBf“•ÿ“‹bPğmÅ`«N×S	a…`0\n\ndkô\n[FromFrom.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_WoL_4000;bvl6qg»Sÿ;;;;;;;;;;;;x
@@ -543,12 +543,12 @@ EVTOPTA_WoL_4001;¯wšRˆV	g²ÿ;;;;;;;;;;;;x
 EVTDESC_WoL_4002;ª‰a„v[GetFromReverseRelation]ÿ\n\n^—8^z¾aÿb«fBf’lÕlÃS RCXÂrpk0NNˆVa,‹`Ow Š„vËŠ0\n\nŒ_g	ggÿ\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_WoL_4002;JUÿ[From.GetSheHe]NåwS[From.GetSheHe]0R•^/“N†NÀN¼0;;;;;;;;;;;;x
 EVTDESC_WoL_4003;ª‰a„v[GetFromReverseRelation]ÿ\n\nw0R`OŠ‹b¼NP9˜â^„vïSaò‡wäNbÛuÃV0!q‘uÿ[From.Religion.GetRandomEvilGodName]ck(W2Vr`O„va1ˆLˆ‘VÿwbŠSÙz(W†N`ONŠ0\n\n^g`OıwøaTÒR¬™ÿ\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTA_WoL_4003;`—Sÿÿ;;;;;;;;;;;;x
+EVTOPTA_WoL_4003;åıiÿÿ;;;;;;;;;;;;x
 EVTOPTB_WoL_4003;óS[From.Religion.GetRandomEvilGodName]„>f	gŞŒ^Øa„v0;;;;;;;;;;;;x
 EVTDESC_WoL_4011;‚Ydkz¾a„vÅ`ÁlObêS—VÖSˆmZw™„vŠƒR†N0;;;;;;;;;;;;x
 EVTDESC_WoL_4012;ª‰a„v[GetFromReverseRelation]ÿ\n\n‚Ydkz¾a„vÅ`ÁlObêS—VÖSˆmbPŸSHQŠƒRŒY„vZw™ŒTÂrpk†N0vlBfnjbŸq„vBfPbPgÜˆNN!k„v0\n\nŒ_g	ggÿ\n[From.GetTitledName];;;;;;;;;;;;x
 EVTDESC_WoL_4015;’lºN¥c×SZw™„vËŠ0bNPºNnN¦N†N´RgÿObåNêSŒYTŒ_¨cö^†N0;;;;;;;;;;;;x
-EVTOPTA_WoL_4015;›NºNwNX‹wÿ;;;;;;;;;;;;x
+EVTOPTA_WoL_4015;›NºNwNX‹²ÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_4030;“‹bPšŒËY'Tÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_4031;“‹bP&&šŒËY'Tÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_4101;ws^k—JU0;;;;;;;;;;;;x
@@ -559,14 +559,14 @@ EVTOPTC_WoL_4111;—r†NÿgŒY%R2j0;;;;;;;;;;;;x
 EVTOPTA_WoL_4112;bX˜aÿ;;;;;;;;;;;;x
 EVTOPTB_WoL_4112;bNX˜aÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_4113;b^g!k„v‹NN‰àVÉpU„v*Y‰‘ftØV†Nÿ;;;;;;;;;;;;x
-EVTOPTA_WoL_4114;~Nogÿ;;;;;;;;;;;;x
+EVTOPTA_WoL_4114;y^ogÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_4120;`O>fb&&gŒY„vgËSÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_4131;ŠbKb	‚w†Oÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_4132;ŒY'TÿïS>f`Oêb„vÿ;;;;;;;;;;;;x
 EVTOPTB_WoL_4132;%RÕRKbŒYŒYªŠ&&;;;;;;;;;;;;x
-EVTOPTC_WoL_4132;b—V•Êtb0W¹e²w†Oÿ;;;;;;;;;;;;x
+EVTOPTC_WoL_4132;b—V•Êtb0W¹eÏ…w†Oÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_4133;%R°x²ÿ¼uÿ;;;;;;;;;;;;x
-EVTOPTB_WoL_4133;bwNŠ—V0R•^ÉpUOu2l†N0;;;;;;;;;;;;x
+EVTOPTB_WoL_4133;bwNŠ—V0R•^ÉpeUu2l†N0;;;;;;;;;;;;x
 EVTOPTC_WoL_4133;nN1Š2j„ŒYÿbnNNu2l†N0;;;;;;;;;;;;x
 EVTDESC_WoL_4141;>mS—‰JmN2llÿb—VŠbcˆg+†N06qŒ_nN1ŠÿïUSÿb»SVŞÕRirN†Oÿ6qŒ_ïSıwÿïU’l/“ÿÛwÿ6qŒ_ÿ6qŒ_&&ŠbLhPRŞf„ÿ(WNb—äp‰wTÿ6qŒ_&&åıib2‰PRbTÿæTS†NÿbòT“t+N†O†Nÿşs(WrŠy^eUbTÿÈTÈTÿ	g†NÿbVÿ¼uŠkb†NÿbjRMbES6qPW(W†NÛwNÿw&&ŒY©s0bNåwSÉpÀN¼'Y¶Rı(WrÍSckÒhui†Nÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_4141;ŠbR‘^N†Oÿ;;;;;;;;;;;;x
@@ -576,7 +576,7 @@ EVTOPTA_WoL_4151;b’l‰‘ÿ;;;;;;;;;;;;x
 EVTDESC_WoL_4152_non_drunkard;o˜6q[From.GetTitledFirstName](W[From.GetHerHis]W‘R‘aŒY¹eb—*YN÷Wf„†N0;;;;;;;;;;;;x
 EVTDESC_WoL_4152_drunkard;[From.GetTitledFirstName]UwR‘†OÏPPÇRëXÿ;;;;;;;;;;;;x
 EVTOPTA_WoL_4152;[From.GetSheHeCap]ÉarŠ>eg0;;;;;;;;;;;;x
-EVTOPTB_WoL_4152;~Nogÿ;;;;;;;;;;;;x
+EVTOPTB_WoL_4152;y^ogÿ;;;;;;;;;;;;x
 EVTDESC_WoL_4800;şs(Wò˜R‘kOjPtng†NÿrŠŞV0RşsæRNLu†N0;;;;;;;;;;;;x
 EVTOPTA_WoL_4800;²gwšŒÃVOT0;;;;;;;;;;;;x
 EVTOPTB_WoL_4800;Mb>fwck„vuJmÿ;;;;;;;;;;;;x
@@ -633,7 +633,7 @@ EVTOPTA_WoL_6300;bckïvf„²Pff„vBfPƒRˆm1Y†N0;;;;;;;;;;;;x
 EVTDESC_WoL_6322;N)YéeNÿ`O„v[GetFromRelation][From.GetTitledFirstName]†Ow`O0[From.GetSheHeCap]ªŠ0Rÿ0bˆVÔdÃV0b}€ªŠ`OteZfı(Wïvf„)YzzÿªŠf„äS*`„v÷N2j„vqŠÿ„åNS‡R™R„vplïzÀ‰õVÉpj0b>f†OøR`O6eKb„vÿ>fÉp†N`OŒY00;;;;;;;;;;;;x
 EVTOPTA_WoL_6322;bêSw—VN™Y„vfzz0;;;;;;;;;;;;x
 EVTOPTB_WoL_6322;²áˆ	g1ŠY°eGY„v‹Nirÿbó`wÖNPÿ;;;;;;;;;;;;x
-EVTOPTC_WoL_6322;`O}€0R„vı>f‹Š0;;;;;;;;;;;;x
+EVTOPTC_WoL_6322;`O}€0R„vı>f‹qŠ0;;;;;;;;;;;;x
 EVTDESC_WoL_6330;`O(W)Y‡eú2Lˆ„vxvzòT“tO`OºxáOÿ(WòTåw„v‡R™RKNY„XR(Wf„1ŠYã–åNnáO„v‹Nir06qwÿSdkâe’l	gøvÜ•„vÇŒ™e¦N’l	gºNıw‚`O2LˆŠÖŠ0FO>f`O}€ªŠ(W?–Éb>O™l/o-N	gNMOäS*`„vwxRwÿÚdªŠÖNS›N*`•Š„v‹Nir	gf„ã^Ûl„vxvz0;;;;;;;;;;;;x
 EVTOPTA_WoL_6330;b‰»SbÖN0;;;;;;;;;;;;x
 EVTOPTB_WoL_6330;Nÿ*YP``†N0„>f—r†N0;;;;;;;;;;;;x
@@ -659,7 +659,7 @@ IS_NOT_HOLY_SITE_OF;N>f$RELIGION$„ve€0W0;;;;;;;;;;;;x
 theologian;^yxR¶R;;;;;;;;;;;;x
 theologian_desc;rŠÒ‰r‚S[GetHerHis]hQ«ÃV•beQ0R—RYexvzvl-N;;;;;;;;;;;;x
 religious_studies;—RYexvz;;;;;;;;;;;;x
-religious_studies_desc;rŠÒ‰r‚>f—RYexRX‹ŒT˜Ÿ`„vıBcw0;;;;;;;;;;;;x
+religious_studies_desc;rŠÒ‰r‚>f—RYexRX‹ŒT˜Ÿ`„vıSw0;;;;;;;;;;;;x
 religious_philosopher;—RYeòTxR¶R;;;;;;;;;;;;x
 religious_philosopher_desc;rŠÒ‰r‚>fNMOÌR	g“tWš„v—RYexRX‹ŒT˜Ÿ`„vıSw0;;;;;;;;;;;;x
 EVTDESC_WoL_7000_non_unref_pagan;(W[Root.Religion.GetName]áOğNvl-NXR(W1ŠY*gã‰KN‹0‚Yœgıw±‚ŞBf“•†OŒ”x[Root.Religion.GetScriptureName]„väSw‡e,gNšRgˆV	g²0;;;;;;;;;;;;x

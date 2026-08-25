@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 tools/state/
 tools/*.log
+release/
+*.zip
+*.mod

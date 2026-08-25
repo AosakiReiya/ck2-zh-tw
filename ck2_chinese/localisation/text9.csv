@@ -19,7 +19,7 @@ d_brunswick_adj;^+P^tKQ;;;;;;;;;;;;x
 d_dauphine_adj;YòƒgQ;;;;;;;;;;;;x
 d_constantine_adj;TëXfWN;;;;;;;;;;;;x
 d_abbasid_adj;?–Ôb¯e;;;;;;;;;;;;x
-d_balearic_adj;ôTÌ‘?–Ì‘;;;;;;;;;;;;x
+d_balearic_adj;ôT)R?–áˆ;;;;;;;;;;;;x
 d_bergen_adj;QS>i9h;;;;;;;;;;;;x
 d_bordeaux_adj;âl>iY;;;;;;;;;;;;x
 d_gilan_adj;	T-†;;;;;;;;;;;;x
@@ -37,15 +37,15 @@ plot_weaken_fellow_vassal_decision_desc;NT [Root.PlotTarget.GetTitledName
 plot_weaken_fellow_vassal_decision_liege;SBl[Root.TopLiege.GetTitledFirstName]„v>ec0;;;;;;;;;;;;x
 plot_weaken_fellow_vassal_decision_liege_desc;T [Root.TopLiege.GetTitledFirstName]ë[NSáOÿSBl[Root.TopLiege.GetHerHim]„v>ecåNRrR [Root.PlotTarget.GetTitledName]„v˜W0‚Yœg[Root.TopLiege.GetTitle]N>ec˜ÆR‹ÿƒR1SˆVïSıw«ˆ)m2—0R®R÷^gQ&&;;;;;;;;;;;;x
 EVTDESC7500;b„v[Root.GetTitle]ÿSìbb(WgQ„v1ŠYàVæR„vSãıœŠÉp [From.PlotTarget.GetTitledName]+eÖS†N``…N[From.PlotTarget.GetHerHis]0WMO„vk›RŒT˜0W0‚Yœg¨`ıwËSŒY0Wú^p‹[From.PlotTarget.GetHerHim]Šb[From.PlotTargetTitle.GetFullName]„v-˜œ’I“‹ftÖN„vSã0²1SQŒYNN†NÿbPShQÃVhQa„v>ec`O0\n\ndkôÿ\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTA7500;NP<P—V©‹ŞŒ„v!Pp‹0;;;;;;;;;;;;x
+EVTOPTA7500;NP<P—VÚc„v!Pp‹0;;;;;;;;;;;;x
 EVTOPTB7500;bSNgÃS‚CXÆR‹0;;;;;;;;;;;;x
 EVTTOOLTIP7500;[Root.TopLiege.GetTitledFirstName]6e0RNSáO0;;;;;;;;;;;;x
 EVTDESC7501;bPıS [Root.PlotTarget.GetTitledName]„v¨9x-N„væR›Ra0RÔd‚X0Ép†NW¶R„v‰RçRÿbPÉarŠËzJRowû|[Root.PlotTarget.GetHerHim]ÿåNæRşs`O„vŠƒR0\n\ndkôÿ\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTA7501;*YÒh†Nÿ;;;;;;;;;;;;x
-EVTTOOLTIP7501;—V0R`O„v¯wšRTr•‰0;;;;;;;;;;;;x
+EVTOPTA7501;™Yui†Nÿ;;;;;;;;;;;;x
+EVTTOOLTIP7501;—V0R`O„v¯wšRTr¸_0;;;;;;;;;;;;x
 EVTDESC7502;%RZPP»PPRÿ[Root.GetFirstName]ÿbN^gw0RW¶R1u¼eÆR‹mŠŠw>eâ–4xx0şs(WftbkPbkCXp–‹ÿ&TGRb|v“Š`OSgÉpdkŒ_”`ÿ\n\ndkôÿ\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA7502;bfŒv†N0;;;;;;;;;;;;x
-EVTTOOLTIP7502;—V0R`O„v&TšRTr•‰0;;;;;;;;;;;;x
+EVTTOOLTIP7502;—V0R`O„v&TšRTr¸_0;;;;;;;;;;;;x
 EVTDESC7504;bª‰a„v[Root.GetTitle]ÿ^g`O«ÔšeP·^0ĞgP>mû|ck(W¬PÃOb¡cÖSLˆÕRb`¸_WgQ˜JN„væR›RGWaˆÿbPœŠÉp`OgŒYıwêX˜S[From.PlotTargetTitle]I“‹ft`O„vNPSã.bPºxáO`OgTPa‹‰.\n\ndkôÿ\n[From.Liege.GetTitledName];;;;;;;;;;;;x
 EVTOPTA7504;^—8^ŒY0;;;;;;;;;;;;x
 EVTOPTB7504;ÖN>fN>fv†Nÿ;;;;;;;;;;;;x
@@ -63,7 +63,7 @@ EVTOPTB7507;nN1ŠbNÉarŠ’Qª–N0b&&;;;;;;;;;;;;x
 EVTTOOLTIP7507;ÒbUt¥c×SgŒ_Rr0;;;;;;;;;;;;x
 EVTDESC7508;b„v˜JNÿ`OŠbb¨cTNPğVã–„vƒX0WÿFO‚Yœg`Oaº‰0R>fgsO„vLˆÕR¹eHhÿ²¼1S‚Y`OObX˜'T0bS³NúQP-˜œ’0\n\ndkôÿ\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA7508;ˆVŒY0;;;;;;;;;;;;x
-EVTOPTA7509;²Pba„v¢GOÿ;;;;;;;;;;;;x
+EVTOPTA7509;²Pba„v¶R%Yÿ;;;;;;;;;;;;x
 EVTDESC7510;[Root.Liege.GetTitle]bŸR“‹ŸS†O„v˜JN“‹MO0şs(Wÿ1u[Root.PlotTarget.GetTitledFirstName]qt»l[Root.PlotTargetTitle.GetFullName]0;;;;;;;;;;;;x
 EVTOPTA7510;ˆVŒY0;;;;;;;;;;;;x
 EVTDESC7511;[Root.PlotTarget.GetTitledFirstName]ÒbUt†N[Root.Liege.GetTitle]“‹úQ[Root.PlotTargetTitle.GetFullName]-˜œ’„vTt‰BlÿFOóS“‹`O„v˜JN	g†N(W*g†OlRyYP-˜œ’„vÕRnj0o˜6qÿşs(W`OSêSıw¥c×SP‰R’c0;;;;;;;;;;;;x
@@ -78,8 +78,8 @@ VASSAL_TRANSFER_LOG;$OLD_LIEGE$IS$VASSAL$ft$NEW_LIEGE$;;;;;;;;;;;;x
 WAR_NAME_WEAKEN_VASSAL;vbc$OTHER_TITLE$°eqt»lw0b-r;;;;;;;;;;;;x
 TRIGGER_ATTACKER;JN‰2Je¹e;;;;;;;;;;;;x
 TRIGGER_MOST_PART_ATTACKER;¢ŒŠsg'Y„v2Jew;;;;;;;;;;;;x
-TRIGGER_DEFENDER;JN‰2–¦p¹e;;;;;;;;;;;;x
-TRIGGER_MOST_PART_DEFENDER;¢ŒŠsg'Y„v2–¦pw;;;;;;;;;;;;x
+TRIGGER_DEFENDER;JN‰2–¡V¹e;;;;;;;;;;;;x
+TRIGGER_MOST_PART_DEFENDER;¢ŒŠsg'Y„v2–¡Vw;;;;;;;;;;;;x
 CHAR_IS_NOT;Ò‰r‚N>f;;;;;;;;;;;;x
 CHAR_IS;Ò‰r‚>f;;;;;;;;;;;;x
 CHAR_EXISTS;Ò‰r‚XR(W;;;;;;;;;;;;x

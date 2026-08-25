@@ -147,3 +147,16 @@
   06bdcebc(HEAD)內容保留於 git,未來要納回全量批次,
   **必須**在 079f472 基礎上以「每批一小組檔案逐一實測」方式導入(不得整批推)。
 - zip 與 mod 目錄同步:兩 mod 目錄(Documents / OneDrive)md5 一致。
+
+
+## 6. 雙版本發布(2026-08-25)
+
+- 釋出架構:版本一 = 台灣化完整版(HEAD/079f472 內容,rework 為「main 工作區 = 可玩內容」);
+  版本二 = 基本繁體版(commit `21a34ee`:T1 詞表 + 8/18 修改字型,無 LLM)。
+- main 目錄內容已回滾為 079f472(可玩);全量批次(3,392 行)保留於 git 歷史,
+  未來導入必須分批實測(見 §5)。
+- `.gitignore` 新增 `release/`、`*.zip`、`*.mod`(產物不入庫;root 三 zip 已 untrack)。
+- `.github/workflows/modpack.yml`:tag `v*` → 產六包(兩版 × 三模組)+ 自動貼 GitHub Release;
+  main push/手動 → 產 artifacts;`21a34ee` 以 git archive 取用(不依賴工作區狀態)。
+- 命名:版本一 = `ck2_chinese_tw` / 版本二 = `ck2_chinese_basic`;sup/gui_fix 各有對應(Basic 尾綴)。
+- 本地實測:兩版 zip 110 條目、字型檔正確分離(734350 vs 734140)。

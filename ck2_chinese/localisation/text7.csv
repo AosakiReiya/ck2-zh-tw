@@ -3,7 +3,7 @@
 WIKIPEDIA_LINK;§Y­túWvÑyÈ“¥cÿñ‚‡e	ÿ§!;;;;;;;;;;;;x
 WIKIPEDIA_LINK_DESC;pÌ‰­túWvÑyN„vÒ‰r‚ËN9t;;;;;;;;;;;;x
 WIKIPEDIA_LINK_MISSING;§YPÒ‰r‚’l	g­túWvÑyËN9t§!;;;;;;;;;;;;x
-WIKIPEDIA_LINK_DISABLED;­túWvÑy#P}òTy(u;;;;;;;;;;;;x
+WIKIPEDIA_LINK_DISABLED;­túWvÑyÈ“¥còTy(u;;;;;;;;;;;;x
 AIREASON_TARGET_HAS_REPENTED_SINS;§Y[GetBestName]§!gÑòT“túX”`[GetPossPronoun]j;;;;;;;;;;;;x
 OL_DISABLED_ALERTS;òTy(uf‹JT;;;;;;;;;;;;x
 alert_deficits_name;dWR;;;;;;;;;;;;x
@@ -11,7 +11,7 @@ alert_country_at_war_name;0b-rÀrKa;;;;;;;;;;;;x
 alert_casus_belli_will_expire_name;èBf²R0bt1u;;;;;;;;;;;;x
 alert_allies_not_called_in_name;bPïSåNìS©UßvËS;;;;;;;;;;;;x
 alert_build_province_improvement_name;ïSåNú^-ŠwýNú^Ér;;;;;;;;;;;;x
-alert_troops_in_foreign_territory_name;ÍŽŠ–ß™.}(WWƒXY;;;;;;;;;;;;x
+alert_troops_in_foreign_territory_name;ÍŽŠ–ß™Nb(WWƒXY;;;;;;;;;;;;x
 alert_revoltrisk_in_provinces_name;ïSýwr|vÛS‚N;;;;;;;;;;;;x
 alert_available_decision_name;Í‘‰zlp‹;;;;;;;;;;;;x
 alert_noheir_name;’l	g|ubºN;;;;;;;;;;;;x
@@ -41,7 +41,7 @@ ALERT_DISABLED;òTy(u;;;;;;;;;;;;x
 ALERT_DISABLED_TOOLTIP;òTy(u\n§YÞžÊdåNÍ‘°enU(u§!;;;;;;;;;;;;x
 ALERT_DISMISSED;ÖSˆm;;;;;;;;;;;;x
 ALERT_DISMISSED_TOOLTIP;òTÖSˆm\n§YÞžÊdåNÍ‘°enU(u§!;;;;;;;;;;;;x
-SAME_GUARDIAN_AS;‚Œ_wÁdgøvT„vãv†‹ºN;;;;;;;;;;;;x
+SAME_GUARDIAN_AS;‚Œ_w	gf„øvT„vãv†‹ºN;;;;;;;;;;;;x
 NOT_SAME_GUARDIAN_AS;‚Œ_w’l	gøvT„vãv†‹ºN;;;;;;;;;;;;x
 GARRISON_REINFORCE_PROVINCEVIEW_TOOLTIP;ÜˆáTÿ§Y+$NUM$§!/g;;;;;;;;;;;;x
 NO_LEVY_REINF_GARRISON;§R(WˆR™PèŠ–ÜˆEQŒRbuKNMRµVìSuQ!qÕl—V0RÜˆáT§!;;;;;;;;;;;;x
@@ -54,8 +54,8 @@ TITLE_TIER_IS_HIGHER;§Y$NAME$§!„vIr)tØš¼e§Y$RANK$§!\n;;;;;;;;;;;;x
 TITLE_TIER_IS_NOT_HIGHER;§Y$NAME$§!„vIr)tNØš¼e§Y$RANK$§!\n;;;;;;;;;;;;x
 MSG_SETTING_PRIO6;S«fkPJ2b0;;;;;;;;;;;;x
 MSG_SETTING_CLOSE_COL;Pj×V¶c6R`OŒT`O„vÑª‰ÊS!q˜0W¶R­^báT„vˆmo`;;;;;;;;;;;;x
-MSG_SETTING_OTHER_COL;PjŒ¶c6RvQÖNÜ•èlÒ‰r‚„vˆmo`;;;;;;;;;;;;x
-MSG_SETTING_INTEREST_COL;PjŒ¶c6Ryr%RÜ•èlÒ‰r‚„vˆmo`;;;;;;;;;;;;x
+MSG_SETTING_OTHER_COL;Pj×V¶c6RvQÖNÜ•èlÒ‰r‚„vˆmo`;;;;;;;;;;;;x
+MSG_SETTING_INTEREST_COL;Pj×V¶c6Ryr%RÜ•èlÒ‰r‚„vˆmo`;;;;;;;;;;;;x
 MSG_SETTING_CLOSE_BUT;P	c’¶c6R`OŒT`O„vÑª‰ÊS!q˜0W¶R­^báT„vˆmo`;;;;;;;;;;;;x
 MSG_SETTING_INTEREST_BUT;P	c’¶c6Ryr%RÜ•èlÒ‰r‚„vˆmo`;;;;;;;;;;;;x
 MSG_SETTING_OTHER_BUT;P	c’¶c6RvQÖNÜ•èlÒ‰r‚„vˆmo`;;;;;;;;;;;;x
@@ -63,4 +63,4 @@ SPECIAL_INTEREST_CHARACTERS;yr%RÜ•èlÒ‰r‚;;;;;;;;;;;;x
 CIW_MESSAGES;§YjŠyr%RÜ•èlÒ‰r‚§!;;;;;;;;;;;;x
 CIW_MESSAGES_DEL;yr%RÜ•èlÒ‰r‚ôf¹Rf«ˆýdŽÿÖNP	gêñT„vŠo`kŒTˆmo`-Šš[0;;;;;;;;;;;;x
 EVTDESC24503;b„vvQ™øŠPR(Wýw›RNNýw‚[From.GetTitledFirstName]øvÐc&NÖŠ0ÖNåwS‚YUOORÿ&NS(WbŠkŒ_bÉpNTIP'Y„v[Root.GetTitle]0;;;;;;;;;;;;x
-EVTOPTD50006;FO>f&&bN>f>e†N`OÎUÿ;;;;;;;;;;;;x
+EVTOPTD50006;FO>f&&bN>f>e†N`O¼žÿ;;;;;;;;;;;;x

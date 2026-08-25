@@ -40,7 +40,7 @@ EVTDESC_HL_7001;ôbàVæR„vÇRëX[Root.GetDynName]ÿ\n\nbg…V`Oıw(W
 EVTOPTA_HL_7001;bşs(W1S™P¬™ÿ;;;;;;;;;;;;x
 EVTDESC_HL_7002;ô[Root.GetTitledFirstName]ÿ\n\nˆVNx^„v>fÿb!qÕlÃS RsSS	‚¦„vfkİ…'Y0\n\n[From.GetTitledName];;;;;;;;;;;;x
 EVTDESC_HL_7020;ÇRëXP_ÛVb—kQ¹e†O0R`O„v®R÷^ÿÃS RIP'Y„vfkİ…'Y0¬™Ò™PëNÊS…V„vúsr€³NÜ–f„À‰>wP„v6TŠU0¨–f„Ob	gÃSwT`OôleŒ_ÿ`O|vúQ†NšŒËY„váOn†0;;;;;;;;;;;;x
-EVTOPTA_HL_7020;X˜gF_„vÇRëXİI)Rÿ;;;;;;;;;;;;x
+EVTOPTA_HL_7020;X˜gŒY„vÇRëXİI)Rÿ;;;;;;;;;;;;x
 EVTDESC_HL_7025;`OÉp†N'Y†O0R†N[From.PrimaryTitle.GetRulerTitle]„v®R÷^0¬™Ò™PëNÊS…V„vúsr€³NÜ–f„À‰>wP„v6TŠU0(W`OT[From.GetTitledFirstName]le®yŒ_ÿ[From.GetSheHe]|vúQ†NÔkšŒËY„váOn†0;;;;;;;;;;;;x
 EVTOPTA_HL_7025;bSízğmhQ›Rÿ;;;;;;;;;;;;x
 EVTDESC_HL_7055;`O(W¬™bˆÿV­rŒTRbˆNN“•!qºNıwueÿ`O—V†N'Yÿ[From.GetTitledFirstName]Šb`OÉa—V„vNsÁT˜|vft†N`O0;;;;;;;;;;;;x
@@ -87,12 +87,12 @@ HORDE_RETTYPE_CAV6;Í‘İˆHQÒ’;;;;;;;;;;;;x
 HORDE_RETTYPE_CAV7;VšuQ;;;;;;;;;;;;x
 HORDE_RETTYPE_EUROPE;ÍišuQ;;;;;;;;;;;;x
 RELIGION_ALLOWS_FEMALE_TEMPLE_HOLDERS;§Y$CHAR$§!„v—RYeAQ1ŠsY'`c	g^y¿kŒTsY'`—RYegQ²•báT;;;;;;;;;;;;x
-HAS_LOWER_POPULATION_AND_MANPOWER_THAN;ºNãS‚ºN›RS¼e;;;;;;;;;;;;x
-HAS_HIGHER_POPULATION_AND_MANPOWER_THAN;ºNãS‚ºN›RY¼e;;;;;;;;;;;;x
+HAS_LOWER_POPULATION_AND_MANPOWER_THAN;ºNãSŒTºN›RS¼e;;;;;;;;;;;;x
+HAS_HIGHER_POPULATION_AND_MANPOWER_THAN;ºNãSŒTºN›RY¼e;;;;;;;;;;;;x
 HAS_LOWER_POPULATION_AND_MANPOWER_GROWTH_THAN;ºNãSXw•‡sNO¼e;;;;;;;;;;;;x
 HAS_HIGHER_POPULATION_AND_MANPOWER_GROWTH_THAN;ºNãSXw•‡sØš¼e;;;;;;;;;;;;x
-HAS_LOWER_MAX_POPULATION_AND_MANPOWER_THAN;g'YºNãS‚ºN›RNO¼e;;;;;;;;;;;;x
-HAS_HIGHER_MAX_POPULATION_AND_MANPOWER_THAN;g'YºNãS‚ºN›RØš¼e;;;;;;;;;;;;x
+HAS_LOWER_MAX_POPULATION_AND_MANPOWER_THAN;g'YºNãSŒTºN›RNO¼e;;;;;;;;;;;;x
+HAS_HIGHER_MAX_POPULATION_AND_MANPOWER_THAN;g'YºNãSŒTºN›RØš¼e;;;;;;;;;;;;x
 POPULATION_EFFECT;$DIRECTION$ $VALUE$ ºNãS0\n;;;;;;;;;;;;x
 IS_COUNTY_OWNER;>fwıNc	gw;;;;;;;;;;;;x
 TT_NOT_SAME_REALM;N(WêñT„v˜0WgQ;;;;;;;;;;;;x
@@ -103,7 +103,7 @@ EVTDESC_HL_6512_ARROW;bck‰â–šŒÿS)R­rYu(Wò˜4lU†ÿ[From.GetFirs
 EVTDESC_HL_6512_DRAGON;bck‰â–šŒÿSèTŸYu(Wò˜4lU†ÿ[From.GetFirstName]„v¬™1Slˆ†NN†O¬T†N[Root.GetHerHim]ÿ;;;;;;;;;;;;x
 EVTDESC_HL_6512_SKY;bck‰â–šŒÿS¼„yzYu(Wò˜4lU†ÿ[From.GetFirstName]„v¬™1Slˆ†NN†O¬T†N[Root.GetHerHim]ÿ;;;;;;;;;;;;x
 EVTOPTA_HL_6512;b‰Šb²Î‘‡s°R†Nÿ;;;;;;;;;;;;x
-EVTOPTB_HL_6512;²áˆ	gPôfŒY„vò˜4lU†&&;;;;;;;;;;;;x
+EVTOPTB_HL_6512;²áˆ	gPôfŒY„vò˜4l0W&&;;;;;;;;;;;;x
 EVTDESC_HL_6990;gÑ^Pfgbı^yB›NšR0ê_b²ÃVa„v¬™p†NKNŒ_ÿb1Saº‰bIS†NNèR0;;;;;;;;;;;;x
 EVTOPTA_HL_6990;şs(Wb‰hsêÌw ŒÍ‘Ôd0;;;;;;;;;;;;x
 EVTOPTB_HL_6990;bˆVx^Kÿ	g[Root.Spouse.GetHusbandWife]†O‰Rpab0;;;;;;;;;;;;x

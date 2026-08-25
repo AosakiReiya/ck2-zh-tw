@@ -4,16 +4,16 @@ DLC_TOOLTIP;DLC_TOOLTIP;;;;;;;;;;;;x
 DLC_TOOLTIP_DELAYED;DLC_TOOLTIP_DELAYED;;;;;;;;;;;;x
 DLC_NOT_OWNED;§R*gÁd	g§!;;;;;;;;;;;;x
 CLICK_TO_VIEW_DLC;§GÞžÊdågwôfY§!;;;;;;;;;;;;x
-dlc_type_expansion;ôdEHS;;;;;;;;;;;;x
+dlc_type_expansion;ôdUSS;;;;;;;;;;;;x
 dlc_type_content;gQ¹RS;;;;;;;;;;;;x
 dlc_type_unit;®UMOS;;;;;;;;;;;;x
 dlc_type_portrait;–wÏPS;;;;;;;;;;;;x
-dlc_type_dynasty_shield;¶RÏe}ïqS;;;;;;;;;;;;x
+dlc_type_dynasty_shield;¶RÏeþvÌVS;;;;;;;;;;;;x
 dlc_type_music;ó—jS;;;;;;;;;;;;x
 dlc_type_other;vQÖNgQ¹R;;;;;;;;;;;;x
 dlc_launcher_header_owned;òTÁd	g;;;;;;;;;;;;x
 dlc_launcher_header_unowned;*gÁd	g;;;;;;;;;;;;x
-dlc_launcher_view_in_store;MR€_FU—^ågw;;;;;;;;;;;;x
+dlc_launcher_view_in_store;(WFU—^-Någw;;;;;;;;;;;;x
 DLC_dlc001_TOOLTIP_INSTANT;§Y¶RÏeþvÌVS I§!;;;;;;;;;;;;x
 DLC_dlc001_TOOLTIP_DELAYED;ÿ-NNtPk2mgW„T„v50P¶RÏehs	g„v50PþvÌV;;;;;;;;;;;;x
 DLC_dlc002_TOOLTIP_INSTANT;§Y™„äSºN–wÏPS§!;;;;;;;;;;;;x
@@ -37,7 +37,7 @@ DLC_dlc010_TOOLTIP_DELAYED;ÿ-NNtPk2mW„T„v50P¶RÏehs	g„v50P
 DLC_dlc011_TOOLTIP_INSTANT;§Y…¬™z1u§!;;;;;;;;;;;;x
 DLC_dlc011_TOOLTIP_DELAYED;ÿÑjˆÍŽÿ`O„vÁyºN8^™PÍŽŠ–\nÿýw/Y¸_‚…¬™^W\nÿNzlp‹îO¸_Yeg'YRÂˆ\n\nD– Ryr'`ÿ\nÿ“‹`O¶c6R„vqt»lwŠ‹—Vôf R*QÀy\nÿqgckYegQ²•báT!j‹W\nÿZw&qÜbTO­^^W„vhQ°e‹NöNŒTzlp‹;;;;;;;;;;;;x
 DLC_dlc012_TOOLTIP_INSTANT;§YÜbTO­^®UMOS§!;;;;;;;;;;;;x
-DLC_dlc012_TOOLTIP_DELAYED;ÿÜb`S­^‡eSÒ‰r‚„vhsyr®UMO!j‹W;;;;;;;;;;;;x
+DLC_dlc012_TOOLTIP_DELAYED;ÿÜbTO­^‡eSÒ‰r‚„vhsyr®UMO!j‹W;;;;;;;;;;;;x
 DLC_dlc013_TOOLTIP_INSTANT;§Y^—2m–wÏPS§!;;;;;;;;;;;;x
 DLC_dlc013_TOOLTIP_DELAYED;ÿ^—2m‡eSÒ‰r‚„vhsyrb—èDtT;;;;;;;;;;;;x
 DLC_dlc014_TOOLTIP_INSTANT;§Y0W-Nwm–wÏPS§!;;;;;;;;;;;;x
@@ -158,25 +158,25 @@ DLC_dlc073_TOOLTIP_INSTANT;§Y¶x‰sKNŸ§!;;;;;;;;;;;;x
 DLC_dlc073_TOOLTIP_DELAYED;ÿ‚-Nïƒ^W’NÕR\nÿ°e„vg¢ŒÔšû|\nÿ¿Œf‚°ŒÌR\n\nD– Ryr'`ÿ\nÿ°e„v1oÏ…Ò‰r‚–wÏP\nÿ°e„v²R0bt1u\nÿ-NW®UMOŒT0b-r\nÿ°e—RYe;;;;;;;;;;;;x
 View_on_Steam;(W Steam -Någw;;;;;;;;;;;;x
 REQUIRED_DLC;—‰ DLC;;;;;;;;;;;;x
-LANDING_RECOMMENDED_EXPANSION;¨c¦…ôdEHSÿ;;;;;;;;;;;;x
+LANDING_RECOMMENDED_EXPANSION;¨c¦…ôdUSSÿ;;;;;;;;;;;;x
 LANDING_HEADER_INTERESTING_CHARACTERS_FOR_EXPANSION;	g²„všŒOSxÇd;;;;;;;;;;;;x
-LANDING_HEADER_DLC001;¶RÏe}ïqS I;;;;;;;;;;;;x
+LANDING_HEADER_DLC001;¶RÏeþvÌVS I;;;;;;;;;;;;x
 LANDING_HEADER_DLC002;™„äSºN–wÏPS;;;;;;;;;;;;x
 LANDING_HEADER_DLC003;?–>iÔki`KNLk;;;;;;;;;;;;x
 LANDING_HEADER_DLC004;áOðNKNLk;;;;;;;;;;;;x
 LANDING_HEADER_DLC005;Ò‰r‚-ŠŠhV;;;;;;;;;;;;x
 LANDING_HEADER_DLC006;e€0WKNLk;;;;;;;;;;;;x
-LANDING_HEADER_DLC007;0O¯e-†KNR0ôdEHS;;;;;;;;;;;;x
+LANDING_HEADER_DLC007;0O¯e-†KNR0ôdUSS;;;;;;;;;;;;x
 LANDING_HEADER_DLC008;^—2m®UMOS;;;;;;;;;;;;x
-LANDING_HEADER_DLC009;ÈTÌ‘|vKNLk;;;;;;;;;;;;x
-LANDING_HEADER_DLC010;¶RÏe}ïqS II;;;;;;;;;;;;x
-LANDING_HEADER_DLC011;0…¬™z1u0ôdEHS;;;;;;;;;;;;x
-LANDING_HEADER_DLC012;Üb`S­^®UMOS;;;;;;;;;;;;x
+LANDING_HEADER_DLC009;ÈTáˆ|vKNLk;;;;;;;;;;;;x
+LANDING_HEADER_DLC010;¶RÏeþvÌVS II;;;;;;;;;;;;x
+LANDING_HEADER_DLC011;0…¬™z1u0ôdUSS;;;;;;;;;;;;x
+LANDING_HEADER_DLC012;ÜbTO­^®UMOS;;;;;;;;;;;;x
 LANDING_HEADER_DLC013;^—2m–wÏPS;;;;;;;;;;;;x
 LANDING_HEADER_DLC014;0W-NwmºNir–wÏPS;;;;;;;;;;;;x
 LANDING_HEADER_DLC015;…¯e®UMOS;;;;;;;;;;;;x
 LANDING_HEADER_DLC016;…¯e–wÏPS;;;;;;;;;;;;x
-LANDING_HEADER_DLC017;Üb`S­^KNLk;;;;;;;;;;;;x
+LANDING_HEADER_DLC017;ÜbTO­^KNLk;;;;;;;;;;;;x
 LANDING_HEADER_DLC018;0åeL„eQµO0ôdUSS;;;;;;;;;;;;x
 LANDING_HEADER_DLC019;…¯eKNLk;;;;;;;;;;;;x
 LANDING_HEADER_DLC020;þŠ¯e–wÏPS;;;;;;;;;;;;x
@@ -187,8 +187,8 @@ LANDING_HEADER_DLC024;0V^yH—0ôdUSS;;;;;;;;;;;;x
 LANDING_HEADER_DLC025;‚^yLk;;;;;;;;;;;;x
 LANDING_HEADER_DLC027;ñQ>iyr®UMOS;;;;;;;;;;;;x
 LANDING_HEADER_DLC028;ñQ>iyr–wÏPS;;;;;;;;;;;;x
-LANDING_HEADER_DLC029;¶RÏe}ïqS III;;;;;;;;;;;;x
-LANDING_HEADER_DLC030;0Pkx–¨˜ò–IV0IÛchV;;;;;;;;;;;;x
+LANDING_HEADER_DLC029;¶RÏeþvÌVS III;;;;;;;;;;;;x
+LANDING_HEADER_DLC030;0Pkx–¨˜ò–IV0I”jhV;;;;;;;;;;;;x
 LANDING_HEADER_DLC031;šR6RS;;;;;;;;;;;;x
 LANDING_HEADER_DLC032;0žN>OÉbUKNÔˆ0ôdUSS;;;;;;;;;;;;x
 LANDING_HEADER_DLC033;šëXW®UMOS;;;;;;;;;;;;x
@@ -206,7 +206,7 @@ LANDING_HEADER_DLC044;âl¯e–wÏPS;;;;;;;;;;;;x
 LANDING_HEADER_DLC045;0ågtüf0ôdUSS;;;;;;;;;;;;x
 LANDING_HEADER_DLC046;éeg‰Pkgþ˜S;;;;;;;;;;;;x
 LANDING_HEADER_DLC047;éegqg¹egþ˜S;;;;;;;;;;;;x
-LANDING_HEADER_DLC048;0ågtüf0¶RÏe}ïqS;;;;;;;;;;;;x
+LANDING_HEADER_DLC048;0ågtüf0¶RÏeþvÌVS;;;;;;;;;;;;x
 LANDING_HEADER_DLC050;0uJmKNS0ôdUSS;;;;;;;;;;;;x
 LANDING_HEADER_DLC051;OÔk)RžN®UMOS;;;;;;;;;;;;x
 LANDING_HEADER_DLC052;OÔk)RžN–wÏPS;;;;;;;;;;;;x
@@ -299,37 +299,37 @@ LANDING_DLC071_TEXT;JN‰yr'`ÿ\nÿ>yWbáT„v”N–™M‘j\n\n0nUIy
 LANDING_DLC005_TEXT;JN‰yr'`ÿ\nÿê©šR`O„v-˜ÏP\nÿŒTT`O„v¶RÏe&N-ŠŠ¶RÌV\nÿRM‘lS'`ŒTyrµV\nÿuRú^M‘vPŒTŒ_ãN\nÿ“‹`OêñTÖSãNNPwkòSºNir\n\n­S&P†NnboNPwkòSºNirÿÒ‰r‚-ŠŠhV“‹`O(WJ2bšŒËYBfuRú^lS¼e`OêñT„vÒ‰r‚0þs(W`OïSåNnboZ>iV÷–·VŠk¡N5rëXÿŽ>i<SZSgQ„v‚>i^tKQÿbûNUO`OœUpk„v0;;;;;;;;;;;;x
 LANDING_DLC030_TEXT;JN‰yr'`ÿ\nÿŠb`O„v0‹sW¨˜ò–II0„vXR”jIÛc0R0Pkx–¨˜ò–IV0ÿž_wQ©sxevt^0\n\nPkx–¨˜ò–IVI”jhVO0‹sW¨˜ò–II0„v˜JNP(W0Pkx–¨˜ò–IV0„vNLuáˆ|uŒuÖNP„vqt»l0\nPXR”jIÛchVgŠb0‹sW¨˜ò–II0XR”jáˆ„v˜JNÿ—RYeÿ‡eSÿŒTW¶RIó0Pkx–¨˜ò–IV0ÿž_wrs—Vxevt^„vJ2bBf“•0\n\n,gDLC—‰0Pkx–¨˜ò–IV0†OKLˆIÛcŒ_„vXR”j0;;;;;;;;;;;;x
 LANDING_DLC031_TEXT;JN‰yr'`ÿ\nÿJ2bgQt|v—^ÿšR6R|v‹WŒTáw˜\nÿÍ‘°eÉp`OOb	gŒ_ãN„v°euRQwT\nÿÉpÁyuPR¶RÏeŒTT\nÿÍ‘°eŒTTlQWÊSåNNIr)t„v-˜œ’ÿSìbvQbV¹R^ŠbVV\n\n`Oº‰—V`O„vÒ‰r‚áw˜ã–wÎUÿ.R†NƒRÿÿTBfÛcP|v‹W	ÿó`Šb`O„v‹sWëSZP 0ÒhFT†N‹sW0ÿ9e†NƒRÿ\n`OKbNàVã„v¶RÏeT1zbþvÌVww†OˆV1ˆÎUÿêñT†OšR6R'TÿšR6RSAQ1Š`O(WJ2b-N9eŠ‹Ob	g›N‹Nir0\nƒRNg9eŠ‹J2b„v©sÕlÿFOïSýwg“‹`OgQÃVôfnèm0;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC002;Ó{‹O–wÏPÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC013;Ó{‹O–wÏPÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC014;Ó{‹O–wÏPÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC016;Ó{‹O–wÏPÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC020;Ó{‹O–wÏPÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC028;Ó{‹O–wÏPÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC041;Ó{‹O–wÏPÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC044;Ó{‹O–wÏPÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC046;Ó{‹O–wÏPÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC047;Ó{‹O–wÏPÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC052;Ó{‹O–wÏPÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC008;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC012;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC015;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC021;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC027;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC033;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC034;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC037;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC038;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC040;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC043;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC051;Ó{‹O®UMOÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC055;Ó{‹OgQ¹Rÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC063;Ó{‹OgQ¹Rÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC067;Ó{‹OgQ¹Rÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC002;Iy‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC013;Iy‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC014;Iy‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC016;Iy‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC020;Iy‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC028;Iy‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC041;Iy‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC044;Iy‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC046;Iy‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC047;Iy‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC052;Iy‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC008;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC012;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC015;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC021;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC027;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC033;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC034;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC037;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC038;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC040;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC043;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC051;Iy‹O®UMOÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC055;Iy‹OgQ¹Rÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC063;Iy‹OgQ¹Rÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC067;Iy‹OgQ¹Rÿ;;;;;;;;;;;;x
 LANDING_EXAMPLE_TITLE_DLC001;	g²„všŒOSxÇdÿ;;;;;;;;;;;;x
 LANDING_EXAMPLE_TITLE_DLC010;	g²„všŒOSxÇdÿ;;;;;;;;;;;;x
 LANDING_EXAMPLE_TITLE_DLC029;	g²„všŒOSxÇdÿ;;;;;;;;;;;;x
 LANDING_EXAMPLE_TITLE_DLC048;	g²„všŒOSxÇdÿ;;;;;;;;;;;;x
-LANDING_EXAMPLE_TITLE_DLC072;ôfYÓ{‹O–wÏPÿ;;;;;;;;;;;;x
+LANDING_EXAMPLE_TITLE_DLC072;ôfYIy‹O–wÏPÿ;;;;;;;;;;;;x
 DLC_INTERESTING_CHAR_DATE;åegÿ$ERA$ÿlQCQ $YEAR$ t^;;;;;;;;;;;;x
 DLC_INTERESTING_CHAR_TITLE;-˜œ’ÿ$TITLE$;;;;;;;;;;;;x
 DLC_INTERESTING_CHAR_orhan_ottoman_DESC;0gY>iWl· RJŸ>fgY¯eüf†9NW„v,rŒNûNŒO0P‹sg„vTWR†On¼eÖN„v6rª‰gY¯eüfNNÿgY>iWl|ub„vêS>fgY¯eüfú^Ëz„vSlQWÿwPSlQW(WÖNŠkŒ_„v^PNtáˆbÉp†NNPNLu'`^W00\n;;;;;;;;;;;;x
@@ -426,9 +426,9 @@ ERA_CHAR_NAME_190228;ôTO)RžN W‹s TX‰m	NN;;;;;;;;;;;;x
 ERA_CHAR_NAME_205072;¥ž‰žN W‹s gYÕl;;;;;;;;;;;;x
 ERA_CHAR_NAME_214;Õl-†‰ W‹s S›R;;;;;;;;;;;;x
 ERA_CHAR_NAME_3504;ïSWl ?–U·V id¯eU;;;;;;;;;;;;x
-ERA_CHAR_NAME_7757;Xb¯eaSKS sYlQ5r jt‚„>iT;;;;;;;;;;;;x
+ERA_CHAR_NAME_7757;Š¯eaSt sYlQ5r jt‚„>iT;;;;;;;;;;;;x
 ERA_CHAR_NAME_418;Ë—>i’‚kgæt >O5r ÃWŒ>i;;;;;;;;;;;;x
-ERA_CHAR_NAME_100546;lQ5r ÃWÌ‘KQ	NN0plYe’V0;;;;;;;;;;;;x
+ERA_CHAR_NAME_100546;lQ5r ÃWáˆKQ	NN0plYe’V0;;;;;;;;;;;;x
 ERA_CHAR_NAME_LONG_247204;jˆÏ… ‰`ÜˆÎ‘ ÉbTX±qÆYŒNN;;;;;;;;;;;;x
 ERA_CHAR_NAME_LONG_71157;±q²žN S´ŒL~cw gYŒŠ;;;;;;;;;;;;x
 ERA_CHAR_NAME_LONG_194282;­t¯eÔk 'Y^w• ¢Œt>i;;;;;;;;;;;;x
@@ -469,7 +469,7 @@ DLC_dlc048_EXAMPLE_IMAGE_2_TOOLTIP_DELAYED;0ÜbTO­^‡v^TëXfWN”NN
 REPUBLICS_ENABLED;ågwqQŒTWRhˆ;;;;;;;;;;;;x
 REPUBLICS_DISABLED;nboqQŒTW?eÔš—‰§Y0qQŒTW0§!ôdUSS;;;;;;;;;;;;x
 FE_CONTENT;gQ¹R¡rt;;;;;;;;;;;;x
-MAIN_MENU_BANNER_PDX_ACCOUNT;uRú^Paradox3^n†ÿ;;;;;;;;;;;;x
+MAIN_MENU_BANNER_PDX_ACCOUNT;uRú^ParadoxìŒn†ÿ;;;;;;;;;;;;x
 MAIN_MENU_BANNER_PDX_ACCOUNT_TOOLTIP_DELAYED;`O„v Paradox ìŒ6b>fTŒRte Paradox ÔšWš„vp”S0ËzJRèlŠQÿ(WbP„vÖŠÖXNÃS RŠÖŠÿ¥cÑ`Oga„v Paradox J2buRkOwPÿ¡rt`O„vJ2b‚Š±•ÿ6ers\lSùP<hŒTÁT0;;;;;;;;;;;;x
 DLC_DISABLED;§g*gÀoJm§!;;;;;;;;;;;;x
 MENU_BAR_PRIVACY_DEL;±–Áy?eVr;;;;;;;;;;;;x
@@ -625,7 +625,7 @@ Culture_Army_Hungarian;SYr)RCššuQ;;;;;;;;;;;;x
 Culture_Army_Iberian;OÔk)RžNšKb;;;;;;;;;;;;x
 Culture_Army_IndoAryan;5”VekuQ;;;;;;;;;;;;x
 Culture_Army_Irish;Y	‘ÇRëX;;;;;;;;;;;;x
-Culture_Army_Italian;©'Y)Rw•ÛwKb;;;;;;;;;;;;x
+Culture_Army_Italian;a'Y)Rw•ÛwKb;;;;;;;;;;;;x
 Culture_Army_Jurchen;5”nm`S;;;;;;;;;;;;x
 Culture_Army_Lombard;+PôT,rÍ‘ÝˆekuQ;;;;;;;;;;;;x
 Culture_Army_Israelite;ôT>iÑykôTjˆuQ;;;;;;;;;;;;x
@@ -633,17 +633,17 @@ Culture_Army_Nahua;Ž2mN†fkëX;;;;;;;;;;;;x
 Culture_Army_NorthGermanic;Såe3wüfOjˆ;;;;;;;;;;;;x
 Culture_Army_Nubian;ªRÔkžNV­rKb;;;;;;;;;;;;x
 Culture_Army_Pictish;®vKQyr«R cw;;;;;;;;;;;;x
-Culture_Army_Somali;1t¬™)RceuQ;;;;;;;;;;;;x
+Culture_Army_Somali;1t¬™áˆceuQ;;;;;;;;;;;;x
 Culture_Army_SouthSlavic;äS©…>i;;;;;;;;;;;;x
 Culture_Army_Suebi;†­t/Sw•ÍiuQ;;;;;;;;;;;;x
 Culture_Army_Tibetan;œU¬™ÉbÅ–qSl;;;;;;;;;;;;x
 Culture_Army_WestAfrica;ê1uÇRëX;;;;;;;;;;;;x
 Culture_Army_European;šëX;;;;;;;;;;;;x
-MENU_BANNER_EXTENSION_TITLE;¨c¦…ôdEHS;;;;;;;;;;;;x
+MENU_BANNER_EXTENSION_TITLE;¨c¦…ôdUSS;;;;;;;;;;;;x
 SINGLE_PLAYER_LATEST_SAVE;g°eXR”jÿ;;;;;;;;;;;;x
 NO_SAVE_AVAILABLE;’l	gïS(u„vXR”j;;;;;;;;;;;;x
 UNKNOWN_CHAR;*gåwÒ‰r‚;;;;;;;;;;;;x
-LANDING_HEADER_DLC074;0^ye€KN`0ôdEHS;;;;;;;;;;;;x
+LANDING_HEADER_DLC074;0^ye€KN`0ôdUSS;;;;;;;;;;;;x
 DLC_dlc074_TOOLTIP_INSTANT;§Y^ye€KN`§!;;;;;;;;;;;;x
 DLC_dlc074_TOOLTIP_DELAYED;ÿ4xŽxŒT¨–nj„vNLu\nÿ0bëXlQg\nÿÂPGYOˆ\nÿïSx„vŸSËY—RYe9ei—\n\nD– Ryr'`ÿ\nÿÉbebÀo``O„v0‘ES\nÿe€ºN& R•Q;;;;;;;;;;;;x
 LANDING_DLC074_TEXT;JN‰yr'`ÿ\nÿ4xŽxŒT¨–nj„vNLu\nÿ0bëXlQg\nÿÂPGYOˆ\nÿïSx„vŸSËY—RYe9ei—\n\nD– Ryr'`ÿ\nÿe€ºNÿ R•Q\nÿÉbebÀo``O„v0‘ES\nÿ°e„vASWRÍŽqgµV‹NöN\nÿ°e„v|ubÕlŒTÉkºNn®U\nÿ?–Éb>O0¯eÉb+Y0Õl-†‰ŒTa'Y)R‡eS„v–wÏP\nÿŒýàV0ÏgÏg>iŒTÎžáQyr‡eS„v°e®UMO;;;;;;;;;;;;x
@@ -692,7 +692,7 @@ EVENT_ENDING_LOG;\nyrr‚qt»lwJmÕRSg(W$MINUTES$R“Œ_Ptng0;;;;
 EVENT_ENDED_SETUP;JmÕRòTPtng;;;;;;;;;;;;x
 EVENT_ENDED_LOG;\na,‹¨`J©syrr‚qt»lwÿc0bþsòTPtngàVdkKNŒ_„vûNUO2¦^ýNg«ˆŠŠÿ;;;;;;;;;;;;x
 HIGHLIGHTED_RULER_EVENT_FINISHED;JmÕRòTŒRbÿ;;;;;;;;;;;;x
-ONLINE_CONNECTION_REQ;—‰#‡²}ÿ;;;;;;;;;;;;x
+ONLINE_CONNECTION_REQ;—‰ow²}ÿ;;;;;;;;;;;;x
 BRONZEMAN_MODE_ENABLED;…’ºN!jVÿ§GnU(u§!;;;;;;;;;;;;x
 BRONZEMAN_MODE_DISABLED;…’ºN!jVÿ§Ry(u§!;;;;;;;;;;;;x
 RULES_FEATS_ENABLED;c0bÿ§GnU(u§!;;;;;;;;;;;;x

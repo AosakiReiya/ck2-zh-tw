@@ -89,7 +89,7 @@ EVTDESC20209;b„v[Root.GetMyTreasurerName]ÿ[From.GetTitledFirstName]ÿJT4
 EVTOPTA20209;ˆVŒYÿ;;;;;;;;;;;;x
 EVTDESC20217;b„v[Root.GetMyTreasurerName]ÛbßR–n™PŒYÉpbkO0b„vÇRëXSbŒTs^JN©„vLˆÉpa0R1YgŞV¶Rÿ.Nğm†Nb„vÉ0;;;;;;;;;;;;x
 EVTOPTA20217;»SÖNP„vÿ;;;;;;;;;;;;x
-action_build_zeal;²Réc—RYeÂr±q;;;;;;;;;;;;x
+action_build_zeal;²RÂP—RYeÂr±q;;;;;;;;;;;;x
 EVTNAME20218;ÛbßRT†áOw;;;;;;;;;;;;x
 EVTDESC20218;bbŸR0W(W[Root.Location.GetName]„vºNl-NèleQ†N—RYe„vÂr±q0[Root.Liege.Religion.GetRandomGodName]T† Š„vÇRëX¨–Bf–n™PŒYS—bplYe’Vÿ;;;;;;;;;;;;x
 EVTOPTA20218;b„v[Root.Liege.PrimaryTitle.GetRulerTitle]gØš‚„vÿ;;;;;;;;;;;;x
@@ -139,7 +139,7 @@ convert_to_parent_religion;ˆvOckqt—RYe;;;;;;;;;;;;x
 raise_tribal_units;ìSÆ–èL„ÍŠ–;;;;;;;;;;;;x
 raise_tribal_units_desc;bïSåNìSÆ–àV Š„v[Root.Culture.GetName]ÇRëXåN©R0b‹N0b„vTr€(WYÿqVÿ—ã^Ûl0ÖNPšRgMR†O0FO>fNæeŒTs^0R†OÿÖNP¿OgŞVxbEeáˆ0å–6qÖNPJN‰>fÉp®iŒ‹w^—°ŒÌRkO0bÿFObÍN—ÉpÖNP>eØNÜˆft0;;;;;;;;;;;;x
 EXPENSE_EVENT_LEVIES;‹NöNÍŠ–­t†‹»Œ;;;;;;;;;;;;x
-EXPENSE_EVENT_FLEETS;‹NöN9‚»–­t†‹»Œ;;;;;;;;;;;;x
+EXPENSE_EVENT_FLEETS;‹NöN9‚êS­t†‹»Œ;;;;;;;;;;;;x
 HIRED_COSTS;ñP­PuQ­t†‹»Œÿ§Y$MERC$§!\n‹NöNÍŠ–­t†‹»Œÿ§Y$EVENT$§!;;;;;;;;;;;;x
 SPAWN_UNIT_EFFECT_MAINTENANCE;Ïkg­t†‹»Œÿ§R$COST$§!¤;;;;;;;;;;;;x
 SPAWN_UNIT_EFFECT;N>e §Y$NUM_TROOPS$§! ºN„vÍWòT“tµbT§Y$WHERE$§!0;;;;;;;;;;;;x
@@ -155,9 +155,9 @@ EVTTITLE_CM_1010;+PôT,rlQJN;;;;;;;;;;;;x
 EVTDESC_CM_1010;j–Nÿ¨`ueºN„væR›R‚åeñOXÿsS¿O¨`„vSãTPàVÃVNŒNÿFO(WÕl-†KQºNW¦^KNYSBlßvËSnN>fo‚‹0‚Yœg¨`X˜aÿÎ6Z+PôT,rW‹søŠYsYRQKNNÿšRïSæR›R'YXÿåN¿OS—b¨`VV„vmŠŠ0;;;;;;;;;;;;x
 EVTOPTA_CM_1010;CXZZûYŒYU†YY0;;;;;;;;;;;;x
 EVTOPTB_CM_1010;bMbN‰“‹+PôT,rºNNbŠ^bTÿ;;;;;;;;;;;;x
-EVTTITLE_CM_1011;+PôT,r‹sT;;;;;;;;;;;;x
+EVTTITLE_CM_1011;+PôT,r‹sŒ_;;;;;;;;;;;;x
 EVTDESC_CM_1011;j–NÿNSãlSSdkNÿn0Î6Z [Root.Spouse.GetFirstName]ê6q(W?e»lN	gvQkO(uÿFO6ZNP†Oê+PôT,rbP‚ue„vlQJNSˆVYºN†OªŠã–åN¥c×S0‚YÊN.zNÿnòT“tïSıwSô¨`1Y»SN›N´ŒÏe„v>ec0şs(WO†NyY„ÉpBfNZf&&;;;;;;;;;;;;x
-EVTOPTA_CM_1011;b1SåwS>fPrJNaÿO†NyYÿ;;;;;;;;;;;;x
+EVTOPTA_CM_1011;b1SåwS>fP?™JNaÿO†NyYÿ;;;;;;;;;;;;x
 EVTOPTB_CM_1011;yYşs(W>fb„v‹sŒ_ÿnN>fÖNP„v‹sŒ_ÿÖNP—VxRg¥c×SşsæR0;;;;;;;;;;;;x
 EVTDESC_CM_1076;[From.GetDynName]ÿŠk»SNEN„v[FromFrom.GetTitledName]„vzORÿ†O0R`O•MRÿ^NBlftˆNyY‚yYiRPRİO†‹0yYr€1zyY¡N+Yª–á`„vDQVgëkNYuÅ`„v‹ÉkyYPÿåNÖS—VSW¦^„v¶c6R0;;;;;;;;;;;;x
 EVTOPTA_CM_1076;`OïSåNŠbáˆvlê¶R0;;;;;;;;;;;;x
@@ -179,7 +179,7 @@ EVTOPTA_CM_1121;“‹yY2†O0;;;;;;;;;;;;x
 EVTOPTB_CM_1121;bSyY’l	gÀN¼ŒYªŠ„v0;;;;;;;;;;;;x
 EVTTITLE_CM_1122;Ík‚PR;;;;;;;;;;;;x
 EVTDESC_CM_1122;`O‚`OÍkª‰qQ2Zf™ÿyYĞc0R`Ot^„vBfPåNÊSyY	gYa`Oÿ0båwSb>ec`OåTåT“‹`Oã–×SÿFOşs(W“‹bP†OªŠŞšŒÃV‹N0“‹bPØVŠBfNNëVÿŠbS¹evlkOª‰Ñ„vgËS0“‹bPNŠTNŠŞV¶Xvlt^`OS„vBfPÿ`O>fbga„vRQPR0†Oÿbft`O6^†NNŒY„vR‘ÿNŠUNŠJw00;;;;;;;;;;;;x
-EVTOPTA_CM_1122;”UŒYR‘ÿbœUpkÿ;;;;;;;;;;;;x
+EVTOPTA_CM_1122;æTŒYR‘ÿbœUpkÿ;;;;;;;;;;;;x
 EVTOPTB_CM_1122;bNáOûN`Oÿp'TÿÍkª‰0;;;;;;;;;;;;x
 EVTDESC_CM_1123;nhfÿ`OÍkª‰(W`O’‘†OMR1Séeéeâ–»S0yYhˆşs„v	gŞGY*`0`Oa0Ryè¼uÛuÿ«Ôšj†1V0>fN>fàVÉpT†NbU†NÀN¼NŒY„vÿ;;;;;;;;;;;;x
 EVTOPTA_CM_1123;N*YS&&;;;;;;;;;;;;x
@@ -227,7 +227,7 @@ cb_decadence_usurption_desc;Fz¯e—gïSåN(uP²R0bt1uáryYPS„v
 tribal_organization_desc;èL„DtTuÕlck‚YSú^‹skÕl0êSNNsS¿ODtTuo‚ŒY„vèL„ÍN6qIONSSã„v¶c6R0;;;;;;;;;;;;x
 tribal_organization_0_desc;NODtTu¦^BfÿèL„SSã^NN’l	gûNUO¶c6R0;;;;;;;;;;;;x
 tribal_organization_1_desc;K‘w•SSã	gS1Š¶c6R0;;;;;;;;;;;;x
-tribal_organization_2_desc;Sã‚K‘w•„vk›R'Yôs^aˆ0;;;;;;;;;;;;x
+tribal_organization_2_desc;Sã‚K‘w•„vk)R'Yôs^aˆ0;;;;;;;;;;;;x
 tribal_organization_3_desc;K‘w•SSã	gkZ0;;;;;;;;;;;;x
 tribal_organization_4_desc;K‘w•Nm˜<OSú^„v¹eV¶c6Rf„Sã0;;;;;;;;;;;;x
 adopt_republicanism;ú^ËzFUmiqQŒTW;;;;;;;;;;;;x
@@ -256,7 +256,7 @@ EVTDESCCM15007;æTÿb„vÌwÿ˜f„*YŒ–Icôv'T0QW>fNCX˜bèx
 EVTOPTACM15007;b„v°eJNºN'YSÿMbıwSb_áQN„vÛuæ‚Nq¬q-Nã‰Qeÿ;;;;;;;;;;;;x
 CANNOT_PLAY_CHARLEMANGE_BOOKMARK_WITHOUT_DLC;—‰0ågtüf0DLC;;;;;;;;;;;;x
 CANNOT_PLAY_TOG_BOOKMARK_WITHOUT_DLC;—‰V^yH—DLC;;;;;;;;;;;;x
-frisian;V„‰-†;;;;;;;;;;;;x
+frisian;Váˆ¯e-†;;;;;;;;;;;;x
 tribal_duke_frisian;'YK‘w•;;;;;;;;;;;;x
 tribal_duke_female_frisian;sY'YK‘w•;;;;;;;;;;;;x
 tribal_duchy_of_frisian;'YK‘¦;;;;;;;;;;;;x
@@ -319,27 +319,27 @@ in_hiding_desc;PÒ‰r‚²0R†NÏ…«U†åNšŒİ‘S[GetHerHis]uŒT„v
 INTERACTION_NOT_IN_HIDING;îvjN(WÏ…?S-N\n;;;;;;;;;;;;x
 zun_judgement;«ˆ'YSéR3R;;;;;;;;;;;;x
 IS_DYING;ëVŠk†N;;;;;;;;;;;;x
-ISNT_DYING;\*gèxQ};;;;;;;;;;;;x
-LANDED_SIBLING_BONUS;	g˜0W„vDQVÊY¹Y;;;;;;;;;;;;x
-LANDED_HALF_SIBLING_BONUS;	gW0W„vêPDQVÊY¹Y;;;;;;;;;;;;x
+ISNT_DYING;’l	gëVŠk;;;;;;;;;;;;x
+LANDED_SIBLING_BONUS;	gW0W„vDQVĞY¹Y;;;;;;;;;;;;x
+LANDED_HALF_SIBLING_BONUS;	gW0W„v|uDQVĞY¹Y;;;;;;;;;;;;x
 LANDED_NIECE_BONUS;	gW0W„v„O%usY;;;;;;;;;;;;x
 LANDED_CHILD_BONUS;	gW0W„v[Root.GetSonDaughter];;;;;;;;;;;;x
 LANDED_GRAND_CHILD_BONUS;	gW0W„vkR[Root.GetSonDaughter];;;;;;;;;;;;x
 LANDED_PARENT_BONUS;	gW0W„v[Root.GetFatherMother];;;;;;;;;;;;x
 LANDED_UNCLE_AUNT_BONUS;	gW0W„v[Root.GetUncleAunt];;;;;;;;;;;;x
-LANDED_GRAND_PARENT_BONUS;	g˜0W„vVy6rÍk;;;;;;;;;;;;x
-LANDED_GREAT_GRAND_PARENT_BONUS;	g˜0W„vşfVy6rÍk;;;;;;;;;;;;x
-LANDED_COUSIN_BONUS;	g˜0W„vT)Xhˆª‰;;;;;;;;;;;;x
+LANDED_GRAND_PARENT_BONUS;	gW0W„vVy6rÍk;;;;;;;;;;;;x
+LANDED_GREAT_GRAND_PARENT_BONUS;	gW0W„vşfVy6rÍk;;;;;;;;;;;;x
+LANDED_COUSIN_BONUS;	gW0W„vT)Xhˆª‰;;;;;;;;;;;;x
 LIEGE_PRESTIGE;Sãú^ÉrĞc›O„vZgÿ§G+$VALUE$§!;;;;;;;;;;;;x
 INTERACTION_TRIBAL_TITLE_ALLOWS_REVOKATION;§Y$TITLE$§!„vèL„Ôšû|–n1ŠlRyY-˜œ’;;;;;;;;;;;;x
 CHRONICLE_FOUNDED_NEW_KINGDOM_OR_EMPIRE;[Root.GetDynName]uRú^†N[Root.PrimaryTitle.GetFullName]ÿUSIy†N[Root.GetHerHis]FV'Y„væR›R0;;;;;;;;;;;;x
 CHRONICLE_FILL0016;[Root.PrimaryTitle.GetName](Wt^áˆÎrsPŒ6e0;;;;;;;;;;;;x
 EVTDESC_CM_1160;(Wg-N„vĞgPZfNÿ`O„vÍkª‰[Root.Mother.GetFirstName]b—SOb	gºNİ‘S`O„v[Root.Spouse.GetHusbandWife]'Yr€c»Œ0ÖNªŠ`O„v[Root.Spouse.GetHusbandWife]NåwS[Root.Spouse.GetHerHis]0WMOÿÉavl«ˆŒYŒY¡rYe0`O„v[Root.Spouse.GetHusbandWife]gT`OÿSBlk^©R&&;;;;;;;;;;;;x
 EVTOPTA_CM_1160;wÌZ>fS„v0;;;;;;;;;;;;x
-EVTOPTB_CM_1160;‰Rk—ÿÍkª‰0³YŠLu†N0;;;;;;;;;;;;x
-EVTOPTC_CM_1160;/Y†Nÿ»SîOSb–…_f„ÿ;;;;;;;;;;;;x
+EVTOPTB_CM_1160;‰Rk—ÿÍkª‰0`OŠLu†N0;;;;;;;;;;;;x
+EVTOPTC_CM_1160;/Y†Nÿ»SîOSb–FTf„ÿ;;;;;;;;;;;;x
 EVTDESC_CM_1172;`OÍkª‰†O‹‰`O00b„v[Root.GetSonDaughter]ÿbˆVÔd‚X0`O„v[From.GetJobTitle][From.GetTitledFirstName]ÿ(W[From.GetHerHis]åTkONNåwSÀN¼Mb&rTbP„v)RÊv0bÔdÃVw•dkåNVÿ[From.GetSheHe]g	g³R¼e`O„vqt»l00;;;;;;;;;;;;x
 EVTOPTA_CM_1172;Íkª‰ÿ`O>fS„v0[From.GetJobTitle]ÅV˜Nú0;;;;;;;;;;;;x
 EVTOPTB_CM_1172;bNg“‹[From.GetTitledFirstName]p„v0;;;;;;;;;;;;x
-EVTOPTC_CM_1172;`O'›/Y†Nÿ»SîOSb–…_f„ÿ;;;;;;;;;;;;x
+EVTOPTC_CM_1172;`O'›/Y†Nÿ»SîOSb–FTf„ÿ;;;;;;;;;;;;x
 TRIBAL_VASSAL_TAX_MODIFIER;èL„Sãz;;;;;;;;;;;;x

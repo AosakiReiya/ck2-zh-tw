@@ -3,7 +3,7 @@
 seize_trade_post_desc;kOÉpNT´ŒºNÿ§Y$CLAIMANT$§!ïSåNÉp†N§Y$TITLE$§!S§Y$TARGET$§!²R0b0N²R0bt1uS¼eTNqQŒTWgQ1V—VY„v´ŒºN>fNckvl„v0;;;;;;;;;;;;x
 opinion_rival_republic;ueSqQŒTW;;;;;;;;;;;;x
 EVTDESC_REP_070;“tßq`OvQ-NNP¿ŒfÙz„vFUºNP²R^>eÄ_S`O„v¶RÏeHeàVÿşs(WÖNPHe›R¼eNP´ŒºN¶RÏeÿrŠ¶RÏe>f°eu„v1o©…Tßv„vbáT01o©…Tßv²R^ÖNPPplÍzw„vTßvgÉpFUºNPrs)RĞc›OôfŒY„vnjg0;;;;;;;;;;;;x
-EVTOPTA_REP_070;ØVi` Œ©„v¢GOPÿ;;;;;;;;;;;;x
+EVTOPTA_REP_070;ØVi` Œ©„v¶R%YPÿ;;;;;;;;;;;;x
 PATRICIAN_DEMESNE_BONUS;´ŒÏe;;;;;;;;;;;;x
 CANT_BUILD_TRADEPOST_OTHERREP;NlS¼evQÖNFUmiqQŒTW;;;;;;;;;;;;x
 opinion_royal_marriage;owûY;;;;;;;;;;;;x
@@ -19,23 +19,23 @@ ASK_TO_EMBARGO_INTERACTION_DESC;‰Bl§Y[Recipient.GetBestName]§!²R^SueS
 ASK_TO_EMBARGO_INTERACTION_LONG_DESC;`OïSåNªŠgNP˜JNSueSFUmiqQŒTWNT¿ŒfyKÿåNT0RJR1VSKbÿ&NÉp`O„v¿ŒfÙzšŒ>e¿lwmwıN„vîv„v08^†OªŠ(uÑ‘1“ïSåNk^`O¦0RöN‹N06qwÿ‚Yœg(W0b-r-N©“Ìwxbÿ§Y`O§!—‰>eØN0b-ràŒ>k0;;;;;;;;;;;;x
 ASK_TO_EMBARGO_INTERACTION_0;xÇdNPueS„vFUmiqQŒTWåNSvQNTS>näN0;;;;;;;;;;;;x
 ASK_TO_EMBARGO_INTERACTION_1;“‹§Y[Recipient.GetTitledFirstName]§!NwŒT`O²R^yK0b-rÿîvjÿ§Y[ThirdPartyCharacter.GetTitledFirstName]§!ŒT§Y[ThirdPartyCharacter.TopLiege.PrimaryTitle.GetName]§!0ftÖNP §Y$GOLD$§!¤ †OÃO2Tb³Nf0§R8‰c0b-rS‰>eØN0bWeàŒ>k§!;;;;;;;;;;;;x
-ASK_TO_EMBARGO_INTERACTION_ACCEPT_SETUP;S>näNËŠBlòTrsN;;;;;;;;;;;;x
+ASK_TO_EMBARGO_INTERACTION_ACCEPT_SETUP;S>näNËŠBlòTrsN;;;;;;;;;;;;x
 ASK_TO_EMBARGO_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetTitledName]§! ŒT §Y[Actor.GetTitledName]§! òT²R^S§Y[ThirdPartyCharacter.GetDynName]§!owT|vÕRyK0b-r;;;;;;;;;;;;x
 ASK_TO_EMBARGO_INTERACTION_OFFER;[Actor.GetTitledName]ftbP $COST$¤ÿ^gıw/YS[ThirdPartyCharacter.GetTitledFirstName]ŒT[ThirdPartyCharacter.TopLiege.PrimaryTitle.GetName]NT¿ŒfyK0;;;;;;;;;;;;x
 ASK_TO_EMBARGO_INTERACTION_LETTER;ár>s„v[ThirdPartyCharacter.PrimaryTitle.GetAdjective]FU©ŒÅV˜_`O„vW0WEšúQ»S0‚Yœg`OTaS[ThirdPartyCharacter.GetTitledName]|vÕR¿ŒfyKÿbPNÅPg(W0b-r-N ReQ`O¹eÿ`OnNgrs—V $COST$¤0‚YœgbP„v0b-r1YWe†Nÿ[Actor.PrimaryTitle.GetName]SgbÔdhQè0b-ràŒ>k0;;;;;;;;;;;;x
 INTERACTION_REQUIRES_TARGET_IS_MERCHANT_REPUBLIC;§Y[ThirdPartyCharacter.PrimaryTitle.GetName]§!>fNPFUmiqQŒTW0;;;;;;;;;;;;x
 ANY_ATTACKER_STARTS;ûNUO2Je¹e;;;;;;;;;;;;x
-ANY_DEFENDER_STARTS;ûNUO2–¦p¹e;;;;;;;;;;;;x
+ANY_DEFENDER_STARTS;ûNUO2–¡V¹e;;;;;;;;;;;;x
 EVTDESC295;“tNñm`ŸqnaÿbzlšR¡ct`O„vú^p‹0bPgqQTS[Root.PrimaryTitle.GetAdjective]FUºNEš•úQ[From.PrimaryTitle.GetName]ÿ\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
 EVTDESC296;ªŠæRqŠÿb|vşs`Oİ‘S[Root.PrimaryTitle.GetName]„vS>näN˜ÉpïSr0xQPW¶Rı>f5”lQŞ–ÿb`¼gOPavQ-NN¹ebTÿ\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
 CONQUEROR_HOME_CULTURE;‡eSt6^;;;;;;;;;;;;x
-AIREASON_SUPPORT_FOR_CONQUEROR;0Vgw0„vŒ_äRİOœ–0;;;;;;;;;;;;x
+AIREASON_SUPPORT_FOR_CONQUEROR;0µVgw0„vŒ_äRİOœ–0;;;;;;;;;;;;x
 k_hansa;1o©…Tßv;;;;;;;;;;;;x
 k_hansa_adj;1o©…Tßv;;;;;;;;;;;;x
 called_into_war;4ŠøŠ0b-r;;;;;;;;;;;;x
 city_kingdom_of_german;FUmiowßv;;;;;;;;;;;;x
 city_kingdom_german;FUmiowßv;;;;;;;;;;;;x
-opinion_bribed_tp; T¿ŒfÙzLˆÄŒ;;;;;;;;;;;;x
+opinion_bribed_tp;Ép¿ŒfÙzLˆÄŒ;;;;;;;;;;;;x
 opinion_thwarted_tp_destruction;J–¢dS¿ŒfÙz„v4xŞX;;;;;;;;;;;;x
 TRADEPOST_COST_OP_EFFECT;§Y$LIEGE$§!S`O„vŒYa¦^ÿ$EFFECT$;;;;;;;;;;;;x
 EVTDESC_REP_601;Ñ‘1“cŒuAm“t[From.GetName]„v¿ŒfÙzÿNN`O‚Ád	gP¿ŒfÙz„v¶RÏe„vÜ•û|ŠScŒuá`S0Ép†NN'YÕRy^bwÈSıwftÖNPŞO˜r‚ÿ`OïSåNVrƒRNw´fÕRÿŠbrŠ¿ŒfÙz7YÉps^0W&&;;;;;;;;;;;;x

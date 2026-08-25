@@ -15,6 +15,22 @@
 > 若使用 zip 形式安裝,`.mod` 檔內為 `archive="mod/xxx.zip"`(官方格式);
 > 不要改成 `path=`(會讀不到資源變成全英文)。
 
+
+## 版本選擇(二選一)
+
+| | 版本一:台灣化完整版 | 版本二:基本繁體版 |
+|---|---|---|
+| mod 名 | `ck2_chinese_tw` | `ck2_chinese_basic` |
+| 內容 | 繁體 + 台灣本土化(T1 詞表 975 處 + LLM 語感 738 值) | 繁體 + 台灣本土化(T1 詞表 975 處)+ 8/18 修改字型,**無 LLM** |
+| 字型 | 思源宋 Heavy(35 新字形版) | 思源宋 Heavy(8/18 穩定版) |
+| 特點 | 完整語感校訂 | 乾淨樸素、不含 LLM 改寫 |
+| 對應 commit | `079f472`(現部署) | `21a34ee` |
+
+- 兩版**只能選一個**(localisation 檔案同名,同時啟用會互相覆蓋)。
+- 兩版都需搭配 `ck2_chinese_sup`(補充文本)與 `chinese_gui_fix_3`(界面修復)。
+- GitHub Release(tag `v*` 自動產出):`ck2_chinese_tw.zip` = 版本一、`ck2_chinese_basic.zip` = 版本二。
+- 安裝方式相同(見上)。
+
 ## 一鍵建置與自動檢測
 
 ```bash

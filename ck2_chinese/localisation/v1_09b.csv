@@ -1,13 +1,13 @@
 ### ParaTranz ###
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-d_venetian_navy;N·VÌ‘Nwmf‚Š–;;;;;;;;;;;;x
-d_venetian_navy_adj;N·VÌ‘Nwmf‚Š–;;;;;;;;;;;;x
-d_genoese_navy;)RäSÌ‘Nwmf‚Š–;;;;;;;;;;;;x
-d_genoese_navy_adj;)RäSÌ‘Nwmf‚Š–;;;;;;;;;;;;x
-d_hanseatic_navy;âl…„vwmf‚Š–;;;;;;;;;;;;x
-d_hanseatic_navy_adj;âl…„vwmf‚Š–;;;;;;;;;;;;x
-d_frisian_navy;Swmf‚Š–;;;;;;;;;;;;x
-d_frisian_navy_adj;Swmf‚Š–;;;;;;;;;;;;x
+d_venetian_navy;N·VáˆNwmf‚Š–;;;;;;;;;;;;x
+d_venetian_navy_adj;N·VáˆNwmf‚Š–;;;;;;;;;;;;x
+d_genoese_navy;)RäSáˆNwmf‚Š–;;;;;;;;;;;;x
+d_genoese_navy_adj;)RäSáˆNwmf‚Š–;;;;;;;;;;;;x
+d_hanseatic_navy;âl…„vwm9‚Š–;;;;;;;;;;;;x
+d_hanseatic_navy_adj;âl…„vwm9‚Š–;;;;;;;;;;;;x
+d_frisian_navy;Swm9‚Š–;;;;;;;;;;;;x
+d_frisian_navy_adj;Swm9‚Š–;;;;;;;;;;;;x
 d_finnish_band;¬‚-†'YŠ–;;;;;;;;;;;;x
 d_finnish_band_adj;¬‚-†'YŠ–;;;;;;;;;;;;x
 d_lithuanian_band;Ëzv–›R'YŠ–;;;;;;;;;;;;x
@@ -30,8 +30,8 @@ d_somerset_adj_norman;©…Ø^Xyr;;;;;;;;;;;;x
 d_somerset_adj_english;©…Ø^Xyr;;;;;;;;;;;;x
 d_bedford_adj_norman;Œ·Vy·V;;;;;;;;;;;;x
 d_bedford_adj_english;Œ·Vy·V;;;;;;;;;;;;x
-d_hereford_adj_norman;kÌ‘y·V;;;;;;;;;;;;x
-d_hereford_adj_english;kÌ‘y·V;;;;;;;;;;;;x
+d_hereford_adj_norman;káˆy·V;;;;;;;;;;;;x
+d_hereford_adj_english;káˆy·V;;;;;;;;;;;;x
 d_norfolk_adj_norman;şŠyKQ;;;;;;;;;;;;x
 d_norfolk_adj_english;şŠyKQ;;;;;;;;;;;;x
 d_gloucester_adj_norman;<hm¯eyr;;;;;;;;;;;;x
@@ -47,7 +47,7 @@ succ_ultimogeniture_desc;dk|ubÕl‚ôfÉp8^‹‰„vw•PR|ubÕløvSÿ
 tanistry;ñQ>iyrxûNÕl;;;;;;;;;;;;x
 succ_tanistry;ñQ>iyrxûNÕl;;;;;;;;;;;;x
 succ_tanistry_desc;qt»lwåNÊSÔkqt»lwNONóŒNIr)t„vSã†vïSĞcT|ubºNÿsS2QoR2QoR>f_˜JN„v‹sg„vbáT-NxúQ†O„v0SãPôfX˜a_¶RÏe„vvQÖN>eû|-NxÇdt^w•wÿ3SvQ>f²R1zw0;;;;;;;;;;;;x
-title_tanist;2Q™P;;;;;;;;;;;;x
+title_tanist;2QoR;;;;;;;;;;;;x
 TRIGGER_ULTIMOGENITURE_HEIR;|^PR|ubÕl|ubºN;;;;;;;;;;;;x
 PATRICIAN_WEALTH_PRESTIGE;´ŒºN„v°ŒÌRÿ$GOLD$;;;;;;;;;;;;x
 CANT_BUILD_TRADEPOST_HOSTILE;‚$WHO$!queSÜ•û|;;;;;;;;;;;;x
@@ -76,7 +76,7 @@ EVTOPTA_REP_502;0sôvj'Yá`uiÿ;;;;;;;;;;;;x
 EVTTOOLTIP_REP_503;`OòT®z+gïÿêSıwTrÉaÖN„vËŠBlÿ;;;;;;;;;;;;x
 EVTDESC_REP_503;<ONNbòT%R!qxÇd0bøváO(WÖNPf¸^„vqt»lNÿ¿ŒfÙzSgw–eQ4lñmkp±qKN-N0NN‚Yœg`OœŠÉp>fgŒY„vxÇdÿbgŠb›N¿ŒfÙzIKbftP¶Œ®zwÿnybr7š„v¶RÏe0\n\ndkôÿ\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_REP_503;ˆVŒY0;;;;;;;;;;;;x
-EVTTOOLTIP_REP_504;`OJTåw´ŒºNÿÖN„vËŠBlòTrsybÆQ0;;;;;;;;;;;;x
+EVTTOOLTIP_REP_504;`OJTåw´ŒºNÿÖN„vËŠBlòTrsyb–n0;;;;;;;;;;;;x
 EVTDESC_REP_504;`O„vËŠBl	g^RSt0bzlšRˆcˆN`O,glS¼e[FromFrom.GetOnlyDynastyName]¶RÏe„v¿ŒfÙz0X˜`Oıw„U R)R(uÿ\n\ndkôÿ\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_REP_504;,‹,‹ÿgS´Œ„v[From.GetTitle]ÿ;;;;;;;;;;;;x
 EVTOPTA_REP_505;bfŒv&&;;;;;;;;;;;;x
@@ -90,7 +90,7 @@ EVTOPTB_REP_510;bN¼œŠÉp0;;;;;;;;;;;;x
 EVTOPTC_REP_510;Ëk¸^n‘uÿNLˆÉp	g1Y[From.GetTitle]KN«ıN0;;;;;;;;;;;;x
 EVTOPTD_REP_510;njNïS1YÿBfNQ†O0bª‰a„v[From.GetFirstName]&&;;;;;;;;;;;;x
 EVTDESC_REP_511;ˆVŒYÿ›N¿ŒfÙz>f`O„v†NÿNN`OftbŠOOÿ¨˜4l*AmIÿNLˆNÍsÜ`'Tÿbª‰a„v[Root.GetTitle]0\n\ndkôÿ\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTA_REP_511;ŒY¢GOÿ;;;;;;;;;;;;x
+EVTOPTA_REP_511;ŒY¶R%Yÿ;;;;;;;;;;;;x
 EVTTOOLTIP_REP_512;1u¼e`OØš…„v¡rtıw›Rÿ`OïSåNfI‹f›N¿ŒfÙz(W`O„v¾|ÃV“tßqNSg`Ôkşs(WAu®i0;;;;;;;;;;;;x
 EVTDESC_REP_512;bğmÏ‘ugq`O„v‰Bl0›N¿ŒfÙz(WbšŒf„v“tßqNSgôfŒY0WgÙR¼eqQŒTW0b9e„U¡rt¹eV„v‹OI‹ïSåNªŠNİIšg	‚0ŠbƒRPIKbúQ»Sbã–åNZP0ROUÃV!q'a0\n\ndkôÿ\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_REP_512;ŞVT`O†Nÿ[From.GetFirstName]&&;;;;;;;;;;;;x
