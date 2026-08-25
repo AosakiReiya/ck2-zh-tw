@@ -27,6 +27,8 @@
 | 對應 commit | `079f472`(現部署) | `21a34ee` |
 
 - 兩版**只能選一個**(localisation 檔案同名,同時啟用會互相覆蓋)。
+- 分支模型:`main` = 版本一(台灣化完整版)/ `basic-zh` = 版本二(基本繁體版);
+  GitHub Actions 依分支產包(`main` → `ck2_chinese_tw…`、`basic-zh` → `ck2_chinese_basic…`)。
 - 兩版都需搭配 `ck2_chinese_sup`(補充文本)與 `chinese_gui_fix_3`(界面修復)。
 - GitHub Release(tag `v*` 自動產出):`ck2_chinese_tw.zip` = 版本一、`ck2_chinese_basic.zip` = 版本二。
 - 安裝方式相同(見上)。

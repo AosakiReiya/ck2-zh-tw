@@ -51,10 +51,11 @@ jobs:
           make_zip ck2_chinese ck2_chinese_tw "CK2 Traditional Chinese Localization 3.x (zh-TW)" "Language Localisation"
           make_zip ck2_chinese_sup ck2_chinese_sup "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW)" "Translation"
           make_zip chinese_gui_fix_3 chinese_gui_fix_3 "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW)" "Translation"
-          # 版本二:基本繁體版(21a34ee,LLM 前,含修改字型 + T1 詞表)
-          make_zip_git 21a34ee ck2_chinese ck2_chinese_basic "CK2 Traditional Chinese Localization 3.x (zh-TW Basic)" "Language Localisation"
-          make_zip_git 21a34ee ck2_chinese_sup ck2_chinese_sup_basic "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW Basic)" "Translation"
-          make_zip_git 21a34ee chinese_gui_fix_3 chinese_gui_fix_3_basic "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW Basic)" "Translation"
+          # 版本二:基本繁體版(basic-zh 分支,LLM 前,含修改字型 + T1 詞表)
+          # 分支語義:main → 版本一(台灣化完整) / basic-zh → 版本二(基本繁體)
+          make_zip_git basic-zh ck2_chinese ck2_chinese_basic "CK2 Traditional Chinese Localization 3.x (zh-TW Basic)" "Language Localisation"
+          make_zip_git basic-zh ck2_chinese_sup ck2_chinese_sup_basic "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW Basic)" "Translation"
+          make_zip_git basic-zh chinese_gui_fix_3 chinese_gui_fix_3_basic "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW Basic)" "Translation"
           ls -la artifacts/
 
       - name: Attach to GitHub Release (tag like v1.0.0)
