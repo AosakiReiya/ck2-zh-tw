@@ -2,6 +2,12 @@ __pycache__/
 *.pyc
 tools/state/
 tools/*.log
+tools/.taiwan_sent_progress.json
+tools/csv_changes_report.txt
+tools/report.txt
+dist/
 release/
+final_md5.txt
 *.zip
 *.mod
+*.bak
