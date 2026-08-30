@@ -34,7 +34,7 @@ jobs:
           mkdir -p artifacts
           ABS="$(cd artifacts && pwd)"
 
-          pack() { # $1=src-dir  $2=out-zip  $3=display-name  $4=tags
+          pack() {
             local src="$1" out="$2" name="$3" tags="$4" abs
             abs="$(cd "$src" && pwd)"
             (
@@ -47,20 +47,18 @@ jobs:
               zip -q "$ABS/${out}.zip" descriptor.mod
               rm descriptor.mod
             )
-            # sanity: real LFS files only (no 130B pointers), descriptor present
             if ! unzip -l "$ABS/${out}.zip" | grep -q "descriptor.mod"; then echo "::error::missing descriptor.mod in $out"; exit 1; fi
             local check sz
             for check in gfx/fonts/zh-hans-16.dds gfx/fonts/zh-hans-map.dds; do
-              unzip -l "$ABS/${out}.zip" | grep -q "$check" || continue   # 該模組無此檔屬正常
+              unzip -l "$ABS/${out}.zip" | grep -q "$check" || continue
               sz="$(unzip -p "$ABS/${out}.zip" "$check" | wc -c)"
               [ "${sz:-0}" -gt 100000 ] || { echo "::error::$out $check = $sz bytes (LFS pointer?)"; exit 1; }
             done
           }
-          write_mod() { # $1=zip-basename  $2=display-name  $3=tags
+          write_mod() {
             printf 'name="%s"\narchive="mod/%s.zip"\ntags={\n\t%s\n}\npicture="thumb.jpg"\n' "$2" "$1" "$3" > "artifacts/$1.mod"
           }
 
-          # --- Edition 1: Traditional + Taiwan localization + LLM polish (main tree) ---
           pack ck2_chinese          ck2_chinese_tw        "CK2 Traditional Chinese Localization 3.x (zh-TW)" "Language Localisation"
           pack ck2_chinese_sup      ck2_chinese_sup       "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW)" "Translation"
           pack chinese_gui_fix_3    chinese_gui_fix_3     "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW)" "Translation"
@@ -68,7 +66,6 @@ jobs:
           write_mod ck2_chinese_sup     "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW)" "Translation"
           write_mod chinese_gui_fix_3   "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW)"      "Translation"
 
-          # --- Edition 2: Traditional + basic lexis, no LLM (basic-zh worktree) ---
           pack ../wt-basic/ck2_chinese       ck2_chinese_basic        "CK2 Traditional Chinese Localization 3.x (zh-TW Basic)" "Language Localisation"
           pack ../wt-basic/ck2_chinese_sup   ck2_chinese_sup_basic    "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW Basic)" "Translation"
           pack ../wt-basic/chinese_gui_fix_3 chinese_gui_fix_3_basic  "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW Basic)" "Translation"
@@ -77,10 +74,73 @@ jobs:
           write_mod chinese_gui_fix_3_basic  "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW Basic)" "Translation"
 
           ls -la artifacts/
-          du -sh artifacts/*
 
-      - name: Publish GitHub Release (6 zips + 6 mods)
+      - name: Build full bundles + release body markdown
+        run: |
+          set -e
+          TAG="${GITHUB_REF_NAME}"
+          DL="https://github.com/${GITHUB_REPOSITORY}/releases/download"
+
+          {
+            echo '== CK2 繁體中文漢化 安裝說明 =='
+            echo ''
+            echo '0. 前置:需 CK2dll x64 補丁(d3d9.dll + plugins\plugin64.dll + plugins\plugin.ini)'
+            echo '   https://github.com/AosakiReiya/CK2dll/releases/latest'
+            echo ''
+            echo '1. 將本完整包解壓,把裡面全部 .zip 與同名 .mod 拖入:'
+            echo '   Documents\Paradox Interactive\Crusader Kings II\mod\'
+            echo ''
+            echo '2. 啟動器勾選三個 mod 全開:主模組 + Supplemental + Interface Fix(同版本尾綴)。'
+            echo '   ※「完整版」與「基本版」主模組只能擇一。'
+            echo ''
+            echo '3. 驗證:遊戲內選單/事件皆為繁體;看到英文=未勾 mod。'
+          } > artifacts/INSTALL.txt
+
+          ( cd artifacts
+            zip -q ck2_chinese_tw_full.zip    ck2_chinese_tw.zip ck2_chinese_sup.zip chinese_gui_fix_3.zip ck2_chinese_tw.mod ck2_chinese_sup.mod chinese_gui_fix_3.mod INSTALL.txt
+            zip -q ck2_chinese_basic_full.zip ck2_chinese_basic.zip ck2_chinese_sup_basic.zip chinese_gui_fix_3_basic.zip ck2_chinese_basic.mod ck2_chinese_sup_basic.mod chinese_gui_fix_3_basic.mod INSTALL.txt
+          )
+          ls -la artifacts/*full*
+
+          {
+            echo "## CK2 繁體中文漢化 ${TAG}"
+            echo ''
+            echo 'Crusader Kings II **3.3.5.1 (x64)** 繁體中文化。需先安裝 [CK2dll x64 補丁](https://github.com/AosakiReiya/CK2dll/releases/latest)。'
+            echo ''
+            echo '### 一鍵完整包(推薦)'
+            echo ''
+            echo '| 版本 | 說明 | 下載 |'
+            echo '|---|---|---|'
+            echo "| 🏆 台灣化完整版 | 繁體 + 本土詞表(網絡→網路、信息→訊息…)+ LLM 語感校訂 | **[ck2_chinese_tw_full.zip](${DL}/${TAG}/ck2_chinese_tw_full.zip)** |"
+            echo "| 基本繁體版 | 繁體 + 本土詞表(無 LLM 改寫,較保守原貌) | **[ck2_chinese_basic_full.zip](${DL}/${TAG}/ck2_chinese_basic_full.zip)** |"
+            echo ''
+            echo '### 單項元件(自行搭配;兩版主模組二選一)'
+            echo ''
+            echo '| 檔案 | 用途 | 下載 |'
+            echo '|---|---|---|'
+            echo "| ck2_chinese_tw | 主模組(完整版) | [zip](${DL}/${TAG}/ck2_chinese_tw.zip) ・ [.mod](${DL}/${TAG}/ck2_chinese_tw.mod) |"
+            echo "| ck2_chinese_basic | 主模組(基本版) | [zip](${DL}/${TAG}/ck2_chinese_basic.zip) ・ [.mod](${DL}/${TAG}/ck2_chinese_basic.mod) |"
+            echo "| ck2_chinese_sup | 補充文本(完整版) | [zip](${DL}/${TAG}/ck2_chinese_sup.zip) ・ [.mod](${DL}/${TAG}/ck2_chinese_sup.mod) |"
+            echo "| ck2_chinese_sup_basic | 補充文本(基本版) | [zip](${DL}/${TAG}/ck2_chinese_sup_basic.zip) ・ [.mod](${DL}/${TAG}/ck2_chinese_sup_basic.mod) |"
+            echo "| chinese_gui_fix_3 | 界面修復(完整版) | [zip](${DL}/${TAG}/chinese_gui_fix_3.zip) ・ [.mod](${DL}/${TAG}/chinese_gui_fix_3.mod) |"
+            echo "| chinese_gui_fix_3_basic | 界面修復(基本版) | [zip](${DL}/${TAG}/chinese_gui_fix_3_basic.zip) ・ [.mod](${DL}/${TAG}/chinese_gui_fix_3_basic.mod) |"
+            echo ''
+            echo '### 安裝(30 秒)'
+            echo ''
+            echo '1. 解壓完整包 → 全部 .zip + .mod 拖入 `Documents\Paradox Interactive\Crusader Kings II\mod\`'
+            echo '2. 啟動器勾三個 mod 全開(主模組二擇一 + 對應 sup + gui_fix)'
+            echo '3. 遊戲內選單/事件皆繁體即成功'
+            echo ''
+            echo '> 本 Release 同時提供 6 單項 zip + 6 .mod 給手動搭配者。'
+          } > .github/release-body.md
+          cat .github/release-body.md | head -20
+
+      - name: Publish GitHub Release (2 full bundles + 6 zips + 6 mods + INSTALL)
         uses: softprops/action-gh-release@v2
         with:
           generate_release_notes: true
-          files: artifacts/*
+          body_path: .github/release-body.md
+          files: |
+            artifacts/*.zip
+            artifacts/*.mod
+            artifacts/INSTALL.txt

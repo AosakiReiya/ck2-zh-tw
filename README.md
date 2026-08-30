@@ -2,6 +2,19 @@
 
 基於 52 漢化簡體的繁體中文化 — 台灣繁體、思源宋體、11 項自動檢查閘門防護。
 
+
+## 版本對照與下載(最新發布)
+
+📥 **[Releases 頁面](https://github.com/AosakiReiya/ck2-zh-tw/releases/latest)** — 每版提供「一鍵完整包 ×2」與單項元件(6 zip + 6 .mod)。
+
+| 版本 | 主模組 | 內容 | 完整包 |
+|---|---|---|---|
+| 🏆 台灣化完整版 | `ck2_chinese_tw` | 繁體 + 本土詞表(網絡→網路、信息→訊息…)+ LLM 語感校訂 | `ck2_chinese_tw_full.zip` |
+| 基本繁體版 | `ck2_chinese_basic` | 繁體 + 本土詞表,無 LLM(較保守原貌) | `ck2_chinese_basic_full.zip` |
+
+兩版皆含:主模組 + `sup`(補充文本)+ `gui_fix`(界面修復),解壓完整包 → 全部拖進 mod 目錄 → 啟動器三勾全開即可。
+**前置**:需 [CK2dll x64 補丁](https://github.com/AosakiReiya/CK2dll/releases/latest)(d3d9.dll + plugin64.dll)。
+
 ## 安裝
 
 1. 下載三包(`ck2_chinese_tw.zip` / `ck2_chinese_sup.zip` / `chinese_gui_fix_3.zip`)與同名 `.mod`
