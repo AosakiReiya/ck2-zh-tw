@@ -51,7 +51,8 @@ jobs:
             if ! unzip -l "$ABS/${out}.zip" | grep -q "descriptor.mod"; then echo "::error::missing descriptor.mod in $out"; exit 1; fi
             local check sz
             for check in gfx/fonts/zh-hans-16.dds gfx/fonts/zh-hans-map.dds; do
-              sz="$(unzip -p "$ABS/${out}.zip" "$check" 2>/dev/null | wc -c)"
+              unzip -l "$ABS/${out}.zip" | grep -q "$check" || continue   # 該模組無此檔屬正常
+              sz="$(unzip -p "$ABS/${out}.zip" "$check" | wc -c)"
               [ "${sz:-0}" -gt 100000 ] || { echo "::error::$out $check = $sz bytes (LFS pointer?)"; exit 1; }
             done
           }
