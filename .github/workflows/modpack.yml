@@ -2,7 +2,6 @@ name: modpack
 
 on:
   push:
-    branches: [main]
     tags: ['v*']
   workflow_dispatch:
 
@@ -10,64 +9,75 @@ permissions:
   contents: write
 
 jobs:
-  package:
+  release:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout (full history for git archive)
+      - name: Checkout (main = TW edition; full refs for basic-zh)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          ref: main
 
-      - name: Build both editions (official archive format: zip root = content + descriptor.mod with archive=)
-        shell: bash
+      - name: Fetch all branches + LFS setup
+        run: |
+          git fetch origin '+refs/heads/*:refs/remotes/origin/*' --no-tags
+          git lfs install --local
+
+      - name: Materialize basic-zh worktree with real LFS files
+        run: |
+          git worktree add ../wt-basic origin/basic-zh
+          git -C ../wt-basic lfs pull
+
+      - name: Build 6 mod packs (TW x3 from main tree, Basic x3 from wt-basic)
         run: |
           set -e
           mkdir -p artifacts
+          ABS="$(cd artifacts && pwd)"
 
-          make_zip() { # $1=src-dir  $2=zip-name  $3=display-name  $4=tags
-            local src="$1" out="$2" name="$3" tags="$4"
+          pack() { # $1=src-dir  $2=out-zip  $3=display-name
+            local src="$1" out="$2" name="$3" abs
+            abs="$(cd "$src" && pwd)"
             (
-              cd "$src"
+              cd "$abs"
               find . -type f ! -name '*.mod' ! -name 'descriptor.mod' ! -name '*.bak' \
                 ! -path '*/.fonts_bak/*' ! -path '*/__pycache__/*' -print0 \
                 | while IFS= read -r -d '' f; do echo "$f"; done \
-                | zip -@ "../${out}.zip"
-              printf 'name="%s"\narchive="mod/%s.zip"\ntags={\n\t%s\n}\npicture="thumb.jpg"\n' \
-                "$name" "$out" "$tags" > descriptor.mod
-              zip -g "../${out}.zip" descriptor.mod
-              rm descriptor.mod
+                | zip -q -X "$ABS/${out}.zip" -@
             )
-            mv "${out}.zip" artifacts/
+            printf 'name="%s"\n' "$name" > /dev/null
+            # sanity: every shipped font must be a real DDS (>10KB, "DDS " magic), never an LFS pointer
+            local check
+            for check in gfx/fonts/zh-hans-16.dds gfx/fonts/zh-hans-map.dds gfx/fonts/zh-hans-16.fnt; do
+              if unzip -p "artifacts/${out}.zip" "$check" 2>/dev/null | head -c 4 | grep -q "version"; then
+                echo "::error::${out}.zip contains LFS pointer at $check"; exit 1
+              fi
+            done
+            unzip -l "artifacts/${out}.zip" >/dev/null
+          }
+          write_mod() { # $1=zip-basename  $2=display-name  $3=tags
+            printf 'name="%s"\narchive="mod/%s.zip"\ntags={\n\t%s\n}\npicture="thumb.jpg"\n' "$2" "$1" "$3" > "artifacts/$1.mod"
           }
 
-          make_zip_git() { # $1=gitref  $2=src-dir  $3=zip-name  $4=display-name  $5=tags
-            local ref="$1" d="$2" out="$3" name="$4" tags="$5"
-            rm -rf /tmp/src && mkdir -p /tmp/src
-            git archive "$ref" "$d" | tar -x -C /tmp/src
-            make_zip "/tmp/src/$d" "$out" "$name" "$tags"
-          }
+          # --- Edition 1: Traditional + Taiwan localization + LLM polish (main tree) ---
+          pack ck2_chinese          ck2_chinese_tw        "CK2 Traditional Chinese Localization 3.x (zh-TW)"
+          pack ck2_chinese_sup      ck2_chinese_sup       "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW)"
+          pack chinese_gui_fix_3    chinese_gui_fix_3     "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW)"
+          write_mod ck2_chinese_tw      "CK2 Traditional Chinese Localization 3.x (zh-TW)"        "Language Localisation"
+          write_mod ck2_chinese_sup     "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW)" "Translation"
+          write_mod chinese_gui_fix_3   "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW)"      "Translation"
 
-          # 版本一:台灣化完整版(079f472 可玩內容 = 現 HEAD 工作區)
-          make_zip ck2_chinese ck2_chinese_tw "CK2 Traditional Chinese Localization 3.x (zh-TW)" "Language Localisation"
-          make_zip ck2_chinese_sup ck2_chinese_sup "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW)" "Translation"
-          make_zip chinese_gui_fix_3 chinese_gui_fix_3 "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW)" "Translation"
-          # 版本二:基本繁體版(basic-zh 分支,LLM 前,含修改字型 + T1 詞表)
-          # 分支語義:main → 版本一(台灣化完整) / basic-zh → 版本二(基本繁體)
-          make_zip_git basic-zh ck2_chinese ck2_chinese_basic "CK2 Traditional Chinese Localization 3.x (zh-TW Basic)" "Language Localisation"
-          make_zip_git basic-zh ck2_chinese_sup ck2_chinese_sup_basic "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW Basic)" "Translation"
-          make_zip_git basic-zh chinese_gui_fix_3 chinese_gui_fix_3_basic "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW Basic)" "Translation"
+          # --- Edition 2: Traditional + basic lexis, no LLM (basic-zh worktree) ---
+          pack ../wt-basic/ck2_chinese       ck2_chinese_basic        "CK2 Traditional Chinese Localization 3.x (zh-TW Basic)"
+          pack ../wt-basic/ck2_chinese_sup   ck2_chinese_sup_basic    "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW Basic)"
+          pack ../wt-basic/chinese_gui_fix_3 chinese_gui_fix_3_basic  "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW Basic)"
+          write_mod ck2_chinese_basic        "CK2 Traditional Chinese Localization 3.x (zh-TW Basic)"    "Language Localisation"
+          write_mod ck2_chinese_sup_basic    "CK2 Traditional Chinese Supplemental Localization 3.x (zh-TW Basic)" "Translation"
+          write_mod chinese_gui_fix_3_basic  "CK2 Traditional Chinese Interface Fix 3.3.X (zh-TW Basic)" "Translation"
+
           ls -la artifacts/
+          du -sh artifacts/*
 
-      - name: Attach to GitHub Release (tag like v1.0.0)
-        if: startsWith(github.ref, 'refs/tags/v')
+      - name: Publish GitHub Release (6 zips + 6 mods)
         uses: softprops/action-gh-release@v2
         with:
-          files: artifacts/*.zip
           generate_release_notes: true
-
-      - name: Upload artifacts (main branch / manual)
-        if: ${{ !startsWith(github.ref, 'refs/tags/v') }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: ck2-zh-tw-mods
-          path: artifacts/*.zip
+          files: artifacts/*
