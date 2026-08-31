@@ -53,16 +53,15 @@
 python3 tools/build_workshop.py   # 產生 workshop/(gitignored)
 ```
 
-產出兩組「整併版」mod(訂閱一個即完整,主漢化+補充文本+界面修復零衝突合併):
+**6 個獨立 item(每版 3 件套,分別上傳;各附 description 與 path= .mod)**:
 
-| Workshop item | .mod | description |
+| 件套 | 完整版 | 基本版 |
 |---|---|---|
-| CK2 Traditional Chinese (Full) | `workshop/ck2_trad_tw.mod` + `ck2_trad_tw/` | `description_ck2_trad_tw.txt` |
-| CK2 Traditional Chinese (Basic) | `workshop/ck2_trad_tw_basic.mod` + 夾 | `description_ck2_trad_tw_basic.txt` |
+| 主漢化 | `ck2_trad_tw` | `ck2_trad_tw_basic` |
+| 補充文本 | `ck2_trad_tw_sup` | `ck2_trad_tw_sup_basic` |
+| 界面修復 | `ck2_trad_tw_gui` | `ck2_trad_tw_gui_basic` |
 
-上傳步驟見 `workshop/UPLOAD-README.txt`(需 Steam 雲端同步開啟;遊戲內 Content → Manage → Publish;
-上傳後把兩版 Workshop 連結回填 description 的「【上傳後填入】」處)。
-CK2dll 補丁不走 Workshop(description 已附 GitHub 連結)。
+上傳步驟與順序見 `workshop/UPLOAD-README.txt`(先 Publish 三件 → 取得連結 → 回填各 description 的「【上傳後填入】」互貼連結)。CK2dll 補丁不走 Workshop(description 已附 GitHub 連結)。玩家須同版本三件套一併訂閱。
 
 ## 一鍵建置與自動檢測
 
