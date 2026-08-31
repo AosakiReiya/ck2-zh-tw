@@ -46,6 +46,24 @@
 - GitHub Release(tag `v*` 自動產出):`ck2_chinese_tw.zip` = 版本一、`ck2_chinese_basic.zip` = 版本二。
 - 安裝方式相同(見上)。
 
+
+## Steam Workshop(上架資產)
+
+```bash
+python3 tools/build_workshop.py   # 產生 workshop/(gitignored)
+```
+
+產出兩組「整併版」mod(訂閱一個即完整,主漢化+補充文本+界面修復零衝突合併):
+
+| Workshop item | .mod | description |
+|---|---|---|
+| CK2 Traditional Chinese (Full) | `workshop/ck2_trad_tw.mod` + `ck2_trad_tw/` | `description_ck2_trad_tw.txt` |
+| CK2 Traditional Chinese (Basic) | `workshop/ck2_trad_tw_basic.mod` + 夾 | `description_ck2_trad_tw_basic.txt` |
+
+上傳步驟見 `workshop/UPLOAD-README.txt`(需 Steam 雲端同步開啟;遊戲內 Content → Manage → Publish;
+上傳後把兩版 Workshop 連結回填 description 的「【上傳後填入】」處)。
+CK2dll 補丁不走 Workshop(description 已附 GitHub 連結)。
+
 ## 一鍵建置與自動檢測
 
 ```bash
