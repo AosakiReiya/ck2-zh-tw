@@ -44,6 +44,13 @@ def _desc(title, body, extra):
         "■ 備註",
         "· 若曾手動安裝其他漢化版本,請先移除以免衝突",
         "· 問題回報與原始檔案:https://github.com/AosakiReiya/ck2-zh-tw",
+        "",
+        "■ Credits(致謝)",
+        "· 原始簡體中文漢化:52漢化組(bruceCzK 等,完整成員名單見 mod 內 contributors 檔)",
+        "· 界面修復模組原作:chinese_gui_fix_3(作者:ツェペシュの幼き末裔)",
+        "· 顯示補丁 CK2dll:matanki-saito(原作者)與本倉庫之 3.3.5.1 x64 修改",
+        "· 繁體字型:Source Han Serif 思源宋體(SIL Open Font License)",
+        "· 繁體轉換、在地化調整與 x64 適配:本專案(AosakiReiya)",
     ]
     return "\n".join(parts) + "\n"
 
